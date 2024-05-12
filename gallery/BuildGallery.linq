@@ -37,8 +37,8 @@ async Task Main()
 	}
 	
 	var galleryData = new { cards = galleryCards };
-	
-	File.WriteAllText(Path.Combine(Path.GetDirectoryName(Util.CurrentQueryPath), "gallery.json"), JsonConvert.SerializeObject(galleryData));
+
+	File.WriteAllText(Path.Combine(Path.GetDirectoryName(Util.CurrentQueryPath), "galleryData.js"), $"const data = {JsonConvert.SerializeObject(galleryData)}; export default data;");
 }
 
 HttpClient Client = new();

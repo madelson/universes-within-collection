@@ -1,13 +1,10 @@
 import { reactive, html } from 'https://esm.sh/@arrow-js/core@1.0.0-alpha.10';
+import data from './galleryData.js';
 
 const STATE_UNIVERSES_WITHIN_FRONT = 'UWCFront',
 	STATE_UNIVERSES_WITHIN_BACK = 'UWCBack',
 	STATE_UNIVERSES_BEYOND_FRONT = 'UBFront',
 	STATE_UNIVERSES_BEYOND_BACK = 'UBBack';
-
-const dataResponse = await fetch('/gallery/gallery.json');
-if (!dataResponse.ok) { throw new Error('Failed to load gallery'); }
-const data = await dataResponse.json();
 
 const state = reactive({
 	cards: data.cards.map(c => ({ ...c, state: c.universesWithinImage ? STATE_UNIVERSES_WITHIN_FRONT : STATE_UNIVERSES_BEYOND_FRONT })),
