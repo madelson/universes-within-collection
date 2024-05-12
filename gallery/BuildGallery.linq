@@ -43,7 +43,7 @@ async Task Main()
 
 HttpClient Client = new();
 
-string MakeUrlFromCardPath(string path) => path != null ? $"./../cards/{path}" : null;
+string MakeUrlFromCardPath(string path) => path != null ? $"./cards/{path}" : null;
 
 List<UniversesWithinCard> GetUniversesWithinCards()
 {
