@@ -1,0 +1,18 @@
+{
+	"0001": {
+		"name": "Lumbering Megasloth",
+		"contributor": "madelson",
+		"mtgCardBuilderId": "130661",
+	},
+	"0002": {
+		"name": "Displaced Dinosaurs",
+		"contributor": "madelson",
+		"mtgCardBuilderId": "130669",
+	},
+	"0003": {
+		"name": "Nuka-Cola Vending Machine",
+		"nickname": "Rocco's Oven",
+		"contributor": "madelson",
+		"mtgCardBuilderId": "130674"
+	}
+}
