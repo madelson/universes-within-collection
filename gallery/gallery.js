@@ -1,13 +1,8 @@
 import { reactive, html } from 'https://esm.sh/@arrow-js/core@1.0.0-alpha.10';
 import data from './galleryData.js';
 
-const STATE_UNIVERSES_WITHIN_FRONT = 'UWCFront',
-	STATE_UNIVERSES_WITHIN_BACK = 'UWCBack',
-	STATE_UNIVERSES_BEYOND_FRONT = 'UBFront',
-	STATE_UNIVERSES_BEYOND_BACK = 'UBBack';
-
 const state = reactive({
-	cards: data.cards.map(c => ({ ...c, state: c.universesWithinImage ? STATE_UNIVERSES_WITHIN_FRONT : STATE_UNIVERSES_BEYOND_FRONT })),
+	cards: data.cards.map(c => ({ ...c, showUniversesWithin: !!c.universesWithinImage, showFront: true })),
 	searchTerm: '',
 	showAllUniversesBeyondCards: false
 });
@@ -25,8 +20,6 @@ html`<div class="container">
 	</div>
 </div>`(document.getElementById('app'));
 
-console.log(data);
-
 function cardTemplate(card) {
 	return html`<div class="card">
 		<img src="${() => getImageUrl(card)}" alt="${() => card.name}" />
@@ -35,26 +28,36 @@ function cardTemplate(card) {
 			: card.universesWithinImage ? 'Official Universes Within card'
 			: ''}
 		</div>
+		<div class="controls">
+			${() => card.universesWithinImage != null &&
+				html`<a @click="${() => card.showUniversesWithin = !card.showUniversesWithin}" 
+					title="${() => `Show Universes ${card.showUniversesWithin ? "Beyond" : "Within"}`}" href="javascript:void(0)">
+					${() => card.showUniversesWithin ? "UB" : "UW"}
+				</a>`}
+			${() => card.universesBeyondBackImage != null &&
+				html`<a @click="${() => card.showFront = !card.showFront}" title="Turn over" href="javascript:void(0)">
+					${() => card.showFront ? "BACK" : "FRONT"}
+				</a>`}
+			${() => card.mtgCardBuilderId != null &&
+				html`<a href="https://mtgcardbuilder.com/creator/?id=${card.mtgCardBuilderId}" target="_blank" title="Open in MTG Card Builder">
+					MTG Card Builder
+				</a>`}
+		</div>
 	</div>`;
 }
 
 function getImageUrl(card) {
-	switch (card.state) {
-		case STATE_UNIVERSES_WITHIN_FRONT:
-			return card.universesWithinImage;
-		case STATE_UNIVERSES_WITHIN_BACK:
-			return card.universesWithinBackImage;
-		case STATE_UNIVERSES_BEYOND_FRONT:
-			return card.universesBeyondImage;
-		case STATE_UNIVERSES_BEYOND_BACK:
-			return card.universesBeyondBackImage;
-		default:
-			throw new Error(`State = '${state}'`);
-	}
+	return card.showUniversesWithin
+		? card.showFront
+			? card.universesWithinImage
+			: card.universesWithinBackImage
+		: card.showFront
+			? card.universesBeyondImage
+			: card.universesBeyondBackImage;
 }
 
 function getCards() {
-	const showAllUniversesBeyondMatcher = c => state.showAllUniversesBeyondCards || (c.universesWithinImage != null && !c.hasOfficialUniversesWithinCard);
+	const showAllUniversesBeyondMatcher = c => state.showAllUniversesBeyondCards || (c.universesWithinImage != null && c.mtgCardBuilderId != null);
 	const searchTermMatcher = getSearchTermMatcher();
 
 	return state.cards.filter(c => showAllUniversesBeyondMatcher(c) && searchTermMatcher(c));

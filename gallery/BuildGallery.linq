@@ -32,7 +32,7 @@ async Task Main()
 			universesBeyondBackImage = card.Card.GetBackImage(),
 			universesWithinImage = card.OfficialUniversesWithinCard?.GetFrontImage() ?? MakeUrlFromCardPath(universesWithinCard?.FrontImage),
 			universesWithinBackImage = card.OfficialUniversesWithinCard?.GetBackImage() ?? MakeUrlFromCardPath(universesWithinCard?.BackImage),
-			hasOfficialUniversesWithinCard = card.OfficialUniversesWithinCard != null,
+			mtgCardBuilderId = card.OfficialUniversesWithinCard != null ? null : universesWithinCard?.Info.MtgCardBuilderId,
 		});
 	}
 	
@@ -167,14 +167,7 @@ record Card(
 	string Collector_Number)
 {
 	public string GetFrontImage() => (Image_Uris ?? Card_Faces[0].Image_Uris)["normal"];
-	public string GetBackImage()
-	{
-		try { return Card_Faces?[1].Image_Uris?["normal"]; }
-		catch
-		{
-			throw;
-		}
-	}
+	public string GetBackImage() => Card_Faces?[1].Image_Uris?["normal"];
 }
 
 record CardFace(string Name, Dictionary<string, string> Image_Uris);
@@ -182,7 +175,7 @@ record CardFace(string Name, Dictionary<string, string> Image_Uris);
 async Task<T> CacheAsync<T>(string key, Func<Task<T>> valueFactory)
 {	
 	var cacheFile = Path.Combine(Path.GetTempPath(), Util.CurrentQuery.Name, $"{key}.json");
-	if (!BustCache && File.Exists(cacheFile) && File.GetLastWriteTimeUtc(cacheFile) + TimeSpan.FromHours(2) >= DateTime.Now)
+	if (!BustCache && File.Exists(cacheFile) && File.GetLastWriteTimeUtc(cacheFile) + TimeSpan.FromHours(24) >= DateTime.Now)
 	{
 		try { return JsonConvert.DeserializeObject<T>(File.ReadAllText(cacheFile)); }
 		catch (Exception ex) { ex.Dump($"Cache file read error for {key}"); }
