@@ -25,5 +25,11 @@
 		"name": "Flesh Duplicate",
 		"contributor": "madelson",
 		"mtgCardBuilderId": "132683"
+	},
+	"0006": {
+		"name": "Silver Shroud Costume",
+		"nickname": "Silver Shroud",
+		"contributor": "madelson",
+		"mtgCardBuilderId": "133193"
 	}
 }
