@@ -8,6 +8,7 @@
 </Query>
 
 bool BustCache = false;
+TimeSpan Expiry = TimeSpan.FromDays(7);
 
 async Task Main()
 {
@@ -175,7 +176,7 @@ record CardFace(string Name, Dictionary<string, string> Image_Uris);
 async Task<T> CacheAsync<T>(string key, Func<Task<T>> valueFactory)
 {	
 	var cacheFile = Path.Combine(Path.GetTempPath(), Util.CurrentQuery.Name, $"{key}.json");
-	if (!BustCache && File.Exists(cacheFile) && File.GetLastWriteTimeUtc(cacheFile) + TimeSpan.FromHours(24) >= DateTime.Now)
+	if (!BustCache && File.Exists(cacheFile) && File.GetLastWriteTimeUtc(cacheFile) + Expiry >= DateTime.Now)
 	{
 		try { return JsonConvert.DeserializeObject<T>(File.ReadAllText(cacheFile)); }
 		catch (Exception ex) { ex.Dump($"Cache file read error for {key}"); }
