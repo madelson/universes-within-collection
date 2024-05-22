@@ -1,0 +1,25 @@
+{
+	"approved": [
+		{
+			"name": "Anthony Catillaz",
+			"url": "https://www.artstation.com/artico_luminos",
+			"notes": "Contacted via Artstation"
+		},
+		{
+			"name": "Andrea Corsini",
+			"url": "https://linktr.ee/Not_andreas",
+			"notes": "Contacted via Cara. ONLY non-commercial pieces are approved for use (ask about specific pieces). Approved pieces: An artificer's creation, A druid's staff, A warrior's quest, An Elf's Crown, A Witch's Dagger, A vampire's potion, A dwarf's figurine, Icy Passage, The Witch's Hut, Quiet Place, Naenia"
+		},
+		{
+			"name": "Sandara Tang",
+			"url": "https://sandara.artstation.com/",
+			"notes": "Contacted via Artstation"
+		}
+	],
+	"declined": [
+		{
+			"name": "Hue Teo",
+			"notes": "Contacted via Artstation",
+		}
+	]
+}

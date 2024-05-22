@@ -24,7 +24,9 @@ function cardTemplate(card) {
 	return html`<div class="card">
 		<img src="${() => getImageUrl(card)}" alt="${() => card.name}" />
 		<div class="attribution">
-		${card.contributor ? `UWC version contributed by ${card.contributor}`
+		${card.contributionInfo ? `UWC version contributed by ${card.contributionInfo.contributor}
+				<br/>
+				ART: <i><a href="${card.contributionInfo.artUrl}">${card.contributionInfo.artName}</a></i> by <a href="TODO">${card.contributionInfo.artist}</a>`
 			: card.universesWithinImage ? 'Official Universes Within card'
 			: ''}
 		</div>
@@ -38,8 +40,8 @@ function cardTemplate(card) {
 				html`<a @click="${() => card.showFront = !card.showFront}" title="Turn over" href="javascript:void(0)">
 					${() => card.showFront ? "BACK" : "FRONT"}
 				</a>`}
-			${() => card.mtgCardBuilderId != null &&
-				html`<a href="https://mtgcardbuilder.com/creator/?id=${card.mtgCardBuilderId}" target="_blank" title="Open in MTG Card Builder">
+			${() => card.contributionInfo &&
+				html`<a href="https://mtgcardbuilder.com/creator/?id=${card.contributionInfo.mtgCardBuilderId}" target="_blank" title="Open in MTG Card Builder">
 					MTG Card Builder
 				</a>`}
 		</div>
@@ -57,7 +59,7 @@ function getImageUrl(card) {
 }
 
 function getCards() {
-	const showAllUniversesBeyondMatcher = c => state.showAllUniversesBeyondCards || (c.universesWithinImage != null && c.mtgCardBuilderId != null);
+	const showAllUniversesBeyondMatcher = c => state.showAllUniversesBeyondCards || c.contributionInfo != null;
 	const searchTermMatcher = getSearchTermMatcher();
 
 	return state.cards.filter(c => showAllUniversesBeyondMatcher(c) && searchTermMatcher(c));

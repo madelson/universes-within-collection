@@ -28,7 +28,15 @@ async Task Main()
 		{
 			name = universesBeyondName,
 			nickname = universesWithinName == universesBeyondName ? null : universesWithinName,
-			contributor = card.OfficialUniversesWithinCard is null ? universesWithinCard?.Info.Contributor : null,
+			contributionInfo = card.OfficialUniversesWithinCard is null && universesWithinCard != null
+				? new
+				{
+					contributor = universesWithinCard.Info.Contributor,
+					artist = universesWithinCard.Info.Artist,
+					artName = universesWithinCard.Info.ArtName,
+					artUrl = universesWithinCard.Info.ArtUrl,
+				}
+				: null,
 			universesBeyondImage = card.Card.GetFrontImage(),
 			universesBeyondBackImage = card.Card.GetBackImage(),
 			universesWithinImage = card.OfficialUniversesWithinCard?.GetFrontImage() ?? MakeUrlFromCardPath(universesWithinCard?.FrontImage),
@@ -54,6 +62,12 @@ List<UniversesWithinCard> GetUniversesWithinCards()
 	List<UniversesWithinCard> results = [];
 	foreach (var (id, info) in cards)
 	{
+		if (info.Artist != null
+			&& (info.ArtName is null || info.ArtUrl is null))
+		{
+			throw new JsonException($"Bad art info for id {id}");			
+		}
+		
 		var nameSplit = info.Name.Split(" // ", count: 2);
 		var card = new UniversesWithinCard
 		{
@@ -66,11 +80,16 @@ List<UniversesWithinCard> GetUniversesWithinCards()
 		foreach (var path in new[] { card.FrontImage, card.BackImage }.Where(i => i != null))
 		{
 			if (!File.Exists(Path.Combine(cardsDirectory, path))) { throw new FileNotFoundException(path); }
-			var artPath = Path.ChangeExtension(path, null) + " ART.jpg";
-			if (!File.Exists(Path.Combine(cardsDirectory, artPath))) { throw new FileNotFoundException(artPath); }
 		}
 		
-		results.Add(card);
+		if (info.Artist is null)
+		{
+			$"Skipping AI card {id}".Dump();
+		}
+		else
+		{
+			results.Add(card);
+		}
 	}
 	
 	return results;
@@ -80,6 +99,9 @@ record UniversesWithinCardInfo(
 	[property: JsonProperty(Required = Required.Always)] string Name,
 	string Nickname,
 	[property: JsonProperty(Required = Required.Always)] string Contributor,
+	string Artist,
+	string ArtName,
+	Uri ArtUrl,
 	[property: JsonProperty(Required = Required.Always)] string MtgCardBuilderId
 );
 

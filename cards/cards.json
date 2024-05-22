@@ -48,5 +48,29 @@
 		"nickname": "Kaela, the Spitebonder",
 		"contributor": "madelson",
 		"mtgCardBuilderId": "134075"
+	},
+	"0010": {
+		"name": "Alpha Deathclaw",
+		"contributor": "madelson",
+		"artist": "Anthony Catillaz",
+		"artName": "Dragon Golem",
+		"artUrl": "https://www.artstation.com/artwork/WBk3wE",
+		"mtgCardBuilderId": "135723"
+	},
+	"0011": {
+		"name": "Pre-War Formalwear",
+		"contributor": "madelson",
+		"artist": "Andrea Corsini",
+		"artName": "An elf's crown",
+		"artUrl": "https://cara.app/post/b4cadf44-148d-48d3-9891-e96b258dbe9d",
+		"mtgCardBuilderId": "136199"
+	},
+	"0012": {
+		"name": "Feral Ghoul",
+		"contributor": "madelson",
+		"artist": "Sandara Tang",
+		"artName": "The Wechuge",
+		"artUrl": "https://www.artstation.com/artwork/o29WJO",
+		"mtgCardBuilderId": "136725"
 	}
 }
