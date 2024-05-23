@@ -24,9 +24,11 @@ function cardTemplate(card) {
 	return html`<div class="card">
 		<img src="${() => getImageUrl(card)}" alt="${() => card.name}" />
 		<div class="attribution">
-		${card.contributionInfo ? `UWC version contributed by ${card.contributionInfo.contributor}
-				<br/>
-				ART: <i><a href="${card.contributionInfo.artUrl}">${card.contributionInfo.artName}</a></i> by <a href="TODO">${card.contributionInfo.artist}</a>`
+		${card.contributionInfo 
+			? `UWC version contributed by ${card.contributionInfo.contributor}
+				${card.contributionInfo.artist 
+					? `<br/>ART: <i><a href="${card.contributionInfo.artUrl}">${card.contributionInfo.artName}</a></i> by <a href="TODO">${card.contributionInfo.artist}</a>`
+					: ''}`
 			: card.universesWithinImage ? 'Official Universes Within card'
 			: ''}
 		</div>

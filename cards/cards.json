@@ -72,5 +72,11 @@
 		"artName": "The Wechuge",
 		"artUrl": "https://www.artstation.com/artwork/o29WJO",
 		"mtgCardBuilderId": "136725"
+	},
+	"0013": {
+		"name": "Atomize",
+		"contributor": "madelson",
+		"artCrop": true,
+		"mtgCardBuilderId": "137593"
 	}
 }

@@ -35,13 +35,14 @@ async Task Main()
 					artist = universesWithinCard.Info.Artist,
 					artName = universesWithinCard.Info.ArtName,
 					artUrl = universesWithinCard.Info.ArtUrl,
+					artCrop = universesWithinCard.Info.ArtCrop,
+					mtgCardBuilderId = universesWithinCard.Info.MtgCardBuilderId,
 				}
 				: null,
 			universesBeyondImage = card.Card.GetFrontImage(),
 			universesBeyondBackImage = card.Card.GetBackImage(),
 			universesWithinImage = card.OfficialUniversesWithinCard?.GetFrontImage() ?? MakeUrlFromCardPath(universesWithinCard?.FrontImage),
 			universesWithinBackImage = card.OfficialUniversesWithinCard?.GetBackImage() ?? MakeUrlFromCardPath(universesWithinCard?.BackImage),
-			mtgCardBuilderId = card.OfficialUniversesWithinCard != null ? null : universesWithinCard?.Info.MtgCardBuilderId,
 		});
 	}
 	
@@ -67,6 +68,10 @@ List<UniversesWithinCard> GetUniversesWithinCards()
 		{
 			throw new JsonException($"Bad art info for id {id}");			
 		}
+		if (info.ArtCrop && info.Artist != null)
+		{
+			throw new JsonException($"Bad art info for id {id}");
+		}
 		
 		var nameSplit = info.Name.Split(" // ", count: 2);
 		var card = new UniversesWithinCard
@@ -82,7 +87,7 @@ List<UniversesWithinCard> GetUniversesWithinCards()
 			if (!File.Exists(Path.Combine(cardsDirectory, path))) { throw new FileNotFoundException(path); }
 		}
 		
-		if (info.Artist is null)
+		if (info.Artist is null && !info.ArtCrop)
 		{
 			$"Skipping AI card {id}".Dump();
 		}
@@ -102,6 +107,7 @@ record UniversesWithinCardInfo(
 	string Artist,
 	string ArtName,
 	Uri ArtUrl,
+	bool ArtCrop,
 	[property: JsonProperty(Required = Required.Always)] string MtgCardBuilderId
 );
 
