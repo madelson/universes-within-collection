@@ -16,6 +16,9 @@ async Task Main()
 	
 	var universesWithinCardsByName = GetUniversesWithinCards()
 		.ToDictionary(c => c.Info.Name);
+		
+	var artistsInfo = GetArtistsInfo();
+	var approvedArtistsByName = artistsInfo.Approved.ToDictionary(a => a.Name);
 
 	List<object> galleryCards = [];
 	foreach (var card in universesBeyondCards.OrderBy(c => c.Card.Released_At).ThenBy(c => c.Card.Collector_Number))
@@ -23,6 +26,25 @@ async Task Main()
 		var universesBeyondName = card.Card.Flavor_Name ?? card.Card.Name;
 		var universesWithinCard = universesWithinCardsByName.TryGetValue(card.Card.Name, out var c) ? c : null;
 		var universesWithinName = card.OfficialUniversesWithinCard?.Name ?? universesWithinCard?.Info.Nickname;
+		
+		ApprovedArtistInfo artist;
+		if (universesWithinCard != null)
+		{
+			if (card.OfficialUniversesWithinCard != null)
+			{
+				$"{universesWithinCard.Info.Name} has official universes within card!".Dump();
+			}
+
+			artist = universesWithinCard.Info.Artist is { } artistName
+				? approvedArtistsByName[artistName]
+				: null;
+
+			if (artist?.ApprovedWorks is { } works && !works.Contains(universesWithinCard.Info.ArtName, StringComparer.OrdinalIgnoreCase))
+			{
+				throw new InvalidOperationException($"Unapproved artwork {universesWithinCard.Info.ArtName}");
+			}
+		}
+		else { artist = null; }
 		
 		galleryCards.Add(new
 		{
@@ -33,6 +55,7 @@ async Task Main()
 				{
 					contributor = universesWithinCard.Info.Contributor,
 					artist = universesWithinCard.Info.Artist,
+					artistUrl = artist?.Url,
 					artName = universesWithinCard.Info.ArtName,
 					artUrl = universesWithinCard.Info.ArtUrl,
 					artCrop = universesWithinCard.Info.ArtCrop,
@@ -51,14 +74,15 @@ async Task Main()
 	File.WriteAllText(Path.Combine(Path.GetDirectoryName(Util.CurrentQueryPath), "galleryData.js"), $"const data = {JsonConvert.SerializeObject(galleryData)}; export default data;");
 }
 
+static readonly string CardsDirectory = Path.Combine(Path.GetDirectoryName(Util.CurrentQueryPath), "..", "cards");
+
 HttpClient Client = new();
 
 string MakeUrlFromCardPath(string path) => path != null ? $"./cards/{path}" : null;
 
 List<UniversesWithinCard> GetUniversesWithinCards()
 {
-	var cardsDirectory = Path.Combine(Path.GetDirectoryName(Util.CurrentQueryPath), "..", "cards");
-	var cards = JsonConvert.DeserializeObject<Dictionary<string, UniversesWithinCardInfo>>(File.ReadAllText(Path.Combine(cardsDirectory, "cards.json")));
+	var cards = JsonConvert.DeserializeObject<Dictionary<string, UniversesWithinCardInfo>>(File.ReadAllText(Path.Combine(CardsDirectory, "cards.json")));
 		
 	List<UniversesWithinCard> results = [];
 	foreach (var (id, info) in cards)
@@ -84,7 +108,7 @@ List<UniversesWithinCard> GetUniversesWithinCards()
 		
 		foreach (var path in new[] { card.FrontImage, card.BackImage }.Where(i => i != null))
 		{
-			if (!File.Exists(Path.Combine(cardsDirectory, path))) { throw new FileNotFoundException(path); }
+			if (!File.Exists(Path.Combine(CardsDirectory, path))) { throw new FileNotFoundException(path); }
 		}
 		
 		if (info.Artist is null && !info.ArtCrop)
@@ -118,6 +142,23 @@ class UniversesWithinCard
 	public required string FrontImage { get; set; }
 	public string BackImage { get; set; }
 }
+
+ArtistsInfo GetArtistsInfo() => JsonConvert.DeserializeObject<ArtistsInfo>(File.ReadAllText(Path.Combine(CardsDirectory, "artists.json")));
+
+record ArtistInfo(
+	[property: JsonProperty(Required = Required.Always)] string Name,
+	[property: JsonProperty(Required = Required.Always)] string Contact);
+	
+record ApprovedArtistInfo(
+	string Name,
+	string Contact,
+	[property: JsonProperty(Required = Required.Always)] Uri Url,
+	string Notes,
+	string[] ApprovedWorks): ArtistInfo(Name, Contact);
+	
+record ArtistsInfo(
+	[property: JsonProperty(Required = Required.Always)] ApprovedArtistInfo[] Approved,
+	[property: JsonProperty(Required = Required.Always)] ArtistInfo[] Declined);
 
 async Task<List<CardInfo>> GetUniversesBeyondCardsAsync()
 {
