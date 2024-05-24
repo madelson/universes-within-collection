@@ -87,5 +87,14 @@
 		"artName": "An artificer's creation",
 		"artUrl": "https://cara.app/post/01746bcd-a024-42c6-a7d3-9b7b0d62d926",
 		"mtgCardBuilderId": "137619"
+	},
+	"0015": {
+		"name": "Vashta Nerada",
+		"nickname": "Umbral Reaper",
+		"contributor": "madelson",
+		"artist": "Anthony Catillaz",
+		"artName": "Ancient Shadow",
+		"artUrl": "https://www.artstation.com/artwork/04bkDy",
+		"mtgCardBuilderId": "137631"
 	}
 }
