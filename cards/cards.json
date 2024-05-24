@@ -78,5 +78,14 @@
 		"contributor": "madelson",
 		"artCrop": true,
 		"mtgCardBuilderId": "137593"
+	},
+	"0014": {
+		"name": "Sonic Screwdriver",
+		"nickname": "Voltaic Sphere",
+		"contributor": "madelson",
+		"artist": "Andrea Corsini",
+		"artName": "An artificer's creation",
+		"artUrl": "https://cara.app/post/01746bcd-a024-42c6-a7d3-9b7b0d62d926",
+		"mtgCardBuilderId": "137619"
 	}
 }
