@@ -8,7 +8,7 @@ The "Universes Within Collection" (UWC) aspires to be a community-created set of
 
 While Magic's Universes Beyond cards have many interesting mechanical designs, for me many of the IPs don't mesh well aesthetically with other Magic cards. Wizards has created the concept of "Universes Within" variants in part to address this issue, but they have also made it clear that there is no plan for Universes Within printings to keep up with the ever-growing list of new Universes Beyond cards.
 
-The Universes Within Collection is an attempt to cover some of the ground that Wizards won't by pooling community-created Universes Within variants and making them easy to access.
+The Universes Within Collection is an attempt to cover some of the ground that Wizards won't by building out a set of community-created Universes Within variants and making them easy to access.
 
 UWC cards are designed with a few goals in mind:
 1. _100% rules compatibility with the Universes Beyond originals._ These are not custom cards.
