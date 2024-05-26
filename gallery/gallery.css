@@ -3,6 +3,50 @@ body {
 	margin: 0;
 	padding: 0;
 }
+
+header {
+    background-color: #f8f9fa;
+    padding: 20px;
+    border-bottom: 2px solid #ccc;
+}
+
+.header-top {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-bottom: 10px;
+}
+
+.header-top h1 {
+    margin: 0;
+    font-size: 24px;
+}
+
+.header-top .project-link {
+    font-size: 16px;
+    text-decoration: none;
+    color: #007bff;
+}
+
+.header-bottom {
+    display: flex;
+    align-items: center;
+}
+
+.header-bottom input[type="text"] {
+    padding: 5px;
+    font-size: 16px;
+    margin-right: 10px;
+}
+
+.header-bottom label {
+    font-size: 16px;
+}
+
+.header-bottom input[type="checkbox"] {
+    margin-right: 5px;
+}
+
 .container {
 	max-width: 1200px;
 	margin: 20px auto;
@@ -11,6 +55,7 @@ body {
 .search-box {
 	margin-bottom: 20px;
 }
+
 .card-grid {
 	display: grid;
 	grid-template-columns: repeat(auto-fill, minmax(200px, 1fr));

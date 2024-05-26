@@ -7,19 +7,31 @@ const state = reactive({
 	showAllUniversesBeyondCards: false
 });
 
-html`<div class="container">
-	<div class="search-box">
-		<input type="text" @input="${e => state.searchTerm = e.target.value}" placeholder="Search..." />
-		<div class="show-universes-beyond-container">
-			<input type="checkbox" id="show-universes-beyond-checkbox" @change="${e => state.showAllUniversesBeyondCards = !!e.target.checked}" />
-			<label for="show-universes-beyond-checkbox">Show all Universes Beyond cards</label>
-		</div>
+html`
+<header>
+	<div class="header-top">
+		<h1>Universes Within Collection - Card Gallery</h1>
+		<a href="https://github.com/madelson/universes-within-collection" target="_blank" class="project-link">Project Site</a>
 	</div>
+	<div class="header-bottom">
+		<input type="text" 
+			@input="${e => state.searchTerm = e.target.value}"
+			placeholder="Search...">
+		<label>
+			<input type="checkbox" 
+				id="show-universes-beyond-checkbox"
+				@change="${e => state.showAllUniversesBeyondCards = !!e.target.checked}"> Show all Universes Beyond cards
+		</label>
+	</div>
+</header>
+<div class="container">
 	<div class="card-grid">
 		${() => getCards().map(cardTemplate)}
 	</div>
-	<div><br/><center><small><em>UWC card images are free to use as proxies. Usage of non-Magic art on UWC cards is done with permission from the Artist.</em></small></center></div>
-</div>`(document.getElementById('app'));
+	<div>
+		<br/><center><small><em>UWC card images are free to use as proxies. Usage of non-Magic art on UWC cards is done with permission from the Artist.</em></small></center>
+	</div>
+</div>`(document.body);
 
 function cardTemplate(card) {
 	return html`<div class="card">
