@@ -27,13 +27,13 @@ There are a ton of cards to cover so I have a strong bias towards accepting cont
 
 When it comes to creating UWC variants of cards, my goal is to make as few changes as possible. If a card's name fits just fine with traditional Magic, I'd like to keep it to minimize confusion. The same goes for art which sometimes is fine either as-is or with cropping.
 
-In your issue, let me know the name of the card you'd like to add along with any parts of it that should be changed (new name and/or new art). I've found that the most time-consuming aspects of this is linking up Universes Beyond cards with fitting new art and/or names, so this is a huge help. See the [artists page](TODO) for art options.
+In your issue, let me know the name of the card you'd like to add along with any parts of it that should be changed (new name and/or new art). I've found that the most time-consuming aspects of this is linking up Universes Beyond cards with fitting new art and/or names, so this is a huge help. See the [artists list](https://github.com/madelson/universes-within-collection/blob/main/docs/artists.md) for art options.
 
 If you'd like to go the full mile, you can take the extra step of using [MTGCardBuilder](https://mtgcardbuilder.com/) to assemble the card.
 
 ### Sourcing art
 
-My goal for this project is to use _high-quality human art with permission from the artist_ (public domain art is great too!). See the [artists page](TODO) for who has been contacted so far.
+My goal for this project is to use _high-quality human art with permission from the artist_ (public domain art is great too!). See the [artists list](https://github.com/madelson/universes-within-collection/blob/main/docs/artists.md) for who has been contacted so far.
 
 You can help by identifying artists on platforms like [ArtStation](https://www.artstation.com/) or [Cara](https://cara.app/) whose art could be useful to the project, and linking their info in an issue.
 
