@@ -1,6 +1,6 @@
 # Welcome to the Universes Within Collection
 
-The "Universes Within Collection" (UWC) aspires to be a community-created set of Universes Within alternatives (proxies) to be used in place of Universes Beyond cards.
+The "Universes Within Collection" (UWC) is a personal, non-commercial project that aspires to be a community-created set of Universes Within alternatives (proxies) for Universes Beyond Magic, the Gathering cards.
 
 **Check out [the card gallery](https://madelson.github.io/universes-within-collection/).**
 
@@ -41,7 +41,7 @@ If you have other ideas about how or where to acquire art for the project, I'd l
 
 ### Something else
 
-Is there a typo in a posted card? Want to make the gallery look nicer? Just create an issue with your idea.
+Is there a typo in a posted card? Want to spruce up the gallery? Just create an issue with your idea.
 
 ## FAQ
 
