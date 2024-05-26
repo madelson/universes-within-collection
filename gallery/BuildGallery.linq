@@ -76,6 +76,52 @@ async Task Main()
 	var galleryData = new { cards = galleryCards };
 
 	File.WriteAllText(Path.Combine(Path.GetDirectoryName(Util.CurrentQueryPath)!, "galleryData.js"), $"const data = {JsonConvert.SerializeObject(galleryData, Newtonsoft.Json.Formatting.Indented)}; export default data;");
+	
+	StringBuilder artistsPage = new();
+	artistsPage.AppendLine("# Approved artists").AppendLine();
+	
+	artistsPage.AppendLine("These artists have granted permission for their works to be used to make cards for this project. Thanks!");
+	
+	artistsPage.AppendLine("| Name/Handle | Notes |").AppendLine("| - | - |");
+	
+	var universesWithinCardsByArt = universesWithinCardsByName.Values
+		.Where(c => c.Info.Artist != null)
+		.ToDictionary(c => new { Artist = c.Info.Artist!, Work = c.Info.ArtName! });
+	foreach (var artist in artistsInfo.Approved.OrderBy(a => a.ApprovedWorks != null).ThenBy(a => a.Name))
+	{
+		artistsPage.Append($"| [{artist.Name}]({artist.Url}) | ");
+		if (artist.ApprovedWorks != null)
+		{
+			artistsPage.Append("So far, only the following works have been approved for use:");
+			foreach (var work in artist.ApprovedWorks
+				.Select(w => new { name = w, card = universesWithinCardsByArt.TryGetValue(new { Artist = artist.Name, Work = w }, out var card) ? card : null })
+				.OrderBy(w => w.card != null)
+				.ThenBy(w => w.name, StringComparer.OrdinalIgnoreCase))
+			{
+				artistsPage.Append("<br/>");
+				if (work.card != null)
+				{
+					artistsPage.Append($"- ~{work.name}~ (used on {work.card.Info.Name})");
+				}
+				else
+				{
+					artistsPage.Append($"- {work.name}");
+				}
+			}
+		}
+		artistsPage.AppendLine("|");
+	}
+	
+	artistsPage.AppendLine("# Non-approved artists").AppendLine();
+	
+	artistsPage.AppendLine("After being asked, these artists have asked _not_ to have their work used for this project.");
+	
+	foreach (var artist in artistsInfo.Declined)
+	{
+		artistsPage.AppendLine($"- {artist.Name}"); 
+	}
+	
+	File.WriteAllText(Path.Combine(Path.GetDirectoryName(Util.CurrentQueryPath)!, "..", "docs", "artists.md"), artistsPage.ToString());	
 }
 
 [JsonObject(NamingStrategyType = typeof(CamelCaseNamingStrategy))]
