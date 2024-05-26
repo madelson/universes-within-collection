@@ -2001,7 +2001,13 @@ const data = {
     },
     {
       "name": "Hithlain Rope",
-      "universesBeyondImage": "https://cards.scryfall.io/normal/front/b/b/bbe6e907-eafb-402c-8b8f-4c01fb168a0b.jpg?1686964419"
+      "nickname": "Skyfisher's Rope",
+      "contributionInfo": {
+        "contributor": "cgregory",
+        "mtgCardBuilderId": "138693"
+      },
+      "universesBeyondImage": "https://cards.scryfall.io/normal/front/b/b/bbe6e907-eafb-402c-8b8f-4c01fb168a0b.jpg?1686964419",
+      "universesWithinImage": "./cards/Hithlain Rope.png"
     },
     {
       "name": "Willow-Wind",
@@ -2550,7 +2556,6 @@ const data = {
         "artistUrl": "https://linktr.ee/Not_andreas",
         "artName": "An artificer's creation",
         "artUrl": "https://cara.app/post/01746bcd-a024-42c6-a7d3-9b7b0d62d926",
-        "artCrop": false,
         "mtgCardBuilderId": "137619"
       },
       "universesBeyondImage": "https://cards.scryfall.io/normal/front/f/1/f131027a-9776-41fa-8a5f-d9ef80e0dc2e.jpg?1697584615",
@@ -3021,7 +3026,6 @@ const data = {
         "artistUrl": "https://www.artstation.com/artico_luminos",
         "artName": "Ancient Shadow",
         "artUrl": "https://www.artstation.com/artwork/04bkDy",
-        "artCrop": false,
         "mtgCardBuilderId": "137631"
       },
       "universesBeyondImage": "https://cards.scryfall.io/normal/front/8/b/8bb2765f-4016-4e41-9db4-5ad463faceab.jpg?1696636614",
@@ -3725,7 +3729,6 @@ const data = {
         "artistUrl": "https://linktr.ee/Not_andreas",
         "artName": "An elf's crown",
         "artUrl": "https://cara.app/post/b4cadf44-148d-48d3-9891-e96b258dbe9d",
-        "artCrop": false,
         "mtgCardBuilderId": "136199"
       },
       "universesBeyondImage": "https://cards.scryfall.io/normal/front/1/9/19018f23-b63b-45af-8419-8959f41472d4.jpg?1708741823",
@@ -3839,7 +3842,6 @@ const data = {
         "artistUrl": "https://sandara.artstation.com/",
         "artName": "The Wechuge",
         "artUrl": "https://www.artstation.com/artwork/o29WJO",
-        "artCrop": false,
         "mtgCardBuilderId": "136725"
       },
       "universesBeyondImage": "https://cards.scryfall.io/normal/front/f/b/fbdef99d-6ce9-495d-a55b-e6ba799d3da7.jpg?1708742025",
@@ -4010,7 +4012,6 @@ const data = {
         "artistUrl": "https://www.artstation.com/artico_luminos",
         "artName": "Jungle mutant",
         "artUrl": "https://www.artstation.com/artwork/LRGgG5",
-        "artCrop": false,
         "mtgCardBuilderId": "137856"
       },
       "universesBeyondImage": "https://cards.scryfall.io/normal/front/0/5/052dc548-d356-43fe-9484-665db7e1f505.jpg?1708742311",
@@ -4080,7 +4081,6 @@ const data = {
         "artistUrl": "https://www.artstation.com/artico_luminos",
         "artName": "Dragon Golem",
         "artUrl": "https://www.artstation.com/artwork/WBk3wE",
-        "artCrop": false,
         "mtgCardBuilderId": "135723"
       },
       "universesBeyondImage": "https://cards.scryfall.io/normal/front/c/a/ca4c8b04-66af-4cb3-8003-9088d8344b20.jpg?1708742405",
@@ -4098,7 +4098,6 @@ const data = {
       "name": "Atomize",
       "contributionInfo": {
         "contributor": "madelson",
-        "artCrop": true,
         "mtgCardBuilderId": "137593"
       },
       "universesBeyondImage": "https://cards.scryfall.io/normal/front/5/9/592cbafc-ab4e-461f-b64f-0bf9d83aaff3.jpg?1708742433",

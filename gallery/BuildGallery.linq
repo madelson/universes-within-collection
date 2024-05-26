@@ -62,7 +62,6 @@ async Task Main()
 					ArtistUrl = artist?.Url,
 					ArtName = universesWithinCard.Info.ArtName,
 					ArtUrl = universesWithinCard.Info.ArtUrl,
-					ArtCrop = universesWithinCard.Info.ArtCrop,
 					MtgCardBuilderId = universesWithinCard.Info.MtgCardBuilderId,
 				}
 				: null,
@@ -153,7 +152,6 @@ class GalleryCardContributionInfo
 	public required string? ArtName { get; set; }
 	[JsonProperty(NullValueHandling = NullValueHandling.Ignore)]
 	public required Uri? ArtUrl { get; set; }
-	public required bool ArtCrop { get; set; }
 	public required string MtgCardBuilderId { get; set; }
 }
 
@@ -193,15 +191,8 @@ List<UniversesWithinCard> GetUniversesWithinCards()
 		{
 			if (!File.Exists(Path.Combine(CardsDirectory, path))) { throw new FileNotFoundException(path); }
 		}
-		
-		if (info.Artist is null && !info.ArtCrop)
-		{
-			$"Skipping AI card {id}".Dump();
-		}
-		else
-		{
-			results.Add(card);
-		}
+
+		results.Add(card);
 	}
 	
 	return results;
