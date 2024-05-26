@@ -4003,7 +4003,18 @@ const data = {
     },
     {
       "name": "Lily Bowen, Raging Grandma",
-      "universesBeyondImage": "https://cards.scryfall.io/normal/front/0/5/052dc548-d356-43fe-9484-665db7e1f505.jpg?1708742311"
+      "nickname": "Jorak, Jungle's Wrath",
+      "contributionInfo": {
+        "contributor": "madelson",
+        "artist": "Anthony Catillaz",
+        "artistUrl": "https://www.artstation.com/artico_luminos",
+        "artName": "Jungle mutant",
+        "artUrl": "https://www.artstation.com/artwork/LRGgG5",
+        "artCrop": false,
+        "mtgCardBuilderId": "137856"
+      },
+      "universesBeyondImage": "https://cards.scryfall.io/normal/front/0/5/052dc548-d356-43fe-9484-665db7e1f505.jpg?1708742311",
+      "universesWithinImage": "./cards/Lily Bowen, Raging Grandma.png"
     },
     {
       "name": "Preston Garvey, Minuteman",

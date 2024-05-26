@@ -96,5 +96,14 @@
 		"artName": "Ancient Shadow",
 		"artUrl": "https://www.artstation.com/artwork/04bkDy",
 		"mtgCardBuilderId": "137631"
+	},
+	"0016": {
+		"name": "Lily Bowen, Raging Grandma",
+		"nickname": "Jorak, Jungle's Wrath",
+		"contributor": "madelson",
+		"artist": "Anthony Catillaz",
+		"artName": "Jungle mutant",
+		"artUrl": "https://www.artstation.com/artwork/LRGgG5",
+		"mtgCardBuilderId": "137856"
 	}
 }
