@@ -1,11 +1,15 @@
 <Query Kind="Program">
+  <NuGetReference Version="12.13.1">Azure.Storage.Blobs</NuGetReference>
   <NuGetReference Version="13.0.3">Newtonsoft.Json</NuGetReference>
   <Namespace>Newtonsoft.Json</Namespace>
   <Namespace>Newtonsoft.Json.Linq</Namespace>
+  <Namespace>Newtonsoft.Json.Serialization</Namespace>
   <Namespace>System.Net</Namespace>
   <Namespace>System.Net.Http</Namespace>
   <Namespace>System.Threading.Tasks</Namespace>
 </Query>
+
+#nullable enable
 
 bool BustCache = false;
 TimeSpan Expiry = TimeSpan.FromDays(7);
@@ -20,14 +24,14 @@ async Task Main()
 	var artistsInfo = GetArtistsInfo();
 	var approvedArtistsByName = artistsInfo.Approved.ToDictionary(a => a.Name);
 
-	List<object> galleryCards = [];
+	List<GalleryCard> galleryCards = [];
 	foreach (var card in universesBeyondCards.OrderBy(c => c.Card.Released_At).ThenBy(c => c.Card.Collector_Number))
 	{
 		var universesBeyondName = card.Card.Flavor_Name ?? card.Card.Name;
 		var universesWithinCard = universesWithinCardsByName.TryGetValue(card.Card.Name, out var c) ? c : null;
 		var universesWithinName = card.OfficialUniversesWithinCard?.Name ?? universesWithinCard?.Info.Nickname;
 		
-		ApprovedArtistInfo artist;
+		ApprovedArtistInfo? artist;
 		if (universesWithinCard != null)
 		{
 			if (card.OfficialUniversesWithinCard != null)
@@ -46,43 +50,76 @@ async Task Main()
 		}
 		else { artist = null; }
 		
-		galleryCards.Add(new
+		galleryCards.Add(new()
 		{
-			name = universesBeyondName,
-			nickname = universesWithinName == universesBeyondName ? null : universesWithinName,
-			contributionInfo = card.OfficialUniversesWithinCard is null && universesWithinCard != null
-				? new
+			Name = universesBeyondName,
+			Nickname = universesWithinName == universesBeyondName ? null : universesWithinName,
+			ContributionInfo = card.OfficialUniversesWithinCard is null && universesWithinCard != null
+				? new()
 				{
-					contributor = universesWithinCard.Info.Contributor,
-					artist = universesWithinCard.Info.Artist,
-					artistUrl = artist?.Url,
-					artName = universesWithinCard.Info.ArtName,
-					artUrl = universesWithinCard.Info.ArtUrl,
-					artCrop = universesWithinCard.Info.ArtCrop,
-					mtgCardBuilderId = universesWithinCard.Info.MtgCardBuilderId,
+					Contributor = universesWithinCard.Info.Contributor,
+					Artist = universesWithinCard.Info.Artist,
+					ArtistUrl = artist?.Url,
+					ArtName = universesWithinCard.Info.ArtName,
+					ArtUrl = universesWithinCard.Info.ArtUrl,
+					ArtCrop = universesWithinCard.Info.ArtCrop,
+					MtgCardBuilderId = universesWithinCard.Info.MtgCardBuilderId,
 				}
 				: null,
-			universesBeyondImage = card.Card.GetFrontImage(),
-			universesBeyondBackImage = card.Card.GetBackImage(),
-			universesWithinImage = card.OfficialUniversesWithinCard?.GetFrontImage() ?? MakeUrlFromCardPath(universesWithinCard?.FrontImage),
-			universesWithinBackImage = card.OfficialUniversesWithinCard?.GetBackImage() ?? MakeUrlFromCardPath(universesWithinCard?.BackImage),
+			UniversesBeyondImage = card.Card.GetFrontImage(),
+			UniversesBeyondBackImage = card.Card.GetBackImage(),
+			UniversesWithinImage = card.OfficialUniversesWithinCard?.GetFrontImage() ?? MakeUrlFromCardPath(universesWithinCard?.FrontImage),
+			UniversesWithinBackImage = card.OfficialUniversesWithinCard?.GetBackImage() ?? MakeUrlFromCardPath(universesWithinCard?.BackImage),
 		});
 	}
 	
 	var galleryData = new { cards = galleryCards };
 
-	File.WriteAllText(Path.Combine(Path.GetDirectoryName(Util.CurrentQueryPath), "galleryData.js"), $"const data = {JsonConvert.SerializeObject(galleryData)}; export default data;");
+	File.WriteAllText(Path.Combine(Path.GetDirectoryName(Util.CurrentQueryPath)!, "galleryData.js"), $"const data = {JsonConvert.SerializeObject(galleryData, Newtonsoft.Json.Formatting.Indented)}; export default data;");
 }
 
-static readonly string CardsDirectory = Path.Combine(Path.GetDirectoryName(Util.CurrentQueryPath), "..", "cards");
+[JsonObject(NamingStrategyType = typeof(CamelCaseNamingStrategy))]
+class GalleryCard
+{
+	public required string Name { get; set; }
+	[JsonProperty(NullValueHandling = NullValueHandling.Ignore)]
+	public required string? Nickname { get; set; }
+	[JsonProperty(NullValueHandling = NullValueHandling.Ignore)]
+	public required GalleryCardContributionInfo? ContributionInfo { get; set; }
+	public required string UniversesBeyondImage { get; set; }
+	[JsonProperty(NullValueHandling = NullValueHandling.Ignore)]
+	public required string? UniversesBeyondBackImage { get; set; }
+	[JsonProperty(NullValueHandling = NullValueHandling.Ignore)]
+	public required string? UniversesWithinImage { get; set; }
+	[JsonProperty(NullValueHandling = NullValueHandling.Ignore)]
+	public required string? UniversesWithinBackImage { get; set; }
+}
+
+[JsonObject(NamingStrategyType = typeof(CamelCaseNamingStrategy))]
+class GalleryCardContributionInfo
+{
+	public required string Contributor { get; set; }
+	[JsonProperty(NullValueHandling = NullValueHandling.Ignore)]
+	public required string? Artist { get; set; }
+	[JsonProperty(NullValueHandling = NullValueHandling.Ignore)]
+	public required Uri? ArtistUrl { get; set; }
+	[JsonProperty(NullValueHandling = NullValueHandling.Ignore)]
+	public required string? ArtName { get; set; }
+	[JsonProperty(NullValueHandling = NullValueHandling.Ignore)]
+	public required Uri? ArtUrl { get; set; }
+	public required bool ArtCrop { get; set; }
+	public required string MtgCardBuilderId { get; set; }
+}
+
+static readonly string CardsDirectory = Path.Combine(Path.GetDirectoryName(Util.CurrentQueryPath)!, "..", "cards");
 
 HttpClient Client = new();
 
-string MakeUrlFromCardPath(string path) => path != null ? $"./cards/{path}" : null;
+string? MakeUrlFromCardPath(string? path) => path != null ? $"./cards/{path}" : null;
 
 List<UniversesWithinCard> GetUniversesWithinCards()
 {
-	var cards = JsonConvert.DeserializeObject<Dictionary<string, UniversesWithinCardInfo>>(File.ReadAllText(Path.Combine(CardsDirectory, "cards.json")));
+	var cards = JsonConvert.DeserializeObject<Dictionary<string, UniversesWithinCardInfo>>(File.ReadAllText(Path.Combine(CardsDirectory, "cards.json")))!;
 		
 	List<UniversesWithinCard> results = [];
 	foreach (var (id, info) in cards)
@@ -126,11 +163,11 @@ List<UniversesWithinCard> GetUniversesWithinCards()
 
 record UniversesWithinCardInfo(
 	[property: JsonProperty(Required = Required.Always)] string Name,
-	string Nickname,
+	string? Nickname,
 	[property: JsonProperty(Required = Required.Always)] string Contributor,
-	string Artist,
-	string ArtName,
-	Uri ArtUrl,
+	string? Artist,
+	string? ArtName,
+	Uri? ArtUrl,
 	bool ArtCrop,
 	[property: JsonProperty(Required = Required.Always)] string MtgCardBuilderId
 );
@@ -140,10 +177,10 @@ class UniversesWithinCard
 	public required string Id { get; set; }
 	public required UniversesWithinCardInfo Info { get; set; }
 	public required string FrontImage { get; set; }
-	public string BackImage { get; set; }
+	public string? BackImage { get; set; }
 }
 
-ArtistsInfo GetArtistsInfo() => JsonConvert.DeserializeObject<ArtistsInfo>(File.ReadAllText(Path.Combine(CardsDirectory, "artists.json")));
+ArtistsInfo GetArtistsInfo() => JsonConvert.DeserializeObject<ArtistsInfo>(File.ReadAllText(Path.Combine(CardsDirectory, "artists.json")))!;
 
 record ArtistInfo(
 	[property: JsonProperty(Required = Required.Always)] string Name,
@@ -169,7 +206,7 @@ async Task<List<CardInfo>> GetUniversesBeyondCardsAsync()
 	var universesBeyondSets = universesBeyondCards.Select(c => c.Set).ToHashSet();
 	
 	return universesBeyondCards.GroupBy(c => c.Oracle_Id)
-		.Select(g => g.MinBy(c => c.Released_At))
+		.Select(g => g.MinBy(c => c.Released_At)!)
 		.Select(c => new CardInfo 
 		{
 			Card = c,
@@ -181,8 +218,8 @@ async Task<List<CardInfo>> GetUniversesBeyondCardsAsync()
 
 class CardInfo
 {
-	public Card Card { get; set; }
-	public Card OfficialUniversesWithinCard { get; set; }
+	public required Card Card { get; set; }
+	public required Card? OfficialUniversesWithinCard { get; set; }
 }
 
 async Task<List<Card>> GetAllCardsAsync()
@@ -192,11 +229,11 @@ async Task<List<Card>> GetAllCardsAsync()
 	using var bulkDataMetaResponse = await Client.GetAsync("https://api.scryfall.com/bulk-data");
 	bulkDataMetaResponse.EnsureSuccessStatusCode();
 	var bulkDataJson = JObject.Parse(await bulkDataMetaResponse.Content.ReadAsStringAsync());
-	var downloadUri = ((JArray)bulkDataJson["data"]).Single(o => o["name"].ToObject<string>() == "Default Cards")["download_uri"].ToObject<string>();
+	var downloadUri = ((JArray)bulkDataJson["data"]!).Single(o => o["name"]!.ToObject<string>() == "Default Cards")["download_uri"]!.ToObject<string>();
 	
 	using var bulkDataResponse = await Client.GetAsync(downloadUri);
 	bulkDataResponse.EnsureSuccessStatusCode();
-	var bulkDataCards = JsonConvert.DeserializeObject<List<Card>>(await bulkDataResponse.Content.ReadAsStringAsync());
+	var bulkDataCards = JsonConvert.DeserializeObject<List<Card>>(await bulkDataResponse.Content.ReadAsStringAsync())!;
 	return bulkDataCards;
 }
 
@@ -211,7 +248,7 @@ async Task<List<Card>> SearchAsync(string query)
 		using var response = await Client.GetAsync(url);
 		response.EnsureSuccessStatusCode();
 		var json = await response.Content.ReadAsStringAsync();
-		var deserialized = JsonConvert.DeserializeObject<SearchResponse>(json);
+		var deserialized = JsonConvert.DeserializeObject<SearchResponse>(json)!;
 		cards.AddRange(deserialized.Data);
 		url = deserialized.Next_Page;
 	}
@@ -237,7 +274,7 @@ record Card(
 	string Collector_Number)
 {
 	public string GetFrontImage() => (Image_Uris ?? Card_Faces[0].Image_Uris)["normal"];
-	public string GetBackImage() => Card_Faces?[1].Image_Uris?["normal"];
+	public string? GetBackImage() => Card_Faces?[1].Image_Uris?["normal"];
 }
 
 record CardFace(string Name, Dictionary<string, string> Image_Uris);
@@ -247,13 +284,13 @@ async Task<T> CacheAsync<T>(string key, Func<Task<T>> valueFactory)
 	var cacheFile = Path.Combine(Path.GetTempPath(), Util.CurrentQuery.Name, $"{key}.json");
 	if (!BustCache && File.Exists(cacheFile) && File.GetLastWriteTimeUtc(cacheFile) + Expiry >= DateTime.Now)
 	{
-		try { return JsonConvert.DeserializeObject<T>(File.ReadAllText(cacheFile)); }
+		try { return JsonConvert.DeserializeObject<T>(File.ReadAllText(cacheFile))!; }
 		catch (Exception ex) { ex.Dump($"Cache file read error for {key}"); }
 	}
 	
 	var result = await valueFactory();
 	
-	Directory.CreateDirectory(Path.GetDirectoryName(cacheFile));
+	Directory.CreateDirectory(Path.GetDirectoryName(cacheFile)!);
 	File.WriteAllText(cacheFile, JsonConvert.SerializeObject(result));
 	
 	return result;
