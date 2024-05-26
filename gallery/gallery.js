@@ -18,6 +18,7 @@ html`<div class="container">
 	<div class="card-grid">
 		${() => getCards().map(cardTemplate)}
 	</div>
+	<div><br/><center><small><em>UWC card images are free to use as proxies. Usage of non-Magic art on UWC cards is done with permission from the Artist.</em></small></center></div>
 </div>`(document.getElementById('app'));
 
 function cardTemplate(card) {
