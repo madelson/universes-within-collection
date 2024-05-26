@@ -2340,7 +2340,17 @@ const data = {
     },
     {
       "name": "Barbara Wright",
-      "universesBeyondImage": "https://cards.scryfall.io/normal/front/4/1/414bdd33-549d-4690-917c-ea48decffbbb.jpg?1696691791"
+      "nickname": "Elara, Tapestry Weaver",
+      "contributionInfo": {
+        "contributor": "madelson",
+        "artist": "Kristina Gehrmann",
+        "artistUrl": "http://www.kristinagehrmann.com/",
+        "artName": "For Love of Tapestry I",
+        "artUrl": "https://cara.app/post/c4430b32-5518-4be2-995b-315beccf8e91",
+        "mtgCardBuilderId": "138699"
+      },
+      "universesBeyondImage": "https://cards.scryfall.io/normal/front/4/1/414bdd33-549d-4690-917c-ea48decffbbb.jpg?1696691791",
+      "universesWithinImage": "./cards/Barbara Wright.png"
     },
     {
       "name": "Last Night Together",
