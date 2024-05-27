@@ -173,10 +173,6 @@ List<UniversesWithinCard> GetUniversesWithinCards()
 		{
 			throw new JsonException($"Bad art info for id {id}");			
 		}
-		if (info.ArtCrop && info.Artist != null)
-		{
-			throw new JsonException($"Bad art info for id {id}");
-		}
 		
 		var nameSplit = info.Name.Split(" // ", count: 2);
 		var card = new UniversesWithinCard
@@ -189,7 +185,7 @@ List<UniversesWithinCard> GetUniversesWithinCards()
 		
 		foreach (var path in new[] { card.FrontImage, card.BackImage }.Where(i => i != null))
 		{
-			if (!File.Exists(Path.Combine(CardsDirectory, path))) { throw new FileNotFoundException(path); }
+			if (!File.Exists(Path.Combine(CardsDirectory, path!))) { throw new FileNotFoundException(path); }
 		}
 
 		results.Add(card);

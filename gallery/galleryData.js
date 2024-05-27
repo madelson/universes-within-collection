@@ -2689,7 +2689,17 @@ const data = {
     },
     {
       "name": "Auton Soldier",
-      "universesBeyondImage": "https://cards.scryfall.io/normal/front/4/c/4cc35b82-a233-4460-968e-d90980fb2074.jpg?1696636556"
+      "nickname": "Adaptive Gearwardens",
+      "contributionInfo": {
+        "contributor": "madelson",
+        "artist": "Sandara Tang",
+        "artistUrl": "https://sandara.artstation.com/",
+        "artName": "Blue Mage",
+        "artUrl": "https://sandara.artstation.com/projects/NBm81",
+        "mtgCardBuilderId": "132670"
+      },
+      "universesBeyondImage": "https://cards.scryfall.io/normal/front/4/c/4cc35b82-a233-4460-968e-d90980fb2074.jpg?1696636556",
+      "universesWithinImage": "./cards/Auton Soldier.png"
     },
     {
       "name": "Become the Pilot",
