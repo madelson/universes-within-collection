@@ -3889,7 +3889,17 @@ const data = {
     },
     {
       "name": "Hancock, Ghoulish Mayor",
-      "universesBeyondImage": "https://cards.scryfall.io/normal/front/3/9/39bda1b4-3f02-4cbc-9573-f5b6e6c991d5.jpg?1708742034"
+      "nickname": "Zahir, Agent of Shauku",
+      "contributionInfo": {
+        "contributor": "madelson",
+        "artist": "Bachzim",
+        "artistUrl": "https://www.artstation.com/bachzim",
+        "artName": "Face of War",
+        "artUrl": "https://www.artstation.com/artwork/4bvNDk",
+        "mtgCardBuilderId": "139052"
+      },
+      "universesBeyondImage": "https://cards.scryfall.io/normal/front/3/9/39bda1b4-3f02-4cbc-9573-f5b6e6c991d5.jpg?1708742034",
+      "universesWithinImage": "./cards/Hancock, Ghoulish Mayor.png"
     },
     {
       "name": "Infesting Radroach",

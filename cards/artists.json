@@ -21,7 +21,12 @@
 			"name": "Kristina Gehrmann",
 			"url": "http://www.kristinagehrmann.com/",
 			"contact": "cara.app"
-		}
+		},
+		{
+			"name": "Bachzim",
+			"url": "https://www.artstation.com/bachzim",
+			"contact": "artstation.com email"
+		},
 	],
 	"declined": [
 		{
@@ -92,10 +97,6 @@
 		},
 		{
 			"name": "Florian Herold",
-			"contact": "artstation.com email"
-		},
-		{
-			"name": "Bachzim",
 			"contact": "artstation.com email"
 		},
 		{

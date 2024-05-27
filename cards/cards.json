@@ -9,6 +9,15 @@
 		"artCrop": true,
 		"mtgCardBuilderId": "132670",
 	},
+	"0005": {
+		"name": "Hancock, Ghoulish Mayor",
+		"nickname": "Zahir, Agent of Shauku",
+		"contributor": "madelson",
+		"artist": "Bachzim",
+		"artName": "Face of War",
+		"artUrl": "https://www.artstation.com/artwork/4bvNDk",
+		"mtgCardBuilderId": "139052"
+	},
 	"0006": {
 		"name": "Tegan Jovanka",
 		"nickname": "Ragnhild Stormspear",
