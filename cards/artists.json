@@ -73,6 +73,56 @@
 		{
 			"name": "Lincoln Hughes",
 			"contact": "artstation.com"
+		},
+		{
+			"name": "Sanjin Halimic",
+			"contact": "artstation.com"
+		},
+		{
+			"name": "Diego Lafuente",
+			"contact": "artstation.com"
+		},
+		{
+			"name": "Nickolas Paris",
+			"contact": "artstation.com"
+		},
+		{
+			"name": "Gonzalo Kenny",
+			"contact": "artstation.com"
+		},
+		{
+			"name": "Florian Herold",
+			"contact": "artstation.com email"
+		},
+		{
+			"name": "Bachzim",
+			"contact": "artstation.com email"
+		},
+		{
+			"name": "Benjamin Goutte",
+			"contact": "artstation.com"
+		},
+		{
+			"name": "Josep Perez",
+			"contact": "artstation.com"
+		},
+		{
+			"name": "Ari Ibarra",
+			"contact": "artstation.com"
+		},
+	],
+	"unclearHowToReach": [
+		{
+			"name": "Rene Gross",
+			"contact": "artstation.com"
+		},
+		{
+			"name": "Matt Sellers",
+			"contact": "artstation.com"
+		},
+		{
+			"name": "Joshua Griffin",
+			"contact": "artstation.com"
 		}
 	]
 }
