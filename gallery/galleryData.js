@@ -3644,7 +3644,17 @@ const data = {
     },
     {
       "name": "Nuka-Cola Vending Machine",
-      "universesBeyondImage": "https://cards.scryfall.io/normal/front/4/0/405df7c7-0e37-499e-9826-6bf9f5db7a40.jpg?1708742750"
+      "nickname": "Witch's Hearth",
+      "contributionInfo": {
+        "contributor": "madelson",
+        "artist": "Andrea Corsini",
+        "artistUrl": "https://linktr.ee/Not_andreas",
+        "artName": "The Witch's hut",
+        "artUrl": "https://cara.app/post/06b1968a-80be-4c7f-b65e-eb4b132f67c4",
+        "mtgCardBuilderId": "130674"
+      },
+      "universesBeyondImage": "https://cards.scryfall.io/normal/front/4/0/405df7c7-0e37-499e-9826-6bf9f5db7a40.jpg?1708742750",
+      "universesWithinImage": "./cards/Nuka-Cola Vending Machine.png"
     },
     {
       "name": "Nuka-Nuke Launcher",
