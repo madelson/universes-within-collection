@@ -2308,7 +2308,13 @@ const data = {
     },
     {
       "name": "Great Intelligence's Plan",
-      "universesBeyondImage": "https://cards.scryfall.io/normal/front/a/7/a798feb4-561b-4bb9-bdc9-771325faec57.jpg?1696636717"
+      "nickname": "Duskmantle Bargain",
+      "contributionInfo": {
+        "contributor": "madelson",
+        "mtgCardBuilderId": "139291"
+      },
+      "universesBeyondImage": "https://cards.scryfall.io/normal/front/a/7/a798feb4-561b-4bb9-bdc9-771325faec57.jpg?1696636717",
+      "universesWithinImage": "./cards/Great Intelligence's Plan.png"
     },
     {
       "name": "Heaven Sent",
