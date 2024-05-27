@@ -35,7 +35,9 @@ html`
 
 function cardTemplate(card) {
 	return html`<div class="card">
-		<img src="${() => getImageUrl(card)}" alt="${() => card.name}" />
+		<a href="${() => getImageUrl(card)}" target="_blank">
+			<img src="${() => getImageUrl(card)}" alt="${() => card.name}" />
+		</a>
 		<div class="attribution">
 		${card.contributionInfo 
 			? `UWC version contributed by ${card.contributionInfo.contributor}
