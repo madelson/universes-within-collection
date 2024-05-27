@@ -3747,7 +3747,17 @@ const data = {
     },
     {
       "name": "Dogmeat, Ever Loyal",
-      "universesBeyondImage": "https://cards.scryfall.io/normal/front/8/6/86b45e3e-8460-4678-87d1-d74479936c83.jpg?1710673445"
+      "nickname": "Phelia the Steadfast",
+      "contributionInfo": {
+        "contributor": "madelson",
+        "artist": "Sandara Tang",
+        "artistUrl": "https://sandara.artstation.com/",
+        "artName": "Corgi and Fairy",
+        "artUrl": "https://sandara.artstation.com/projects/xVEN1",
+        "mtgCardBuilderId": "139161"
+      },
+      "universesBeyondImage": "https://cards.scryfall.io/normal/front/8/6/86b45e3e-8460-4678-87d1-d74479936c83.jpg?1710673445",
+      "universesWithinImage": "./cards/Dogmeat, Ever Loyal.png"
     },
     {
       "name": "Human Knight",
