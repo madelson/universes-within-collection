@@ -9,6 +9,15 @@
 		"artCrop": true,
 		"mtgCardBuilderId": "132670",
 	},
+	"0007": {
+		"name": "Renegade Silent",
+		"nickname": "Whispering Lurker",
+		"contributor": "madelson",
+		"artist": "Anthony Catillaz",
+		"artName": "Just little Nightmares",
+		"artUrl": "https://www.artstation.com/artwork/aGlxDX",
+		"mtgCardBuilderId": ""
+	},
 	"0008": {
 		"name": "Barbara Wright",
 		"nickname": "Elara, Tapestry Weaver",

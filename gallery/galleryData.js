@@ -2783,7 +2783,17 @@ const data = {
     },
     {
       "name": "Renegade Silent",
-      "universesBeyondImage": "https://cards.scryfall.io/normal/front/6/d/6deb8b33-723d-4927-934c-5d049125d235.jpg?1696636582"
+      "nickname": "Whispering Lurker",
+      "contributionInfo": {
+        "contributor": "madelson",
+        "artist": "Anthony Catillaz",
+        "artistUrl": "https://www.artstation.com/artico_luminos",
+        "artName": "Just little Nightmares",
+        "artUrl": "https://www.artstation.com/artwork/aGlxDX",
+        "mtgCardBuilderId": ""
+      },
+      "universesBeyondImage": "https://cards.scryfall.io/normal/front/6/d/6deb8b33-723d-4927-934c-5d049125d235.jpg?1696636582",
+      "universesWithinImage": "./cards/Renegade Silent.png"
     },
     {
       "name": "Reverse the Polarity",
