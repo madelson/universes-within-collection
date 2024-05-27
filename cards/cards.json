@@ -9,6 +9,15 @@
 		"artCrop": true,
 		"mtgCardBuilderId": "132670",
 	},
+	"0006": {
+		"name": "Tegan Jovanka",
+		"nickname": "Ragnhild Stormspear",
+		"contributor": "madelson",
+		"artist": "Anthony Catillaz",
+		"artName": "Storm Appendix",
+		"artUrl": "https://www.artstation.com/artwork/g0rG0K",
+		"mtgCardBuilderId": "138868"
+	},
 	"0007": {
 		"name": "Renegade Silent",
 		"nickname": "Whispering Lurker",
@@ -16,7 +25,7 @@
 		"artist": "Anthony Catillaz",
 		"artName": "Just little Nightmares",
 		"artUrl": "https://www.artstation.com/artwork/aGlxDX",
-		"mtgCardBuilderId": ""
+		"mtgCardBuilderId": "138864"
 	},
 	"0008": {
 		"name": "Barbara Wright",

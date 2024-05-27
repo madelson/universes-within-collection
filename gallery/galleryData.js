@@ -2645,7 +2645,17 @@ const data = {
     },
     {
       "name": "Tegan Jovanka",
-      "universesBeyondImage": "https://cards.scryfall.io/normal/front/3/6/361769b3-7e10-4e0f-b623-c00e2144463d.jpg?1696691793"
+      "nickname": "Ragnhild Stormspear",
+      "contributionInfo": {
+        "contributor": "madelson",
+        "artist": "Anthony Catillaz",
+        "artistUrl": "https://www.artstation.com/artico_luminos",
+        "artName": "Storm Appendix",
+        "artUrl": "https://www.artstation.com/artwork/g0rG0K",
+        "mtgCardBuilderId": "138868"
+      },
+      "universesBeyondImage": "https://cards.scryfall.io/normal/front/3/6/361769b3-7e10-4e0f-b623-c00e2144463d.jpg?1696691793",
+      "universesWithinImage": "./cards/Tegan Jovanka.png"
     },
     {
       "name": "Trial of a Time Lord",
@@ -2790,7 +2800,7 @@ const data = {
         "artistUrl": "https://www.artstation.com/artico_luminos",
         "artName": "Just little Nightmares",
         "artUrl": "https://www.artstation.com/artwork/aGlxDX",
-        "mtgCardBuilderId": ""
+        "mtgCardBuilderId": "138864"
       },
       "universesBeyondImage": "https://cards.scryfall.io/normal/front/6/d/6deb8b33-723d-4927-934c-5d049125d235.jpg?1696636582",
       "universesWithinImage": "./cards/Renegade Silent.png"
