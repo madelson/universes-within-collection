@@ -2615,7 +2615,17 @@ const data = {
     },
     {
       "name": "Four Knocks",
-      "universesBeyondImage": "https://cards.scryfall.io/normal/front/0/2/02fe50fc-6c6c-43e7-ad0e-8f13a254da2a.jpg?1696636530"
+      "nickname": "Pursuit of Wisdom",
+      "contributionInfo": {
+        "contributor": "madelson",
+        "artist": "Kristina Gehrmann",
+        "artistUrl": "http://www.kristinagehrmann.com/",
+        "artName": "The Ritual",
+        "artUrl": "https://cara.app/post/8b3386ca-204d-48f2-a7ba-a34c618a92e2",
+        "mtgCardBuilderId": "139910"
+      },
+      "universesBeyondImage": "https://cards.scryfall.io/normal/front/0/2/02fe50fc-6c6c-43e7-ad0e-8f13a254da2a.jpg?1696636530",
+      "universesWithinImage": "./cards/Four Knocks.png"
     },
     {
       "name": "The Girl in the Fireplace",

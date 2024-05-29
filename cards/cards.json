@@ -131,5 +131,14 @@
 		"artName": "Jungle mutant",
 		"artUrl": "https://www.artstation.com/artwork/LRGgG5",
 		"mtgCardBuilderId": "137856"
+	},
+	"0017": {
+		"name": "Four Knocks",
+		"nickname": "Pursuit of Wisdom",
+		"contributor": "madelson",
+		"artist": "Kristina Gehrmann",
+		"artName": "The Ritual",
+		"artUrl": "https://cara.app/post/8b3386ca-204d-48f2-a7ba-a34c618a92e2",
+		"mtgCardBuilderId": "139910"
 	}
 }
