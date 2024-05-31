@@ -1,6 +1,6 @@
 # Welcome to the Universes Within Collection
 
-The "Universes Within Collection" (UWC) is a personal, non-commercial project that aspires to be a community-created set of Universes Within alternatives (proxies) for Universes Beyond Magic, the Gathering cards.
+The "Universes Within Collection" (UWC) is a personal, non-commercial project where I create unofficial Universes Within alternatives (proxies) for Universes Beyond Magic, the Gathering cards.
 
 **Check out [the card gallery](https://madelson.github.io/universes-within-collection/).**
 
@@ -8,7 +8,7 @@ The "Universes Within Collection" (UWC) is a personal, non-commercial project th
 
 While Magic's Universes Beyond cards have many interesting mechanical designs, for me many of the IPs don't mesh well aesthetically with other Magic cards. Wizards has created the concept of "Universes Within" variants in part to address this issue, but they have also made it clear that there is no plan for Universes Within printings to keep up with the ever-growing list of new Universes Beyond cards.
 
-The Universes Within Collection is an attempt to cover some of the ground that Wizards won't by building out a set of community-created Universes Within variants and making them easy to access.
+The Universes Within Collection is an attempt to cover some of the ground that Wizards won't by building out a set of unofficial Universes Within variants and making them easy to access.
 
 UWC cards are designed with a few goals in mind:
 1. _100% rules compatibility with the Universes Beyond originals._ These are not custom cards.
@@ -17,7 +17,7 @@ UWC cards are designed with a few goals in mind:
 
 ## Contributing
 
-I don't know if there will be interest, but I'd love to get contributions from others in the MTG community! 
+If you're interested in the project and would like to contribute, I'd be happy to have help!
 
 Contributing requires making a [free GitHub account](https://github.com/join). To make any of the contributions below, simply [create an issue](https://github.com/madelson/universes-within-collection/issues/new) describing the contribution you'd like to make and attaching any materials.
 
