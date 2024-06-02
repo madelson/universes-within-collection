@@ -1036,12 +1036,28 @@ const data = {
       "universesBeyondImage": "https://cards.scryfall.io/normal/front/6/a/6a780abd-f276-40d3-b2af-d2e47d858d3d.jpg?1689938345"
     },
     {
+      "name": "One Ring to Rule Them All",
+      "universesBeyondImage": "https://cards.scryfall.io/normal/front/b/b/bb2dc2e0-f393-4442-818b-d3b860bfffd0.jpg?1688569235"
+    },
+    {
+      "name": "Orcish Bowmasters",
+      "universesBeyondImage": "https://cards.scryfall.io/normal/front/7/c/7c024bae-5631-4e20-ac69-df392ac9e109.jpg?1686968669"
+    },
+    {
       "name": "Orcish Medicine",
       "universesBeyondImage": "https://cards.scryfall.io/normal/front/6/6/66fae9ab-2302-4dea-a4e8-701938a0ef09.jpg?1686968679"
     },
     {
       "name": "Sam's Desperate Rescue",
       "universesBeyondImage": "https://cards.scryfall.io/normal/front/b/d/bdd4d735-8cda-47c1-865b-48b51ac8f666.jpg?1686968689"
+    },
+    {
+      "name": "Sauron, the Necromancer",
+      "universesBeyondImage": "https://cards.scryfall.io/normal/front/3/7/377d65d8-21c8-4292-97db-610e0173ba59.jpg?1686968699"
+    },
+    {
+      "name": "Shadow of the Enemy",
+      "universesBeyondImage": "https://cards.scryfall.io/normal/front/e/4/e47cab70-55cb-481c-b4cd-32a41251f210.jpg?1686968709"
     },
     {
       "name": "Shelob's Ambush",
@@ -1076,6 +1092,10 @@ const data = {
       "universesBeyondImage": "https://cards.scryfall.io/normal/front/d/9/d9b7d7f8-503d-4660-9a18-6a8e2fcaa25f.jpg?1686968776"
     },
     {
+      "name": "Witch-king of Angmar",
+      "universesBeyondImage": "https://cards.scryfall.io/normal/front/a/5/a55e6508-0b59-4573-bc4e-67b27279cfed.jpg?1686968786"
+    },
+    {
       "name": "Battle-Scarred Goblin",
       "universesBeyondImage": "https://cards.scryfall.io/normal/front/b/9/b91859de-1983-4c9c-a9e6-289c7dba1eb4.jpg?1686968799"
     },
@@ -1092,12 +1112,20 @@ const data = {
       "universesBeyondImage": "https://cards.scryfall.io/normal/front/2/e/2ef878cb-27b6-47d8-ad11-bd20529b0e7e.jpg?1686968832"
     },
     {
+      "name": "Display of Power",
+      "universesBeyondImage": "https://cards.scryfall.io/normal/front/2/9/295b8595-5b4e-4fc8-8249-486d36e15f67.jpg?1686968845"
+    },
+    {
       "name": "Escape from Orthanc",
       "universesBeyondImage": "https://cards.scryfall.io/normal/front/f/4/f4ff3330-dcca-4435-87e7-871be91a68b0.jpg?1686967744"
     },
     {
       "name": "The Gaffer",
       "universesBeyondImage": "https://cards.scryfall.io/normal/front/8/6/863ed552-dc6d-4910-b188-3cefc3ebf0ed.jpg?1686963805"
+    },
+    {
+      "name": "Éomer, Marshal of Rohan",
+      "universesBeyondImage": "https://cards.scryfall.io/normal/front/0/b/0bd31ce9-9551-4efe-8bd2-b97d8efbf75e.jpg?1686968857"
     },
     {
       "name": "Éomer of the Riddermark",
@@ -1110,6 +1138,10 @@ const data = {
     {
       "name": "Erkenbrand, Lord of Westfold",
       "universesBeyondImage": "https://cards.scryfall.io/normal/front/3/8/38f81e68-cddd-47f4-b1d1-a297c3298c25.jpg?1686968892"
+    },
+    {
+      "name": "Fall of Cair Andros",
+      "universesBeyondImage": "https://cards.scryfall.io/normal/front/3/5/354b4623-50a0-41f1-ad1e-7dd6ac3852df.jpg?1686968903"
     },
     {
       "name": "Fear, Fire, Foes!",
@@ -1148,6 +1180,10 @@ const data = {
       "universesBeyondImage": "https://cards.scryfall.io/normal/front/e/f/efde011d-8732-49b3-9204-8b114a3d81ba.jpg?1686968981"
     },
     {
+      "name": "Glóin, Dwarf Emissary",
+      "universesBeyondImage": "https://cards.scryfall.io/normal/front/8/6/868a2aa7-bcaf-409b-8802-d00ee1f2ae77.jpg?1686968993"
+    },
+    {
       "name": "Goblin Fireleaper",
       "universesBeyondImage": "https://cards.scryfall.io/normal/front/e/c/ec120dae-8c40-4053-9341-1f7774464634.jpg?1686969004"
     },
@@ -1160,8 +1196,16 @@ const data = {
       "universesBeyondImage": "https://cards.scryfall.io/normal/front/6/0/6050cf98-cdce-4825-9ab8-2294a2b63faf.jpg?1686969027"
     },
     {
+      "name": "Hew the Entwood",
+      "universesBeyondImage": "https://cards.scryfall.io/normal/front/8/1/81940498-a5bf-4bcd-b06d-8816887b2a2b.jpg?1686969039"
+    },
+    {
       "name": "Improvised Club",
       "universesBeyondImage": "https://cards.scryfall.io/normal/front/b/8/b8397d13-eeaf-4b4e-b3cd-9a9ac231873a.jpg?1687695211"
+    },
+    {
+      "name": "Moria Marauder",
+      "universesBeyondImage": "https://cards.scryfall.io/normal/front/f/3/f33d5394-2248-4654-bec5-33b144752586.jpg?1686969061"
     },
     {
       "name": "Oliphaunt",
@@ -1216,12 +1260,24 @@ const data = {
       "universesBeyondImage": "https://cards.scryfall.io/normal/front/8/b/8b716fcc-c4cc-4987-be82-2897a9888d23.jpg?1686969173"
     },
     {
+      "name": "Spiteful Banditry",
+      "universesBeyondImage": "https://cards.scryfall.io/normal/front/e/8/e85a82bc-49f3-4694-b688-808a541146db.jpg?1686969184"
+    },
+    {
+      "name": "Flowering of the White Tree",
+      "universesBeyondImage": "https://cards.scryfall.io/normal/front/2/2/2203b2cd-48e5-471a-85fe-dc81012e5d61.jpg?1686967772"
+    },
+    {
       "name": "Gwaihir, Greatest of the Eagles",
       "universesBeyondImage": "https://cards.scryfall.io/normal/front/9/c/9c17c3bb-aa20-43b0-8a28-b46a18b060ef.jpg?1686963834"
     },
     {
       "name": "Swarming of Moria",
       "universesBeyondImage": "https://cards.scryfall.io/normal/front/0/a/0a1bd073-4351-4c56-9b07-4430d0d83084.jpg?1686969195"
+    },
+    {
+      "name": "There and Back Again",
+      "universesBeyondImage": "https://cards.scryfall.io/normal/front/9/3/939b0bd0-24ea-45de-a2d3-37bbf6a3e6f9.jpg?1689938360"
     },
     {
       "name": "Warbeast of Gorgoroth",
@@ -1248,6 +1304,10 @@ const data = {
       "universesBeyondImage": "https://cards.scryfall.io/normal/front/0/a/0aa57431-39e2-4152-8a30-1c1e8faef153.jpg?1686969269"
     },
     {
+      "name": "Delighted Halfling",
+      "universesBeyondImage": "https://cards.scryfall.io/normal/front/7/1/71384418-173a-4f77-adab-56e52fa23692.jpg?1686969281"
+    },
+    {
       "name": "Dúnedain Rangers",
       "universesBeyondImage": "https://cards.scryfall.io/normal/front/6/3/630e1e36-2f5d-44d4-9ff2-19ae75295016.jpg?1687694686"
     },
@@ -1258,6 +1318,10 @@ const data = {
     {
       "name": "Lossarnach Captain",
       "universesBeyondImage": "https://cards.scryfall.io/normal/front/0/8/08b78cd2-7c52-4dcd-b063-1ac5e96420d4.jpg?1686963843"
+    },
+    {
+      "name": "Elven Chorus",
+      "universesBeyondImage": "https://cards.scryfall.io/normal/front/6/1/616cfb94-3faf-44fe-bf04-e90643765e48.jpg?1686969302"
     },
     {
       "name": "Elven Farsight",
@@ -1276,6 +1340,14 @@ const data = {
       "universesBeyondImage": "https://cards.scryfall.io/normal/front/c/7/c7946af6-69ab-47a1-955c-1954a04752df.jpg?1686969344"
     },
     {
+      "name": "Fall of Gil-galad",
+      "universesBeyondImage": "https://cards.scryfall.io/normal/front/f/b/fbaab2c0-ea18-4b2f-b75b-506cbbea97e1.jpg?1688569166"
+    },
+    {
+      "name": "Fangorn, Tree Shepherd",
+      "universesBeyondImage": "https://cards.scryfall.io/normal/front/0/f/0fb0f946-2127-4aa3-88ac-9bd2e94d8983.jpg?1686969365"
+    },
+    {
       "name": "Galadhrim Bow",
       "universesBeyondImage": "https://cards.scryfall.io/normal/front/9/d/9df34f21-798f-440d-8b09-ec5b5c0b8c12.jpg?1686969376"
     },
@@ -1288,6 +1360,10 @@ const data = {
       "universesBeyondImage": "https://cards.scryfall.io/normal/front/8/5/85d22d5d-3875-42ff-b51e-c6e21db201f5.jpg?1687210970"
     },
     {
+      "name": "Forge Anew",
+      "universesBeyondImage": "https://cards.scryfall.io/normal/front/5/6/56274b88-6e3f-4538-bb0c-eb5e52a58ef3.jpg?1686967804"
+    },
+    {
       "name": "Of Herbs and Stewed Rabbit",
       "universesBeyondImage": "https://cards.scryfall.io/normal/front/c/5/c58623cb-8b49-470c-9622-dd6e09d47599.jpg?1688569222"
     },
@@ -1298,6 +1374,14 @@ const data = {
     {
       "name": "Glorfindel, Dauntless Rescuer",
       "universesBeyondImage": "https://cards.scryfall.io/normal/front/b/a/baf7a546-8a8b-4396-ab64-9a5b9abffe79.jpg?1686969418"
+    },
+    {
+      "name": "Last March of the Ents",
+      "universesBeyondImage": "https://cards.scryfall.io/normal/front/7/f/7f1b99e0-ffb7-4f98-8ee5-4357bb79dd2e.jpg?1687694570"
+    },
+    {
+      "name": "Legolas, Master Archer",
+      "universesBeyondImage": "https://cards.scryfall.io/normal/front/a/9/a9405577-c1dc-48e0-b2aa-6237c569d02e.jpg?1686969439"
     },
     {
       "name": "Long List of the Ents",
@@ -1328,6 +1412,10 @@ const data = {
       "universesBeyondImage": "https://cards.scryfall.io/normal/front/e/c/ec691418-1075-477f-b0df-f0d064588baf.jpg?1686963863"
     },
     {
+      "name": "Frodo, Sauron's Bane",
+      "universesBeyondImage": "https://cards.scryfall.io/normal/front/7/d/7d86dc2e-6f0c-4714-9d30-5d099d3b895c.jpg?1686967812"
+    },
+    {
       "name": "Mushroom Watchdogs",
       "universesBeyondImage": "https://cards.scryfall.io/normal/front/d/1/d15fd66d-fa7e-411d-9014-a56caa879d93.jpg?1686969514"
     },
@@ -1344,8 +1432,16 @@ const data = {
       "universesBeyondImage": "https://cards.scryfall.io/normal/front/b/8/b889037f-b95f-4756-80aa-04097d2818c3.jpg?1686969546"
     },
     {
+      "name": "Radagast the Brown",
+      "universesBeyondImage": "https://cards.scryfall.io/normal/front/b/3/b3988120-ebbe-4d24-9bb4-8c5331a14034.jpg?1686969557"
+    },
+    {
       "name": "Revive the Shire",
       "universesBeyondImage": "https://cards.scryfall.io/normal/front/4/6/46b7f493-1b57-4b07-8510-30703282f879.jpg?1686969568"
+    },
+    {
+      "name": "The Ring Goes South",
+      "universesBeyondImage": "https://cards.scryfall.io/normal/front/3/c/3c8a4c7d-527c-49ea-a115-a9e747c0fd03.jpg?1686969579"
     },
     {
       "name": "Shortcut to Mushrooms",
@@ -1364,12 +1460,36 @@ const data = {
       "universesBeyondImage": "https://cards.scryfall.io/normal/front/1/5/159727a9-0bc4-497d-8fb2-4a66923726d8.jpg?1686963873"
     },
     {
+      "name": "Gandalf the White",
+      "universesBeyondImage": "https://cards.scryfall.io/normal/front/e/3/e384c20b-d0c1-4781-9d11-e89e5a6bf3fc.jpg?1686967821"
+    },
+    {
       "name": "Wose Pathfinder",
       "universesBeyondImage": "https://cards.scryfall.io/normal/front/6/5/6589b339-9067-4e9b-bfdb-c49f8b3ef2d4.jpg?1686969622"
     },
     {
+      "name": "Aragorn, Company Leader",
+      "universesBeyondImage": "https://cards.scryfall.io/normal/front/7/3/73ca5f48-0117-49d6-8b00-b8482e3545b3.jpg?1686969633"
+    },
+    {
+      "name": "Aragorn, the Uniter",
+      "universesBeyondImage": "https://cards.scryfall.io/normal/front/e/9/e98d5321-ec09-456c-a9ea-c8ca2cfc6205.jpg?1686969644"
+    },
+    {
+      "name": "Arwen, Mortal Queen",
+      "universesBeyondImage": "https://cards.scryfall.io/normal/front/5/4/547f92d4-cd1d-4ca7-a6e2-6473b4d3c832.jpg?1686969656"
+    },
+    {
       "name": "Arwen Undómiel",
       "universesBeyondImage": "https://cards.scryfall.io/normal/front/c/5/c544e301-13b4-4dec-b65c-d54809bb7736.jpg?1695498672"
+    },
+    {
+      "name": "The Balrog, Durin's Bane",
+      "universesBeyondImage": "https://cards.scryfall.io/normal/front/4/1/416880c3-cefb-45ea-bcc3-2ec7a70c8097.jpg?1686969678"
+    },
+    {
+      "name": "Bilbo, Retired Burglar",
+      "universesBeyondImage": "https://cards.scryfall.io/normal/front/5/2/527df93e-cc2b-4216-909a-4ada1abcbfd3.jpg?1687694657"
     },
     {
       "name": "Butterbur, Bree Innkeeper",
@@ -1380,8 +1500,16 @@ const data = {
       "universesBeyondImage": "https://cards.scryfall.io/normal/front/f/a/fa8654cf-431c-427b-b78f-0e48f6007e9e.jpg?1686969711"
     },
     {
+      "name": "Doors of Durin",
+      "universesBeyondImage": "https://cards.scryfall.io/normal/front/8/e/8ebd8813-4aaf-48bf-9243-3ec4099b8372.jpg?1686969721"
+    },
+    {
       "name": "Frodo, Adventurous Hobbit",
       "universesBeyondImage": "https://cards.scryfall.io/normal/front/3/2/328df403-7428-4b17-bdd1-9759fc0f32d8.jpg?1686963703"
+    },
+    {
+      "name": "The Battle of Bywater",
+      "universesBeyondImage": "https://cards.scryfall.io/normal/front/9/b/9bae7a4d-9117-43c5-a048-80a0ddadc034.jpg?1708013075"
     },
     {
       "name": "Denethor, Stone Seer",
@@ -1392,12 +1520,44 @@ const data = {
       "universesBeyondImage": "https://cards.scryfall.io/normal/front/0/1/019eab42-9e0c-4958-ac97-74d3db5580f3.jpg?1686967829"
     },
     {
+      "name": "Elrond, Master of Healing",
+      "universesBeyondImage": "https://cards.scryfall.io/normal/front/d/2/d26ffb2c-f7a5-4a4f-9b99-c8de9dfd49da.jpg?1686969733"
+    },
+    {
+      "name": "Éowyn, Fearless Knight",
+      "universesBeyondImage": "https://cards.scryfall.io/normal/front/a/d/adffb389-c9a3-41c4-b078-292a2bcf870d.jpg?1686969744"
+    },
+    {
+      "name": "Faramir, Prince of Ithilien",
+      "universesBeyondImage": "https://cards.scryfall.io/normal/front/8/7/8700923a-e9ff-4ced-87fe-1ab26554623a.jpg?1686969755"
+    },
+    {
+      "name": "Flame of Anor",
+      "universesBeyondImage": "https://cards.scryfall.io/normal/front/0/4/04779a7e-b453-48b9-b392-6d6fd0b8d283.jpg?1686969766"
+    },
+    {
       "name": "Friendly Rivalry",
       "universesBeyondImage": "https://cards.scryfall.io/normal/front/2/4/24076763-88ba-4dee-b548-9c27bd34fdb7.jpg?1686969776"
     },
     {
+      "name": "Frodo Baggins",
+      "universesBeyondImage": "https://cards.scryfall.io/normal/front/d/e/de1c0399-9db8-4901-b72e-0010eb9b92b0.jpg?1686969787"
+    },
+    {
+      "name": "Galadriel of Lothlórien",
+      "universesBeyondImage": "https://cards.scryfall.io/normal/front/a/6/a6e5c3b3-9a70-4a1c-bfb3-db27e51c4b8d.jpg?1686969798"
+    },
+    {
+      "name": "Gandalf the Grey",
+      "universesBeyondImage": "https://cards.scryfall.io/normal/front/e/2/e2b975e6-e709-481f-bfbc-41a832508283.jpg?1686969808"
+    },
+    {
       "name": "Gandalf's Sanction",
       "universesBeyondImage": "https://cards.scryfall.io/normal/front/8/e/8ebf2a25-9bee-4146-af83-f22aab6db2a8.jpg?1688134626"
+    },
+    {
+      "name": "Gimli, Mournful Avenger",
+      "universesBeyondImage": "https://cards.scryfall.io/normal/front/d/f/df4be38c-3f93-4ff4-bff4-94753b96f2f3.jpg?1686969830"
     },
     {
       "name": "Fealty to the Realm",
@@ -1412,12 +1572,24 @@ const data = {
       "universesBeyondImage": "https://cards.scryfall.io/normal/front/1/a/1a42c951-1146-4f49-a690-7d385962b191.jpg?1686969841"
     },
     {
+      "name": "King of the Oathbreakers",
+      "universesBeyondImage": "https://cards.scryfall.io/normal/front/c/c/cc857755-62e6-4d29-95f5-82f5d4bde522.jpg?1686969851"
+    },
+    {
       "name": "Legolas, Counter of Kills",
       "universesBeyondImage": "https://cards.scryfall.io/normal/front/c/8/c8bd408c-9e6d-436d-9c4f-9ef3203aeb64.jpg?1686969862"
     },
     {
+      "name": "Lotho, Corrupt Shirriff",
+      "universesBeyondImage": "https://cards.scryfall.io/normal/front/c/e/ce01ff8f-a037-484f-9148-c847ffaabc5a.jpg?1686969873"
+    },
+    {
       "name": "Mauhúr, Uruk-hai Captain",
       "universesBeyondImage": "https://cards.scryfall.io/normal/front/6/5/65e9a757-7ed4-4cc0-bb6f-a59fa69b32a5.jpg?1686969884"
+    },
+    {
+      "name": "Merry, Esquire of Rohan",
+      "universesBeyondImage": "https://cards.scryfall.io/normal/front/b/7/b7c5fe73-1684-4edc-9f9b-976b2246d5ea.jpg?1686969894"
     },
     {
       "name": "The Mouth of Sauron",
@@ -1426,6 +1598,10 @@ const data = {
     {
       "name": "Old Man Willow",
       "universesBeyondImage": "https://cards.scryfall.io/normal/front/0/3/0362b7c4-fff5-4bc2-b32d-913f85c23cc4.jpg?1686969917"
+    },
+    {
+      "name": "Pippin, Guard of the Citadel",
+      "universesBeyondImage": "https://cards.scryfall.io/normal/front/0/8/08b7a4d8-1183-430e-8ea4-016844f33200.jpg?1686969929"
     },
     {
       "name": "Prince Imrahil the Fair",
@@ -1448,12 +1624,36 @@ const data = {
       "universesBeyondImage": "https://cards.scryfall.io/normal/front/3/f/3f440fa1-5387-41d6-a80f-5b19dbb21514.jpg?1686969962"
     },
     {
+      "name": "Samwise Gamgee",
+      "universesBeyondImage": "https://cards.scryfall.io/normal/front/a/1/a1b6f13e-63d0-46bf-aa57-23c2dbdf62dd.jpg?1686969973"
+    },
+    {
+      "name": "Saruman of Many Colors",
+      "universesBeyondImage": "https://cards.scryfall.io/normal/front/8/c/8cfcc7ec-87a2-4712-8d82-217bd8600891.jpg?1686969983"
+    },
+    {
+      "name": "Sauron, the Dark Lord",
+      "universesBeyondImage": "https://cards.scryfall.io/normal/front/0/3/034e0929-b2c7-4b5f-94f2-8eaf4fb1a2a1.jpg?1693611218"
+    },
+    {
+      "name": "Sauron's Ransom",
+      "universesBeyondImage": "https://cards.scryfall.io/normal/front/6/b/6b98850c-ad69-42da-b91a-8dc5e226c444.jpg?1686970005"
+    },
+    {
       "name": "Shadow Summoning",
       "universesBeyondImage": "https://cards.scryfall.io/normal/front/e/c/ec0984b2-bed6-41b1-9087-2cfd16749037.jpg?1686970017"
     },
     {
       "name": "Shadowfax, Lord of Horses",
       "universesBeyondImage": "https://cards.scryfall.io/normal/front/4/c/4c7d861d-7832-4c15-8d6c-8c07a9a57891.jpg?1686970028"
+    },
+    {
+      "name": "Shagrat, Loot Bearer",
+      "universesBeyondImage": "https://cards.scryfall.io/normal/front/0/7/0731f64a-15da-4814-82e9-3a42e1657f36.jpg?1686970039"
+    },
+    {
+      "name": "Sharkey, Tyrant of the Shire",
+      "universesBeyondImage": "https://cards.scryfall.io/normal/front/e/0/e0e446bd-8295-4fca-957a-e4710a15d8e8.jpg?1686970050"
     },
     {
       "name": "Nimble Hobbit",
@@ -1464,6 +1664,14 @@ const data = {
       "universesBeyondImage": "https://cards.scryfall.io/normal/front/7/9/7966eb7a-0ef7-470f-9769-0d5f45f0395b.jpg?1686963911"
     },
     {
+      "name": "Shelob, Child of Ungoliant",
+      "universesBeyondImage": "https://cards.scryfall.io/normal/front/a/1/a14c4b29-3363-45ce-9190-0f79e1a0ef7f.jpg?1686970060"
+    },
+    {
+      "name": "Sméagol, Helpful Guide",
+      "universesBeyondImage": "https://cards.scryfall.io/normal/front/1/3/13253f8d-1897-41e8-a904-9e57ac7eff0a.jpg?1686970071"
+    },
+    {
       "name": "Strider, Ranger of the North",
       "universesBeyondImage": "https://cards.scryfall.io/normal/front/5/4/54461d61-a745-467f-9fbe-b5e7a8edbdbf.jpg?1686970082"
     },
@@ -1472,8 +1680,16 @@ const data = {
       "universesBeyondImage": "https://cards.scryfall.io/normal/front/f/6/f6dcd1ca-4943-46e4-bb5d-c14949e21e23.jpg?1686970093"
     },
     {
+      "name": "Tom Bombadil",
+      "universesBeyondImage": "https://cards.scryfall.io/normal/front/2/a/2ab04c49-76a1-4896-8dca-8cb4c615f489.jpg?1686970104"
+    },
+    {
       "name": "Uglúk of the White Hand",
       "universesBeyondImage": "https://cards.scryfall.io/normal/front/e/9/e914c7fc-be3c-4346-bf37-6e10f4998204.jpg?1686970114"
+    },
+    {
+      "name": "Andúril, Flame of the West",
+      "universesBeyondImage": "https://cards.scryfall.io/normal/front/7/e/7e7b9eea-a224-4db1-a089-cb385f7af20c.jpg?1686970125"
     },
     {
       "name": "Barrow-Blade",
@@ -1484,12 +1700,24 @@ const data = {
       "universesBeyondImage": "https://cards.scryfall.io/normal/front/1/5/1500126f-fbe4-4c39-bb06-1a36e2c4682f.jpg?1686970148"
     },
     {
+      "name": "Glamdring",
+      "universesBeyondImage": "https://cards.scryfall.io/normal/front/8/2/8296ebf7-45ed-4b38-acf2-b48d9fb3e706.jpg?1686970159"
+    },
+    {
       "name": "Now for Wrath, Now for Ruin!",
       "universesBeyondImage": "https://cards.scryfall.io/normal/front/c/2/c2e2c80d-7581-46ba-8237-7886b91c19b3.jpg?1687694562"
     },
     {
       "name": "Subjugate the Hobbits",
       "universesBeyondImage": "https://cards.scryfall.io/normal/front/6/2/6206d9f1-6a57-46a2-942f-6f20e33e5d6a.jpg?1686963919"
+    },
+    {
+      "name": "Horn of Gondor",
+      "universesBeyondImage": "https://cards.scryfall.io/normal/front/b/1/b14eaeec-d7ce-462a-90d3-2ae5ff605fdb.jpg?1686970170"
+    },
+    {
+      "name": "Horn of the Mark",
+      "universesBeyondImage": "https://cards.scryfall.io/normal/front/d/d/dd86b71f-d736-426f-bf15-013bc8da1a08.jpg?1686970181"
     },
     {
       "name": "Inherited Envelope",
@@ -1504,6 +1732,28 @@ const data = {
       "universesBeyondImage": "https://cards.scryfall.io/normal/front/b/c/bc95036f-98f2-4ea7-93bb-542ad7064540.jpg?1686970213"
     },
     {
+      "name": "Mithril Coat",
+      "universesBeyondImage": "https://cards.scryfall.io/normal/front/0/f/0fd1fc09-a09d-45e6-8a07-3a8a83b4e6ec.jpg?1686970224"
+    },
+    {
+      "name": "The One Ring",
+      "universesBeyondImage": "https://cards.scryfall.io/normal/front/d/5/d5806e68-1054-458e-866d-1f2470f682b2.jpg?1715080486"
+    },
+    {
+      "name": "Palantír of Orthanc",
+      "nickname": "Mirari, the Fulsome Desire",
+      "contributionInfo": {
+        "contributor": "cgregory",
+        "mtgCardBuilderId": "141412"
+      },
+      "universesBeyondImage": "https://cards.scryfall.io/normal/front/6/e/6efb6a69-562c-4d95-858d-b067444cfd7e.jpg?1686970247",
+      "universesWithinImage": "./cards/Palantír of Orthanc.png"
+    },
+    {
+      "name": "Phial of Galadriel",
+      "universesBeyondImage": "https://cards.scryfall.io/normal/front/a/c/ac6d60fe-681b-495e-813c-c8418f3f29e5.jpg?1686970260"
+    },
+    {
       "name": "Shire Scarecrow",
       "universesBeyondImage": "https://cards.scryfall.io/normal/front/b/6/b60b4f2e-ff47-4762-a803-30e81b665c09.jpg?1686970272"
     },
@@ -1516,8 +1766,20 @@ const data = {
       "universesBeyondImage": "https://cards.scryfall.io/normal/front/a/0/a077a046-300b-41d2-b891-c57ebe983ba2.jpg?1686963929"
     },
     {
+      "name": "Sting, the Glinting Dagger",
+      "universesBeyondImage": "https://cards.scryfall.io/normal/front/a/f/afbec7e7-f5b9-407e-bf96-2e088710e791.jpg?1686970284"
+    },
+    {
       "name": "Stone of Erech",
       "universesBeyondImage": "https://cards.scryfall.io/normal/front/b/c/bc02e193-df33-4eb1-adc1-b51ee931218a.jpg?1686970297"
+    },
+    {
+      "name": "Wizard's Rockets",
+      "universesBeyondImage": "https://cards.scryfall.io/normal/front/1/c/1c6ed742-dfb1-41e2-8f19-184555109e34.jpg?1686970310"
+    },
+    {
+      "name": "Barad-dûr",
+      "universesBeyondImage": "https://cards.scryfall.io/normal/front/e/b/eb5038af-06b0-401e-8dea-a1a8483788ae.jpg?1686970323"
     },
     {
       "name": "Great Hall of the Citadel",
@@ -1528,12 +1790,32 @@ const data = {
       "universesBeyondImage": "https://cards.scryfall.io/normal/front/d/d/dd698f10-b0fc-42fc-84ec-f5a0d96bfa1d.jpg?1687694648"
     },
     {
+      "name": "Minas Tirith",
+      "universesBeyondImage": "https://cards.scryfall.io/normal/front/b/3/b38b6760-616f-4b11-8ce7-ac1223c7fd53.jpg?1686970358"
+    },
+    {
+      "name": "Mines of Moria",
+      "universesBeyondImage": "https://cards.scryfall.io/normal/front/0/b/0be723d6-4ada-4c3f-b87b-8ab83a4bbb8f.jpg?1686970369"
+    },
+    {
+      "name": "Mount Doom",
+      "universesBeyondImage": "https://cards.scryfall.io/normal/front/b/5/b5bc71a1-2344-4bc6-aa60-658cec19d0d6.jpg?1686970382"
+    },
+    {
+      "name": "Rivendell",
+      "universesBeyondImage": "https://cards.scryfall.io/normal/front/b/a/bacd500c-1389-4314-a53e-0ad510d6fb79.jpg?1686970394"
+    },
+    {
       "name": "Gollum, Obsessed Stalker",
       "universesBeyondImage": "https://cards.scryfall.io/normal/front/e/5/e5a43cf0-60b3-4770-945c-41ee3ec54d5a.jpg?1686963939"
     },
     {
       "name": "Reprieve",
       "universesBeyondImage": "https://cards.scryfall.io/normal/front/1/b/1bd3fa8a-6c50-4f7f-9ae3-0810eec5e3db.jpg?1686967885"
+    },
+    {
+      "name": "The Shire",
+      "universesBeyondImage": "https://cards.scryfall.io/normal/front/d/5/d5178a1b-588b-4414-a370-ac6eed51187a.jpg?1686970405"
     },
     {
       "name": "Shire Terrace",
@@ -1688,6 +1970,10 @@ const data = {
       "universesBeyondImage": "https://cards.scryfall.io/normal/front/4/0/409c226b-ef01-4ccd-b23e-d94bdc1e4aa5.jpg?1686964035"
     },
     {
+      "name": "War of the Last Alliance",
+      "universesBeyondImage": "https://cards.scryfall.io/normal/front/6/0/60ddf2cd-5b33-4c8a-a610-8e6a15404dde.jpg?1686967971"
+    },
+    {
       "name": "Feasting Hobbit",
       "universesBeyondImage": "https://cards.scryfall.io/normal/front/1/7/17662301-7284-40d4-af51-45a496c0eac0.jpg?1691108147"
     },
@@ -1710,6 +1996,10 @@ const data = {
     {
       "name": "Haldir, Lórien Lieutenant",
       "universesBeyondImage": "https://cards.scryfall.io/normal/front/4/4/440e5796-9264-4649-bf2f-58826dd0352c.jpg?1686964063"
+    },
+    {
+      "name": "Boromir, Warden of the Tower",
+      "universesBeyondImage": "https://cards.scryfall.io/normal/front/f/6/f6bc3720-2892-4dda-8f30-079a1ac8e1e2.jpg?1686967669"
     },
     {
       "name": "Sauron, Lord of the Rings",
@@ -1746,6 +2036,10 @@ const data = {
     {
       "name": "Prize Pig",
       "universesBeyondImage": "https://cards.scryfall.io/normal/front/a/0/a0b202d8-3c25-467e-86ed-6bea19bb869f.jpg?1686964103"
+    },
+    {
+      "name": "Borne Upon a Wind",
+      "universesBeyondImage": "https://cards.scryfall.io/normal/front/a/9/a9379675-1a32-4e2b-8aaf-5f908c595f31.jpg?1686968037"
     },
     {
       "name": "Travel Through Caradhras",
@@ -1796,12 +2090,21 @@ const data = {
       "universesBeyondImage": "https://cards.scryfall.io/normal/front/1/c/1c7ac04c-8510-468b-aa6f-f249bde9ff87.jpg?1686963734"
     },
     {
+      "name": "Dawn of a New Age",
+      "universesBeyondImage": "https://cards.scryfall.io/normal/front/c/b/cb966ee6-bf1b-4bb6-9277-8de6f3918ae2.jpg?1686967678"
+    },
+    {
       "name": "Orc Army",
       "universesBeyondImage": "https://cards.scryfall.io/normal/front/2/f/2f8b43e8-dd89-452e-b572-8559e19fdea2.jpg?1685551411"
     },
     {
       "name": "Círdan the Shipwright",
       "universesBeyondImage": "https://cards.scryfall.io/normal/front/c/4/c4f23d68-d0de-4b57-b0f9-9c0ca770c3c1.jpg?1686964171"
+    },
+    {
+      "name": "Gandalf, Friend of the Shire",
+      "universesBeyondImage": "https://cards.scryfall.io/normal/front/c/c/cc9cfcc7-be64-4871-8d52-851e43fe3305.jpg?1696231214",
+      "universesWithinImage": "https://cards.scryfall.io/normal/front/1/3/13df67bf-21e2-4c2e-ad39-08a38fc33fdf.jpg?1712859067"
     },
     {
       "name": "Elrond of the White Council",
@@ -1814,6 +2117,10 @@ const data = {
     {
       "name": "Éomer, King of Rohan",
       "universesBeyondImage": "https://cards.scryfall.io/normal/front/5/f/5f48930a-d7bd-410b-995a-4e2837aabb25.jpg?1686964189"
+    },
+    {
+      "name": "Goldberry, River-Daughter",
+      "universesBeyondImage": "https://cards.scryfall.io/normal/front/b/f/bf4f0a7c-620e-4ed8-8da3-fa6564e8a0cd.jpg?1686968111"
     },
     {
       "name": "Erestor of the Council",
@@ -1888,6 +2195,10 @@ const data = {
       "universesBeyondImage": "https://cards.scryfall.io/normal/front/0/c/0ce44270-a684-4489-9077-521456e6dfaa.jpg?1687210977"
     },
     {
+      "name": "Lost Isle Calling",
+      "universesBeyondImage": "https://cards.scryfall.io/normal/front/7/b/7b744230-8127-4d4f-9d40-75e7c2aab77c.jpg?1686968202"
+    },
+    {
       "name": "Merry, Warden of Isengard",
       "universesBeyondImage": "https://cards.scryfall.io/normal/front/5/6/56a66d3b-3308-4db7-8fc1-97bb85bdcbf3.jpg?1686964274"
     },
@@ -1920,8 +2231,16 @@ const data = {
       "universesBeyondImage": "https://cards.scryfall.io/normal/front/a/0/a0a7a648-125a-4cf4-bf8b-e1773d8723ff.jpg?1686964312"
     },
     {
+      "name": "Press the Enemy",
+      "universesBeyondImage": "https://cards.scryfall.io/normal/front/d/f/dfa5380a-480c-4c61-ac52-5debc49c5df9.jpg?1686968246"
+    },
+    {
       "name": "Radagast, Wizard of Wilds",
       "universesBeyondImage": "https://cards.scryfall.io/normal/front/9/5/9573ee62-4fdf-4fca-90e2-10a7d8161764.jpg?1686964322"
+    },
+    {
+      "name": "Rangers of Ithilien",
+      "universesBeyondImage": "https://cards.scryfall.io/normal/front/8/1/819b4208-7a29-41fa-947f-614bf669b300.jpg?1686968256"
     },
     {
       "name": "Riders of Rohan",
@@ -1938,6 +2257,10 @@ const data = {
     {
       "name": "Saruman's Trickery",
       "universesBeyondImage": "https://cards.scryfall.io/normal/front/8/e/8eb6c23b-e52e-4533-9625-884eb0a4d866.jpg?1686968278"
+    },
+    {
+      "name": "Scroll of Isildur",
+      "universesBeyondImage": "https://cards.scryfall.io/normal/front/1/9/195821f4-ba3d-4412-930f-f3656b319dfd.jpg?1688569264"
     },
     {
       "name": "Song of Eärendil",
@@ -1976,6 +2299,10 @@ const data = {
       "universesBeyondImage": "https://cards.scryfall.io/normal/front/d/d/dd1eaa0e-060d-40f1-84c5-f7e8df2f824c.jpg?1686964372"
     },
     {
+      "name": "Storm of Saruman",
+      "universesBeyondImage": "https://cards.scryfall.io/normal/front/5/2/52884e67-c742-4799-9afd-55bc70b2cf40.jpg?1686968322"
+    },
+    {
       "name": "Too Greedily, Too Deep",
       "universesBeyondImage": "https://cards.scryfall.io/normal/front/3/2/328b93f0-5078-4334-9c95-60ecdd17a388.jpg?1686964382"
     },
@@ -1998,6 +2325,10 @@ const data = {
     {
       "name": "Crown of Gondor",
       "universesBeyondImage": "https://cards.scryfall.io/normal/front/0/0/00127acd-a284-4bc8-bdfa-895914e3cd49.jpg?1686964410"
+    },
+    {
+      "name": "The Watcher in the Water",
+      "universesBeyondImage": "https://cards.scryfall.io/normal/front/1/c/1cb8e8bb-75a0-4b5e-b4b3-5d8f3795032d.jpg?1686968354"
     },
     {
       "name": "Hithlain Rope",
@@ -2028,6 +2359,10 @@ const data = {
     {
       "name": "The Black Breath",
       "universesBeyondImage": "https://cards.scryfall.io/normal/front/1/e/1e63983d-c36b-4440-b9e1-baaa6c7c0ba9.jpg?1686968386"
+    },
+    {
+      "name": "Call of the Ring",
+      "universesBeyondImage": "https://cards.scryfall.io/normal/front/a/9/a92a2c5a-e450-494a-b23b-7ac0a6c50535.jpg?1686968397"
     },
     {
       "name": "Relic of Sauron",
@@ -2106,8 +2441,16 @@ const data = {
       "universesBeyondImage": "https://cards.scryfall.io/normal/front/6/7/673c6c12-2513-4d1b-acf0-6a1f741d49dd.jpg?1686968519"
     },
     {
+      "name": "Isildur's Fateful Strike",
+      "universesBeyondImage": "https://cards.scryfall.io/normal/front/4/b/4bf08071-fbf8-463e-9a57-59dbf0280dd8.jpg?1686968531"
+    },
+    {
       "name": "Lash of the Balrog",
       "universesBeyondImage": "https://cards.scryfall.io/normal/front/8/1/812fee97-e145-4458-b495-bc6ad227335b.jpg?1686968542"
+    },
+    {
+      "name": "Lobelia Sackville-Baggins",
+      "universesBeyondImage": "https://cards.scryfall.io/normal/front/8/7/87500b92-3d68-42f3-afa9-f8206b2ebcbb.jpg?1686968553"
     },
     {
       "name": "March from the Black Gate",

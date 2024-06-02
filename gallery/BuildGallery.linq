@@ -20,6 +20,13 @@ async Task Main()
 	
 	var universesWithinCardsByName = GetUniversesWithinCards()
 		.ToDictionary(c => c.Info.Name);
+	var universesWithinCardsMissingUniversesBeyondCards = universesWithinCardsByName.Keys
+		.Except(universesBeyondCards.Select(c => c.Card.Name))
+		.ToArray();
+	if (universesWithinCardsMissingUniversesBeyondCards.Any())
+	{
+		throw new InvalidOperationException($"No UB card found for {string.Join(", ", universesWithinCardsMissingUniversesBeyondCards)}");
+	}
 		
 	var artistsInfo = GetArtistsInfo();
 	var approvedArtistsByName = artistsInfo.Approved.ToDictionary(a => a.Name);
@@ -233,8 +240,9 @@ record ArtistsInfo(
 async Task<List<CardInfo>> GetUniversesBeyondCardsAsync()
 {
 	var allCards = await CacheAsync("all-cards", GetAllCardsAsync);
-	var universesBeyondCards = await CacheAsync("universes-beyond-cards", () => SearchAsync("is:ub -is:reprint"));
-
+	// unique:prints is needed to make sure we capture all sets that contain UB cards. Some promo set codes like pltr won't show up otherwise
+	var universesBeyondCards = await CacheAsync("universes-beyond-cards", () => SearchAsync("is:ub -is:reprint unique:prints"));
+	
 	var allCardsByOracleId = allCards.ToLookup(c => c.Oracle_Id);
 	var universesBeyondSets = universesBeyondCards.Select(c => c.Set).ToHashSet();
 	
