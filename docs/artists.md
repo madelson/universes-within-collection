@@ -12,3 +12,5 @@ These artists have granted permission for their works to be used to make cards f
 
 After being asked, these artists have asked _not_ to have their work used for this project.
 - Hue Teo
+- Rob Brunette
+- Gonzalo Kenny

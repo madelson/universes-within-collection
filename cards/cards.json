@@ -140,5 +140,11 @@
 		"artName": "The Ritual",
 		"artUrl": "https://cara.app/post/8b3386ca-204d-48f2-a7ba-a34c618a92e2",
 		"mtgCardBuilderId": "139910"
+	},
+	"0018": {
+		"name": "Palantír of Orthanc",
+		"nickname": "Mirari, the Fulsome Desire",
+		"contributor": "cgregory",
+		"mtgCardBuilderId": "141412"
 	}
 }
