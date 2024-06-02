@@ -27,7 +27,7 @@ async Task Main()
 	{
 		throw new InvalidOperationException($"No UB card found for {string.Join(", ", universesWithinCardsMissingUniversesBeyondCards)}");
 	}
-		
+
 	var artistsInfo = GetArtistsInfo();
 	var approvedArtistsByName = artistsInfo.Approved.ToDictionary(a => a.Name);
 
@@ -46,7 +46,7 @@ async Task Main()
 				$"{universesWithinCard.Info.Name} has official universes within card!".Dump();
 			}
 
-			artist = universesWithinCard.Info.Artist is { } artistName
+			artist = universesWithinCard.Info.Artist is { } artistName && !universesWithinCard.Info.IsMtgArt
 				? approvedArtistsByName[artistName]
 				: null;
 
@@ -69,6 +69,7 @@ async Task Main()
 					ArtistUrl = artist?.Url,
 					ArtName = universesWithinCard.Info.ArtName,
 					ArtUrl = universesWithinCard.Info.ArtUrl,
+					IsMtgArt = universesWithinCard.Info.IsMtgArt,
 					MtgCardBuilderId = universesWithinCard.Info.MtgCardBuilderId,
 				}
 				: null,
@@ -159,6 +160,8 @@ class GalleryCardContributionInfo
 	public required string? ArtName { get; set; }
 	[JsonProperty(NullValueHandling = NullValueHandling.Ignore)]
 	public required Uri? ArtUrl { get; set; }
+	[JsonProperty(DefaultValueHandling = DefaultValueHandling.Ignore)]
+	public required bool IsMtgArt { get; set; }
 	public required string MtgCardBuilderId { get; set; }
 }
 
@@ -175,10 +178,14 @@ List<UniversesWithinCard> GetUniversesWithinCards()
 	List<UniversesWithinCard> results = [];
 	foreach (var (id, info) in cards)
 	{
-		if (info.Artist != null
-			&& (info.ArtName is null || info.ArtUrl is null))
+		var artIndicators = new[] { info.Artist is null, info.ArtName is null, info.ArtUrl is null };
+		if (artIndicators.Distinct().Count() != artIndicators.Length)
 		{
 			throw new JsonException($"Bad art info for id {id}");			
+		}
+		if (info.MtgArt && info.Artist is null)
+		{
+			throw new JsonException($"Missing artist info for MTG art for id {id}");
 		}
 		
 		var nameSplit = info.Name.Split(" // ", count: 2);
@@ -208,7 +215,8 @@ record UniversesWithinCardInfo(
 	string? Artist,
 	string? ArtName,
 	Uri? ArtUrl,
-	bool ArtCrop,
+	bool IsArtCrop,
+	bool IsMtgArt,
 	[property: JsonProperty(Required = Required.Always)] string MtgCardBuilderId
 );
 

@@ -30,7 +30,7 @@
 		"artist": "Sandara Tang",
 		"artName": "Blue Mage",
 		"artUrl": "https://sandara.artstation.com/projects/NBm81",
-		"artCrop": true,
+		"isArtCrop": true,
 		"mtgCardBuilderId": "132670",
 	},
 	"0005": {
@@ -102,7 +102,7 @@
 	"0013": {
 		"name": "Atomize",
 		"contributor": "madelson",
-		"artCrop": true,
+		"isArtCrop": true,
 		"mtgCardBuilderId": "137593"
 	},
 	"0014": {
@@ -146,5 +146,23 @@
 		"nickname": "Mirari, the Fulsome Desire",
 		"contributor": "cgregory",
 		"mtgCardBuilderId": "141412"
+	},
+	"0020": {
+		"name": "Canoptek Wraith",
+		"nickname": "Tangle Wraith",
+		"contributor": "cgregory",
+		"artist": "Anthony Catillaz",
+		"artName": "Witcher Leshy Hunt",
+		"artUrl": "https://www.artstation.com/artwork/kQWz06",
+		"mtgCardBuilderId": "141718"
+	},
+	"0021": {
+		"name": "ED-E, Lonesome Eyebot",
+		"nickname": "The Warden of Argentum",
+		"contributor": "cgregory",
+		"artist": "Bachzim",
+		"artName": "The Angekett",
+		"artUrl": "https://www.artstation.com/artwork/aYLAdz",
+		"mtgCardBuilderId": "141774"
 	}
 }

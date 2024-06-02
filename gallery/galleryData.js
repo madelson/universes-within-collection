@@ -417,7 +417,17 @@ const data = {
     },
     {
       "name": "Canoptek Wraith",
-      "universesBeyondImage": "https://cards.scryfall.io/normal/front/0/6/06199f88-720f-484a-953e-9189bafbe173.jpg?1673309630"
+      "nickname": "Tangle Wraith",
+      "contributionInfo": {
+        "contributor": "cgregory",
+        "artist": "Anthony Catillaz",
+        "artistUrl": "https://www.artstation.com/artico_luminos",
+        "artName": "Witcher Leshy Hunt",
+        "artUrl": "https://www.artstation.com/artwork/kQWz06",
+        "mtgCardBuilderId": "141718"
+      },
+      "universesBeyondImage": "https://cards.scryfall.io/normal/front/0/6/06199f88-720f-484a-953e-9189bafbe173.jpg?1673309630",
+      "universesWithinImage": "./cards/Canoptek Wraith.png"
     },
     {
       "name": "Convergence of Dominion",
@@ -3973,7 +3983,17 @@ const data = {
     },
     {
       "name": "ED-E, Lonesome Eyebot",
-      "universesBeyondImage": "https://cards.scryfall.io/normal/front/b/3/b319f0e1-6f18-4fea-9f72-a21da5513aa4.jpg?1708742726"
+      "nickname": "The Warden of Argentum",
+      "contributionInfo": {
+        "contributor": "cgregory",
+        "artist": "Bachzim",
+        "artistUrl": "https://www.artstation.com/bachzim",
+        "artName": "The Angekett",
+        "artUrl": "https://www.artstation.com/artwork/aYLAdz",
+        "mtgCardBuilderId": "141774"
+      },
+      "universesBeyondImage": "https://cards.scryfall.io/normal/front/b/3/b319f0e1-6f18-4fea-9f72-a21da5513aa4.jpg?1708742726",
+      "universesWithinImage": "./cards/ED-E, Lonesome Eyebot.png"
     },
     {
       "name": "Endurance Bobblehead",

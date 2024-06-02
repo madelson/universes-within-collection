@@ -42,7 +42,9 @@ function cardTemplate(card) {
 		${card.contributionInfo 
 			? `UWC version contributed by ${card.contributionInfo.contributor}
 				${card.contributionInfo.artist 
-					? `<br/>ART: <i><a href="${card.contributionInfo.artUrl}">${card.contributionInfo.artName}</a></i> by <a href="${card.contributionInfo.artistUrl}">${card.contributionInfo.artist}</a>`
+					? card.contributionInfo.isMtgArt
+						? `<br/>MTG ART: <i><a href="${card.contributionInfo.artUrl}">${card.contributionInfo.artName}</a></i> by ${card.contributionInfo.artistUrl}`
+						: `<br/>ART: <i><a href="${card.contributionInfo.artUrl}">${card.contributionInfo.artName}</a></i> by <a href="${card.contributionInfo.artistUrl}">${card.contributionInfo.artist}</a>`
 					: ''}`
 			: card.universesWithinImage ? 'Official Universes Within card'
 			: ''}
