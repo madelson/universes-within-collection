@@ -4,6 +4,12 @@ The "Universes Within Collection" (UWC) is a personal, non-commercial project wh
 
 **Check out [the card gallery](https://madelson.github.io/universes-within-collection/).**
 
+## Using the cards
+
+You may freely use the card images as proxies by downloading them from [the gallery](https://madelson.github.io/universes-within-collection/).
+
+If you play digitally on Tabletop Simulator, you can leverage my [importer tool](https://github.com/madelson/TabletopSimulatorMTGDeckImporter) to substitute in avaialble UWC cards when playing.
+
 ## Purpose & Goals
 
 While Magic's Universes Beyond cards have many interesting mechanical designs, for me many of the IPs don't mesh well aesthetically with other Magic cards. Wizards has created the concept of "Universes Within" variants in part to address this issue, but they have also made it clear that there is no plan for Universes Within printings to keep up with the ever-growing list of new Universes Beyond cards.
