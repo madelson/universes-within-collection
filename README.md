@@ -53,7 +53,7 @@ Is there a typo in a posted card? Want to spruce up the gallery? Just create an 
 
 ### What about aspects of Magic IPs that are baked into rules-relevant parts of the cards?
 
-It isn't uncommon for Universes Beyond cards to sport [IP-specific types](https://scryfall.com/card/pip/126/agility-bobblehead) or [IP-specific keyword mechanics](https://scryfall.com/card/ltr/43/birthday-escape). These unfortunately can't be removed without breaking rules compatibility, but when selecting are for a re-concepted card these can be treated as blank/wildcard.
+It isn't uncommon for Universes Beyond cards to sport [IP-specific types](https://scryfall.com/card/pip/126/agility-bobblehead) or [IP-specific keyword mechanics](https://scryfall.com/card/ltr/43/birthday-escape). These generally cannot be removed or renamed without breaking rules compatibility, but when selecting are for a re-concepted card these can be treated as blank/wildcard. [Mark Rosewater has said](https://markrosewater.tumblr.com/post/752198986196271104/i-think-rad-counters-are-very-interesting-design) that Wizards can rename mechanics with very UB-focused names, so I'm open to that in a limited capacity so long as the original name gets referenced in reminder text to avoid ambiguity.
 
 Note that cards that reference [IP-specific tokens](https://scryfall.com/card/pip/110/moira-brown-guide-author) can be addressed by creating a renamed UWC variant of the token and referencing that.
 
