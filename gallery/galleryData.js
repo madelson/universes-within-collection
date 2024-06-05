@@ -4089,7 +4089,19 @@ const data = {
     },
     {
       "name": "Pip-Boy 3000",
-      "universesBeyondImage": "https://cards.scryfall.io/normal/front/c/2/c2248694-aab0-47a8-ae8b-8d5283075e10.jpg?1708742764"
+      "nickname": "Miner's Talisman",
+      "contributionInfo": {
+        "contributor": "madelson",
+        "front": {
+          "artist": "Andrea Corsini",
+          "artistUrl": "https://linktr.ee/Not_andreas",
+          "artName": "A dwarf's figurine",
+          "artUrl": "https://cara.app/post/2a2677ea-8267-4e5b-bdb0-6e69a4f0f0e6",
+          "mtgCardBuilderId": "143018"
+        }
+      },
+      "universesBeyondImage": "https://cards.scryfall.io/normal/front/c/2/c2248694-aab0-47a8-ae8b-8d5283075e10.jpg?1708742764",
+      "universesWithinImage": "./cards/Pip-Boy 3000.png"
     },
     {
       "name": "Recon Craft Theta",

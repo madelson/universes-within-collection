@@ -181,5 +181,14 @@
 		"artName": "The Angekett",
 		"artUrl": "https://www.artstation.com/artwork/aYLAdz",
 		"mtgCardBuilderId": "141774"
+	},
+	"0022": {
+		"name": "Pip-Boy 3000",
+		"nickname": "Miner's Talisman",
+		"contributor": "madelson",
+		"artist": "Andrea Corsini",
+		"artName": "A dwarf's figurine",
+		"artUrl": "https://cara.app/post/2a2677ea-8267-4e5b-bdb0-6e69a4f0f0e6",
+		"mtgCardBuilderId": "143018"
 	}
 }
