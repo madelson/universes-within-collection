@@ -190,5 +190,11 @@
 		"artName": "A dwarf's figurine",
 		"artUrl": "https://cara.app/post/2a2677ea-8267-4e5b-bdb0-6e69a4f0f0e6",
 		"mtgCardBuilderId": "143018"
+	},
+	"0023": {
+		"name": "Cleopatra, Exiled Pharaoh",
+		"nickname": "Hapatra, the Broken Fang",
+		"contributor": "madelson",
+		"mtgCardBuilderId": "143032"
 	}
 }

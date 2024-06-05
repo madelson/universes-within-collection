@@ -4670,7 +4670,15 @@ const data = {
     },
     {
       "name": "Cleopatra, Exiled Pharaoh",
-      "universesBeyondImage": "https://cards.scryfall.io/normal/front/7/6/769bbbb3-37e9-47ec-9cee-db63672275e6.jpg?1708706822"
+      "nickname": "Hapatra, the Broken Fang",
+      "contributionInfo": {
+        "contributor": "madelson",
+        "front": {
+          "mtgCardBuilderId": "143032"
+        }
+      },
+      "universesBeyondImage": "https://cards.scryfall.io/normal/front/7/6/769bbbb3-37e9-47ec-9cee-db63672275e6.jpg?1708706822",
+      "universesWithinImage": "./cards/Cleopatra, Exiled Pharaoh.png"
     },
     {
       "name": "The Animus",
