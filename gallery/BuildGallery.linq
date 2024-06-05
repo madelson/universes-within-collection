@@ -7,6 +7,7 @@
   <Namespace>System.Net</Namespace>
   <Namespace>System.Net.Http</Namespace>
   <Namespace>System.Threading.Tasks</Namespace>
+  <Namespace>System.Runtime.CompilerServices</Namespace>
 </Query>
 
 #nullable enable
@@ -38,7 +39,7 @@ async Task Main()
 		var universesWithinCard = universesWithinCardsByName.TryGetValue(card.Card.Name, out var c) ? c : null;
 		var universesWithinName = card.OfficialUniversesWithinCard?.Name ?? universesWithinCard?.Info.Nickname;
 		
-		ApprovedArtistInfo? artist;
+		ApprovedArtistInfo? artist, backArtist;
 		if (universesWithinCard != null)
 		{
 			if (card.OfficialUniversesWithinCard != null)
@@ -46,16 +47,22 @@ async Task Main()
 				$"{universesWithinCard.Info.Name} has official universes within card!".Dump();
 			}
 
-			artist = universesWithinCard.Info.Artist is { } artistName && !universesWithinCard.Info.IsMtgArt
-				? approvedArtistsByName[artistName]
-				: null;
-
-			if (artist?.ApprovedWorks is { } works && !works.Contains(universesWithinCard.Info.ArtName, StringComparer.OrdinalIgnoreCase))
+			artist = GetArtist(universesWithinCard.Info.Artist, universesWithinCard.Info.ArtName, universesWithinCard.Info.IsMtgArt);
+			backArtist = GetArtist(universesWithinCard.Info.BackArtist, universesWithinCard.Info.BackArtName, universesWithinCard.Info.IsBackMtgArt);
+			
+			ApprovedArtistInfo? GetArtist(string? artistName, string? artName, bool isMtgArt)
 			{
-				throw new InvalidOperationException($"Unapproved artwork {universesWithinCard.Info.ArtName}");
+				var artistInfo = artistName != null && !isMtgArt
+					? approvedArtistsByName[artistName]
+					: null;
+				if (artistInfo?.ApprovedWorks is { } works && !works.Contains(artName, StringComparer.OrdinalIgnoreCase))
+				{
+					throw new InvalidOperationException($"Unapproved artwork {artName}");
+				}
+				return artistInfo;
 			}
 		}
-		else { artist = null; }
+		else { artist = backArtist = null; }
 		
 		galleryCards.Add(new()
 		{
@@ -65,12 +72,26 @@ async Task Main()
 				? new()
 				{
 					Contributor = universesWithinCard.Info.Contributor,
-					Artist = universesWithinCard.Info.Artist,
-					ArtistUrl = artist?.Url,
-					ArtName = universesWithinCard.Info.ArtName,
-					ArtUrl = universesWithinCard.Info.ArtUrl,
-					IsMtgArt = universesWithinCard.Info.IsMtgArt,
-					MtgCardBuilderId = universesWithinCard.Info.MtgCardBuilderId,
+					Front = new()
+					{
+						Artist = universesWithinCard.Info.Artist,
+						ArtistUrl = artist?.Url,
+						ArtName = universesWithinCard.Info.ArtName,
+						ArtUrl = universesWithinCard.Info.ArtUrl,
+						IsMtgArt = universesWithinCard.Info.IsMtgArt,
+						MtgCardBuilderId = universesWithinCard.Info.MtgCardBuilderId,
+					},
+					Back = universesWithinCard.Info.BackMtgCardBuilderId is null
+						? null
+						: new()
+						{
+							Artist = universesWithinCard.Info.BackArtist,
+							ArtistUrl = backArtist?.Url,
+							ArtName = universesWithinCard.Info.BackArtName,
+							ArtUrl = universesWithinCard.Info.BackArtUrl,
+							IsMtgArt = universesWithinCard.Info.IsBackMtgArt,
+							MtgCardBuilderId = universesWithinCard.Info.BackMtgCardBuilderId,
+						}
 				}
 				: null,
 			UniversesBeyondImage = card.Card.GetFrontImage(),
@@ -152,6 +173,14 @@ class GalleryCard
 class GalleryCardContributionInfo
 {
 	public required string Contributor { get; set; }
+	public required GalleryCardFace Front { get; set; }
+	[JsonProperty(NullValueHandling = NullValueHandling.Ignore)]
+	public required GalleryCardFace? Back { get; set; }
+}
+
+[JsonObject(NamingStrategyType = typeof(CamelCaseNamingStrategy))]
+class GalleryCardFace
+{
 	[JsonProperty(NullValueHandling = NullValueHandling.Ignore)]
 	public required string? Artist { get; set; }
 	[JsonProperty(NullValueHandling = NullValueHandling.Ignore)]
@@ -179,13 +208,23 @@ List<UniversesWithinCard> GetUniversesWithinCards()
 	foreach (var (id, info) in cards)
 	{
 		var artIndicators = new[] { info.Artist is null, info.ArtName is null, info.ArtUrl is null };
-		if (artIndicators.Distinct().Count() != artIndicators.Length)
+		if (artIndicators.Distinct().Count() != 1)
 		{
 			throw new JsonException($"Bad art info for id {id}");			
 		}
-		if (info.MtgArt && info.Artist is null)
+		if (info.IsMtgArt && info.Artist is null)
 		{
 			throw new JsonException($"Missing artist info for MTG art for id {id}");
+		}
+		
+		var backArtIndicators = new[] { info.BackArtist is null, info.BackArtName is null, info.BackArtUrl is null };
+		if (backArtIndicators.Distinct().Count() != 1)
+		{
+			throw new JsonException($"Bad back art info for id {id}");
+		}
+		if (info.IsBackMtgArt && info.BackArtist is null)
+		{
+			throw new JsonException($"Missing artist info for back MTG art for id {id}");
 		}
 		
 		var nameSplit = info.Name.Split(" // ", count: 2);
@@ -217,8 +256,13 @@ record UniversesWithinCardInfo(
 	Uri? ArtUrl,
 	bool IsArtCrop,
 	bool IsMtgArt,
-	[property: JsonProperty(Required = Required.Always)] string MtgCardBuilderId
-);
+	[property: JsonProperty(Required = Required.Always)] string MtgCardBuilderId,
+	string? BackArtist,
+	string? BackArtName,
+	Uri? BackArtUrl,
+	bool IsBackArtCrop,
+	bool IsBackMtgArt,
+	string? BackMtgCardBuilderId);
 
 class UniversesWithinCard
 {

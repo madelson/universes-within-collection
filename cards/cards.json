@@ -147,6 +147,23 @@
 		"contributor": "cgregory",
 		"mtgCardBuilderId": "141412"
 	},
+	"0019": {
+		"name": "Starscream, Power Hungry // Starscream, Seeker Leader",
+		"nickname": "Gonti, Night Ship Captain // Gonti's Night Ship",
+		"contributor": "cgregory",
+		"artist": "Clint Clearly",
+		"artName": "Aether Revolt",
+		"artUrl": "https://www.deviantart.com/clintcearley/art/Aether-Revolt-656650571",
+		"isArtCrop": true,
+		"isMtgArt": true,
+		"mtgCardBuilderId": "141696",
+		"backArtist": "Adam Paquette",
+		"backArtName": "Spirebluff Canal",
+		"backArtUrl": "https://cards.scryfall.io/art_crop/front/4/e/4e587ea7-0632-4789-ba75-3c410da2bb96.jpg?1576383574",
+		"isBackArtCrop": true,
+		"isBackMtgArt": true,
+		"backMtgCardBuilderId": "142987"
+	},
 	"0020": {
 		"name": "Canoptek Wraith",
 		"nickname": "Tangle Wraith",
