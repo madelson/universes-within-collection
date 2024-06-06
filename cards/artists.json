@@ -26,7 +26,19 @@
 			"name": "Bachzim",
 			"url": "https://www.artstation.com/bachzim",
 			"contact": "artstation.com email"
+		},		
+		{
+			"name": "Santiago Rosas / @firos_art",
+			"url": "https://www.santiagorosasart.com/",
+			"contact": "artstation.com",
+			"notes": "Check website for works not on Artstation; can ask about those. Diamonds and Dark to Light were two I asked about which were NOT approved",
+			"approvedWorks": ["The Compleation of Atraxa", "Cosmic Allure", "Staroid Avatar", "Leviathan", "Roar from the Void", "Nightmare Hydra", "Spectre", "Coil", "Awoken Colossus", "Crimson", "Void", "Emissary of Proliferation", "Yawgmoth, Lord of Phyrexia"]
 		},
+		{
+			"name": "Thomas Ricci",
+			"contact": "artstation.com",
+			"url": "https://artrhino.artstation.com/"
+		}
 	],
 	"declined": [
 		{
@@ -125,14 +137,6 @@
 		},
 		{
 			"name": "Zachary St. Amand",
-			"contact": "artstation.com"
-		},
-		{
-			"name": "Santiago Rosas",
-			"contact": "artstation.com"
-		},
-		{
-			"name": "Thomas Ricci",
 			"contact": "artstation.com"
 		}
 	],
