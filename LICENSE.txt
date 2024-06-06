@@ -1,0 +1,12 @@
+The contents of this repository, including but not limited to all Universes Within Collection card images, are made available for use subject to the following conditions.
+
+1. The contents and any modifications made to it MAY NOT be used for commercial purposes. Any usage of the contents for commercial purposes is considered a breach of this License.
+
+2. The contents and any modifications made to it MAY NOT be used for the purpose of training or improving machine learning algorithms, including but not limited to artificial intelligence, natural language processing, or data mining. This condition applies to any derivatives, modifications, or updates to the contents. Any usage of the contents in an AI-training dataset is considered a breach of this License.
+
+3. The contents and any modifications made to it MUST retain any artist attribution.
+
+4. So long as it does not conflict with the above conditions, the contents may be used for the purpose of providing proxies/digital alters of Magic, the Gathering cards when playing Magic, the Gathering, building Magic, the Gathering decks, or engaging in Magic, the Gathering Community activities. The contents MAY NOT be used for any other purpose.
+
+THE CONTENTS IS PROVIDED “AS IS”, WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE CONTENTS OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
+
