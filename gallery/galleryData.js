@@ -1153,7 +1153,15 @@ const data = {
     },
     {
       "name": "The Gaffer",
-      "universesBeyondImage": "https://cards.scryfall.io/normal/front/8/6/863ed552-dc6d-4910-b188-3cefc3ebf0ed.jpg?1686963805"
+      "nickname": "Gerwyn, Codger of Dundoolin",
+      "contributionInfo": {
+        "contributor": "cgregory",
+        "front": {
+          "mtgCardBuilderId": "144252"
+        }
+      },
+      "universesBeyondImage": "https://cards.scryfall.io/normal/front/8/6/863ed552-dc6d-4910-b188-3cefc3ebf0ed.jpg?1686963805",
+      "universesWithinImage": "./cards/The Gaffer.png"
     },
     {
       "name": "Éomer, Marshal of Rohan",
@@ -1541,7 +1549,15 @@ const data = {
     },
     {
       "name": "The Battle of Bywater",
-      "universesBeyondImage": "https://cards.scryfall.io/normal/front/9/b/9bae7a4d-9117-43c5-a048-80a0ddadc034.jpg?1708013075"
+      "nickname": "The Battle of Kinsbaile",
+      "contributionInfo": {
+        "contributor": "cgregory",
+        "front": {
+          "mtgCardBuilderId": "144253"
+        }
+      },
+      "universesBeyondImage": "https://cards.scryfall.io/normal/front/9/b/9bae7a4d-9117-43c5-a048-80a0ddadc034.jpg?1708013075",
+      "universesWithinImage": "./cards/The Battle of Bywater.png"
     },
     {
       "name": "Denethor, Stone Seer",
@@ -1641,7 +1657,14 @@ const data = {
     },
     {
       "name": "Lost to Legend",
-      "universesBeyondImage": "https://cards.scryfall.io/normal/front/c/4/c4e40481-aeaa-4b3d-a020-e9b6d7c11992.jpg?1686967846"
+      "contributionInfo": {
+        "contributor": "cgregory",
+        "front": {
+          "mtgCardBuilderId": "144255"
+        }
+      },
+      "universesBeyondImage": "https://cards.scryfall.io/normal/front/c/4/c4e40481-aeaa-4b3d-a020-e9b6d7c11992.jpg?1686967846",
+      "universesWithinImage": "./cards/Lost to Legend.png"
     },
     {
       "name": "Monstrosity of the Lake",
@@ -1861,7 +1884,15 @@ const data = {
     },
     {
       "name": "Rosie Cotton of South Lane",
-      "universesBeyondImage": "https://cards.scryfall.io/normal/front/7/5/75338f49-1f02-4333-87e4-5779ef14e688.jpg?1686967894"
+      "nickname": "Róisín Goldmeadow",
+      "contributionInfo": {
+        "contributor": "cgregory",
+        "front": {
+          "mtgCardBuilderId": "144251"
+        }
+      },
+      "universesBeyondImage": "https://cards.scryfall.io/normal/front/7/5/75338f49-1f02-4333-87e4-5779ef14e688.jpg?1686967894",
+      "universesWithinImage": "./cards/Rosie Cotton of South Lane.png"
     },
     {
       "name": "Rapacious Guest",
@@ -3652,7 +3683,19 @@ const data = {
     },
     {
       "name": "Rammas Echor, Ancient Shield",
-      "universesBeyondImage": "https://cards.scryfall.io/normal/front/5/5/558c1fcc-cb01-4031-ada5-4e39d65aee27.jpg?1695346528"
+      "nickname": "Palace of the Hermit King",
+      "contributionInfo": {
+        "contributor": "cgregory",
+        "front": {
+          "artist": "Anthony Catillaz",
+          "artistUrl": "https://www.artstation.com/artico_luminos",
+          "artName": "Mountain Trail",
+          "artUrl": "https://www.artstation.com/artwork/YBqXW6",
+          "mtgCardBuilderId": "144254"
+        }
+      },
+      "universesBeyondImage": "https://cards.scryfall.io/normal/front/5/5/558c1fcc-cb01-4031-ada5-4e39d65aee27.jpg?1695346528",
+      "universesWithinImage": "./cards/Rammas Echor, Ancient Shield.png"
     },
     {
       "name": "Courageous Resolve",

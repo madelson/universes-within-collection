@@ -205,5 +205,37 @@
 		"artName": "It came from nature",
 		"artUrl": "https://www.artstation.com/artwork/nQmmn4",
 		"mtgCardBuilderId": "144097"
+	},
+	"0025": {
+		"name": "Rosie Cotton of South Lane",
+		"nickname": "Róisín Goldmeadow",
+		"contributor": "cgregory",
+		"mtgCardBuilderId": "144251"
+	},
+	"0026": {
+		"name": "The Gaffer",
+		"nickname": "Gerwyn, Codger of Dundoolin",
+		"contributor": "cgregory",
+		"mtgCardBuilderId": "144252"
+	},
+	"0027": {
+		"name": "The Battle of Bywater",
+		"nickname": "The Battle of Kinsbaile",
+		"contributor": "cgregory",
+		"mtgCardBuilderId": "144253"
+	},
+	"0028": {
+		"name": "Rammas Echor, Ancient Shield",
+		"nickname": "Palace of the Hermit King",
+		"contributor": "cgregory",
+		"artist": "Anthony Catillaz",
+		"artName": "Mountain Trail",
+		"artUrl": "https://www.artstation.com/artwork/YBqXW6",
+		"mtgCardBuilderId": "144254"
+	},
+	"0029": {
+		"name": "Lost to Legend",
+		"contributor": "cgregory",
+		"mtgCardBuilderId": "144255"
 	}
 }
