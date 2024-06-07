@@ -4516,7 +4516,19 @@ const data = {
     },
     {
       "name": "Harold and Bob, First Numens",
-      "universesBeyondImage": "https://cards.scryfall.io/normal/front/d/7/d730ac69-20ec-4ef3-85ee-a5fd24e5f277.jpg?1709431404"
+      "nickname": "Gnashroot, Krosan Aberration",
+      "contributionInfo": {
+        "contributor": "madelson",
+        "front": {
+          "artist": "Thomas Ricci",
+          "artistUrl": "https://artrhino.artstation.com/",
+          "artName": "It came from nature",
+          "artUrl": "https://www.artstation.com/artwork/nQmmn4",
+          "mtgCardBuilderId": "144097"
+        }
+      },
+      "universesBeyondImage": "https://cards.scryfall.io/normal/front/d/7/d730ac69-20ec-4ef3-85ee-a5fd24e5f277.jpg?1709431404",
+      "universesWithinImage": "./cards/Harold and Bob, First Numens.png"
     },
     {
       "name": "Lily Bowen, Raging Grandma",

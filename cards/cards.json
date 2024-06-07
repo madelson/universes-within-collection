@@ -196,5 +196,14 @@
 		"nickname": "Hapatra, the Broken Fang",
 		"contributor": "madelson",
 		"mtgCardBuilderId": "143032"
+	},
+	"0024": {
+		"name": "Harold and Bob, First Numens",
+		"nickname": "Gnashroot, Krosan Aberration",
+		"contributor": "madelson",
+		"artist": "Thomas Ricci",
+		"artName": "It came from nature",
+		"artUrl": "https://www.artstation.com/artwork/nQmmn4",
+		"mtgCardBuilderId": "144097"
 	}
 }
