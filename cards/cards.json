@@ -237,5 +237,14 @@
 		"name": "Lost to Legend",
 		"contributor": "cgregory",
 		"mtgCardBuilderId": "144255"
+	},
+	"0030": {
+		"name": "Adipose Offspring",
+		"nickname": "Parasitic Progeny",
+		"contributor": "cgregory",
+		"artist": "Sandara Tang",
+		"artName": "Ganados",
+		"artUrl": "https://www.artstation.com/artwork/qADARN",
+		"mtgCardBuilderId": "144257"
 	}
 }

@@ -2554,7 +2554,19 @@ const data = {
     },
     {
       "name": "Adipose Offspring",
-      "universesBeyondImage": "https://cards.scryfall.io/normal/front/6/8/68f91092-b679-46c1-9f0c-3b286ee1d02f.jpg?1696636514"
+      "nickname": "Parasitic Progeny",
+      "contributionInfo": {
+        "contributor": "cgregory",
+        "front": {
+          "artist": "Sandara Tang",
+          "artistUrl": "https://sandara.artstation.com/",
+          "artName": "Ganados",
+          "artUrl": "https://www.artstation.com/artwork/qADARN",
+          "mtgCardBuilderId": "144257"
+        }
+      },
+      "universesBeyondImage": "https://cards.scryfall.io/normal/front/6/8/68f91092-b679-46c1-9f0c-3b286ee1d02f.jpg?1696636514",
+      "universesWithinImage": "./cards/Adipose Offspring.png"
     },
     {
       "name": "Fish",
