@@ -28,11 +28,14 @@ async Task Main()
 	{
 		throw new InvalidOperationException($"No UB card found for {string.Join(", ", universesWithinCardsMissingUniversesBeyondCards)}");
 	}
+	
+	// Generate gallery data
 
 	var artistsInfo = GetArtistsInfo();
 	var approvedArtistsByName = artistsInfo.Approved.ToDictionary(a => a.Name);
 
 	List<GalleryCard> galleryCards = [];
+	Dictionary<GalleryCard, string> oracleIds = [];
 	foreach (var card in universesBeyondCards.OrderBy(c => c.Card.Released_At).ThenBy(c => c.Card.Collector_Number))
 	{
 		var universesBeyondName = card.Card.Flavor_Name ?? card.Card.Name;
@@ -63,7 +66,7 @@ async Task Main()
 			}
 		}
 		else { artist = backArtist = null; }
-		
+
 		galleryCards.Add(new()
 		{
 			Name = universesBeyondName,
@@ -99,11 +102,29 @@ async Task Main()
 			UniversesWithinImage = card.OfficialUniversesWithinCard?.GetFrontImage() ?? MakeUrlFromCardPath(universesWithinCard?.FrontImage),
 			UniversesWithinBackImage = card.OfficialUniversesWithinCard?.GetBackImage() ?? MakeUrlFromCardPath(universesWithinCard?.BackImage),
 		});
+		oracleIds.Add(galleryCards[^1], card.Card.Oracle_Id);
 	}
 	
 	var galleryData = new { cards = galleryCards };
 
 	File.WriteAllText(Path.Combine(Path.GetDirectoryName(Util.CurrentQueryPath)!, "galleryData.js"), $"const data = {JsonConvert.SerializeObject(galleryData, Newtonsoft.Json.Formatting.Indented)}; export default data;");
+
+	// Generate card data (for importer consumption)
+
+	string ToAbsoluteUrl(string relativeUrl) => $"https://madelson.github.io/universes-within-collection{relativeUrl.TrimStart('.')}";
+	var cardData = galleryCards.Where(c => c.ContributionInfo != null)
+		.Select(c => new 
+		{ 
+			OracleId = oracleIds[c],
+			c.Name, 
+			c.Nickname, 
+			Image = ToAbsoluteUrl(c.UniversesWithinImage!), 
+			BackImage = c.UniversesWithinBackImage != null ? ToAbsoluteUrl(c.UniversesWithinBackImage) : null 
+		})
+		.ToArray();
+	File.WriteAllText(Path.Combine(Path.GetDirectoryName(Util.CurrentQueryPath)!, "cardData.json"), JsonConvert.SerializeObject(cardData, Newtonsoft.Json.Formatting.Indented));
+	
+	// Generate artists page
 	
 	StringBuilder artistsPage = new();
 	artistsPage.AppendLine("# Approved artists").AppendLine();

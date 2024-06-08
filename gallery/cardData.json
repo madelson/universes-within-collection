@@ -1,0 +1,212 @@
+[
+  {
+    "OracleId": "61849685-b407-4ed0-aafc-ec3a003200b9",
+    "Name": "Canoptek Wraith",
+    "Nickname": "Tangle Wraith",
+    "Image": "https://madelson.github.io/universes-within-collection/cards/Canoptek Wraith.png",
+    "BackImage": null
+  },
+  {
+    "OracleId": "3e924a35-0e08-4050-b33a-a143d2ab5aea",
+    "Name": "Starscream, Power Hungry // Starscream, Seeker Leader",
+    "Nickname": "Gonti, Night Ship Captain // Gonti's Night Ship",
+    "Image": "https://madelson.github.io/universes-within-collection/cards/Starscream, Power Hungry.png",
+    "BackImage": "https://madelson.github.io/universes-within-collection/cards/Starscream, Seeker Leader.png"
+  },
+  {
+    "OracleId": "a177295e-3b58-4e46-a1cb-fc003a7a0848",
+    "Name": "The Gaffer",
+    "Nickname": "Gerwyn, Codger of Dundoolin",
+    "Image": "https://madelson.github.io/universes-within-collection/cards/The Gaffer.png",
+    "BackImage": null
+  },
+  {
+    "OracleId": "a94c191d-a938-458e-bc1b-2f44fd8873a3",
+    "Name": "The Battle of Bywater",
+    "Nickname": "The Battle of Kinsbaile",
+    "Image": "https://madelson.github.io/universes-within-collection/cards/The Battle of Bywater.png",
+    "BackImage": null
+  },
+  {
+    "OracleId": "a92edf30-6c7f-481c-855e-2a7dc4963ea7",
+    "Name": "Lost to Legend",
+    "Nickname": null,
+    "Image": "https://madelson.github.io/universes-within-collection/cards/Lost to Legend.png",
+    "BackImage": null
+  },
+  {
+    "OracleId": "7798a4d9-1c1d-48e6-b9a2-ecd6aec1efa7",
+    "Name": "Palantír of Orthanc",
+    "Nickname": "Mirari, the Fulsome Desire",
+    "Image": "https://madelson.github.io/universes-within-collection/cards/Palantír of Orthanc.png",
+    "BackImage": null
+  },
+  {
+    "OracleId": "168d5711-4459-440f-8de4-aabffd47c44d",
+    "Name": "Rosie Cotton of South Lane",
+    "Nickname": "Róisín Goldmeadow",
+    "Image": "https://madelson.github.io/universes-within-collection/cards/Rosie Cotton of South Lane.png",
+    "BackImage": null
+  },
+  {
+    "OracleId": "76dfa5c2-1ea6-4f89-9903-26998636845e",
+    "Name": "Hithlain Rope",
+    "Nickname": "Skyfisher's Rope",
+    "Image": "https://madelson.github.io/universes-within-collection/cards/Hithlain Rope.png",
+    "BackImage": null
+  },
+  {
+    "OracleId": "1e21e57e-3bc9-41a8-9746-57b583a5ad63",
+    "Name": "Adipose Offspring",
+    "Nickname": "Parasitic Progeny",
+    "Image": "https://madelson.github.io/universes-within-collection/cards/Adipose Offspring.png",
+    "BackImage": null
+  },
+  {
+    "OracleId": "cb9abc41-07f8-4a06-b7b9-9dd6be526e42",
+    "Name": "Great Intelligence's Plan",
+    "Nickname": "Duskmantle Bargain",
+    "Image": "https://madelson.github.io/universes-within-collection/cards/Great Intelligence's Plan.png",
+    "BackImage": null
+  },
+  {
+    "OracleId": "0e61a062-f13a-4958-91de-909650c662a8",
+    "Name": "Barbara Wright",
+    "Nickname": "Elara, Tapestry Weaver",
+    "Image": "https://madelson.github.io/universes-within-collection/cards/Barbara Wright.png",
+    "BackImage": null
+  },
+  {
+    "OracleId": "cd68cc31-12fd-48ff-b37b-bccfe4172974",
+    "Name": "Sonic Screwdriver",
+    "Nickname": "Voltaic Sphere",
+    "Image": "https://madelson.github.io/universes-within-collection/cards/Sonic Screwdriver.png",
+    "BackImage": null
+  },
+  {
+    "OracleId": "64fe83b1-5aae-4433-82c3-a11c8c83137e",
+    "Name": "Four Knocks",
+    "Nickname": "Pursuit of Wisdom",
+    "Image": "https://madelson.github.io/universes-within-collection/cards/Four Knocks.png",
+    "BackImage": null
+  },
+  {
+    "OracleId": "ac46f435-5b25-4b46-b89f-175bca81b9ad",
+    "Name": "Tegan Jovanka",
+    "Nickname": "Ragnhild Stormspear",
+    "Image": "https://madelson.github.io/universes-within-collection/cards/Tegan Jovanka.png",
+    "BackImage": null
+  },
+  {
+    "OracleId": "94357494-4ccc-43d4-b2d4-351581cbf9b6",
+    "Name": "Auton Soldier",
+    "Nickname": "Adaptive Gearwardens",
+    "Image": "https://madelson.github.io/universes-within-collection/cards/Auton Soldier.png",
+    "BackImage": null
+  },
+  {
+    "OracleId": "6b5565a2-be5c-46b1-99df-8094e77446cc",
+    "Name": "Renegade Silent",
+    "Nickname": "Whispering Lurker",
+    "Image": "https://madelson.github.io/universes-within-collection/cards/Renegade Silent.png",
+    "BackImage": null
+  },
+  {
+    "OracleId": "9ae26054-caf4-47a3-b4bb-3dc14a634740",
+    "Name": "Vashta Nerada",
+    "Nickname": "Umbral Reaper",
+    "Image": "https://madelson.github.io/universes-within-collection/cards/Vashta Nerada.png",
+    "BackImage": null
+  },
+  {
+    "OracleId": "53d58401-c318-47e0-aab0-60001c071dbb",
+    "Name": "Rammas Echor, Ancient Shield",
+    "Nickname": "Palace of the Hermit King",
+    "Image": "https://madelson.github.io/universes-within-collection/cards/Rammas Echor, Ancient Shield.png",
+    "BackImage": null
+  },
+  {
+    "OracleId": "1b1bbad2-13b3-4716-85ef-3956268e23ad",
+    "Name": "ED-E, Lonesome Eyebot",
+    "Nickname": "The Warden of Argentum",
+    "Image": "https://madelson.github.io/universes-within-collection/cards/ED-E, Lonesome Eyebot.png",
+    "BackImage": null
+  },
+  {
+    "OracleId": "6cfb03e5-aca6-4fe2-a3f1-93e1f0cbf9e1",
+    "Name": "Nuka-Cola Vending Machine",
+    "Nickname": "Witch's Hearth",
+    "Image": "https://madelson.github.io/universes-within-collection/cards/Nuka-Cola Vending Machine.png",
+    "BackImage": null
+  },
+  {
+    "OracleId": "1e2ee630-9d37-4396-ae18-697c1a3a4e62",
+    "Name": "Pip-Boy 3000",
+    "Nickname": "Miner's Talisman",
+    "Image": "https://madelson.github.io/universes-within-collection/cards/Pip-Boy 3000.png",
+    "BackImage": null
+  },
+  {
+    "OracleId": "5232fcc0-5dba-4569-8e99-c0b2c230e9f0",
+    "Name": "Dogmeat, Ever Loyal",
+    "Nickname": "Phelia the Steadfast",
+    "Image": "https://madelson.github.io/universes-within-collection/cards/Dogmeat, Ever Loyal.png",
+    "BackImage": null
+  },
+  {
+    "OracleId": "c5782f70-05c6-4df9-812d-7ecbe2dbaaff",
+    "Name": "Pre-War Formalwear",
+    "Nickname": null,
+    "Image": "https://madelson.github.io/universes-within-collection/cards/Pre-War Formalwear.png",
+    "BackImage": null
+  },
+  {
+    "OracleId": "284db94d-e583-4355-89fd-6c0906f9d17e",
+    "Name": "Feral Ghoul",
+    "Nickname": null,
+    "Image": "https://madelson.github.io/universes-within-collection/cards/Feral Ghoul.png",
+    "BackImage": null
+  },
+  {
+    "OracleId": "adf9aed9-dd63-48da-b799-ea94839fc22a",
+    "Name": "Hancock, Ghoulish Mayor",
+    "Nickname": "Zahir, Agent of Shauku",
+    "Image": "https://madelson.github.io/universes-within-collection/cards/Hancock, Ghoulish Mayor.png",
+    "BackImage": null
+  },
+  {
+    "OracleId": "d0ecea04-9768-4b09-8718-dd59135251e3",
+    "Name": "Harold and Bob, First Numens",
+    "Nickname": "Gnashroot, Krosan Aberration",
+    "Image": "https://madelson.github.io/universes-within-collection/cards/Harold and Bob, First Numens.png",
+    "BackImage": null
+  },
+  {
+    "OracleId": "6b2d92f5-b0a1-4f30-9140-da490bf01bda",
+    "Name": "Lily Bowen, Raging Grandma",
+    "Nickname": "Jorak, Jungle's Wrath",
+    "Image": "https://madelson.github.io/universes-within-collection/cards/Lily Bowen, Raging Grandma.png",
+    "BackImage": null
+  },
+  {
+    "OracleId": "0a7d0d1f-a5ac-4db9-860c-9fcbe3fd9e71",
+    "Name": "Alpha Deathclaw",
+    "Nickname": null,
+    "Image": "https://madelson.github.io/universes-within-collection/cards/Alpha Deathclaw.png",
+    "BackImage": null
+  },
+  {
+    "OracleId": "4b457bc2-2d8c-42cb-9a63-bb4c459d14e3",
+    "Name": "Atomize",
+    "Nickname": null,
+    "Image": "https://madelson.github.io/universes-within-collection/cards/Atomize.png",
+    "BackImage": null
+  },
+  {
+    "OracleId": "e7a80464-1522-48d7-bf82-f9894f5c3ae0",
+    "Name": "Cleopatra, Exiled Pharaoh",
+    "Nickname": "Hapatra, the Broken Fang",
+    "Image": "https://madelson.github.io/universes-within-collection/cards/Cleopatra, Exiled Pharaoh.png",
+    "BackImage": null
+  }
+]
