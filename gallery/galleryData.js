@@ -429,7 +429,7 @@ const data = {
         }
       },
       "universesBeyondImage": "https://cards.scryfall.io/normal/front/0/6/06199f88-720f-484a-953e-9189bafbe173.jpg?1673309630",
-      "universesWithinImage": "./cards/Canoptek Wraith.png"
+      "universesWithinImage": "./cards/Canoptek%20Wraith.png"
     },
     {
       "name": "Convergence of Dominion",
@@ -987,8 +987,8 @@ const data = {
       },
       "universesBeyondImage": "https://cards.scryfall.io/normal/front/8/2/8234ea77-9ed6-4f3e-acc2-f52fb7003ed2.jpg?1674092806",
       "universesBeyondBackImage": "https://cards.scryfall.io/normal/back/8/2/8234ea77-9ed6-4f3e-acc2-f52fb7003ed2.jpg?1674092806",
-      "universesWithinImage": "./cards/Starscream, Power Hungry.png",
-      "universesWithinBackImage": "./cards/Starscream, Seeker Leader.png"
+      "universesWithinImage": "./cards/Starscream%2C%20Power%20Hungry.png",
+      "universesWithinBackImage": "./cards/Starscream%2C%20Seeker%20Leader.png"
     },
     {
       "name": "Slicer, Hired Muscle // Slicer, High-Speed Antagonist",
@@ -1161,7 +1161,7 @@ const data = {
         }
       },
       "universesBeyondImage": "https://cards.scryfall.io/normal/front/8/6/863ed552-dc6d-4910-b188-3cefc3ebf0ed.jpg?1686963805",
-      "universesWithinImage": "./cards/The Gaffer.png"
+      "universesWithinImage": "./cards/The%20Gaffer.png"
     },
     {
       "name": "Éomer, Marshal of Rohan",
@@ -1557,7 +1557,7 @@ const data = {
         }
       },
       "universesBeyondImage": "https://cards.scryfall.io/normal/front/9/b/9bae7a4d-9117-43c5-a048-80a0ddadc034.jpg?1708013075",
-      "universesWithinImage": "./cards/The Battle of Bywater.png"
+      "universesWithinImage": "./cards/The%20Battle%20of%20Bywater.png"
     },
     {
       "name": "Denethor, Stone Seer",
@@ -1664,7 +1664,7 @@ const data = {
         }
       },
       "universesBeyondImage": "https://cards.scryfall.io/normal/front/c/4/c4e40481-aeaa-4b3d-a020-e9b6d7c11992.jpg?1686967846",
-      "universesWithinImage": "./cards/Lost to Legend.png"
+      "universesWithinImage": "./cards/Lost%20to%20Legend.png"
     },
     {
       "name": "Monstrosity of the Lake",
@@ -1804,7 +1804,7 @@ const data = {
         }
       },
       "universesBeyondImage": "https://cards.scryfall.io/normal/front/6/e/6efb6a69-562c-4d95-858d-b067444cfd7e.jpg?1686970247",
-      "universesWithinImage": "./cards/Palantír of Orthanc.png"
+      "universesWithinImage": "./cards/Palant%C3%ADr%20of%20Orthanc.png"
     },
     {
       "name": "Phial of Galadriel",
@@ -1892,7 +1892,7 @@ const data = {
         }
       },
       "universesBeyondImage": "https://cards.scryfall.io/normal/front/7/5/75338f49-1f02-4333-87e4-5779ef14e688.jpg?1686967894",
-      "universesWithinImage": "./cards/Rosie Cotton of South Lane.png"
+      "universesWithinImage": "./cards/Rosie%20Cotton%20of%20South%20Lane.png"
     },
     {
       "name": "Rapacious Guest",
@@ -2405,7 +2405,7 @@ const data = {
         }
       },
       "universesBeyondImage": "https://cards.scryfall.io/normal/front/b/b/bbe6e907-eafb-402c-8b8f-4c01fb168a0b.jpg?1686964419",
-      "universesWithinImage": "./cards/Hithlain Rope.png"
+      "universesWithinImage": "./cards/Hithlain%20Rope.png"
     },
     {
       "name": "Willow-Wind",
@@ -2566,7 +2566,7 @@ const data = {
         }
       },
       "universesBeyondImage": "https://cards.scryfall.io/normal/front/6/8/68f91092-b679-46c1-9f0c-3b286ee1d02f.jpg?1696636514",
-      "universesWithinImage": "./cards/Adipose Offspring.png"
+      "universesWithinImage": "./cards/Adipose%20Offspring.png"
     },
     {
       "name": "Fish",
@@ -2738,7 +2738,7 @@ const data = {
         }
       },
       "universesBeyondImage": "https://cards.scryfall.io/normal/front/a/7/a798feb4-561b-4bb9-bdc9-771325faec57.jpg?1696636717",
-      "universesWithinImage": "./cards/Great Intelligence's Plan.png"
+      "universesWithinImage": "./cards/Great%20Intelligence%27s%20Plan.png"
     },
     {
       "name": "Heaven Sent",
@@ -2782,7 +2782,7 @@ const data = {
         }
       },
       "universesBeyondImage": "https://cards.scryfall.io/normal/front/4/1/414bdd33-549d-4690-917c-ea48decffbbb.jpg?1696691791",
-      "universesWithinImage": "./cards/Barbara Wright.png"
+      "universesWithinImage": "./cards/Barbara%20Wright.png"
     },
     {
       "name": "Last Night Together",
@@ -3003,7 +3003,7 @@ const data = {
         }
       },
       "universesBeyondImage": "https://cards.scryfall.io/normal/front/f/1/f131027a-9776-41fa-8a5f-d9ef80e0dc2e.jpg?1697584615",
-      "universesWithinImage": "./cards/Sonic Screwdriver.png"
+      "universesWithinImage": "./cards/Sonic%20Screwdriver.png"
     },
     {
       "name": "Gallifrey Council Chamber",
@@ -3055,7 +3055,7 @@ const data = {
         }
       },
       "universesBeyondImage": "https://cards.scryfall.io/normal/front/0/2/02fe50fc-6c6c-43e7-ad0e-8f13a254da2a.jpg?1696636530",
-      "universesWithinImage": "./cards/Four Knocks.png"
+      "universesWithinImage": "./cards/Four%20Knocks.png"
     },
     {
       "name": "The Girl in the Fireplace",
@@ -3103,7 +3103,7 @@ const data = {
         }
       },
       "universesBeyondImage": "https://cards.scryfall.io/normal/front/3/6/361769b3-7e10-4e0f-b623-c00e2144463d.jpg?1696691793",
-      "universesWithinImage": "./cards/Tegan Jovanka.png"
+      "universesWithinImage": "./cards/Tegan%20Jovanka.png"
     },
     {
       "name": "Trial of a Time Lord",
@@ -3159,7 +3159,7 @@ const data = {
         }
       },
       "universesBeyondImage": "https://cards.scryfall.io/normal/front/4/c/4cc35b82-a233-4460-968e-d90980fb2074.jpg?1696636556",
-      "universesWithinImage": "./cards/Auton Soldier.png"
+      "universesWithinImage": "./cards/Auton%20Soldier.png"
     },
     {
       "name": "Become the Pilot",
@@ -3255,7 +3255,7 @@ const data = {
         }
       },
       "universesBeyondImage": "https://cards.scryfall.io/normal/front/6/d/6deb8b33-723d-4927-934c-5d049125d235.jpg?1696636582",
-      "universesWithinImage": "./cards/Renegade Silent.png"
+      "universesWithinImage": "./cards/Renegade%20Silent.png"
     },
     {
       "name": "Reverse the Polarity",
@@ -3523,7 +3523,7 @@ const data = {
         }
       },
       "universesBeyondImage": "https://cards.scryfall.io/normal/front/8/b/8bb2765f-4016-4e41-9db4-5ad463faceab.jpg?1696636614",
-      "universesWithinImage": "./cards/Vashta Nerada.png"
+      "universesWithinImage": "./cards/Vashta%20Nerada.png"
     },
     {
       "name": "Vislor Turlough",
@@ -3707,7 +3707,7 @@ const data = {
         }
       },
       "universesBeyondImage": "https://cards.scryfall.io/normal/front/5/5/558c1fcc-cb01-4031-ada5-4e39d65aee27.jpg?1695346528",
-      "universesWithinImage": "./cards/Rammas Echor, Ancient Shield.png"
+      "universesWithinImage": "./cards/Rammas%20Echor%2C%20Ancient%20Shield.png"
     },
     {
       "name": "Courageous Resolve",
@@ -4092,7 +4092,7 @@ const data = {
         }
       },
       "universesBeyondImage": "https://cards.scryfall.io/normal/front/b/3/b319f0e1-6f18-4fea-9f72-a21da5513aa4.jpg?1708742726",
-      "universesWithinImage": "./cards/ED-E, Lonesome Eyebot.png"
+      "universesWithinImage": "./cards/ED-E%2C%20Lonesome%20Eyebot.png"
     },
     {
       "name": "Endurance Bobblehead",
@@ -4128,7 +4128,7 @@ const data = {
         }
       },
       "universesBeyondImage": "https://cards.scryfall.io/normal/front/4/0/405df7c7-0e37-499e-9826-6bf9f5db7a40.jpg?1708742750",
-      "universesWithinImage": "./cards/Nuka-Cola Vending Machine.png"
+      "universesWithinImage": "./cards/Nuka-Cola%20Vending%20Machine.png"
     },
     {
       "name": "Nuka-Nuke Launcher",
@@ -4156,7 +4156,7 @@ const data = {
         }
       },
       "universesBeyondImage": "https://cards.scryfall.io/normal/front/c/2/c2248694-aab0-47a8-ae8b-8d5283075e10.jpg?1708742764",
-      "universesWithinImage": "./cards/Pip-Boy 3000.png"
+      "universesWithinImage": "./cards/Pip-Boy%203000.png"
     },
     {
       "name": "Recon Craft Theta",
@@ -4261,7 +4261,7 @@ const data = {
         }
       },
       "universesBeyondImage": "https://cards.scryfall.io/normal/front/8/6/86b45e3e-8460-4678-87d1-d74479936c83.jpg?1710673445",
-      "universesWithinImage": "./cards/Dogmeat, Ever Loyal.png"
+      "universesWithinImage": "./cards/Dogmeat%2C%20Ever%20Loyal.png"
     },
     {
       "name": "Human Knight",
@@ -4288,7 +4288,7 @@ const data = {
         }
       },
       "universesBeyondImage": "https://cards.scryfall.io/normal/front/1/9/19018f23-b63b-45af-8419-8959f41472d4.jpg?1708741823",
-      "universesWithinImage": "./cards/Pre-War Formalwear.png"
+      "universesWithinImage": "./cards/Pre-War%20Formalwear.png"
     },
     {
       "name": "Radiation",
@@ -4403,7 +4403,7 @@ const data = {
         }
       },
       "universesBeyondImage": "https://cards.scryfall.io/normal/front/f/b/fbdef99d-6ce9-495d-a55b-e6ba799d3da7.jpg?1708742025",
-      "universesWithinImage": "./cards/Feral Ghoul.png"
+      "universesWithinImage": "./cards/Feral%20Ghoul.png"
     },
     {
       "name": "Hancock, Ghoulish Mayor",
@@ -4419,7 +4419,7 @@ const data = {
         }
       },
       "universesBeyondImage": "https://cards.scryfall.io/normal/front/3/9/39bda1b4-3f02-4cbc-9573-f5b6e6c991d5.jpg?1708742034",
-      "universesWithinImage": "./cards/Hancock, Ghoulish Mayor.png"
+      "universesWithinImage": "./cards/Hancock%2C%20Ghoulish%20Mayor.png"
     },
     {
       "name": "Infesting Radroach",
@@ -4583,7 +4583,7 @@ const data = {
         }
       },
       "universesBeyondImage": "https://cards.scryfall.io/normal/front/d/7/d730ac69-20ec-4ef3-85ee-a5fd24e5f277.jpg?1709431404",
-      "universesWithinImage": "./cards/Harold and Bob, First Numens.png"
+      "universesWithinImage": "./cards/Harold%20and%20Bob%2C%20First%20Numens.png"
     },
     {
       "name": "Lily Bowen, Raging Grandma",
@@ -4599,7 +4599,7 @@ const data = {
         }
       },
       "universesBeyondImage": "https://cards.scryfall.io/normal/front/0/5/052dc548-d356-43fe-9484-665db7e1f505.jpg?1708742311",
-      "universesWithinImage": "./cards/Lily Bowen, Raging Grandma.png"
+      "universesWithinImage": "./cards/Lily%20Bowen%2C%20Raging%20Grandma.png"
     },
     {
       "name": "Preston Garvey, Minuteman",
@@ -4670,7 +4670,7 @@ const data = {
         }
       },
       "universesBeyondImage": "https://cards.scryfall.io/normal/front/c/a/ca4c8b04-66af-4cb3-8003-9088d8344b20.jpg?1708742405",
-      "universesWithinImage": "./cards/Alpha Deathclaw.png"
+      "universesWithinImage": "./cards/Alpha%20Deathclaw.png"
     },
     {
       "name": "Arcade Gannon",
@@ -4745,7 +4745,7 @@ const data = {
         }
       },
       "universesBeyondImage": "https://cards.scryfall.io/normal/front/7/6/769bbbb3-37e9-47ec-9cee-db63672275e6.jpg?1708706822",
-      "universesWithinImage": "./cards/Cleopatra, Exiled Pharaoh.png"
+      "universesWithinImage": "./cards/Cleopatra%2C%20Exiled%20Pharaoh.png"
     },
     {
       "name": "The Animus",

@@ -219,7 +219,8 @@ static readonly string CardsDirectory = Path.Combine(Path.GetDirectoryName(Util.
 
 HttpClient Client = new();
 
-string? MakeUrlFromCardPath(string? path) => path != null ? $"./cards/{path}" : null;
+// github pages doesn't support "+" for spaces
+string? MakeUrlFromCardPath(string? path) => path != null ? $"./cards/{WebUtility.UrlEncode(path).Replace("+", "%20")}" : null;
 
 List<UniversesWithinCard> GetUniversesWithinCards()
 {
