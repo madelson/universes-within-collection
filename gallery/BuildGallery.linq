@@ -23,6 +23,7 @@ async Task Main()
 		.ToDictionary(c => c.Info.Name);
 	var universesWithinCardsMissingUniversesBeyondCards = universesWithinCardsByName.Keys
 		.Except(universesBeyondCards.Select(c => c.Card.Name))
+		.Except(universesBeyondCards.Select(c => DisambiguatedName(c.Card)))
 		.ToArray();
 	if (universesWithinCardsMissingUniversesBeyondCards.Any())
 	{
@@ -39,7 +40,9 @@ async Task Main()
 	foreach (var card in universesBeyondCards.OrderBy(c => c.Card.Released_At).ThenBy(c => c.Card.Collector_Number))
 	{
 		var universesBeyondName = card.Card.Flavor_Name ?? card.Card.Name;
-		var universesWithinCard = universesWithinCardsByName.TryGetValue(card.Card.Name, out var c) ? c : null;
+		var universesWithinCard = universesWithinCardsByName.TryGetValue(card.Card.Name, out var c) ? c
+			: universesWithinCardsByName.TryGetValue(DisambiguatedName(card.Card), out c) ? c
+			: null;
 		var universesWithinName = card.OfficialUniversesWithinCard?.Name ?? universesWithinCard?.Info.Nickname;
 		
 		ApprovedArtistInfo? artist, backArtist;
@@ -215,9 +218,21 @@ class GalleryCardFace
 	public required string MtgCardBuilderId { get; set; }
 }
 
+[JsonObject(NamingStrategyType = typeof(CamelCaseNamingStrategy))]
+record CardData(
+	string OracleId,
+	string Name,
+	[property: JsonProperty(NullValueHandling = NullValueHandling.Ignore)]
+	string? Nickname,
+	Uri image,
+	[property: JsonProperty(NullValueHandling = NullValueHandling.Ignore)]
+	Uri? backImage);
+
 static readonly string CardsDirectory = Path.Combine(Path.GetDirectoryName(Util.CurrentQueryPath)!, "..", "cards");
 
 HttpClient Client = new();
+
+static string DisambiguatedName(Card card) => $"{card.Name} ({card.Set.ToUpperInvariant()} {card.Collector_Number})";
 
 // github pages doesn't support "+" for spaces
 string? MakeUrlFromCardPath(string? path) => path != null ? $"./cards/{WebUtility.UrlEncode(path).Replace("+", "%20")}" : null;

@@ -3031,7 +3031,18 @@ const data = {
     },
     {
       "name": "Alien",
-      "universesBeyondImage": "https://cards.scryfall.io/normal/front/9/2/92520769-1e59-45d0-bfe9-cbaf80a4591e.jpg?1696547113"
+      "contributionInfo": {
+        "contributor": "cgregory",
+        "front": {
+          "artist": "Anthony Catillaz",
+          "artistUrl": "https://www.artstation.com/artico_luminos",
+          "artName": "Thing",
+          "artUrl": "https://www.artstation.com/artwork/39LggD",
+          "mtgCardBuilderId": "144691"
+        }
+      },
+      "universesBeyondImage": "https://cards.scryfall.io/normal/front/9/2/92520769-1e59-45d0-bfe9-cbaf80a4591e.jpg?1696547113",
+      "universesWithinImage": "./cards/Alien%20(TWHO%202).png"
     },
     {
       "name": "The Fourth Doctor",

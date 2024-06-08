@@ -246,5 +246,13 @@
 		"artName": "Ganados",
 		"artUrl": "https://www.artstation.com/artwork/qADARN",
 		"mtgCardBuilderId": "144257"
+	},
+	"T0001": {
+		"name": "Alien (TWHO 2)",
+		"contributor": "cgregory",
+		"artist": "Anthony Catillaz",
+		"artName": "Thing",
+		"artUrl": "https://www.artstation.com/artwork/39LggD",
+		"mtgCardBuilderId": "144691"
 	}
 }
