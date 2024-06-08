@@ -115,11 +115,11 @@ async Task Main()
 	var cardData = galleryCards.Where(c => c.ContributionInfo != null)
 		.Select(c => new 
 		{ 
-			OracleId = oracleIds[c],
-			c.Name, 
-			c.Nickname, 
-			Image = ToAbsoluteUrl(c.UniversesWithinImage!), 
-			BackImage = c.UniversesWithinBackImage != null ? ToAbsoluteUrl(c.UniversesWithinBackImage) : null 
+			oracleId = oracleIds[c],
+			name = c.Name, 
+			nickname = c.Nickname, 
+			image = ToAbsoluteUrl(c.UniversesWithinImage!), 
+			backImage = c.UniversesWithinBackImage != null ? ToAbsoluteUrl(c.UniversesWithinBackImage) : null 
 		})
 		.ToArray();
 	File.WriteAllText(Path.Combine(Path.GetDirectoryName(Util.CurrentQueryPath)!, "cardData.json"), JsonConvert.SerializeObject(cardData, Newtonsoft.Json.Formatting.Indented));
