@@ -272,5 +272,14 @@
 		"artName": "Thing",
 		"artUrl": "https://www.artstation.com/artwork/39LggD",
 		"mtgCardBuilderId": "144691"
+	},
+	"T0002": {
+		"name": "Mark of the Rani (TWHO 15)",
+		"contributor": "cgregory",
+		"artist": "Andrea Corsini",
+		"artName": "Naenia",
+		"artUrl": "https://cara.app/post/97d0160e-a27e-4681-a737-009aa9048a5f",
+		"isArtCrop": true,
+		"mtgCardBuilderId": "145145"
 	}
 }

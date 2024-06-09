@@ -36,7 +36,7 @@ async Task Main()
 	var approvedArtistsByName = artistsInfo.Approved.ToDictionary(a => a.Name);
 
 	List<GalleryCard> galleryCards = [];
-	Dictionary<GalleryCard, string> oracleIds = [];
+	Dictionary<GalleryCard, Guid> oracleIds = [];
 	foreach (var card in universesBeyondCards.OrderBy(c => c.Card.Released_At).ThenBy(c => c.Card.Collector_Number))
 	{
 		var universesBeyondName = card.Card.Flavor_Name ?? card.Card.Name;
@@ -105,7 +105,7 @@ async Task Main()
 			UniversesWithinImage = card.OfficialUniversesWithinCard?.GetFrontImage() ?? MakeUrlFromCardPath(universesWithinCard?.FrontImage),
 			UniversesWithinBackImage = card.OfficialUniversesWithinCard?.GetBackImage() ?? MakeUrlFromCardPath(universesWithinCard?.BackImage),
 		});
-		oracleIds.Add(galleryCards[^1], card.Card.Oracle_Id);
+		oracleIds.Add(galleryCards[^1], card.Card.Oracle_Id!.Value);
 	}
 	
 	var galleryData = new { cards = galleryCards };
@@ -114,16 +114,14 @@ async Task Main()
 
 	// Generate card data (for importer consumption)
 
-	string ToAbsoluteUrl(string relativeUrl) => $"https://madelson.github.io/universes-within-collection{relativeUrl.TrimStart('.')}";
+	Uri ToAbsoluteUrl(string relativeUrl) => new($"https://madelson.github.io/universes-within-collection{relativeUrl.TrimStart('.')}");
 	var cardData = galleryCards.Where(c => c.ContributionInfo != null)
-		.Select(c => new 
-		{ 
-			oracleId = oracleIds[c],
-			name = c.Name, 
-			nickname = c.Nickname, 
-			image = ToAbsoluteUrl(c.UniversesWithinImage!), 
-			backImage = c.UniversesWithinBackImage != null ? ToAbsoluteUrl(c.UniversesWithinBackImage) : null 
-		})
+		.Select(c => new CardData(
+			oracleIds[c],
+			c.Name, 
+			c.Nickname, 
+			ToAbsoluteUrl(c.UniversesWithinImage!), 
+			c.UniversesWithinBackImage != null ? ToAbsoluteUrl(c.UniversesWithinBackImage) : null))
 		.ToArray();
 	File.WriteAllText(Path.Combine(Path.GetDirectoryName(Util.CurrentQueryPath)!, "cardData.json"), JsonConvert.SerializeObject(cardData, Newtonsoft.Json.Formatting.Indented));
 	
@@ -138,7 +136,7 @@ async Task Main()
 	
 	var universesWithinCardsByArt = universesWithinCardsByName.Values
 		.Where(c => c.Info.Artist != null)
-		.ToDictionary(c => new { Artist = c.Info.Artist!, Work = c.Info.ArtName! });
+		.ToLookup(c => new { Artist = c.Info.Artist!, Work = c.Info.ArtName! });
 	foreach (var artist in artistsInfo.Approved.OrderBy(a => a.ApprovedWorks != null).ThenBy(a => a.Name))
 	{
 		artistsPage.Append($"| [{artist.Name}]({artist.Url}) | ");
@@ -146,14 +144,16 @@ async Task Main()
 		{
 			artistsPage.Append("So far, only the following works have been approved for use:");
 			foreach (var work in artist.ApprovedWorks
-				.Select(w => new { name = w, card = universesWithinCardsByArt.TryGetValue(new { Artist = artist.Name, Work = w }, out var card) ? card : null })
-				.OrderBy(w => w.card != null)
+				.Select(w => new { name = w, cards = universesWithinCardsByArt[new { Artist = artist.Name, Work = w }] })
+				.OrderBy(w => w.cards.Count())
 				.ThenBy(w => w.name, StringComparer.OrdinalIgnoreCase))
 			{
+				if (work.cards.Count(c => !c.Info.IsArtCrop) > 1) { throw new InvalidOperationException($"Art duplication: {string.Join(", ", work.cards.Select(c => c.Info.Name))}"); }
+				
 				artistsPage.Append("<br/>");
-				if (work.card != null)
+				if (work.cards.Any())
 				{
-					artistsPage.Append($"- ~{work.name}~ (used on {work.card.Info.Name})");
+					artistsPage.Append($"- ~{work.name}~ (used on {string.Join(", ", work.cards.Select(c => c.Info.Nickname ?? c.Info.Name))})");
 				}
 				else
 				{
@@ -220,7 +220,7 @@ class GalleryCardFace
 
 [JsonObject(NamingStrategyType = typeof(CamelCaseNamingStrategy))]
 record CardData(
-	string OracleId,
+	Guid OracleId,
 	string Name,
 	[property: JsonProperty(NullValueHandling = NullValueHandling.Ignore)]
 	string? Nickname,
@@ -396,7 +396,7 @@ record SearchResponse(
 record Card(
 	string Name,
 	string Flavor_Name,
-	string Oracle_Id,
+	Guid? Oracle_Id,
 	Dictionary<string, string> Image_Uris,
 	CardFace[] Card_Faces,
 	string Set,

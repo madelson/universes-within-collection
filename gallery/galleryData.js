@@ -2850,7 +2850,18 @@ const data = {
     },
     {
       "name": "Mark of the Rani",
-      "universesBeyondImage": "https://cards.scryfall.io/normal/front/7/a/7a4c1206-c36f-4fb4-9014-e8a822c97085.jpg?1696601466"
+      "contributionInfo": {
+        "contributor": "cgregory",
+        "front": {
+          "artist": "Andrea Corsini",
+          "artistUrl": "https://linktr.ee/Not_andreas",
+          "artName": "Naenia",
+          "artUrl": "https://cara.app/post/97d0160e-a27e-4681-a737-009aa9048a5f",
+          "mtgCardBuilderId": "145145"
+        }
+      },
+      "universesBeyondImage": "https://cards.scryfall.io/normal/front/7/a/7a4c1206-c36f-4fb4-9014-e8a822c97085.jpg?1696601466",
+      "universesWithinImage": "./cards/Mark%20of%20the%20Rani%20(TWHO%2015).png"
     },
     {
       "name": "The Caves of Androzani",
