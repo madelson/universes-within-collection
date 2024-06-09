@@ -93,11 +93,12 @@ function getSearchTermMatcher() {
 	const words = searchTerm.toLowerCase().split(/\s+/);
 	const matchesWords = s =>
 	{
+		if (s == null) { return false; }
 		const lower = s.toLowerCase();
 		for (const word of words) {
 			if (!lower.includes(word)) { return false; }
 		}
 		return true;
 	};
-	return c => matchesWords(c.name) || (c.nickname != null && matchesWords(c.nickname));
+	return c => matchesWords(c.name) || matchesWords(c.nickname) || matchesWords(c.contributionInfo?.front?.artist) || matchesWords(c.contributionInfo?.back?.artist);
 }
