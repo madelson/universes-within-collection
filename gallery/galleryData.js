@@ -2834,7 +2834,19 @@ const data = {
     },
     {
       "name": "The Rani",
-      "universesBeyondImage": "https://cards.scryfall.io/normal/front/0/1/01b44c52-b3a3-4954-adcc-53b79921ea24.jpg?1696636751"
+      "nickname": "Malina, Loyalty Beyond Reproach",
+      "contributionInfo": {
+        "contributor": "cgregory",
+        "front": {
+          "artist": "Andrea Corsini",
+          "artistUrl": "https://linktr.ee/Not_andreas",
+          "artName": "Naenia",
+          "artUrl": "https://cara.app/post/97d0160e-a27e-4681-a737-009aa9048a5f",
+          "mtgCardBuilderId": "145144"
+        }
+      },
+      "universesBeyondImage": "https://cards.scryfall.io/normal/front/0/1/01b44c52-b3a3-4954-adcc-53b79921ea24.jpg?1696636751",
+      "universesWithinImage": "./cards/The%20Rani.png"
     },
     {
       "name": "Mark of the Rani",
