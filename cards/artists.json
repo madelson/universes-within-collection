@@ -38,7 +38,12 @@
 			"name": "Thomas Ricci",
 			"contact": "artstation.com",
 			"url": "https://artrhino.artstation.com/"
-		}
+		},
+		{
+			"name": "Florian Herold",
+			"contact": "artstation.com email",
+			"url": "https://www.artstation.com/faherold"
+		},
 	],
 	"declined": [
 		{
@@ -114,10 +119,6 @@
 		{
 			"name": "Nickolas Paris",
 			"contact": "artstation.com"
-		},
-		{
-			"name": "Florian Herold",
-			"contact": "artstation.com email"
 		},
 		{
 			"name": "Benjamin Goutte",

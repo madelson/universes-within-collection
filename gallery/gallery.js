@@ -29,7 +29,7 @@ html`
 		${() => getCards().map(cardTemplate)}
 	</div>
 	<div>
-		<br/><center><small><em>UWC card images are <a href="https://raw.githubusercontent.com/madelson/universes-within-collection/main/LICENSE.txt">free to use personally as proxies and may not be sold</a>. Usage of non-Magic art on UWC cards is done with permission from the Artist.</em></small></center>
+		<br/><center><small><em>UWC card images are <a href="https://raw.githubusercontent.com/madelson/universes-within-collection/main/LICENSE.txt">free for personal use as proxies and may not be sold</a>. Usage of non-Magic art on UWC cards is done with permission from the Artist.</em></small></center>
 	</div>
 </div>`(document.body);
 

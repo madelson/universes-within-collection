@@ -1,6 +1,532 @@
 const data = {
   "cards": [
     {
+      "name": "Vault 13: Dweller's Journey",
+      "nickname": "Sorin's Search for Avacyn",
+      "contributionInfo": {
+        "contributor": "madelson",
+        "front": {
+          "artist": "Florian Herold",
+          "artistUrl": "https://www.artstation.com/faherold",
+          "artName": "Departure",
+          "artUrl": "https://www.artstation.com/artwork/EazL5n",
+          "mtgCardBuilderId": "145396"
+        }
+      },
+      "universesBeyondImage": "https://cards.scryfall.io/normal/front/a/2/a22ad436-215a-4da1-b12e-1faac474f948.jpg?1708741869",
+      "universesWithinImage": "./cards/Vault%2013_%20Dweller%27s%20Journey.png"
+    },
+    {
+      "name": "The Rani",
+      "nickname": "Malina, Loyalty Beyond Reproach",
+      "contributionInfo": {
+        "contributor": "cgregory",
+        "front": {
+          "artist": "Andrea Corsini",
+          "artistUrl": "https://linktr.ee/Not_andreas",
+          "artName": "Naenia",
+          "artUrl": "https://cara.app/post/97d0160e-a27e-4681-a737-009aa9048a5f",
+          "mtgCardBuilderId": "145144"
+        }
+      },
+      "universesBeyondImage": "https://cards.scryfall.io/normal/front/0/1/01b44c52-b3a3-4954-adcc-53b79921ea24.jpg?1696636751",
+      "universesWithinImage": "./cards/The%20Rani.png"
+    },
+    {
+      "name": "Astrid Peth",
+      "nickname": "Saffi, Balduvian Naif",
+      "contributionInfo": {
+        "contributor": "cgregory",
+        "front": {
+          "artist": "Sandara Tang",
+          "artistUrl": "https://sandara.artstation.com/",
+          "artName": "Snowbound",
+          "artUrl": "https://sandara.artstation.com/projects/Gea00B",
+          "mtgCardBuilderId": "145140"
+        }
+      },
+      "universesBeyondImage": "https://cards.scryfall.io/normal/front/4/c/4cda3aa2-5fac-4188-bdad-dc369a089d00.jpg?1696636517",
+      "universesWithinImage": "./cards/Astrid%20Peth.png"
+    },
+    {
+      "name": "Adipose Offspring",
+      "nickname": "Parasitic Progeny",
+      "contributionInfo": {
+        "contributor": "cgregory",
+        "front": {
+          "artist": "Sandara Tang",
+          "artistUrl": "https://sandara.artstation.com/",
+          "artName": "Ganados",
+          "artUrl": "https://www.artstation.com/artwork/qADARN",
+          "mtgCardBuilderId": "144257"
+        }
+      },
+      "universesBeyondImage": "https://cards.scryfall.io/normal/front/6/8/68f91092-b679-46c1-9f0c-3b286ee1d02f.jpg?1696636514",
+      "universesWithinImage": "./cards/Adipose%20Offspring.png"
+    },
+    {
+      "name": "Lost to Legend",
+      "contributionInfo": {
+        "contributor": "cgregory",
+        "front": {
+          "mtgCardBuilderId": "144255"
+        }
+      },
+      "universesBeyondImage": "https://cards.scryfall.io/normal/front/c/4/c4e40481-aeaa-4b3d-a020-e9b6d7c11992.jpg?1686967846",
+      "universesWithinImage": "./cards/Lost%20to%20Legend.png"
+    },
+    {
+      "name": "Rammas Echor, Ancient Shield",
+      "nickname": "Palace of the Hermit King",
+      "contributionInfo": {
+        "contributor": "cgregory",
+        "front": {
+          "artist": "Anthony Catillaz",
+          "artistUrl": "https://www.artstation.com/artico_luminos",
+          "artName": "Mountain Trail",
+          "artUrl": "https://www.artstation.com/artwork/YBqXW6",
+          "mtgCardBuilderId": "144254"
+        }
+      },
+      "universesBeyondImage": "https://cards.scryfall.io/normal/front/5/5/558c1fcc-cb01-4031-ada5-4e39d65aee27.jpg?1695346528",
+      "universesWithinImage": "./cards/Rammas%20Echor%2C%20Ancient%20Shield.png"
+    },
+    {
+      "name": "The Battle of Bywater",
+      "nickname": "The Battle of Kinsbaile",
+      "contributionInfo": {
+        "contributor": "cgregory",
+        "front": {
+          "mtgCardBuilderId": "144253"
+        }
+      },
+      "universesBeyondImage": "https://cards.scryfall.io/normal/front/9/b/9bae7a4d-9117-43c5-a048-80a0ddadc034.jpg?1708013075",
+      "universesWithinImage": "./cards/The%20Battle%20of%20Bywater.png"
+    },
+    {
+      "name": "The Gaffer",
+      "nickname": "Gerwyn, Codger of Dundoolin",
+      "contributionInfo": {
+        "contributor": "cgregory",
+        "front": {
+          "mtgCardBuilderId": "144252"
+        }
+      },
+      "universesBeyondImage": "https://cards.scryfall.io/normal/front/8/6/863ed552-dc6d-4910-b188-3cefc3ebf0ed.jpg?1686963805",
+      "universesWithinImage": "./cards/The%20Gaffer.png"
+    },
+    {
+      "name": "Rosie Cotton of South Lane",
+      "nickname": "Róisín Goldmeadow",
+      "contributionInfo": {
+        "contributor": "cgregory",
+        "front": {
+          "mtgCardBuilderId": "144251"
+        }
+      },
+      "universesBeyondImage": "https://cards.scryfall.io/normal/front/7/5/75338f49-1f02-4333-87e4-5779ef14e688.jpg?1686967894",
+      "universesWithinImage": "./cards/Rosie%20Cotton%20of%20South%20Lane.png"
+    },
+    {
+      "name": "Harold and Bob, First Numens",
+      "nickname": "Gnashroot, Krosan Aberration",
+      "contributionInfo": {
+        "contributor": "madelson",
+        "front": {
+          "artist": "Thomas Ricci",
+          "artistUrl": "https://artrhino.artstation.com/",
+          "artName": "It came from nature",
+          "artUrl": "https://www.artstation.com/artwork/nQmmn4",
+          "mtgCardBuilderId": "144097"
+        }
+      },
+      "universesBeyondImage": "https://cards.scryfall.io/normal/front/d/7/d730ac69-20ec-4ef3-85ee-a5fd24e5f277.jpg?1709431404",
+      "universesWithinImage": "./cards/Harold%20and%20Bob%2C%20First%20Numens.png"
+    },
+    {
+      "name": "Cleopatra, Exiled Pharaoh",
+      "nickname": "Hapatra, the Broken Fang",
+      "contributionInfo": {
+        "contributor": "madelson",
+        "front": {
+          "mtgCardBuilderId": "143032"
+        }
+      },
+      "universesBeyondImage": "https://cards.scryfall.io/normal/front/7/6/769bbbb3-37e9-47ec-9cee-db63672275e6.jpg?1708706822",
+      "universesWithinImage": "./cards/Cleopatra%2C%20Exiled%20Pharaoh.png"
+    },
+    {
+      "name": "Pip-Boy 3000",
+      "nickname": "Miner's Talisman",
+      "contributionInfo": {
+        "contributor": "madelson",
+        "front": {
+          "artist": "Andrea Corsini",
+          "artistUrl": "https://linktr.ee/Not_andreas",
+          "artName": "A dwarf's figurine",
+          "artUrl": "https://cara.app/post/2a2677ea-8267-4e5b-bdb0-6e69a4f0f0e6",
+          "mtgCardBuilderId": "143018"
+        }
+      },
+      "universesBeyondImage": "https://cards.scryfall.io/normal/front/c/2/c2248694-aab0-47a8-ae8b-8d5283075e10.jpg?1708742764",
+      "universesWithinImage": "./cards/Pip-Boy%203000.png"
+    },
+    {
+      "name": "ED-E, Lonesome Eyebot",
+      "nickname": "The Warden of Argentum",
+      "contributionInfo": {
+        "contributor": "cgregory",
+        "front": {
+          "artist": "Bachzim",
+          "artistUrl": "https://www.artstation.com/bachzim",
+          "artName": "The Angekett",
+          "artUrl": "https://www.artstation.com/artwork/aYLAdz",
+          "mtgCardBuilderId": "141774"
+        }
+      },
+      "universesBeyondImage": "https://cards.scryfall.io/normal/front/b/3/b319f0e1-6f18-4fea-9f72-a21da5513aa4.jpg?1708742726",
+      "universesWithinImage": "./cards/ED-E%2C%20Lonesome%20Eyebot.png"
+    },
+    {
+      "name": "Canoptek Wraith",
+      "nickname": "Tangle Wraith",
+      "contributionInfo": {
+        "contributor": "cgregory",
+        "front": {
+          "artist": "Anthony Catillaz",
+          "artistUrl": "https://www.artstation.com/artico_luminos",
+          "artName": "Witcher Leshy Hunt",
+          "artUrl": "https://www.artstation.com/artwork/kQWz06",
+          "mtgCardBuilderId": "141718"
+        }
+      },
+      "universesBeyondImage": "https://cards.scryfall.io/normal/front/0/6/06199f88-720f-484a-953e-9189bafbe173.jpg?1673309630",
+      "universesWithinImage": "./cards/Canoptek%20Wraith.png"
+    },
+    {
+      "name": "Starscream, Power Hungry // Starscream, Seeker Leader",
+      "nickname": "Gonti, Night Ship Captain // Gonti's Night Ship",
+      "contributionInfo": {
+        "contributor": "cgregory",
+        "front": {
+          "artist": "Clint Clearly",
+          "artName": "Aether Revolt",
+          "artUrl": "https://www.deviantart.com/clintcearley/art/Aether-Revolt-656650571",
+          "isMtgArt": true,
+          "mtgCardBuilderId": "141696"
+        },
+        "back": {
+          "artist": "Adam Paquette",
+          "artName": "Spirebluff Canal",
+          "artUrl": "https://cards.scryfall.io/art_crop/front/4/e/4e587ea7-0632-4789-ba75-3c410da2bb96.jpg?1576383574",
+          "isMtgArt": true,
+          "mtgCardBuilderId": "142987"
+        }
+      },
+      "universesBeyondImage": "https://cards.scryfall.io/normal/front/8/2/8234ea77-9ed6-4f3e-acc2-f52fb7003ed2.jpg?1674092806",
+      "universesBeyondBackImage": "https://cards.scryfall.io/normal/back/8/2/8234ea77-9ed6-4f3e-acc2-f52fb7003ed2.jpg?1674092806",
+      "universesWithinImage": "./cards/Starscream%2C%20Power%20Hungry.png",
+      "universesWithinBackImage": "./cards/Starscream%2C%20Seeker%20Leader.png"
+    },
+    {
+      "name": "Palantír of Orthanc",
+      "nickname": "Mirari, the Fulsome Desire",
+      "contributionInfo": {
+        "contributor": "cgregory",
+        "front": {
+          "mtgCardBuilderId": "141412"
+        }
+      },
+      "universesBeyondImage": "https://cards.scryfall.io/normal/front/6/e/6efb6a69-562c-4d95-858d-b067444cfd7e.jpg?1686970247",
+      "universesWithinImage": "./cards/Palant%C3%ADr%20of%20Orthanc.png"
+    },
+    {
+      "name": "Four Knocks",
+      "nickname": "Pursuit of Wisdom",
+      "contributionInfo": {
+        "contributor": "madelson",
+        "front": {
+          "artist": "Kristina Gehrmann",
+          "artistUrl": "http://www.kristinagehrmann.com/",
+          "artName": "The Ritual",
+          "artUrl": "https://cara.app/post/8b3386ca-204d-48f2-a7ba-a34c618a92e2",
+          "mtgCardBuilderId": "139910"
+        }
+      },
+      "universesBeyondImage": "https://cards.scryfall.io/normal/front/0/2/02fe50fc-6c6c-43e7-ad0e-8f13a254da2a.jpg?1696636530",
+      "universesWithinImage": "./cards/Four%20Knocks.png"
+    },
+    {
+      "name": "Lily Bowen, Raging Grandma",
+      "nickname": "Jorak, Jungle's Wrath",
+      "contributionInfo": {
+        "contributor": "madelson",
+        "front": {
+          "artist": "Anthony Catillaz",
+          "artistUrl": "https://www.artstation.com/artico_luminos",
+          "artName": "Jungle mutant",
+          "artUrl": "https://www.artstation.com/artwork/LRGgG5",
+          "mtgCardBuilderId": "137856"
+        }
+      },
+      "universesBeyondImage": "https://cards.scryfall.io/normal/front/0/5/052dc548-d356-43fe-9484-665db7e1f505.jpg?1708742311",
+      "universesWithinImage": "./cards/Lily%20Bowen%2C%20Raging%20Grandma.png"
+    },
+    {
+      "name": "Vashta Nerada",
+      "nickname": "Umbral Reaper",
+      "contributionInfo": {
+        "contributor": "madelson",
+        "front": {
+          "artist": "Anthony Catillaz",
+          "artistUrl": "https://www.artstation.com/artico_luminos",
+          "artName": "Ancient Shadow",
+          "artUrl": "https://www.artstation.com/artwork/04bkDy",
+          "mtgCardBuilderId": "137631"
+        }
+      },
+      "universesBeyondImage": "https://cards.scryfall.io/normal/front/8/b/8bb2765f-4016-4e41-9db4-5ad463faceab.jpg?1696636614",
+      "universesWithinImage": "./cards/Vashta%20Nerada.png"
+    },
+    {
+      "name": "Sonic Screwdriver",
+      "nickname": "Voltaic Sphere",
+      "contributionInfo": {
+        "contributor": "madelson",
+        "front": {
+          "artist": "Andrea Corsini",
+          "artistUrl": "https://linktr.ee/Not_andreas",
+          "artName": "An artificer's creation",
+          "artUrl": "https://cara.app/post/01746bcd-a024-42c6-a7d3-9b7b0d62d926",
+          "mtgCardBuilderId": "137619"
+        }
+      },
+      "universesBeyondImage": "https://cards.scryfall.io/normal/front/f/1/f131027a-9776-41fa-8a5f-d9ef80e0dc2e.jpg?1697584615",
+      "universesWithinImage": "./cards/Sonic%20Screwdriver.png"
+    },
+    {
+      "name": "Atomize",
+      "contributionInfo": {
+        "contributor": "madelson",
+        "front": {
+          "mtgCardBuilderId": "137593"
+        }
+      },
+      "universesBeyondImage": "https://cards.scryfall.io/normal/front/5/9/592cbafc-ab4e-461f-b64f-0bf9d83aaff3.jpg?1708742433",
+      "universesWithinImage": "./cards/Atomize.png"
+    },
+    {
+      "name": "Feral Ghoul",
+      "contributionInfo": {
+        "contributor": "madelson",
+        "front": {
+          "artist": "Sandara Tang",
+          "artistUrl": "https://sandara.artstation.com/",
+          "artName": "The Wechuge",
+          "artUrl": "https://www.artstation.com/artwork/o29WJO",
+          "mtgCardBuilderId": "136725"
+        }
+      },
+      "universesBeyondImage": "https://cards.scryfall.io/normal/front/f/b/fbdef99d-6ce9-495d-a55b-e6ba799d3da7.jpg?1708742025",
+      "universesWithinImage": "./cards/Feral%20Ghoul.png"
+    },
+    {
+      "name": "Pre-War Formalwear",
+      "contributionInfo": {
+        "contributor": "madelson",
+        "front": {
+          "artist": "Andrea Corsini",
+          "artistUrl": "https://linktr.ee/Not_andreas",
+          "artName": "An elf's crown",
+          "artUrl": "https://cara.app/post/b4cadf44-148d-48d3-9891-e96b258dbe9d",
+          "mtgCardBuilderId": "136199"
+        }
+      },
+      "universesBeyondImage": "https://cards.scryfall.io/normal/front/1/9/19018f23-b63b-45af-8419-8959f41472d4.jpg?1708741823",
+      "universesWithinImage": "./cards/Pre-War%20Formalwear.png"
+    },
+    {
+      "name": "Alpha Deathclaw",
+      "contributionInfo": {
+        "contributor": "madelson",
+        "front": {
+          "artist": "Anthony Catillaz",
+          "artistUrl": "https://www.artstation.com/artico_luminos",
+          "artName": "Dragon Golem",
+          "artUrl": "https://www.artstation.com/artwork/WBk3wE",
+          "mtgCardBuilderId": "135723"
+        }
+      },
+      "universesBeyondImage": "https://cards.scryfall.io/normal/front/c/a/ca4c8b04-66af-4cb3-8003-9088d8344b20.jpg?1708742405",
+      "universesWithinImage": "./cards/Alpha%20Deathclaw.png"
+    },
+    {
+      "name": "Hithlain Rope",
+      "nickname": "Skyfisher's Rope",
+      "contributionInfo": {
+        "contributor": "cgregory",
+        "front": {
+          "mtgCardBuilderId": "138693"
+        }
+      },
+      "universesBeyondImage": "https://cards.scryfall.io/normal/front/b/b/bbe6e907-eafb-402c-8b8f-4c01fb168a0b.jpg?1686964419",
+      "universesWithinImage": "./cards/Hithlain%20Rope.png"
+    },
+    {
+      "name": "Barbara Wright",
+      "nickname": "Elara, Tapestry Weaver",
+      "contributionInfo": {
+        "contributor": "madelson",
+        "front": {
+          "artist": "Kristina Gehrmann",
+          "artistUrl": "http://www.kristinagehrmann.com/",
+          "artName": "For Love of Tapestry I",
+          "artUrl": "https://cara.app/post/c4430b32-5518-4be2-995b-315beccf8e91",
+          "mtgCardBuilderId": "138699"
+        }
+      },
+      "universesBeyondImage": "https://cards.scryfall.io/normal/front/4/1/414bdd33-549d-4690-917c-ea48decffbbb.jpg?1696691791",
+      "universesWithinImage": "./cards/Barbara%20Wright.png"
+    },
+    {
+      "name": "Renegade Silent",
+      "nickname": "Whispering Lurker",
+      "contributionInfo": {
+        "contributor": "madelson",
+        "front": {
+          "artist": "Anthony Catillaz",
+          "artistUrl": "https://www.artstation.com/artico_luminos",
+          "artName": "Just little Nightmares",
+          "artUrl": "https://www.artstation.com/artwork/aGlxDX",
+          "mtgCardBuilderId": "138864"
+        }
+      },
+      "universesBeyondImage": "https://cards.scryfall.io/normal/front/6/d/6deb8b33-723d-4927-934c-5d049125d235.jpg?1696636582",
+      "universesWithinImage": "./cards/Renegade%20Silent.png"
+    },
+    {
+      "name": "Tegan Jovanka",
+      "nickname": "Ragnhild Stormspear",
+      "contributionInfo": {
+        "contributor": "madelson",
+        "front": {
+          "artist": "Anthony Catillaz",
+          "artistUrl": "https://www.artstation.com/artico_luminos",
+          "artName": "Storm Appendix",
+          "artUrl": "https://www.artstation.com/artwork/g0rG0K",
+          "mtgCardBuilderId": "138868"
+        }
+      },
+      "universesBeyondImage": "https://cards.scryfall.io/normal/front/3/6/361769b3-7e10-4e0f-b623-c00e2144463d.jpg?1696691793",
+      "universesWithinImage": "./cards/Tegan%20Jovanka.png"
+    },
+    {
+      "name": "Hancock, Ghoulish Mayor",
+      "nickname": "Zahir, Agent of Shauku",
+      "contributionInfo": {
+        "contributor": "madelson",
+        "front": {
+          "artist": "Bachzim",
+          "artistUrl": "https://www.artstation.com/bachzim",
+          "artName": "Face of War",
+          "artUrl": "https://www.artstation.com/artwork/4bvNDk",
+          "mtgCardBuilderId": "139052"
+        }
+      },
+      "universesBeyondImage": "https://cards.scryfall.io/normal/front/3/9/39bda1b4-3f02-4cbc-9573-f5b6e6c991d5.jpg?1708742034",
+      "universesWithinImage": "./cards/Hancock%2C%20Ghoulish%20Mayor.png"
+    },
+    {
+      "name": "Auton Soldier",
+      "nickname": "Adaptive Gearwardens",
+      "contributionInfo": {
+        "contributor": "madelson",
+        "front": {
+          "artist": "Sandara Tang",
+          "artistUrl": "https://sandara.artstation.com/",
+          "artName": "Blue Mage",
+          "artUrl": "https://sandara.artstation.com/projects/NBm81",
+          "mtgCardBuilderId": "132670"
+        }
+      },
+      "universesBeyondImage": "https://cards.scryfall.io/normal/front/4/c/4cc35b82-a233-4460-968e-d90980fb2074.jpg?1717873693",
+      "universesWithinImage": "./cards/Auton%20Soldier.png"
+    },
+    {
+      "name": "Dogmeat, Ever Loyal",
+      "nickname": "Phelia the Steadfast",
+      "contributionInfo": {
+        "contributor": "madelson",
+        "front": {
+          "artist": "Sandara Tang",
+          "artistUrl": "https://sandara.artstation.com/",
+          "artName": "Corgi and Fairy",
+          "artUrl": "https://sandara.artstation.com/projects/xVEN1",
+          "mtgCardBuilderId": "139161"
+        }
+      },
+      "universesBeyondImage": "https://cards.scryfall.io/normal/front/8/6/86b45e3e-8460-4678-87d1-d74479936c83.jpg?1710673445",
+      "universesWithinImage": "./cards/Dogmeat%2C%20Ever%20Loyal.png"
+    },
+    {
+      "name": "Great Intelligence's Plan",
+      "nickname": "Duskmantle Bargain",
+      "contributionInfo": {
+        "contributor": "madelson",
+        "front": {
+          "mtgCardBuilderId": "139291"
+        }
+      },
+      "universesBeyondImage": "https://cards.scryfall.io/normal/front/a/7/a798feb4-561b-4bb9-bdc9-771325faec57.jpg?1696636717",
+      "universesWithinImage": "./cards/Great%20Intelligence%27s%20Plan.png"
+    },
+    {
+      "name": "Nuka-Cola Vending Machine",
+      "nickname": "Witch's Hearth",
+      "contributionInfo": {
+        "contributor": "madelson",
+        "front": {
+          "artist": "Andrea Corsini",
+          "artistUrl": "https://linktr.ee/Not_andreas",
+          "artName": "The Witch's hut",
+          "artUrl": "https://cara.app/post/06b1968a-80be-4c7f-b65e-eb4b132f67c4",
+          "mtgCardBuilderId": "130674"
+        }
+      },
+      "universesBeyondImage": "https://cards.scryfall.io/normal/front/4/0/405df7c7-0e37-499e-9826-6bf9f5db7a40.jpg?1708742750",
+      "universesWithinImage": "./cards/Nuka-Cola%20Vending%20Machine.png"
+    },
+    {
+      "name": "Mark of the Rani",
+      "contributionInfo": {
+        "contributor": "cgregory",
+        "front": {
+          "artist": "Andrea Corsini",
+          "artistUrl": "https://linktr.ee/Not_andreas",
+          "artName": "Naenia",
+          "artUrl": "https://cara.app/post/97d0160e-a27e-4681-a737-009aa9048a5f",
+          "mtgCardBuilderId": "145145"
+        }
+      },
+      "universesBeyondImage": "https://cards.scryfall.io/normal/front/7/a/7a4c1206-c36f-4fb4-9014-e8a822c97085.jpg?1696601466",
+      "universesWithinImage": "./cards/Mark%20of%20the%20Rani%20(TWHO%2015).png"
+    },
+    {
+      "name": "Alien",
+      "contributionInfo": {
+        "contributor": "cgregory",
+        "front": {
+          "artist": "Anthony Catillaz",
+          "artistUrl": "https://www.artstation.com/artico_luminos",
+          "artName": "Thing",
+          "artUrl": "https://www.artstation.com/artwork/39LggD",
+          "mtgCardBuilderId": "144691"
+        }
+      },
+      "universesBeyondImage": "https://cards.scryfall.io/normal/front/9/2/92520769-1e59-45d0-bfe9-cbaf80a4591e.jpg?1696547113",
+      "universesWithinImage": "./cards/Alien%20(TWHO%202).png"
+    },
+    {
       "name": "Rick, Steadfast Leader",
       "nickname": "Greymond, Avacyn's Stalwart",
       "universesBeyondImage": "https://cards.scryfall.io/normal/front/0/a/0a8e78b3-3232-4d48-9d6c-540951a0330e.jpg?1692516190",
@@ -414,22 +940,6 @@ const data = {
     {
       "name": "Canoptek Tomb Sentinel",
       "universesBeyondImage": "https://cards.scryfall.io/normal/front/a/e/aec9ba42-4c58-4e40-a8c5-63da81c44616.jpg?1673309622"
-    },
-    {
-      "name": "Canoptek Wraith",
-      "nickname": "Tangle Wraith",
-      "contributionInfo": {
-        "contributor": "cgregory",
-        "front": {
-          "artist": "Anthony Catillaz",
-          "artistUrl": "https://www.artstation.com/artico_luminos",
-          "artName": "Witcher Leshy Hunt",
-          "artUrl": "https://www.artstation.com/artwork/kQWz06",
-          "mtgCardBuilderId": "141718"
-        }
-      },
-      "universesBeyondImage": "https://cards.scryfall.io/normal/front/0/6/06199f88-720f-484a-953e-9189bafbe173.jpg?1673309630",
-      "universesWithinImage": "./cards/Canoptek%20Wraith.png"
     },
     {
       "name": "Convergence of Dominion",
@@ -966,31 +1476,6 @@ const data = {
       "universesBeyondBackImage": "https://cards.scryfall.io/normal/back/d/2/d20738d2-a159-4e3e-be7a-561a121bd447.jpg?1703899858"
     },
     {
-      "name": "Starscream, Power Hungry // Starscream, Seeker Leader",
-      "nickname": "Gonti, Night Ship Captain // Gonti's Night Ship",
-      "contributionInfo": {
-        "contributor": "cgregory",
-        "front": {
-          "artist": "Clint Clearly",
-          "artName": "Aether Revolt",
-          "artUrl": "https://www.deviantart.com/clintcearley/art/Aether-Revolt-656650571",
-          "isMtgArt": true,
-          "mtgCardBuilderId": "141696"
-        },
-        "back": {
-          "artist": "Adam Paquette",
-          "artName": "Spirebluff Canal",
-          "artUrl": "https://cards.scryfall.io/art_crop/front/4/e/4e587ea7-0632-4789-ba75-3c410da2bb96.jpg?1576383574",
-          "isMtgArt": true,
-          "mtgCardBuilderId": "142987"
-        }
-      },
-      "universesBeyondImage": "https://cards.scryfall.io/normal/front/8/2/8234ea77-9ed6-4f3e-acc2-f52fb7003ed2.jpg?1674092806",
-      "universesBeyondBackImage": "https://cards.scryfall.io/normal/back/8/2/8234ea77-9ed6-4f3e-acc2-f52fb7003ed2.jpg?1674092806",
-      "universesWithinImage": "./cards/Starscream%2C%20Power%20Hungry.png",
-      "universesWithinBackImage": "./cards/Starscream%2C%20Seeker%20Leader.png"
-    },
-    {
       "name": "Slicer, Hired Muscle // Slicer, High-Speed Antagonist",
       "universesBeyondImage": "https://cards.scryfall.io/normal/front/9/d/9d9a9350-4734-4cc1-986d-467e6715199f.jpg?1674092821",
       "universesBeyondBackImage": "https://cards.scryfall.io/normal/back/9/d/9d9a9350-4734-4cc1-986d-467e6715199f.jpg?1674092821"
@@ -1150,18 +1635,6 @@ const data = {
     {
       "name": "Escape from Orthanc",
       "universesBeyondImage": "https://cards.scryfall.io/normal/front/f/4/f4ff3330-dcca-4435-87e7-871be91a68b0.jpg?1686967744"
-    },
-    {
-      "name": "The Gaffer",
-      "nickname": "Gerwyn, Codger of Dundoolin",
-      "contributionInfo": {
-        "contributor": "cgregory",
-        "front": {
-          "mtgCardBuilderId": "144252"
-        }
-      },
-      "universesBeyondImage": "https://cards.scryfall.io/normal/front/8/6/863ed552-dc6d-4910-b188-3cefc3ebf0ed.jpg?1686963805",
-      "universesWithinImage": "./cards/The%20Gaffer.png"
     },
     {
       "name": "Éomer, Marshal of Rohan",
@@ -1548,18 +2021,6 @@ const data = {
       "universesBeyondImage": "https://cards.scryfall.io/normal/front/3/2/328df403-7428-4b17-bdd1-9759fc0f32d8.jpg?1686963703"
     },
     {
-      "name": "The Battle of Bywater",
-      "nickname": "The Battle of Kinsbaile",
-      "contributionInfo": {
-        "contributor": "cgregory",
-        "front": {
-          "mtgCardBuilderId": "144253"
-        }
-      },
-      "universesBeyondImage": "https://cards.scryfall.io/normal/front/9/b/9bae7a4d-9117-43c5-a048-80a0ddadc034.jpg?1708013075",
-      "universesWithinImage": "./cards/The%20Battle%20of%20Bywater.png"
-    },
-    {
       "name": "Denethor, Stone Seer",
       "universesBeyondImage": "https://cards.scryfall.io/normal/front/d/3/d32d3d8a-7450-4a29-abc7-f472426f0c28.jpg?1686963882"
     },
@@ -1654,17 +2115,6 @@ const data = {
     {
       "name": "Prince Imrahil the Fair",
       "universesBeyondImage": "https://cards.scryfall.io/normal/front/7/d/7d486def-7c3f-41e9-bb28-4582450a7b9e.jpg?1686969940"
-    },
-    {
-      "name": "Lost to Legend",
-      "contributionInfo": {
-        "contributor": "cgregory",
-        "front": {
-          "mtgCardBuilderId": "144255"
-        }
-      },
-      "universesBeyondImage": "https://cards.scryfall.io/normal/front/c/4/c4e40481-aeaa-4b3d-a020-e9b6d7c11992.jpg?1686967846",
-      "universesWithinImage": "./cards/Lost%20to%20Legend.png"
     },
     {
       "name": "Monstrosity of the Lake",
@@ -1795,18 +2245,6 @@ const data = {
       "universesBeyondImage": "https://cards.scryfall.io/normal/front/d/5/d5806e68-1054-458e-866d-1f2470f682b2.jpg?1715080486"
     },
     {
-      "name": "Palantír of Orthanc",
-      "nickname": "Mirari, the Fulsome Desire",
-      "contributionInfo": {
-        "contributor": "cgregory",
-        "front": {
-          "mtgCardBuilderId": "141412"
-        }
-      },
-      "universesBeyondImage": "https://cards.scryfall.io/normal/front/6/e/6efb6a69-562c-4d95-858d-b067444cfd7e.jpg?1686970247",
-      "universesWithinImage": "./cards/Palant%C3%ADr%20of%20Orthanc.png"
-    },
-    {
       "name": "Phial of Galadriel",
       "universesBeyondImage": "https://cards.scryfall.io/normal/front/a/c/ac6d60fe-681b-495e-813c-c8418f3f29e5.jpg?1686970260"
     },
@@ -1881,18 +2319,6 @@ const data = {
     {
       "name": "Lobelia, Defender of Bag End",
       "universesBeyondImage": "https://cards.scryfall.io/normal/front/6/d/6d67a523-bda9-4f8b-bd50-dc015f9b4b7a.jpg?1686963949"
-    },
-    {
-      "name": "Rosie Cotton of South Lane",
-      "nickname": "Róisín Goldmeadow",
-      "contributionInfo": {
-        "contributor": "cgregory",
-        "front": {
-          "mtgCardBuilderId": "144251"
-        }
-      },
-      "universesBeyondImage": "https://cards.scryfall.io/normal/front/7/5/75338f49-1f02-4333-87e4-5779ef14e688.jpg?1686967894",
-      "universesWithinImage": "./cards/Rosie%20Cotton%20of%20South%20Lane.png"
     },
     {
       "name": "Rapacious Guest",
@@ -2396,18 +2822,6 @@ const data = {
       "universesBeyondImage": "https://cards.scryfall.io/normal/front/1/c/1cb8e8bb-75a0-4b5e-b4b3-5d8f3795032d.jpg?1686968354"
     },
     {
-      "name": "Hithlain Rope",
-      "nickname": "Skyfisher's Rope",
-      "contributionInfo": {
-        "contributor": "cgregory",
-        "front": {
-          "mtgCardBuilderId": "138693"
-        }
-      },
-      "universesBeyondImage": "https://cards.scryfall.io/normal/front/b/b/bbe6e907-eafb-402c-8b8f-4c01fb168a0b.jpg?1686964419",
-      "universesWithinImage": "./cards/Hithlain%20Rope.png"
-    },
-    {
       "name": "Willow-Wind",
       "universesBeyondImage": "https://cards.scryfall.io/normal/front/0/a/0adc3bff-0eb1-40e9-b954-5515babd07a3.jpg?1686968364"
     },
@@ -2553,22 +2967,6 @@ const data = {
       "universesBeyondImage": "https://cards.scryfall.io/normal/front/5/9/59c5bd2b-cf68-4e5e-819d-53917a6c5275.jpg?1696636503"
     },
     {
-      "name": "Adipose Offspring",
-      "nickname": "Parasitic Progeny",
-      "contributionInfo": {
-        "contributor": "cgregory",
-        "front": {
-          "artist": "Sandara Tang",
-          "artistUrl": "https://sandara.artstation.com/",
-          "artName": "Ganados",
-          "artUrl": "https://www.artstation.com/artwork/qADARN",
-          "mtgCardBuilderId": "144257"
-        }
-      },
-      "universesBeyondImage": "https://cards.scryfall.io/normal/front/6/8/68f91092-b679-46c1-9f0c-3b286ee1d02f.jpg?1696636514",
-      "universesWithinImage": "./cards/Adipose%20Offspring.png"
-    },
-    {
       "name": "Fish",
       "universesBeyondImage": "https://cards.scryfall.io/normal/front/2/9/297fc694-08f6-4477-b898-60ec641a0757.jpg?1696547039"
     },
@@ -2615,22 +3013,6 @@ const data = {
     {
       "name": "Alien Angel",
       "universesBeyondImage": "https://cards.scryfall.io/normal/front/b/6/b65e872a-ba16-4df2-9214-60019fd6456a.jpg?1697475733"
-    },
-    {
-      "name": "Astrid Peth",
-      "nickname": "Saffi, Balduvian Naif",
-      "contributionInfo": {
-        "contributor": "cgregory",
-        "front": {
-          "artist": "Sandara Tang",
-          "artistUrl": "https://sandara.artstation.com/",
-          "artName": "Snowbound",
-          "artUrl": "https://sandara.artstation.com/projects/Gea00B",
-          "mtgCardBuilderId": "145140"
-        }
-      },
-      "universesBeyondImage": "https://cards.scryfall.io/normal/front/4/c/4cda3aa2-5fac-4188-bdad-dc369a089d00.jpg?1696636517",
-      "universesWithinImage": "./cards/Astrid%20Peth.png"
     },
     {
       "name": "Susan Foreman",
@@ -2741,18 +3123,6 @@ const data = {
       "universesBeyondImage": "https://cards.scryfall.io/normal/front/d/d/dd1f865e-759e-4303-81b5-74a558d270ec.jpg?1696636716"
     },
     {
-      "name": "Great Intelligence's Plan",
-      "nickname": "Duskmantle Bargain",
-      "contributionInfo": {
-        "contributor": "madelson",
-        "front": {
-          "mtgCardBuilderId": "139291"
-        }
-      },
-      "universesBeyondImage": "https://cards.scryfall.io/normal/front/a/7/a798feb4-561b-4bb9-bdc9-771325faec57.jpg?1696636717",
-      "universesWithinImage": "./cards/Great%20Intelligence%27s%20Plan.png"
-    },
-    {
       "name": "Heaven Sent",
       "universesBeyondImage": "https://cards.scryfall.io/normal/front/5/e/5e14692f-f1c3-4d7f-8baf-3248621e36fb.jpg?1696636718"
     },
@@ -2779,22 +3149,6 @@ const data = {
     {
       "name": "Alien Warrior",
       "universesBeyondImage": "https://cards.scryfall.io/normal/front/6/1/6155e7ce-3e8c-4bb3-941d-dac686d4eb57.jpg?1696546993"
-    },
-    {
-      "name": "Barbara Wright",
-      "nickname": "Elara, Tapestry Weaver",
-      "contributionInfo": {
-        "contributor": "madelson",
-        "front": {
-          "artist": "Kristina Gehrmann",
-          "artistUrl": "http://www.kristinagehrmann.com/",
-          "artName": "For Love of Tapestry I",
-          "artUrl": "https://cara.app/post/c4430b32-5518-4be2-995b-315beccf8e91",
-          "mtgCardBuilderId": "138699"
-        }
-      },
-      "universesBeyondImage": "https://cards.scryfall.io/normal/front/4/1/414bdd33-549d-4690-917c-ea48decffbbb.jpg?1696691791",
-      "universesWithinImage": "./cards/Barbara%20Wright.png"
     },
     {
       "name": "Last Night Together",
@@ -2831,37 +3185,6 @@ const data = {
     {
       "name": "The Ninth Doctor",
       "universesBeyondImage": "https://cards.scryfall.io/normal/front/7/4/74785b3b-44df-4555-a036-082572b7f4e7.jpg?1696636749"
-    },
-    {
-      "name": "The Rani",
-      "nickname": "Malina, Loyalty Beyond Reproach",
-      "contributionInfo": {
-        "contributor": "cgregory",
-        "front": {
-          "artist": "Andrea Corsini",
-          "artistUrl": "https://linktr.ee/Not_andreas",
-          "artName": "Naenia",
-          "artUrl": "https://cara.app/post/97d0160e-a27e-4681-a737-009aa9048a5f",
-          "mtgCardBuilderId": "145144"
-        }
-      },
-      "universesBeyondImage": "https://cards.scryfall.io/normal/front/0/1/01b44c52-b3a3-4954-adcc-53b79921ea24.jpg?1696636751",
-      "universesWithinImage": "./cards/The%20Rani.png"
-    },
-    {
-      "name": "Mark of the Rani",
-      "contributionInfo": {
-        "contributor": "cgregory",
-        "front": {
-          "artist": "Andrea Corsini",
-          "artistUrl": "https://linktr.ee/Not_andreas",
-          "artName": "Naenia",
-          "artUrl": "https://cara.app/post/97d0160e-a27e-4681-a737-009aa9048a5f",
-          "mtgCardBuilderId": "145145"
-        }
-      },
-      "universesBeyondImage": "https://cards.scryfall.io/normal/front/7/a/7a4c1206-c36f-4fb4-9014-e8a822c97085.jpg?1696601466",
-      "universesWithinImage": "./cards/Mark%20of%20the%20Rani%20(TWHO%2015).png"
     },
     {
       "name": "The Caves of Androzani",
@@ -3025,22 +3348,6 @@ const data = {
       "universesBeyondImage": "https://cards.scryfall.io/normal/front/8/1/81a06389-7e2b-49f1-a4d2-bb8ea580057a.jpg?1696636817"
     },
     {
-      "name": "Sonic Screwdriver",
-      "nickname": "Voltaic Sphere",
-      "contributionInfo": {
-        "contributor": "madelson",
-        "front": {
-          "artist": "Andrea Corsini",
-          "artistUrl": "https://linktr.ee/Not_andreas",
-          "artName": "An artificer's creation",
-          "artUrl": "https://cara.app/post/01746bcd-a024-42c6-a7d3-9b7b0d62d926",
-          "mtgCardBuilderId": "137619"
-        }
-      },
-      "universesBeyondImage": "https://cards.scryfall.io/normal/front/f/1/f131027a-9776-41fa-8a5f-d9ef80e0dc2e.jpg?1697584615",
-      "universesWithinImage": "./cards/Sonic%20Screwdriver.png"
-    },
-    {
       "name": "Gallifrey Council Chamber",
       "universesBeyondImage": "https://cards.scryfall.io/normal/front/8/3/83d990f5-a7b7-4482-95e6-b03a397192e2.jpg?1696636829"
     },
@@ -3065,43 +3372,12 @@ const data = {
       "universesBeyondImage": "https://cards.scryfall.io/normal/front/d/1/d180a882-84d9-4e38-8aed-1fc6ecd1df72.jpg?1696636840"
     },
     {
-      "name": "Alien",
-      "contributionInfo": {
-        "contributor": "cgregory",
-        "front": {
-          "artist": "Anthony Catillaz",
-          "artistUrl": "https://www.artstation.com/artico_luminos",
-          "artName": "Thing",
-          "artUrl": "https://www.artstation.com/artwork/39LggD",
-          "mtgCardBuilderId": "144691"
-        }
-      },
-      "universesBeyondImage": "https://cards.scryfall.io/normal/front/9/2/92520769-1e59-45d0-bfe9-cbaf80a4591e.jpg?1696547113",
-      "universesWithinImage": "./cards/Alien%20(TWHO%202).png"
-    },
-    {
       "name": "The Fourth Doctor",
       "universesBeyondImage": "https://cards.scryfall.io/normal/front/c/8/c84ea0fd-efc7-4614-9f8f-41a3c71fceaa.jpg?1696636503"
     },
     {
       "name": "Dinosaur",
       "universesBeyondImage": "https://cards.scryfall.io/normal/front/8/9/890d9d05-3be1-467c-9b6f-a2fd9f907657.jpg?1696547736"
-    },
-    {
-      "name": "Four Knocks",
-      "nickname": "Pursuit of Wisdom",
-      "contributionInfo": {
-        "contributor": "madelson",
-        "front": {
-          "artist": "Kristina Gehrmann",
-          "artistUrl": "http://www.kristinagehrmann.com/",
-          "artName": "The Ritual",
-          "artUrl": "https://cara.app/post/8b3386ca-204d-48f2-a7ba-a34c618a92e2",
-          "mtgCardBuilderId": "139910"
-        }
-      },
-      "universesBeyondImage": "https://cards.scryfall.io/normal/front/0/2/02fe50fc-6c6c-43e7-ad0e-8f13a254da2a.jpg?1696636530",
-      "universesWithinImage": "./cards/Four%20Knocks.png"
     },
     {
       "name": "The Girl in the Fireplace",
@@ -3134,22 +3410,6 @@ const data = {
     {
       "name": "Romana II",
       "universesBeyondImage": "https://cards.scryfall.io/normal/front/4/c/4ccc3ebd-34e1-421c-87b4-0be905954289.jpg?1696691793"
-    },
-    {
-      "name": "Tegan Jovanka",
-      "nickname": "Ragnhild Stormspear",
-      "contributionInfo": {
-        "contributor": "madelson",
-        "front": {
-          "artist": "Anthony Catillaz",
-          "artistUrl": "https://www.artstation.com/artico_luminos",
-          "artName": "Storm Appendix",
-          "artUrl": "https://www.artstation.com/artwork/g0rG0K",
-          "mtgCardBuilderId": "138868"
-        }
-      },
-      "universesBeyondImage": "https://cards.scryfall.io/normal/front/3/6/361769b3-7e10-4e0f-b623-c00e2144463d.jpg?1696691793",
-      "universesWithinImage": "./cards/Tegan%20Jovanka.png"
     },
     {
       "name": "Trial of a Time Lord",
@@ -3190,22 +3450,6 @@ const data = {
     {
       "name": "An Unearthly Child",
       "universesBeyondImage": "https://cards.scryfall.io/normal/front/7/2/72b20b07-2983-4b5e-9351-b8d7a5bcd72a.jpg?1696636555"
-    },
-    {
-      "name": "Auton Soldier",
-      "nickname": "Adaptive Gearwardens",
-      "contributionInfo": {
-        "contributor": "madelson",
-        "front": {
-          "artist": "Sandara Tang",
-          "artistUrl": "https://sandara.artstation.com/",
-          "artName": "Blue Mage",
-          "artUrl": "https://sandara.artstation.com/projects/NBm81",
-          "mtgCardBuilderId": "132670"
-        }
-      },
-      "universesBeyondImage": "https://cards.scryfall.io/normal/front/4/c/4cc35b82-a233-4460-968e-d90980fb2074.jpg?1717873693",
-      "universesWithinImage": "./cards/Auton%20Soldier.png"
     },
     {
       "name": "Become the Pilot",
@@ -3286,22 +3530,6 @@ const data = {
     {
       "name": "Quantum Misalignment",
       "universesBeyondImage": "https://cards.scryfall.io/normal/front/c/e/ceba3080-4e10-46b3-887c-e2d45581962b.jpg?1696636579"
-    },
-    {
-      "name": "Renegade Silent",
-      "nickname": "Whispering Lurker",
-      "contributionInfo": {
-        "contributor": "madelson",
-        "front": {
-          "artist": "Anthony Catillaz",
-          "artistUrl": "https://www.artstation.com/artico_luminos",
-          "artName": "Just little Nightmares",
-          "artUrl": "https://www.artstation.com/artwork/aGlxDX",
-          "mtgCardBuilderId": "138864"
-        }
-      },
-      "universesBeyondImage": "https://cards.scryfall.io/normal/front/6/d/6deb8b33-723d-4927-934c-5d049125d235.jpg?1696636582",
-      "universesWithinImage": "./cards/Renegade%20Silent.png"
     },
     {
       "name": "Reverse the Polarity",
@@ -3556,22 +3784,6 @@ const data = {
       "universesBeyondImage": "https://cards.scryfall.io/normal/front/3/8/381de078-6eac-462c-b6d9-095779279d42.jpg?1696636610"
     },
     {
-      "name": "Vashta Nerada",
-      "nickname": "Umbral Reaper",
-      "contributionInfo": {
-        "contributor": "madelson",
-        "front": {
-          "artist": "Anthony Catillaz",
-          "artistUrl": "https://www.artstation.com/artico_luminos",
-          "artName": "Ancient Shadow",
-          "artUrl": "https://www.artstation.com/artwork/04bkDy",
-          "mtgCardBuilderId": "137631"
-        }
-      },
-      "universesBeyondImage": "https://cards.scryfall.io/normal/front/8/b/8bb2765f-4016-4e41-9db4-5ad463faceab.jpg?1696636614",
-      "universesWithinImage": "./cards/Vashta%20Nerada.png"
-    },
-    {
       "name": "Vislor Turlough",
       "universesBeyondImage": "https://cards.scryfall.io/normal/front/f/2/f25ec946-036b-480a-bab6-c4102e5c31db.jpg?1696691797"
     },
@@ -3738,22 +3950,6 @@ const data = {
     {
       "name": "Sorcerous Squall",
       "universesBeyondImage": "https://cards.scryfall.io/normal/front/c/0/c06274ff-892e-418b-8ba5-4d3b3231e327.jpg?1695428301"
-    },
-    {
-      "name": "Rammas Echor, Ancient Shield",
-      "nickname": "Palace of the Hermit King",
-      "contributionInfo": {
-        "contributor": "cgregory",
-        "front": {
-          "artist": "Anthony Catillaz",
-          "artistUrl": "https://www.artstation.com/artico_luminos",
-          "artName": "Mountain Trail",
-          "artUrl": "https://www.artstation.com/artwork/YBqXW6",
-          "mtgCardBuilderId": "144254"
-        }
-      },
-      "universesBeyondImage": "https://cards.scryfall.io/normal/front/5/5/558c1fcc-cb01-4031-ada5-4e39d65aee27.jpg?1695346528",
-      "universesWithinImage": "./cards/Rammas%20Echor%2C%20Ancient%20Shield.png"
     },
     {
       "name": "Courageous Resolve",
@@ -4125,22 +4321,6 @@ const data = {
       "universesBeyondImage": "https://cards.scryfall.io/normal/front/3/5/35f61330-869f-448c-8374-1cbac7c23454.jpg?1708742721"
     },
     {
-      "name": "ED-E, Lonesome Eyebot",
-      "nickname": "The Warden of Argentum",
-      "contributionInfo": {
-        "contributor": "cgregory",
-        "front": {
-          "artist": "Bachzim",
-          "artistUrl": "https://www.artstation.com/bachzim",
-          "artName": "The Angekett",
-          "artUrl": "https://www.artstation.com/artwork/aYLAdz",
-          "mtgCardBuilderId": "141774"
-        }
-      },
-      "universesBeyondImage": "https://cards.scryfall.io/normal/front/b/3/b319f0e1-6f18-4fea-9f72-a21da5513aa4.jpg?1708742726",
-      "universesWithinImage": "./cards/ED-E%2C%20Lonesome%20Eyebot.png"
-    },
-    {
       "name": "Endurance Bobblehead",
       "universesBeyondImage": "https://cards.scryfall.io/normal/front/8/7/8768789b-c414-4e35-bff3-d06a69dccff6.jpg?1708742730"
     },
@@ -4161,22 +4341,6 @@ const data = {
       "universesBeyondImage": "https://cards.scryfall.io/normal/front/9/f/9f09166a-78de-4136-8a3c-034e1ef73ede.jpg?1708742746"
     },
     {
-      "name": "Nuka-Cola Vending Machine",
-      "nickname": "Witch's Hearth",
-      "contributionInfo": {
-        "contributor": "madelson",
-        "front": {
-          "artist": "Andrea Corsini",
-          "artistUrl": "https://linktr.ee/Not_andreas",
-          "artName": "The Witch's hut",
-          "artUrl": "https://cara.app/post/06b1968a-80be-4c7f-b65e-eb4b132f67c4",
-          "mtgCardBuilderId": "130674"
-        }
-      },
-      "universesBeyondImage": "https://cards.scryfall.io/normal/front/4/0/405df7c7-0e37-499e-9826-6bf9f5db7a40.jpg?1708742750",
-      "universesWithinImage": "./cards/Nuka-Cola%20Vending%20Machine.png"
-    },
-    {
       "name": "Nuka-Nuke Launcher",
       "universesBeyondImage": "https://cards.scryfall.io/normal/front/6/8/68d5835b-c206-4884-bdcf-38c7cdc703f4.jpg?1708742755"
     },
@@ -4187,22 +4351,6 @@ const data = {
     {
       "name": "Codsworth, Handy Helper",
       "universesBeyondImage": "https://cards.scryfall.io/normal/front/b/b/bbdfbd21-61b1-4ebd-8d37-bce2a391a7e9.jpg?1708741766"
-    },
-    {
-      "name": "Pip-Boy 3000",
-      "nickname": "Miner's Talisman",
-      "contributionInfo": {
-        "contributor": "madelson",
-        "front": {
-          "artist": "Andrea Corsini",
-          "artistUrl": "https://linktr.ee/Not_andreas",
-          "artName": "A dwarf's figurine",
-          "artUrl": "https://cara.app/post/2a2677ea-8267-4e5b-bdb0-6e69a4f0f0e6",
-          "mtgCardBuilderId": "143018"
-        }
-      },
-      "universesBeyondImage": "https://cards.scryfall.io/normal/front/c/2/c2248694-aab0-47a8-ae8b-8d5283075e10.jpg?1708742764",
-      "universesWithinImage": "./cards/Pip-Boy%203000.png"
     },
     {
       "name": "Recon Craft Theta",
@@ -4294,22 +4442,6 @@ const data = {
       "universesBeyondImage": "https://cards.scryfall.io/normal/front/3/5/35848917-d658-4c3b-b675-4f0185f76dc4.jpg?1708741806"
     },
     {
-      "name": "Dogmeat, Ever Loyal",
-      "nickname": "Phelia the Steadfast",
-      "contributionInfo": {
-        "contributor": "madelson",
-        "front": {
-          "artist": "Sandara Tang",
-          "artistUrl": "https://sandara.artstation.com/",
-          "artName": "Corgi and Fairy",
-          "artUrl": "https://sandara.artstation.com/projects/xVEN1",
-          "mtgCardBuilderId": "139161"
-        }
-      },
-      "universesBeyondImage": "https://cards.scryfall.io/normal/front/8/6/86b45e3e-8460-4678-87d1-d74479936c83.jpg?1710673445",
-      "universesWithinImage": "./cards/Dogmeat%2C%20Ever%20Loyal.png"
-    },
-    {
       "name": "Human Knight",
       "universesBeyondImage": "https://cards.scryfall.io/normal/front/5/4/546bda77-e3a8-4f2a-ba9c-94fb0b9ff183.jpg?1708710090"
     },
@@ -4320,21 +4452,6 @@ const data = {
     {
       "name": "Wasteland Survival Guide",
       "universesBeyondImage": "https://cards.scryfall.io/normal/front/a/d/ad073c87-42f2-45f0-9613-2cdbd0abf719.jpg?1708711704"
-    },
-    {
-      "name": "Pre-War Formalwear",
-      "contributionInfo": {
-        "contributor": "madelson",
-        "front": {
-          "artist": "Andrea Corsini",
-          "artistUrl": "https://linktr.ee/Not_andreas",
-          "artName": "An elf's crown",
-          "artUrl": "https://cara.app/post/b4cadf44-148d-48d3-9891-e96b258dbe9d",
-          "mtgCardBuilderId": "136199"
-        }
-      },
-      "universesBeyondImage": "https://cards.scryfall.io/normal/front/1/9/19018f23-b63b-45af-8419-8959f41472d4.jpg?1708741823",
-      "universesWithinImage": "./cards/Pre-War%20Formalwear.png"
     },
     {
       "name": "Radiation",
@@ -4355,10 +4472,6 @@ const data = {
     {
       "name": "Sierra, Nuka's Biggest Fan",
       "universesBeyondImage": "https://cards.scryfall.io/normal/front/6/4/641dd97c-6577-4cab-8672-56f870477961.jpg?1708741860"
-    },
-    {
-      "name": "Vault 13: Dweller's Journey",
-      "universesBeyondImage": "https://cards.scryfall.io/normal/front/a/2/a22ad436-215a-4da1-b12e-1faac474f948.jpg?1708741869"
     },
     {
       "name": "Vault 75: Middle School",
@@ -4435,37 +4548,6 @@ const data = {
     {
       "name": "Butch DeLoria, Tunnel Snake",
       "universesBeyondImage": "https://cards.scryfall.io/normal/front/d/6/d6ed508c-ff2c-444c-8149-34b29e2fbebe.jpg?1708742018"
-    },
-    {
-      "name": "Feral Ghoul",
-      "contributionInfo": {
-        "contributor": "madelson",
-        "front": {
-          "artist": "Sandara Tang",
-          "artistUrl": "https://sandara.artstation.com/",
-          "artName": "The Wechuge",
-          "artUrl": "https://www.artstation.com/artwork/o29WJO",
-          "mtgCardBuilderId": "136725"
-        }
-      },
-      "universesBeyondImage": "https://cards.scryfall.io/normal/front/f/b/fbdef99d-6ce9-495d-a55b-e6ba799d3da7.jpg?1708742025",
-      "universesWithinImage": "./cards/Feral%20Ghoul.png"
-    },
-    {
-      "name": "Hancock, Ghoulish Mayor",
-      "nickname": "Zahir, Agent of Shauku",
-      "contributionInfo": {
-        "contributor": "madelson",
-        "front": {
-          "artist": "Bachzim",
-          "artistUrl": "https://www.artstation.com/bachzim",
-          "artName": "Face of War",
-          "artUrl": "https://www.artstation.com/artwork/4bvNDk",
-          "mtgCardBuilderId": "139052"
-        }
-      },
-      "universesBeyondImage": "https://cards.scryfall.io/normal/front/3/9/39bda1b4-3f02-4cbc-9573-f5b6e6c991d5.jpg?1708742034",
-      "universesWithinImage": "./cards/Hancock%2C%20Ghoulish%20Mayor.png"
     },
     {
       "name": "Infesting Radroach",
@@ -4616,38 +4698,6 @@ const data = {
       "universesBeyondImage": "https://cards.scryfall.io/normal/front/4/f/4f6d444f-9ffb-4dc2-b668-738d45aec2c3.jpg?1708742297"
     },
     {
-      "name": "Harold and Bob, First Numens",
-      "nickname": "Gnashroot, Krosan Aberration",
-      "contributionInfo": {
-        "contributor": "madelson",
-        "front": {
-          "artist": "Thomas Ricci",
-          "artistUrl": "https://artrhino.artstation.com/",
-          "artName": "It came from nature",
-          "artUrl": "https://www.artstation.com/artwork/nQmmn4",
-          "mtgCardBuilderId": "144097"
-        }
-      },
-      "universesBeyondImage": "https://cards.scryfall.io/normal/front/d/7/d730ac69-20ec-4ef3-85ee-a5fd24e5f277.jpg?1709431404",
-      "universesWithinImage": "./cards/Harold%20and%20Bob%2C%20First%20Numens.png"
-    },
-    {
-      "name": "Lily Bowen, Raging Grandma",
-      "nickname": "Jorak, Jungle's Wrath",
-      "contributionInfo": {
-        "contributor": "madelson",
-        "front": {
-          "artist": "Anthony Catillaz",
-          "artistUrl": "https://www.artstation.com/artico_luminos",
-          "artName": "Jungle mutant",
-          "artUrl": "https://www.artstation.com/artwork/LRGgG5",
-          "mtgCardBuilderId": "137856"
-        }
-      },
-      "universesBeyondImage": "https://cards.scryfall.io/normal/front/0/5/052dc548-d356-43fe-9484-665db7e1f505.jpg?1708742311",
-      "universesWithinImage": "./cards/Lily%20Bowen%2C%20Raging%20Grandma.png"
-    },
-    {
       "name": "Preston Garvey, Minuteman",
       "universesBeyondImage": "https://cards.scryfall.io/normal/front/2/2/22b60168-1e7b-4c80-bb93-6841c1e961bb.jpg?1710673410"
     },
@@ -4704,38 +4754,12 @@ const data = {
       "universesBeyondImage": "https://cards.scryfall.io/normal/front/5/6/564a9bff-969f-49c1-be02-40cb45858f19.jpg?1708742396"
     },
     {
-      "name": "Alpha Deathclaw",
-      "contributionInfo": {
-        "contributor": "madelson",
-        "front": {
-          "artist": "Anthony Catillaz",
-          "artistUrl": "https://www.artstation.com/artico_luminos",
-          "artName": "Dragon Golem",
-          "artUrl": "https://www.artstation.com/artwork/WBk3wE",
-          "mtgCardBuilderId": "135723"
-        }
-      },
-      "universesBeyondImage": "https://cards.scryfall.io/normal/front/c/a/ca4c8b04-66af-4cb3-8003-9088d8344b20.jpg?1708742405",
-      "universesWithinImage": "./cards/Alpha%20Deathclaw.png"
-    },
-    {
       "name": "Arcade Gannon",
       "universesBeyondImage": "https://cards.scryfall.io/normal/front/3/6/36356522-15fc-41e2-bf14-a745e5a96a50.jpg?1708742414"
     },
     {
       "name": "Armory Paladin",
       "universesBeyondImage": "https://cards.scryfall.io/normal/front/4/e/4e5ffa95-5c5f-449b-820a-7d5bc1688d29.jpg?1708742424"
-    },
-    {
-      "name": "Atomize",
-      "contributionInfo": {
-        "contributor": "madelson",
-        "front": {
-          "mtgCardBuilderId": "137593"
-        }
-      },
-      "universesBeyondImage": "https://cards.scryfall.io/normal/front/5/9/592cbafc-ab4e-461f-b64f-0bf9d83aaff3.jpg?1708742433",
-      "universesWithinImage": "./cards/Atomize.png"
     },
     {
       "name": "Boomer Scrapper",
@@ -4788,18 +4812,6 @@ const data = {
     {
       "name": "Altaïr Ibn-La'Ahad",
       "universesBeyondImage": "https://cards.scryfall.io/normal/front/3/5/358026de-ab7c-4a17-8cac-cfbee391b127.jpg?1709431273"
-    },
-    {
-      "name": "Cleopatra, Exiled Pharaoh",
-      "nickname": "Hapatra, the Broken Fang",
-      "contributionInfo": {
-        "contributor": "madelson",
-        "front": {
-          "mtgCardBuilderId": "143032"
-        }
-      },
-      "universesBeyondImage": "https://cards.scryfall.io/normal/front/7/6/769bbbb3-37e9-47ec-9cee-db63672275e6.jpg?1708706822",
-      "universesWithinImage": "./cards/Cleopatra%2C%20Exiled%20Pharaoh.png"
     },
     {
       "name": "The Animus",

@@ -35,9 +35,8 @@ async Task Main()
 	var artistsInfo = GetArtistsInfo();
 	var approvedArtistsByName = artistsInfo.Approved.ToDictionary(a => a.Name);
 
-	List<GalleryCard> galleryCards = [];
-	Dictionary<GalleryCard, Guid> oracleIds = [];
-	foreach (var card in universesBeyondCards.OrderBy(c => c.Card.Released_At).ThenBy(c => c.Card.Collector_Number))
+	Dictionary<GalleryCard, (Card Card, UniversesWithinCard? UniversesWithinCard)> galleryCards = [];
+	foreach (var card in universesBeyondCards)
 	{
 		var universesBeyondName = card.Card.Flavor_Name ?? card.Card.Name;
 		var universesWithinCard = universesWithinCardsByName.TryGetValue(card.Card.Name, out var c) ? c
@@ -70,7 +69,7 @@ async Task Main()
 		}
 		else { artist = backArtist = null; }
 
-		galleryCards.Add(new()
+		GalleryCard galleryCard = new()
 		{
 			Name = universesBeyondName,
 			Nickname = universesWithinName == universesBeyondName ? null : universesWithinName,
@@ -104,24 +103,31 @@ async Task Main()
 			UniversesBeyondBackImage = card.Card.GetBackImage(),
 			UniversesWithinImage = card.OfficialUniversesWithinCard?.GetFrontImage() ?? MakeUrlFromCardPath(universesWithinCard?.FrontImage),
 			UniversesWithinBackImage = card.OfficialUniversesWithinCard?.GetBackImage() ?? MakeUrlFromCardPath(universesWithinCard?.BackImage),
-		});
-		oracleIds.Add(galleryCards[^1], card.Card.Oracle_Id!.Value);
+		};
+		galleryCards.Add(galleryCard, (card.Card, universesWithinCard));
 	}
 	
-	var galleryData = new { cards = galleryCards };
-
+	var galleryData = new 
+	{ 
+		cards = galleryCards.OrderBy(p => p.Value.UniversesWithinCard is null)
+			.ThenBy(p => p.Value.UniversesWithinCard?.Id.StartsWith('T'))
+			.ThenByDescending(p => p.Value.UniversesWithinCard?.Id)
+			.ThenBy(p => p.Value.Card.Released_At)
+			.ThenBy(p => p.Value.Card.Collector_Number)
+			.Select(p => p.Key)
+	};
 	File.WriteAllText(Path.Combine(Path.GetDirectoryName(Util.CurrentQueryPath)!, "galleryData.js"), $"const data = {JsonConvert.SerializeObject(galleryData, Newtonsoft.Json.Formatting.Indented)}; export default data;");
 
 	// Generate card data (for importer consumption)
 
 	Uri ToAbsoluteUrl(string relativeUrl) => new($"https://madelson.github.io/universes-within-collection{relativeUrl.TrimStart('.')}");
-	var cardData = galleryCards.Where(c => c.ContributionInfo != null)
-		.Select(c => new CardData(
-			oracleIds[c],
-			c.Name, 
-			c.Nickname, 
-			ToAbsoluteUrl(c.UniversesWithinImage!), 
-			c.UniversesWithinBackImage != null ? ToAbsoluteUrl(c.UniversesWithinBackImage) : null))
+	var cardData = galleryCards.Where(p => p.Key.ContributionInfo != null)
+		.Select(p => new CardData(
+			p.Value.Card.Oracle_Id!.Value,
+			p.Key.Name, 
+			p.Key.Nickname, 
+			ToAbsoluteUrl(p.Key.UniversesWithinImage!), 
+			p.Key.UniversesWithinBackImage != null ? ToAbsoluteUrl(p.Key.UniversesWithinBackImage) : null))
 		.ToArray();
 	File.WriteAllText(Path.Combine(Path.GetDirectoryName(Util.CurrentQueryPath)!, "cardData.json"), JsonConvert.SerializeObject(cardData, Newtonsoft.Json.Formatting.Indented));
 	
@@ -153,7 +159,7 @@ async Task Main()
 				artistsPage.Append("<br/>");
 				if (work.cards.Any())
 				{
-					artistsPage.Append($"- ~{work.name}~ (used on {string.Join(", ", work.cards.Select(c => c.Info.Nickname ?? c.Info.Name))})");
+					artistsPage.Append($"- ~{work.name}~ (used on {string.Join(", ", work.cards.Select(c => c.Info.Name))})");
 				}
 				else
 				{
@@ -269,8 +275,8 @@ List<UniversesWithinCard> GetUniversesWithinCards()
 		{
 			Id = id,
 			Info = info,
-			FrontImage = $"{nameSplit[0]}.png",
-			BackImage = nameSplit.Length > 1 ? $"{nameSplit[1]}.png" : null
+			FrontImage = $"{ReplaceInvalidChars(nameSplit[0])}.png",
+			BackImage = nameSplit.Length > 1 ? $"{ReplaceInvalidChars(nameSplit[1])}.png" : null
 		};
 		
 		foreach (var path in new[] { card.FrontImage, card.BackImage }.Where(i => i != null))
@@ -279,10 +285,14 @@ List<UniversesWithinCard> GetUniversesWithinCards()
 		}
 
 		results.Add(card);
+		
+		string ReplaceInvalidChars(string name) => InvalidFilenameCharsRegex.Replace(name, "_");
 	}
 	
 	return results;
 }
+
+static readonly Regex InvalidFilenameCharsRegex = new($"[{string.Join(string.Empty, Path.GetInvalidFileNameChars().Select(ch => Regex.Escape(ch.ToString())))}]");
 
 record UniversesWithinCardInfo(
 	[property: JsonProperty(Required = Required.Always)] string Name,

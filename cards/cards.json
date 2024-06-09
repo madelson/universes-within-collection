@@ -265,6 +265,15 @@
 		"artUrl": "https://cara.app/post/97d0160e-a27e-4681-a737-009aa9048a5f",
 		"mtgCardBuilderId": "145144",
 	},
+	"0033": {
+		"name": "Vault 13: Dweller's Journey",
+		"nickname": "Sorin's Search for Avacyn",
+		"contributor": "madelson",
+		"artist": "Florian Herold",
+		"artName": "Departure",
+		"artUrl": "https://www.artstation.com/artwork/EazL5n",
+		"mtgCardBuilderId": "145396"
+	},
 	"T0001": {
 		"name": "Alien (TWHO 2)",
 		"contributor": "cgregory",
