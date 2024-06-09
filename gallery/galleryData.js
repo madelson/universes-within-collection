@@ -2618,7 +2618,19 @@ const data = {
     },
     {
       "name": "Astrid Peth",
-      "universesBeyondImage": "https://cards.scryfall.io/normal/front/4/c/4cda3aa2-5fac-4188-bdad-dc369a089d00.jpg?1696636517"
+      "nickname": "Saffi, Balduvian Naif",
+      "contributionInfo": {
+        "contributor": "cgregory",
+        "front": {
+          "artist": "Sandara Tang",
+          "artistUrl": "https://sandara.artstation.com/",
+          "artName": "Snowbound",
+          "artUrl": "https://sandara.artstation.com/projects/Gea00B",
+          "mtgCardBuilderId": "145140"
+        }
+      },
+      "universesBeyondImage": "https://cards.scryfall.io/normal/front/4/c/4cda3aa2-5fac-4188-bdad-dc369a089d00.jpg?1696636517",
+      "universesWithinImage": "./cards/Astrid%20Peth.png"
     },
     {
       "name": "Susan Foreman",
@@ -3169,7 +3181,7 @@ const data = {
           "mtgCardBuilderId": "132670"
         }
       },
-      "universesBeyondImage": "https://cards.scryfall.io/normal/front/4/c/4cc35b82-a233-4460-968e-d90980fb2074.jpg?1696636556",
+      "universesBeyondImage": "https://cards.scryfall.io/normal/front/4/c/4cc35b82-a233-4460-968e-d90980fb2074.jpg?1717873693",
       "universesWithinImage": "./cards/Auton%20Soldier.png"
     },
     {
@@ -4723,6 +4735,10 @@ const data = {
       "universesBeyondImage": "https://cards.scryfall.io/normal/front/b/d/bde9eb15-544a-462a-8ab8-86067840c083.jpg?1708742479"
     },
     {
+      "name": "The Spear of Leonidas",
+      "universesBeyondImage": "https://cards.scryfall.io/normal/front/8/b/8b729699-efb7-4769-a166-29aaadef335b.jpg?1717883777"
+    },
+    {
       "name": "Haystack",
       "universesBeyondImage": "https://cards.scryfall.io/normal/front/c/5/c5fffb8d-e639-4863-84a1-37cd330a3226.jpg?1708770019"
     },
@@ -4733,6 +4749,10 @@ const data = {
     {
       "name": "Ezio Auditore da Firenze",
       "universesBeyondImage": "https://cards.scryfall.io/normal/front/d/a/dae9ee75-30b8-4e24-af8b-031c816d3221.jpg?1708706027"
+    },
+    {
+      "name": "Kassandra, Eagle Bearer",
+      "universesBeyondImage": "https://cards.scryfall.io/normal/front/1/f/1f053676-de35-4465-b3b2-ce6050055e85.jpg?1717883735"
     },
     {
       "name": "Eivor, Battle-Ready",
