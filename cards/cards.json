@@ -283,6 +283,16 @@
 		"artUrl": "https://www.artstation.com/artwork/e05yXw",
 		"mtgCardBuilderId": "145467"
 	},
+	"0035": {
+		"name": "Ace's Baseball Bat",
+		"nickname": "Pelioris, Haktos’ Spear",
+		"contributor": "madelson",
+		"artist": "Chuck Lukacs",
+		"artName": "Spear of the General",
+		"artUrl": "https://scryfall.com/card/thp3/7a/spear-of-the-general",
+		"isMtgArt": true,
+		"mtgCardBuilderId": "145493"
+	},
 	"T0001": {
 		"name": "Alien (TWHO 2)",
 		"contributor": "cgregory",

@@ -1,6 +1,22 @@
 const data = {
   "cards": [
     {
+      "name": "Ace's Baseball Bat",
+      "nickname": "Pelioris, Haktos’ Spear",
+      "contributionInfo": {
+        "contributor": "madelson",
+        "front": {
+          "artist": "Chuck Lukacs",
+          "artName": "Spear of the General",
+          "artUrl": "https://scryfall.com/card/thp3/7a/spear-of-the-general",
+          "isMtgArt": true,
+          "mtgCardBuilderId": "145493"
+        }
+      },
+      "universesBeyondImage": "https://cards.scryfall.io/normal/front/5/f/5f1132b6-9db6-440c-9e0a-fae6c157e8a3.jpg?1696636787",
+      "universesWithinImage": "./cards/Ace%27s%20Baseball%20Bat.png"
+    },
+    {
       "name": "The Cyber-Controller",
       "nickname": "Ylix, Gitaxian Scrapwright",
       "contributionInfo": {
@@ -3294,10 +3310,6 @@ const data = {
     {
       "name": "Crisis of Conscience",
       "universesBeyondImage": "https://cards.scryfall.io/normal/front/3/0/308d9672-58a7-4ec8-a20d-7054d76fde37.jpg?1696636526"
-    },
-    {
-      "name": "Ace's Baseball Bat",
-      "universesBeyondImage": "https://cards.scryfall.io/normal/front/5/f/5f1132b6-9db6-440c-9e0a-fae6c157e8a3.jpg?1696636787"
     },
     {
       "name": "Bessie, the Doctor's Roadster",
