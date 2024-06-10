@@ -1,6 +1,22 @@
 const data = {
   "cards": [
     {
+      "name": "The Cyber-Controller",
+      "nickname": "Ylix, Gitaxian Scrapwright",
+      "contributionInfo": {
+        "contributor": "madelson",
+        "front": {
+          "artist": "Thomas Ricci",
+          "artistUrl": "https://artrhino.artstation.com/",
+          "artName": "Gitaxian Scrap-searcher",
+          "artUrl": "https://www.artstation.com/artwork/e05yXw",
+          "mtgCardBuilderId": "145467"
+        }
+      },
+      "universesBeyondImage": "https://cards.scryfall.io/normal/front/3/c/3cab0df1-d53f-4208-9ff9-d015aac20141.jpg?1696636687",
+      "universesWithinImage": "./cards/The%20Cyber-Controller.png"
+    },
+    {
       "name": "Vault 13: Dweller's Journey",
       "nickname": "Sorin's Search for Avacyn",
       "contributionInfo": {
@@ -3049,10 +3065,6 @@ const data = {
     {
       "name": "The Curse of Fenric",
       "universesBeyondImage": "https://cards.scryfall.io/normal/front/0/e/0e399b70-d793-4833-8317-557fa98a611c.jpg?1696636685"
-    },
-    {
-      "name": "The Cyber-Controller",
-      "universesBeyondImage": "https://cards.scryfall.io/normal/front/3/c/3cab0df1-d53f-4208-9ff9-d015aac20141.jpg?1696636687"
     },
     {
       "name": "Atraxi Warden",
