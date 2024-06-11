@@ -1,6 +1,34 @@
 const data = {
   "cards": [
     {
+      "name": "Glóin, Dwarf Emissary",
+      "nickname": "Herlief, Embereth Emissary",
+      "contributionInfo": {
+        "contributor": "cgregory",
+        "front": {
+          "mtgCardBuilderId": "145990"
+        }
+      },
+      "universesBeyondImage": "https://cards.scryfall.io/normal/front/8/6/868a2aa7-bcaf-409b-8802-d00ee1f2ae77.jpg?1686968993",
+      "universesWithinImage": "./cards/Gl%C3%B3in%2C%20Dwarf%20Emissary.png"
+    },
+    {
+      "name": "Silver Shroud Costume",
+      "nickname": "Naiad's Raiment",
+      "contributionInfo": {
+        "contributor": "cgregory",
+        "front": {
+          "artist": "Anthony Catillaz",
+          "artistUrl": "https://www.artstation.com/artico_luminos",
+          "artName": "Sorceress",
+          "artUrl": "https://www.artstation.com/artwork/XgzL0L",
+          "mtgCardBuilderId": "145988"
+        }
+      },
+      "universesBeyondImage": "https://cards.scryfall.io/normal/front/f/2/f21fba59-330b-4daf-bf77-6dd817327a64.jpg?1708742772",
+      "universesWithinImage": "./cards/Silver%20Shroud%20Costume.png"
+    },
+    {
       "name": "Ace's Baseball Bat",
       "nickname": "Pelioris, Haktos’ Spear",
       "contributionInfo": {
@@ -1723,10 +1751,6 @@ const data = {
     {
       "name": "Gimli's Fury",
       "universesBeyondImage": "https://cards.scryfall.io/normal/front/e/f/efde011d-8732-49b3-9204-8b114a3d81ba.jpg?1686968981"
-    },
-    {
-      "name": "Glóin, Dwarf Emissary",
-      "universesBeyondImage": "https://cards.scryfall.io/normal/front/8/6/868a2aa7-bcaf-409b-8802-d00ee1f2ae77.jpg?1686968993"
     },
     {
       "name": "Goblin Fireleaper",
@@ -4379,10 +4403,6 @@ const data = {
     {
       "name": "Recon Craft Theta",
       "universesBeyondImage": "https://cards.scryfall.io/normal/front/2/1/21aa59d3-e786-4ba0-9802-01b57597cda2.jpg?1708742768"
-    },
-    {
-      "name": "Silver Shroud Costume",
-      "universesBeyondImage": "https://cards.scryfall.io/normal/front/f/2/f21fba59-330b-4daf-bf77-6dd817327a64.jpg?1708742772"
     },
     {
       "name": "Strength Bobblehead",

@@ -80,6 +80,12 @@
     "image": "https://madelson.github.io/universes-within-collection/cards/Four%20Knocks.png"
   },
   {
+    "oracleId": "29375a7a-af4e-46aa-8d1c-e8d22d3c0ea7",
+    "name": "Glóin, Dwarf Emissary",
+    "nickname": "Herlief, Embereth Emissary",
+    "image": "https://madelson.github.io/universes-within-collection/cards/Gl%C3%B3in%2C%20Dwarf%20Emissary.png"
+  },
+  {
     "oracleId": "cb9abc41-07f8-4a06-b7b9-9dd6be526e42",
     "name": "Great Intelligence's Plan",
     "nickname": "Duskmantle Bargain",
@@ -159,6 +165,12 @@
     "name": "Rosie Cotton of South Lane",
     "nickname": "Róisín Goldmeadow",
     "image": "https://madelson.github.io/universes-within-collection/cards/Rosie%20Cotton%20of%20South%20Lane.png"
+  },
+  {
+    "oracleId": "b40138c3-48bc-4825-ae48-5fea95304088",
+    "name": "Silver Shroud Costume",
+    "nickname": "Naiad's Raiment",
+    "image": "https://madelson.github.io/universes-within-collection/cards/Silver%20Shroud%20Costume.png"
   },
   {
     "oracleId": "cd68cc31-12fd-48ff-b37b-bccfe4172974",

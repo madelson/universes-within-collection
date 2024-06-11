@@ -293,6 +293,21 @@
 		"isMtgArt": true,
 		"mtgCardBuilderId": "145493"
 	},
+	"0036": {
+		"name": "Silver Shroud Costume",
+		"nickname": "Naiad's Raiment",
+		"contributor": "cgregory",
+		"artist": "Anthony Catillaz",
+		"artName": "Sorceress",
+		"artUrl": "https://www.artstation.com/artwork/XgzL0L",
+		"mtgCardBuilderId": "145988"
+	},
+	"0037": {
+		"name": "Glóin, Dwarf Emissary",
+		"nickname": "Herlief, Embereth Emissary",
+		"contributor": "cgregory",
+		"mtgCardBuilderId": "145990"
+	},
 	"T0001": {
 		"name": "Alien (TWHO 2)",
 		"contributor": "cgregory",
