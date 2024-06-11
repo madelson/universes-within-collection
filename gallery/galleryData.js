@@ -1,6 +1,22 @@
 const data = {
   "cards": [
     {
+      "name": "The Master, Gallifrey's End",
+      "nickname": "Mishra, Butcher of Kroog",
+      "contributionInfo": {
+        "contributor": "madelson",
+        "front": {
+          "artist": "Anson Maddocks",
+          "artName": "Mishra",
+          "artUrl": "https://scryfall.com/card/pvan/403/mishra",
+          "isMtgArt": true,
+          "mtgCardBuilderId": "146435"
+        }
+      },
+      "universesBeyondImage": "https://cards.scryfall.io/normal/front/7/e/7efb5dd0-abc4-4741-9d90-d8d93b03cf21.jpg?1700695468",
+      "universesWithinImage": "./cards/The%20Master%2C%20Gallifrey%27s%20End.png"
+    },
+    {
       "name": "Glóin, Dwarf Emissary",
       "nickname": "Herlief, Embereth Emissary",
       "contributionInfo": {
@@ -3217,10 +3233,6 @@ const data = {
     {
       "name": "The Master, Formed Anew",
       "universesBeyondImage": "https://cards.scryfall.io/normal/front/a/8/a85edffb-37ce-45ca-b8d2-ddbbbee3b571.jpg?1696636738"
-    },
-    {
-      "name": "The Master, Gallifrey's End",
-      "universesBeyondImage": "https://cards.scryfall.io/normal/front/7/e/7efb5dd0-abc4-4741-9d90-d8d93b03cf21.jpg?1700695468"
     },
     {
       "name": "The Master, Mesmerist",

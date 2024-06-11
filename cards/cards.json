@@ -308,6 +308,16 @@
 		"contributor": "cgregory",
 		"mtgCardBuilderId": "145990"
 	},
+	"0038": {
+		"name": "The Master, Gallifrey's End",
+		"nickname": "Mishra, Butcher of Kroog",
+		"contributor": "madelson",
+		"artist": "Anson Maddocks",
+		"artName": "Mishra",
+		"artUrl": "https://scryfall.com/card/pvan/403/mishra",
+		"isMtgArt": true,
+		"mtgCardBuilderId": "146435" 
+	},
 	"T0001": {
 		"name": "Alien (TWHO 2)",
 		"contributor": "cgregory",
