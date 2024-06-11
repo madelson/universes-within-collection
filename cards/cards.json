@@ -318,6 +318,12 @@
 		"isMtgArt": true,
 		"mtgCardBuilderId": "146435" 
 	},
+	"0039": {
+		"name": "Screeching Scorchbeast",
+		"nickname": "Somberwald Screecher",
+		"contributor": "madelson",
+		"mtgCardBuilderId": "146458"
+	},
 	"T0001": {
 		"name": "Alien (TWHO 2)",
 		"contributor": "cgregory",

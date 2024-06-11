@@ -1,6 +1,18 @@
 const data = {
   "cards": [
     {
+      "name": "Screeching Scorchbeast",
+      "nickname": "Somberwald Screecher",
+      "contributionInfo": {
+        "contributor": "madelson",
+        "front": {
+          "mtgCardBuilderId": "146458"
+        }
+      },
+      "universesBeyondImage": "https://cards.scryfall.io/normal/front/9/6/967dbb24-3073-4c33-bfdf-b3eb9e8fe443.jpg?1708742068",
+      "universesWithinImage": "./cards/Screeching%20Scorchbeast.png"
+    },
+    {
       "name": "The Master, Gallifrey's End",
       "nickname": "Mishra, Butcher of Kroog",
       "contributionInfo": {
@@ -4616,10 +4628,6 @@ const data = {
     {
       "name": "Ruthless Radrat",
       "universesBeyondImage": "https://cards.scryfall.io/normal/front/a/4/a4542e34-2905-41ce-9182-a432c8f2c451.jpg?1708742059"
-    },
-    {
-      "name": "Screeching Scorchbeast",
-      "universesBeyondImage": "https://cards.scryfall.io/normal/front/9/6/967dbb24-3073-4c33-bfdf-b3eb9e8fe443.jpg?1708742068"
     },
     {
       "name": "Liberty Prime, Recharged",
