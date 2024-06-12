@@ -585,6 +585,21 @@ const data = {
       "universesWithinImage": "./cards/Nuka-Cola%20Vending%20Machine.png"
     },
     {
+      "name": "Zombie Mutant",
+      "contributionInfo": {
+        "contributor": "madelson",
+        "front": {
+          "artist": "Florian Herold",
+          "artistUrl": "https://www.artstation.com/faherold",
+          "artName": "Zombie",
+          "artUrl": "https://www.artstation.com/artwork/GXNNo1",
+          "mtgCardBuilderId": "146462"
+        }
+      },
+      "universesBeyondImage": "https://cards.scryfall.io/normal/front/b/a/ba45bc9c-8257-43f8-9ba1-116b9fea90f4.jpg?1708711508",
+      "universesWithinImage": "./cards/Zombie%20Mutant%20(TPIP%207).png"
+    },
+    {
       "name": "Mark of the Rani",
       "contributionInfo": {
         "contributor": "cgregory",
@@ -4724,10 +4739,6 @@ const data = {
     {
       "name": "Mr. House, President and CEO",
       "universesBeyondImage": "https://cards.scryfall.io/normal/front/2/3/23eb3cf7-c90d-4bfa-b125-4fbcb5614468.jpg?1710673416"
-    },
-    {
-      "name": "Zombie Mutant",
-      "universesBeyondImage": "https://cards.scryfall.io/normal/front/b/a/ba45bc9c-8257-43f8-9ba1-116b9fea90f4.jpg?1708711508"
     },
     {
       "name": "Veronica, Dissident Scribe",

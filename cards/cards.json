@@ -340,5 +340,13 @@
 		"artUrl": "https://cara.app/post/97d0160e-a27e-4681-a737-009aa9048a5f",
 		"isArtCrop": true,
 		"mtgCardBuilderId": "145145"
+	},
+	"T0003": {
+		"name": "Zombie Mutant (TPIP 7)",
+		"contributor": "madelson",
+		"artist": "Florian Herold",
+		"artName": "Zombie",
+		"artUrl": "https://www.artstation.com/artwork/GXNNo1",
+		"mtgCardBuilderId": "146462"
 	}
 }
