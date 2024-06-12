@@ -324,6 +324,15 @@
 		"contributor": "madelson",
 		"mtgCardBuilderId": "146458"
 	},
+	"0040": {
+		"name": "Nuka-Nuke Launcher",
+		"nickname": "Aphetto Dagger",
+		"contributor": "madelson",
+		"artist": "Andrea Corsini",
+		"artName": "A Witch's dagger",
+		"artUrl": "https://cara.app/post/8664de3f-d7f3-47b2-81b7-58775336267c",
+		"mtgCardBuilderId": "146476"
+	},
 	"T0001": {
 		"name": "Alien (TWHO 2)",
 		"contributor": "cgregory",

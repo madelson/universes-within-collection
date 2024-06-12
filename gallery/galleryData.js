@@ -1,6 +1,22 @@
 const data = {
   "cards": [
     {
+      "name": "Nuka-Nuke Launcher",
+      "nickname": "Aphetto Dagger",
+      "contributionInfo": {
+        "contributor": "madelson",
+        "front": {
+          "artist": "Andrea Corsini",
+          "artistUrl": "https://linktr.ee/Not_andreas",
+          "artName": "A Witch's dagger",
+          "artUrl": "https://cara.app/post/8664de3f-d7f3-47b2-81b7-58775336267c",
+          "mtgCardBuilderId": "146476"
+        }
+      },
+      "universesBeyondImage": "https://cards.scryfall.io/normal/front/6/8/68d5835b-c206-4884-bdcf-38c7cdc703f4.jpg?1708742755",
+      "universesWithinImage": "./cards/Nuka-Nuke%20Launcher.png"
+    },
+    {
       "name": "Screeching Scorchbeast",
       "nickname": "Somberwald Screecher",
       "contributionInfo": {
@@ -4426,10 +4442,6 @@ const data = {
     {
       "name": "Mister Gutsy",
       "universesBeyondImage": "https://cards.scryfall.io/normal/front/9/f/9f09166a-78de-4136-8a3c-034e1ef73ede.jpg?1708742746"
-    },
-    {
-      "name": "Nuka-Nuke Launcher",
-      "universesBeyondImage": "https://cards.scryfall.io/normal/front/6/8/68d5835b-c206-4884-bdcf-38c7cdc703f4.jpg?1708742755"
     },
     {
       "name": "Perception Bobblehead",
