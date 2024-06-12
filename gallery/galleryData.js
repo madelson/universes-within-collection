@@ -1,6 +1,18 @@
 const data = {
   "cards": [
     {
+      "name": "Leonardo da Vinci",
+      "nickname": "Leoric, Sai's Apprentice",
+      "contributionInfo": {
+        "contributor": "madelson",
+        "front": {
+          "mtgCardBuilderId": "146480"
+        }
+      },
+      "universesBeyondImage": "https://cards.scryfall.io/normal/front/2/8/283d04a5-3639-42de-b940-ffa7e609e527.jpg?1708705316",
+      "universesWithinImage": "./cards/Leonardo%20da%20Vinci.png"
+    },
+    {
       "name": "Nuka-Nuke Launcher",
       "nickname": "Aphetto Dagger",
       "contributionInfo": {
@@ -4875,10 +4887,6 @@ const data = {
     {
       "name": "Haystack",
       "universesBeyondImage": "https://cards.scryfall.io/normal/front/c/5/c5fffb8d-e639-4863-84a1-37cd330a3226.jpg?1708770019"
-    },
-    {
-      "name": "Leonardo da Vinci",
-      "universesBeyondImage": "https://cards.scryfall.io/normal/front/2/8/283d04a5-3639-42de-b940-ffa7e609e527.jpg?1708705316"
     },
     {
       "name": "Ezio Auditore da Firenze",
