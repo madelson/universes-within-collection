@@ -1,22 +1,26 @@
 <Query Kind="Program">
-  <NuGetReference Version="12.13.1">Azure.Storage.Blobs</NuGetReference>
   <NuGetReference Version="13.0.3">Newtonsoft.Json</NuGetReference>
+  <NuGetReference>Tinify</NuGetReference>
   <Namespace>Newtonsoft.Json</Namespace>
   <Namespace>Newtonsoft.Json.Linq</Namespace>
   <Namespace>Newtonsoft.Json.Serialization</Namespace>
   <Namespace>System.Net</Namespace>
   <Namespace>System.Net.Http</Namespace>
-  <Namespace>System.Threading.Tasks</Namespace>
   <Namespace>System.Runtime.CompilerServices</Namespace>
+  <Namespace>System.Threading.Tasks</Namespace>
+  <Namespace>TinifyAPI</Namespace>
 </Query>
 
 #nullable enable
 
 bool BustCache = false;
 TimeSpan Expiry = TimeSpan.FromDays(7);
+string RawImageRepository = Path.GetFullPath(Path.Combine(Path.GetDirectoryName(Util.CurrentQueryPath)!, "..", "..", "universes-within-collection-reference", "Raw Cards"));
 
 async Task Main()
 {
+	await CompressCardImagesAsync();
+	
 	var universesBeyondCards = await GetUniversesBeyondCardsAsync();
 	
 	var universesWithinCardsByName = GetUniversesWithinCards()
@@ -242,6 +246,25 @@ static string DisambiguatedName(Card card) => $"{card.Name} ({card.Set.ToUpperIn
 
 // github pages doesn't support "+" for spaces
 string? MakeUrlFromCardPath(string? path) => path != null ? $"./cards/{WebUtility.UrlEncode(path).Replace("+", "%20")}" : null;
+
+async Task CompressCardImagesAsync()
+{
+	if (!Directory.Exists(RawImageRepository)) { throw new DirectoryNotFoundException(RawImageRepository); }
+	
+	Tinify.Key = JsonConvert.DeserializeObject<Dictionary<string, string>>(File.ReadAllText(Path.Combine(Path.GetDirectoryName(Util.CurrentQueryPath)!, "credentials.json")))!["tinypng"];
+	
+	var rawCardImages = Directory.GetFiles(CardsDirectory, "*.png")
+		.Where(c => new FileInfo(c).Length > 2_000_000);
+	await Parallel.ForEachAsync(rawCardImages, async (rawCardImage, _) =>
+	{
+		File.Copy(rawCardImage, Path.Combine(RawImageRepository, Path.GetFileName(rawCardImage)));
+		await (await Tinify.FromFile(rawCardImage)).ToFile(rawCardImage);
+		if (new FileInfo(rawCardImage).Length > 1_500_000)
+		{
+			$"Warning: compressed {rawCardImage} is still large!".Dump();
+		}
+	});
+}
 
 List<UniversesWithinCard> GetUniversesWithinCards()
 {

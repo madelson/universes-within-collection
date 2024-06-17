@@ -689,7 +689,7 @@ const data = {
       "name": "Glenn, the Voice of Calm",
       "nickname": "Gregor, Shrewd Magistrate",
       "universesBeyondImage": "https://cards.scryfall.io/normal/front/6/e/6e5df29a-af3b-4acc-8312-f2024ab039e0.jpg?1692516427",
-      "universesWithinImage": "https://cards.scryfall.io/normal/front/8/8/88818c8b-dfd8-4aa6-b7bb-1c8e67d01c48.jpg?1695438880"
+      "universesWithinImage": "https://cards.scryfall.io/normal/front/8/8/88818c8b-dfd8-4aa6-b7bb-1c8e67d01c48.jpg?1718456507"
     },
     {
       "name": "Michonne, Ruthless Survivor",
@@ -4893,20 +4893,12 @@ const data = {
       "universesBeyondImage": "https://cards.scryfall.io/normal/front/b/d/bde9eb15-544a-462a-8ab8-86067840c083.jpg?1708742479"
     },
     {
-      "name": "The Spear of Leonidas",
-      "universesBeyondImage": "https://cards.scryfall.io/normal/front/8/b/8b729699-efb7-4769-a166-29aaadef335b.jpg?1717883777"
-    },
-    {
       "name": "Haystack",
       "universesBeyondImage": "https://cards.scryfall.io/normal/front/c/5/c5fffb8d-e639-4863-84a1-37cd330a3226.jpg?1708770019"
     },
     {
       "name": "Ezio Auditore da Firenze",
       "universesBeyondImage": "https://cards.scryfall.io/normal/front/d/a/dae9ee75-30b8-4e24-af8b-031c816d3221.jpg?1708706027"
-    },
-    {
-      "name": "Kassandra, Eagle Bearer",
-      "universesBeyondImage": "https://cards.scryfall.io/normal/front/1/f/1f053676-de35-4465-b3b2-ce6050055e85.jpg?1717883735"
     },
     {
       "name": "Eivor, Battle-Ready",
@@ -4917,8 +4909,16 @@ const data = {
       "universesBeyondImage": "https://cards.scryfall.io/normal/front/b/b/bbdc8019-9b5e-4d9a-a09b-2a14f41ddfe1.jpg?1708706888"
     },
     {
+      "name": "The Spear of Leonidas",
+      "universesBeyondImage": "https://cards.scryfall.io/normal/front/1/6/160d6ce7-2452-41a2-aa70-41e1b8045c54.jpg?1718400665"
+    },
+    {
       "name": "Altaïr Ibn-La'Ahad",
       "universesBeyondImage": "https://cards.scryfall.io/normal/front/3/5/358026de-ab7c-4a17-8cac-cfbee391b127.jpg?1709431273"
+    },
+    {
+      "name": "Kassandra, Eagle Bearer",
+      "universesBeyondImage": "https://cards.scryfall.io/normal/front/e/1/e127a40c-90c8-4c2d-aff4-daab1c56a4c5.jpg?1718400766"
     },
     {
       "name": "The Animus",
