@@ -349,6 +349,31 @@
 		"isMtgArt": true,
 		"mtgCardBuilderId": "146791"
 	},
+	"0043": {
+		"name": "The Beast, Deathless Prince",
+		"nickname": "Acteus, Patron of Treachery",
+		"contributor": "cgregory",
+		"isArtCrop": true,
+		"mtgCardBuilderId": "148348",
+	},
+	"0044": {
+		"name": "Bessie, the Doctor's Roadster",
+		"nickname": "Kanakht's Grim Caravan",
+		"contributor": "cgregory",
+		"artist": "Sandara Tang",
+		"artName": "Necromancer Mount",
+		"artUrl": "https://sandara.artstation.com/projects/e6zYG",
+		"mtgCardBuilderId": "148350"
+	},
+	"0045": {
+		"name": "Gollum, Obsessed Stalker",
+		"nickname": "Kanakht the Eremite",
+		"contributor": "cgregory",
+		"artist": "Sandara Tang",
+		"artName": "Raven Altar",
+		"artUrl": "https://sandara.artstation.com/projects/JYdQm",
+		"mtgCardBuilderId": "148352"
+	},
 	"T0001": {
 		"name": "Alien (TWHO 2)",
 		"contributor": "cgregory",

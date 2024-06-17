@@ -45,6 +45,12 @@
     "image": "https://madelson.github.io/universes-within-collection/cards/Barbara%20Wright.png"
   },
   {
+    "oracleId": "776aa036-08aa-4fa0-82bd-c09e6e3e2c5e",
+    "name": "Bessie, the Doctor's Roadster",
+    "nickname": "Kanakht's Grim Caravan",
+    "image": "https://madelson.github.io/universes-within-collection/cards/Bessie%2C%20the%20Doctor%27s%20Roadster.png"
+  },
+  {
     "oracleId": "61849685-b407-4ed0-aafc-ec3a003200b9",
     "name": "Canoptek Wraith",
     "nickname": "Tangle Wraith",
@@ -84,6 +90,12 @@
     "name": "Glóin, Dwarf Emissary",
     "nickname": "Herlief, Embereth Emissary",
     "image": "https://madelson.github.io/universes-within-collection/cards/Gl%C3%B3in%2C%20Dwarf%20Emissary.png"
+  },
+  {
+    "oracleId": "95d59a06-5144-4da3-8a9c-846b087975b9",
+    "name": "Gollum, Obsessed Stalker",
+    "nickname": "Kanakht the Eremite",
+    "image": "https://madelson.github.io/universes-within-collection/cards/Gollum%2C%20Obsessed%20Stalker.png"
   },
   {
     "oracleId": "cb9abc41-07f8-4a06-b7b9-9dd6be526e42",
@@ -214,6 +226,12 @@
     "name": "The Battle of Bywater",
     "nickname": "The Battle of Kinsbaile",
     "image": "https://madelson.github.io/universes-within-collection/cards/The%20Battle%20of%20Bywater.png"
+  },
+  {
+    "oracleId": "ca187570-3634-4296-92b2-1fcd99d150e3",
+    "name": "The Beast, Deathless Prince",
+    "nickname": "Acteus, Patron of Treachery",
+    "image": "https://madelson.github.io/universes-within-collection/cards/The%20Beast%2C%20Deathless%20Prince.png"
   },
   {
     "oracleId": "06c25d71-f3f4-4089-b9bc-de96fbad73a5",

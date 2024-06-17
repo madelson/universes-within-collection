@@ -1,6 +1,50 @@
 const data = {
   "cards": [
     {
+      "name": "Gollum, Obsessed Stalker",
+      "nickname": "Kanakht the Eremite",
+      "contributionInfo": {
+        "contributor": "cgregory",
+        "front": {
+          "artist": "Sandara Tang",
+          "artistUrl": "https://sandara.artstation.com/",
+          "artName": "Raven Altar",
+          "artUrl": "https://sandara.artstation.com/projects/JYdQm",
+          "mtgCardBuilderId": "148352"
+        }
+      },
+      "universesBeyondImage": "https://cards.scryfall.io/normal/front/e/5/e5a43cf0-60b3-4770-945c-41ee3ec54d5a.jpg?1686963939",
+      "universesWithinImage": "./cards/Gollum%2C%20Obsessed%20Stalker.png"
+    },
+    {
+      "name": "Bessie, the Doctor's Roadster",
+      "nickname": "Kanakht's Grim Caravan",
+      "contributionInfo": {
+        "contributor": "cgregory",
+        "front": {
+          "artist": "Sandara Tang",
+          "artistUrl": "https://sandara.artstation.com/",
+          "artName": "Necromancer Mount",
+          "artUrl": "https://sandara.artstation.com/projects/e6zYG",
+          "mtgCardBuilderId": "148350"
+        }
+      },
+      "universesBeyondImage": "https://cards.scryfall.io/normal/front/e/5/e5bb585d-2b49-44a0-93d0-98dc8e0727c2.jpg?1696636790",
+      "universesWithinImage": "./cards/Bessie%2C%20the%20Doctor%27s%20Roadster.png"
+    },
+    {
+      "name": "The Beast, Deathless Prince",
+      "nickname": "Acteus, Patron of Treachery",
+      "contributionInfo": {
+        "contributor": "cgregory",
+        "front": {
+          "mtgCardBuilderId": "148348"
+        }
+      },
+      "universesBeyondImage": "https://cards.scryfall.io/normal/front/6/2/6218badd-d352-4e6d-9c84-f1e3f2f84695.jpg?1696636678",
+      "universesWithinImage": "./cards/The%20Beast%2C%20Deathless%20Prince.png"
+    },
+    {
       "name": "The Fifth Doctor",
       "nickname": "Orim, Weatherlight Hero",
       "contributionInfo": {
@@ -2444,10 +2488,6 @@ const data = {
       "universesBeyondImage": "https://cards.scryfall.io/normal/front/b/a/bacd500c-1389-4314-a53e-0ad510d6fb79.jpg?1686970394"
     },
     {
-      "name": "Gollum, Obsessed Stalker",
-      "universesBeyondImage": "https://cards.scryfall.io/normal/front/e/5/e5a43cf0-60b3-4770-945c-41ee3ec54d5a.jpg?1686963939"
-    },
-    {
       "name": "Reprieve",
       "universesBeyondImage": "https://cards.scryfall.io/normal/front/1/b/1bd3fa8a-6c50-4f7f-9ae3-0810eec5e3db.jpg?1686967885"
     },
@@ -3174,10 +3214,6 @@ const data = {
       "universesBeyondImage": "https://cards.scryfall.io/normal/front/2/d/2dc19e32-4f78-492f-8586-54ad4ae6fcec.jpg?1696636676"
     },
     {
-      "name": "The Beast, Deathless Prince",
-      "universesBeyondImage": "https://cards.scryfall.io/normal/front/6/2/6218badd-d352-4e6d-9c84-f1e3f2f84695.jpg?1696636678"
-    },
-    {
       "name": "Bigger on the Inside",
       "universesBeyondImage": "https://cards.scryfall.io/normal/front/8/d/8d1178ac-35b9-4086-8ad4-6c629d976ce2.jpg?1696636678"
     },
@@ -3413,10 +3449,6 @@ const data = {
     {
       "name": "Crisis of Conscience",
       "universesBeyondImage": "https://cards.scryfall.io/normal/front/3/0/308d9672-58a7-4ec8-a20d-7054d76fde37.jpg?1696636526"
-    },
-    {
-      "name": "Bessie, the Doctor's Roadster",
-      "universesBeyondImage": "https://cards.scryfall.io/normal/front/e/5/e5bb585d-2b49-44a0-93d0-98dc8e0727c2.jpg?1696636790"
     },
     {
       "name": "Clockwork Droid",
