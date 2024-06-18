@@ -39,7 +39,10 @@ If you'd like to go the full mile, you can take the extra step of using [MTGCard
 
 ### Sourcing art
 
-My goal for this project is to use _high-quality human art with permission from the artist_ (public domain art is great too!). See the [artists list](https://github.com/madelson/universes-within-collection/blob/main/docs/artists.md) for who has been contacted so far.
+My goal for this project is to use _high-quality human art_. This can be:
+* Public domain art
+* Existing Magic Art, either heavily cropped or art that was not used on cards (e.g. box art or OTJ bounty tokens)
+* Non-magic art _with permission from the artist_. See the [artists list](https://github.com/madelson/universes-within-collection/blob/main/docs/artists.md) for who has been contacted so far.
 
 You can help by identifying artists on platforms like [ArtStation](https://www.artstation.com/) or [Cara](https://cara.app/) whose art could be useful to the project, and linking their info in an issue.
 
