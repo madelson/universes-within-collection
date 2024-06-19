@@ -1,6 +1,22 @@
 const data = {
   "cards": [
     {
+      "name": "The Dalek Emperor",
+      "nickname": "Kharax, Crucible Colossus",
+      "contributionInfo": {
+        "contributor": "madelson",
+        "front": {
+          "artist": "Santiago Rosas / @firos_art",
+          "artistUrl": "https://www.santiagorosasart.com/",
+          "artName": "Awoken Colossus",
+          "artUrl": "https://www.artstation.com/artwork/58AEKP",
+          "mtgCardBuilderId": "149274"
+        }
+      },
+      "universesBeyondImage": "https://cards.scryfall.io/normal/front/e/9/e96e1793-cf1c-452d-9443-b0aad4475d50.jpg?1696636689",
+      "universesWithinImage": "./cards/The%20Dalek%20Emperor.png"
+    },
+    {
       "name": "Crack in Time",
       "contributionInfo": {
         "contributor": "madelson",
@@ -3247,10 +3263,6 @@ const data = {
     {
       "name": "Dalek",
       "universesBeyondImage": "https://cards.scryfall.io/normal/front/f/1/f176f6ec-1ff8-4cd4-b7a6-b95830532f6a.jpg?1696625378"
-    },
-    {
-      "name": "The Dalek Emperor",
-      "universesBeyondImage": "https://cards.scryfall.io/normal/front/e/9/e96e1793-cf1c-452d-9443-b0aad4475d50.jpg?1696636689"
     },
     {
       "name": "The Day of the Doctor",
