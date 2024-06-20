@@ -1,6 +1,82 @@
 const data = {
   "cards": [
     {
+      "name": "Lidless Gaze",
+      "nickname": "Lost to Nightmare",
+      "contributionInfo": {
+        "contributor": "cgregory",
+        "front": {
+          "artist": "Anthony Catillaz",
+          "artistUrl": "https://www.artstation.com/artico_luminos",
+          "artName": "Whisper of Souls",
+          "artUrl": "https://www.artstation.com/artwork/g0naxL",
+          "mtgCardBuilderId": "149566"
+        }
+      },
+      "universesBeyondImage": "https://cards.scryfall.io/normal/front/6/9/6937954b-353a-47ac-a0c0-f731fe3881a6.jpg?1686964254",
+      "universesWithinImage": "./cards/Lidless%20Gaze.png"
+    },
+    {
+      "name": "The Sound of Drums",
+      "nickname": "Legacy of Violence",
+      "contributionInfo": {
+        "contributor": "cgregory",
+        "front": {
+          "artist": "Florian Herold",
+          "artistUrl": "https://www.artstation.com/faherold",
+          "artName": "Valhalla",
+          "artUrl": "https://www.artstation.com/artwork/WmDJB2",
+          "mtgCardBuilderId": "145561"
+        }
+      },
+      "universesBeyondImage": "https://cards.scryfall.io/normal/front/5/f/5ff2141a-a3ed-4ad0-9338-560502b1c85c.jpg?1696636652",
+      "universesWithinImage": "./cards/The%20Sound%20of%20Drums.png"
+    },
+    {
+      "name": "Sister of Silence",
+      "nickname": "Lunarch Ordinators",
+      "contributionInfo": {
+        "contributor": "cgregory",
+        "front": {
+          "mtgCardBuilderId": "149551"
+        }
+      },
+      "universesBeyondImage": "https://cards.scryfall.io/normal/front/1/5/15d56042-db45-40dc-a197-e2b7a3e6ab06.jpg?1680906588",
+      "universesWithinImage": "./cards/Sister%20of%20Silence.png"
+    },
+    {
+      "name": "Day of the Moon",
+      "nickname": "Guiding the Flock",
+      "contributionInfo": {
+        "contributor": "cgregory",
+        "front": {
+          "artist": "Florian Herold",
+          "artistUrl": "https://www.artstation.com/faherold",
+          "artName": "Guiding the Flock",
+          "artUrl": "https://www.artstation.com/artwork/B3BR3D",
+          "mtgCardBuilderId": "149546"
+        }
+      },
+      "universesBeyondImage": "https://cards.scryfall.io/normal/front/a/d/adc53534-f362-4871-a594-9855a4923cd0.jpg?1696636623",
+      "universesWithinImage": "./cards/Day%20of%20the%20Moon.png"
+    },
+    {
+      "name": "Flesh Duplicate",
+      "nickname": "Congealed Imitation",
+      "contributionInfo": {
+        "contributor": "cgregory",
+        "front": {
+          "artist": "Thomas Ricci",
+          "artistUrl": "https://artrhino.artstation.com/",
+          "artName": "Mourning Gold Knight",
+          "artUrl": "https://artrhino.artstation.com/projects/YK49lP",
+          "mtgCardBuilderId": "149540"
+        }
+      },
+      "universesBeyondImage": "https://cards.scryfall.io/normal/front/5/1/512e9bd2-77b9-4c1c-8d30-e6249dbd930e.jpg?1696636567",
+      "universesWithinImage": "./cards/Flesh%20Duplicate.png"
+    },
+    {
       "name": "The Dalek Emperor",
       "nickname": "Kharax, Crucible Colossus",
       "contributionInfo": {
@@ -700,6 +776,21 @@ const data = {
       "universesWithinImage": "./cards/Nuka-Cola%20Vending%20Machine.png"
     },
     {
+      "name": "Dalek",
+      "contributionInfo": {
+        "contributor": "madelson",
+        "front": {
+          "artist": "Thomas Ricci",
+          "artistUrl": "https://artrhino.artstation.com/",
+          "artName": "Steel Soldier",
+          "artUrl": "https://www.instagram.com/p/CNKwXLGDsPT/?utm_source=ig_web_copy_link",
+          "mtgCardBuilderId": "149537"
+        }
+      },
+      "universesBeyondImage": "https://cards.scryfall.io/normal/front/f/1/f176f6ec-1ff8-4cd4-b7a6-b95830532f6a.jpg?1696625378",
+      "universesWithinImage": "./cards/Dalek%20(TWHO%2012).png"
+    },
+    {
       "name": "Zombie Mutant",
       "contributionInfo": {
         "contributor": "madelson",
@@ -1290,10 +1381,6 @@ const data = {
     {
       "name": "Sicarian Infiltrator",
       "universesBeyondImage": "https://cards.scryfall.io/normal/front/c/c/cc0aa0eb-dc26-49d8-bbff-74fb3d597a72.jpg?1677744516"
-    },
-    {
-      "name": "Sister of Silence",
-      "universesBeyondImage": "https://cards.scryfall.io/normal/front/1/5/15d56042-db45-40dc-a197-e2b7a3e6ab06.jpg?1680906588"
     },
     {
       "name": "Vanguard Suppressor",
@@ -2876,10 +2963,6 @@ const data = {
       "universesBeyondImage": "https://cards.scryfall.io/normal/front/6/6/661338ff-a192-4007-a144-63d00f2e9ecb.jpg?1687277865"
     },
     {
-      "name": "Lidless Gaze",
-      "universesBeyondImage": "https://cards.scryfall.io/normal/front/6/9/6937954b-353a-47ac-a0c0-f731fe3881a6.jpg?1686964254"
-    },
-    {
       "name": "Dúnedain Blade",
       "universesBeyondImage": "https://cards.scryfall.io/normal/front/3/d/3d5f92bf-e4e7-487a-834c-964fdd6ad674.jpg?1686967688"
     },
@@ -3259,10 +3342,6 @@ const data = {
     {
       "name": "Atraxi Warden",
       "universesBeyondImage": "https://cards.scryfall.io/normal/front/0/3/03868f8d-1f1b-4892-abb0-be2b00fc2ba7.jpg?1696636519"
-    },
-    {
-      "name": "Dalek",
-      "universesBeyondImage": "https://cards.scryfall.io/normal/front/f/1/f176f6ec-1ff8-4cd4-b7a6-b95830532f6a.jpg?1696625378"
     },
     {
       "name": "The Day of the Doctor",
@@ -3666,10 +3745,6 @@ const data = {
       "universesBeyondImage": "https://cards.scryfall.io/normal/front/b/a/baea4cd3-cc62-4138-ac2e-5c96c70bbcce.jpg?1696636564"
     },
     {
-      "name": "Flesh Duplicate",
-      "universesBeyondImage": "https://cards.scryfall.io/normal/front/5/1/512e9bd2-77b9-4c1c-8d30-e6249dbd930e.jpg?1696636567"
-    },
-    {
       "name": "The Flood of Mars",
       "universesBeyondImage": "https://cards.scryfall.io/normal/front/8/c/8c3474c4-9466-46fc-8327-50950d75e79f.jpg?1696636569"
     },
@@ -3982,10 +4057,6 @@ const data = {
       "universesBeyondImage": "https://cards.scryfall.io/normal/front/2/4/24b5c60e-f2f5-40d7-8713-edc3ecedb5e0.jpg?1696691799"
     },
     {
-      "name": "Day of the Moon",
-      "universesBeyondImage": "https://cards.scryfall.io/normal/front/a/d/adc53534-f362-4871-a594-9855a4923cd0.jpg?1696636623"
-    },
-    {
       "name": "Missy",
       "universesBeyondImage": "https://cards.scryfall.io/normal/front/2/d/2dfae7d1-c09b-47e0-92d8-49b21402207d.jpg?1696636511"
     },
@@ -4060,10 +4131,6 @@ const data = {
     {
       "name": "Sontaran General",
       "universesBeyondImage": "https://cards.scryfall.io/normal/front/c/b/cb70fa62-fea1-4e91-a8a1-64b43b777091.jpg?1696636650"
-    },
-    {
-      "name": "The Sound of Drums",
-      "universesBeyondImage": "https://cards.scryfall.io/normal/front/5/f/5ff2141a-a3ed-4ad0-9338-560502b1c85c.jpg?1696636652"
     },
     {
       "name": "Ace, Fearless Rebel",

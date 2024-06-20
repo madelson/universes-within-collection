@@ -388,6 +388,48 @@
 		"artUrl": "https://www.artstation.com/artwork/58AEKP",
 		"mtgCardBuilderId": "149274"
 	},
+	"0048": {
+		"name": "Flesh Duplicate",
+		"nickname": "Congealed Imitation",
+		"contributor": "cgregory",
+		"artist": "Thomas Ricci",
+		"artName": "Mourning Gold Knight",
+		"artUrl": "https://artrhino.artstation.com/projects/YK49lP",
+		"mtgCardBuilderId": "149540"
+	},
+	"0049": {
+		"name": "Day of the Moon",
+		"nickname": "Guiding the Flock",
+		"contributor": "cgregory",
+		"artist": "Florian Herold",
+		"artName": "Guiding the Flock",
+		"artUrl": "https://www.artstation.com/artwork/B3BR3D",
+		"mtgCardBuilderId": "149546"
+	},
+	"0050": {
+		"name": "Sister of Silence",
+		"nickname": "Lunarch Ordinators",
+		"contributor": "cgregory",
+		"mtgCardBuilderId": "149551"
+	},
+	"0051": {
+		"name": "The Sound of Drums",
+		"nickname": "Legacy of Violence",
+		"contributor": "cgregory",
+		"artist": "Florian Herold",
+		"artName": "Valhalla",
+		"artUrl": "https://www.artstation.com/artwork/WmDJB2",
+		"mtgCardBuilderId": "145561"
+	},
+	"0052": {
+		"name": "Lidless Gaze",
+		"nickname": "Lost to Nightmare",
+		"contributor": "cgregory",
+		"artist": "Anthony Catillaz",
+		"artName": "Whisper of Souls",
+		"artUrl": "https://www.artstation.com/artwork/g0naxL",
+		"mtgCardBuilderId": "149566"
+	},
 	"T0001": {
 		"name": "Alien (TWHO 2)",
 		"contributor": "cgregory",
@@ -412,5 +454,13 @@
 		"artName": "Zombie",
 		"artUrl": "https://www.artstation.com/artwork/GXNNo1",
 		"mtgCardBuilderId": "146462"
+	},
+	"T0004": {
+		"name": "Dalek (TWHO 12)",
+		"contributor": "madelson",
+		"artist": "Thomas Ricci",
+		"artName": "Steel Soldier",
+		"artUrl": "https://www.instagram.com/p/CNKwXLGDsPT/?utm_source=ig_web_copy_link",
+		"mtgCardBuilderId": "149537"
 	}
 }
