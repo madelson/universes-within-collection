@@ -174,15 +174,6 @@ async Task Main()
 		artistsPage.AppendLine("|");
 	}
 	
-	artistsPage.AppendLine("# Non-approved artists").AppendLine();
-	
-	artistsPage.AppendLine("After being asked, these artists have asked _not_ to have their work used for this project.");
-	
-	foreach (var artist in artistsInfo.Declined)
-	{
-		artistsPage.AppendLine($"- {artist.Name}"); 
-	}
-	
 	File.WriteAllText(Path.Combine(Path.GetDirectoryName(Util.CurrentQueryPath)!, "..", "docs", "artists.md"), artistsPage.ToString());	
 }
 
