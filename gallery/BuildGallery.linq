@@ -257,7 +257,15 @@ async Task CompressCardImagesAsync()
 		.Where(c => new FileInfo(c).Length > 2_000_000);
 	await Parallel.ForEachAsync(rawCardImages, async (rawCardImage, _) =>
 	{
-		File.Copy(rawCardImage, Path.Combine(RawImageRepository, Path.GetFileName(rawCardImage)));
+		$"Compressing {Path.GetFileName(rawCardImage)}".Dump();
+		var rawImageStorePath = Path.Combine(RawImageRepository, Path.GetFileName(rawCardImage));
+		if (File.Exists(rawImageStorePath))
+		{
+			var rawImageHistoryPath = Path.Combine(RawImageRepository, "Old Versions", Path.GetFileNameWithoutExtension(rawCardImage) + DateTime.Now.ToString("yyyyMMddHHmmss") + Path.GetExtension(rawCardImage));
+			Directory.CreateDirectory(Path.GetDirectoryName(rawImageHistoryPath)!);
+			File.Move(rawImageStorePath, rawImageHistoryPath);
+		}
+		File.Copy(rawCardImage, rawImageStorePath);
 		await (await Tinify.FromFile(rawCardImage)).ToFile(rawCardImage);
 		if (new FileInfo(rawCardImage).Length > 1_500_000)
 		{
