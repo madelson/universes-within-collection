@@ -1,12 +1,12 @@
 # Welcome to the Universes Within Collection
 
-The "Universes Within Collection" (UWC) is a personal, [non-commercial](https://github.com/madelson/universes-within-collection/blob/main/LICENSE.txt) project where I create unofficial Universes Within alternatives (proxies) for Universes Beyond Magic, the Gathering cards.
+The "Universes Within Collection" (UWC) is a personal, non-commercial project where I create unofficial Universes Within alternatives (proxies) for Universes Beyond Magic, the Gathering cards.
 
 **Check out [the card gallery](https://madelson.github.io/universes-within-collection/).**
 
 ## Using the cards
 
-You may _freely_ use the card images as proxies by downloading them from [the gallery](https://madelson.github.io/universes-within-collection/). These cards are _NOT FOR SALE_; you may not charge for them nor should anyone charge you for their use.
+You may _freely_ use the card images as proxies by downloading them from [the gallery](https://madelson.github.io/universes-within-collection/). These cards are _NOT FOR SALE_; you may not charge for them nor should anyone charge you for their use. For more, see the [license](https://github.com/madelson/universes-within-collection/blob/main/LICENSE.txt).
 
 If you play digitally on Tabletop Simulator, you can use my [importer tool](https://github.com/madelson/TabletopSimulatorMTGDeckImporter) to substitute in available UWC cards when playing.
 
