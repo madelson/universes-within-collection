@@ -13,7 +13,7 @@ html`
 		<h1>Universes Within Collection - Card Gallery</h1>
 		<a href="https://github.com/madelson/universes-within-collection" target="_blank" class="project-link">Project Site</a>
 	</div>
-	<div class="header-bottom">
+	<div class="header-middle">
 		<input type="text" 
 			@input="${e => state.searchTerm = e.target.value}"
 			placeholder="Search...">
@@ -23,13 +23,16 @@ html`
 				@change="${e => state.showAllUniversesBeyondCards = !!e.target.checked}"> Show all Universes Beyond cards
 		</label>
 	</div>
+	<div class="header-bottom">
+		<em>UWC card images are <a href="https://raw.githubusercontent.com/madelson/universes-within-collection/main/LICENSE.txt">free for personal, non-commercial use as proxies</a>. Usage of non-Magic art on UWC cards is done with permission from the Artist.</em>
+	</div>
 </header>
 <div class="container">
 	<div class="card-grid">
 		${() => getCards().map(cardTemplate)}
 	</div>
 	<div>
-		<br/><center><small><em>UWC card images are <a href="https://raw.githubusercontent.com/madelson/universes-within-collection/main/LICENSE.txt">free for personal use as proxies and may not be sold</a>. Usage of non-Magic art on UWC cards is done with permission from the Artist.</em></small></center>
+		<br/><center><small><em>Can't find the card you're looking for? Consider <a href="https://github.com/madelson/universes-within-collection/blob/main/README.md#contributing">contributing it</a></em> 🙂</small></center>
 	</div>
 </div>`(document.body);
 

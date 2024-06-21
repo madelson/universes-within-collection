@@ -28,23 +28,31 @@ header {
     color: #007bff;
 }
 
-.header-bottom {
+.header-middle {
     display: flex;
     align-items: center;
 }
 
-.header-bottom input[type="text"] {
+.header-middle input[type="text"] {
     padding: 5px;
     font-size: 16px;
     margin-right: 10px;
 }
 
-.header-bottom label {
+.header-middle label {
     font-size: 16px;
 }
 
-.header-bottom input[type="checkbox"] {
+.header-middle input[type="checkbox"] {
     margin-right: 5px;
+}
+
+.header-bottom {
+	margin-top: 5px;
+	display: flex;
+	align-items: center;
+	justify-content: center;
+	font-size: 10px;
 }
 
 .container {
