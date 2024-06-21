@@ -40,8 +40,8 @@ function cardTemplate(card) {
 		</a>
 		<div class="attribution">
 		${() => card.contributionInfo 
-			? html`UWC version contributed by ${card.contributionInfo.contributor}
-				${() => artAttribution(card.showFront ? card.contributionInfo.front : card.contributionInfo.back)}`
+			? html`<div>UWC version contributed by ${card.contributionInfo.contributor}
+				${() => artAttribution(card.showFront ? card.contributionInfo.front : card.contributionInfo.back)}</div>`
 			: card.universesWithinImage ? 'Official Universes Within card'
 			: ''}
 		</div>
@@ -56,7 +56,7 @@ function cardTemplate(card) {
 					${() => card.showFront ? "BACK" : "FRONT"}
 				</a>`}
 			${() => card.contributionInfo &&
-				html`<a href="https://mtgcardbuilder.com/creator/?id=${(card.showFront ? card.contributionInfo.front : card.contributionInfo.back).mtgCardBuilderId}" target="_blank" title="Open in MTG Card Builder">
+				html`<a href="${() => "https://mtgcardbuilder.com/creator/?id=" + (card.showFront ? card.contributionInfo.front : card.contributionInfo.back).mtgCardBuilderId}" target="_blank" title="Open in MTG Card Builder">
 					MTG Card Builder
 				</a>`}
 		</div>
@@ -65,8 +65,8 @@ function cardTemplate(card) {
 
 function artAttribution(face) {
 	return !face.artist ? ''
-		: face.isMtgArt ? html`<br/>MTG ART: <i><a href="${face.artUrl}" target="_blank" >${face.artName}</a></i> by ${face.artist}`
-		: html`<br/>ART: <i><a href="${face.artUrl}" target="_blank">${face.artName}</a></i> by <a href="${face.artistUrl}">${face.artist}</a>`;
+		: face.isMtgArt ? html`<span><br/>MTG ART: <i><a href="${face.artUrl}" target="_blank" >${face.artName}</a></i> by ${face.artist}</span>`
+		: html`<span><br/>ART: <i><a href="${face.artUrl}" target="_blank">${face.artName}</a></i> by <a href="${face.artistUrl}">${face.artist}</a></span>`;
 }
 
 function getImageUrl(card) {
