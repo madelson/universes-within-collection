@@ -430,6 +430,16 @@
 		"artUrl": "https://www.artstation.com/artwork/g0naxL",
 		"mtgCardBuilderId": "149566"
 	},
+	"0053": {
+		"name": "Danny Pink",
+		"nickname": "Aric Sablewind, Cunning Guide",
+		"contributor": "madelson",
+		"artist": "Slawomir Maniak",
+		"artName": "Bounty: The Outsider",
+		"artUrl": "https://cards.scryfall.io/art_crop/front/9/2/92d36a9a-c39c-41e6-9f31-4fcb5e820bd9.jpg",
+		"isMtgArt": true,
+		"mtgCardBuilderId": "153999"
+	},
 	"T0001": {
 		"name": "Alien (TWHO 2)",
 		"contributor": "cgregory",
