@@ -12,7 +12,7 @@ If you play digitally on Tabletop Simulator, you can use my [importer tool](http
 
 ## Purpose & Goals
 
-While Magic's Universes Beyond cards have many interesting mechanical designs, for me many of the IPs don't mesh well aesthetically with other Magic cards. Wizards has created the concept of "Universes Within" variants in part to address this issue, but they have also made it clear that there is no plan for Universes Within printings to keep up with the ever-growing list of new Universes Beyond cards.
+While Magic's Universes Beyond cards have many interesting mechanical designs, I personally don't like the aesthetics of mixing third-party IPs with other Magic cards. Wizards has created the concept of "Universes Within" variants in part to address this issue, but they have also made it clear that there is no plan for Universes Within printings to keep pace with the ever-growing list of new Universes Beyond releases.
 
 The Universes Within Collection is an attempt to cover some of the ground that Wizards won't by building out a set of unofficial Universes Within variants and making them easy to access.
 
@@ -31,7 +31,7 @@ There are a ton of cards to cover so I have a strong bias towards accepting cont
 
 ### Adding new cards
 
-When it comes to creating UWC variants of cards, my goal is to make as few changes as possible. If a card's name fits just fine with traditional Magic, I'd like to keep it to minimize confusion. The same goes for art which sometimes is fine either as-is or with cropping.
+When it comes to creating UWC variants of cards, my goal is to make as few changes as possible. If a card's name fits just fine with in-universe Magic and doesn't contain IP-specific names, I bias towards keeping it to minimize confusion. The same goes for art which sometimes is fine either as-is or with cropping.
 
 In your issue, let me know the name of the card you'd like to add along with any parts of it that should be changed (new name and/or new art). I've found that the most time-consuming aspects of this is linking up Universes Beyond cards with fitting new art and/or names, so this is a huge help. See the [artists list](https://github.com/madelson/universes-within-collection/blob/main/docs/artists.md) for art options.
 
@@ -50,7 +50,7 @@ If you have other ideas about how or where to acquire art for the project, I'd l
 
 ### Something else
 
-Is there a typo in a posted card? Want to spruce up the gallery? Just create an issue with your idea.
+Is there a typo in a posted card? Want to spruce up the gallery? Please create an issue with your idea.
 
 ## FAQ
 
@@ -61,3 +61,7 @@ It isn't uncommon for Universes Beyond cards to sport [IP-specific types](https:
 Note that cards that reference [IP-specific tokens](https://scryfall.com/card/pip/110/moira-brown-guide-author) can be addressed by creating a renamed UWC variant of the token and referencing that.
 
 Also note that [ability words](https://scryfall.com/card/pip/32/jason-bright-glowing-prophet) (which have no rules impact) may be removed.
+
+### What about IPs like LOTR that generally fit with Magic's universe aesthetically?
+
+Personally, some IPs clash with in-universe cards more than others. However, I don't think all players have the same reactions to every IP (certainly it varies among members of my play group). Therefore, any Universes Beyond IP is fair game; players pick and choose which ones they care to use.
