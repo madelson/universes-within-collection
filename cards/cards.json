@@ -440,6 +440,15 @@
 		"isMtgArt": true,
 		"mtgCardBuilderId": "153999"
 	},
+	"0054": {
+		"name": "Dalek Drone",
+		"nickname": "Vespine Assimilator",
+		"contributor": "madelson",
+		"artist": "Thomas Ricci",
+		"artName": "Yoo space crab",
+		"artUrl": "https://www.instagram.com/p/Bx76678Ccai/?img_index=1",
+		"mtgCardBuilderId": "154954"
+	},
 	"T0001": {
 		"name": "Alien (TWHO 2)",
 		"contributor": "cgregory",

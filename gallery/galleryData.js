@@ -1,6 +1,22 @@
 const data = {
   "cards": [
     {
+      "name": "Dalek Drone",
+      "nickname": "Vespine Assimilator",
+      "contributionInfo": {
+        "contributor": "madelson",
+        "front": {
+          "artist": "Thomas Ricci",
+          "artistUrl": "https://artrhino.artstation.com/",
+          "artName": "Yoo space crab",
+          "artUrl": "https://www.instagram.com/p/Bx76678Ccai/?img_index=1",
+          "mtgCardBuilderId": "154954"
+        }
+      },
+      "universesBeyondImage": "https://cards.scryfall.io/normal/front/b/a/ba77763c-b50c-4787-b352-68af16e4c741.jpg?1696636599",
+      "universesWithinImage": "./cards/Dalek%20Drone.png"
+    },
+    {
       "name": "Danny Pink",
       "nickname": "Aric Sablewind, Cunning Guide",
       "contributionInfo": {
@@ -4003,10 +4019,6 @@ const data = {
     {
       "name": "Zygon Infiltrator",
       "universesBeyondImage": "https://cards.scryfall.io/normal/front/7/1/71b5538b-4561-4929-8e1c-9763e75cad0e.jpg?1696636599"
-    },
-    {
-      "name": "Dalek Drone",
-      "universesBeyondImage": "https://cards.scryfall.io/normal/front/b/a/ba77763c-b50c-4787-b352-68af16e4c741.jpg?1696636599"
     },
     {
       "name": "Dalek Squadron",
