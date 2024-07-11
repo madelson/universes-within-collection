@@ -44,6 +44,11 @@
 			"contact": "artstation.com email",
 			"url": "https://www.artstation.com/faherold"
 		},
+		{
+			"name": "Nickolas Paris",
+			"contact": "artstation.com",
+			"url": "https://nickolasparis.com"
+		}
 	],
 	"declined": [
 		{
@@ -114,10 +119,6 @@
 		},
 		{
 			"name": "Diego Lafuente",
-			"contact": "artstation.com"
-		},
-		{
-			"name": "Nickolas Paris",
 			"contact": "artstation.com"
 		},
 		{
