@@ -1,6 +1,21 @@
 const data = {
   "cards": [
     {
+      "name": "Mutational Advantage",
+      "contributionInfo": {
+        "contributor": "madelson",
+        "front": {
+          "artist": "Bachzim",
+          "artistUrl": "https://www.artstation.com/bachzim",
+          "artName": "Beastfolk",
+          "artUrl": "https://www.artstation.com/artwork/5XV2z1",
+          "mtgCardBuilderId": "159810"
+        }
+      },
+      "universesBeyondImage": "https://cards.scryfall.io/normal/front/b/1/b1ff92f1-9dc7-48e6-9e7c-9ef4a88518cb.jpg?1708742571",
+      "universesWithinImage": "./cards/Mutational%20Advantage.png"
+    },
+    {
       "name": "Dalek Drone",
       "nickname": "Vespine Assimilator",
       "contributionInfo": {
@@ -4501,10 +4516,6 @@ const data = {
     {
       "name": "Moira Brown, Guide Author",
       "universesBeyondImage": "https://cards.scryfall.io/normal/front/4/1/418ce6f6-b483-4695-aaf5-e4f7eeb9eb16.jpg?1708742563"
-    },
-    {
-      "name": "Mutational Advantage",
-      "universesBeyondImage": "https://cards.scryfall.io/normal/front/b/1/b1ff92f1-9dc7-48e6-9e7c-9ef4a88518cb.jpg?1708742571"
     },
     {
       "name": "Nightkin Ambusher",
