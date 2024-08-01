@@ -231,7 +231,17 @@ record CardData(
 
 static readonly string CardsDirectory = Path.Combine(Path.GetDirectoryName(Util.CurrentQueryPath)!, "..", "cards");
 
-HttpClient Client = new();
+HttpClient Client = new()
+{
+	// required by scryfall: https://scryfall.com/docs/api
+	DefaultRequestHeaders =
+	{
+		Accept = { new("application/json") },
+    	UserAgent = { new("UniversesWithinCollection", "1.0") }
+	},
+	// helps with slow bulk downloads
+	Timeout = TimeSpan.FromMinutes(10),
+};
 
 static string DisambiguatedName(Card card) => $"{card.Name} ({card.Set.ToUpperInvariant()} {card.Collector_Number})";
 

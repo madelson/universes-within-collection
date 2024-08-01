@@ -219,7 +219,7 @@ const data = {
           "mtgCardBuilderId": "146480"
         }
       },
-      "universesBeyondImage": "https://cards.scryfall.io/normal/front/2/8/283d04a5-3639-42de-b940-ffa7e609e527.jpg?1720471568",
+      "universesBeyondImage": "https://cards.scryfall.io/normal/front/2/8/283d04a5-3639-42de-b940-ffa7e609e527.jpg?1721423712",
       "universesWithinImage": "./cards/Leonardo%20da%20Vinci.png"
     },
     {
@@ -414,7 +414,7 @@ const data = {
           "mtgCardBuilderId": "144254"
         }
       },
-      "universesBeyondImage": "https://cards.scryfall.io/normal/front/5/5/558c1fcc-cb01-4031-ada5-4e39d65aee27.jpg?1695346528",
+      "universesBeyondImage": "https://cards.scryfall.io/normal/front/5/5/558c1fcc-cb01-4031-ada5-4e39d65aee27.jpg?1721853480",
       "universesWithinImage": "./cards/Rammas%20Echor%2C%20Ancient%20Shield.png"
     },
     {
@@ -478,7 +478,7 @@ const data = {
           "mtgCardBuilderId": "143032"
         }
       },
-      "universesBeyondImage": "https://cards.scryfall.io/normal/front/7/6/769bbbb3-37e9-47ec-9cee-db63672275e6.jpg?1720471830",
+      "universesBeyondImage": "https://cards.scryfall.io/normal/front/7/6/769bbbb3-37e9-47ec-9cee-db63672275e6.jpg?1721423968",
       "universesWithinImage": "./cards/Cleopatra%2C%20Exiled%20Pharaoh.png"
     },
     {
@@ -3309,7 +3309,7 @@ const data = {
     {
       "name": "Fish",
       "universesBeyondImage": "https://cards.scryfall.io/normal/front/2/9/297fc694-08f6-4477-b898-60ec641a0757.jpg?1696547039",
-      "universesWithinImage": "https://cards.scryfall.io/normal/front/d/e/de0d6700-49f0-4233-97ba-cef7821c30ed.jpg?1720549167"
+      "universesWithinImage": "https://cards.scryfall.io/normal/front/d/e/de0d6700-49f0-4233-97ba-cef7821c30ed.jpg?1721431109"
     },
     {
       "name": "Displaced Dinosaurs",
@@ -4563,7 +4563,7 @@ const data = {
     },
     {
       "name": "Vault 87: Forced Evolution",
-      "universesBeyondImage": "https://cards.scryfall.io/normal/front/3/3/33bf267b-f41c-447a-aa35-0c01aad8a489.jpg?1708742670"
+      "universesBeyondImage": "https://cards.scryfall.io/normal/front/3/3/33bf267b-f41c-447a-aa35-0c01aad8a489.jpg?1721042414"
     },
     {
       "name": "Vault 112: Sadistic Simulation",
@@ -5048,411 +5048,411 @@ const data = {
     },
     {
       "name": "The Capitoline Triad",
-      "universesBeyondImage": "https://cards.scryfall.io/normal/front/f/a/fa1b63ce-47d3-4633-9062-3fecd810e85f.jpg?1720471413"
+      "universesBeyondImage": "https://cards.scryfall.io/normal/front/f/a/fa1b63ce-47d3-4633-9062-3fecd810e85f.jpg?1721423572"
     },
     {
       "name": "Templar Knight",
-      "universesBeyondImage": "https://cards.scryfall.io/normal/front/3/d/3d5a1bec-9128-4c5e-98c3-317424f892d1.jpg?1720471483"
+      "universesBeyondImage": "https://cards.scryfall.io/normal/front/3/d/3d5a1bec-9128-4c5e-98c3-317424f892d1.jpg?1721423636"
     },
     {
       "name": "What Must Be Done",
-      "universesBeyondImage": "https://cards.scryfall.io/normal/front/f/e/fe034544-e13f-45fc-ae43-83d0f399ed33.jpg?1720471493"
+      "universesBeyondImage": "https://cards.scryfall.io/normal/front/f/e/fe034544-e13f-45fc-ae43-83d0f399ed33.jpg?1721423643"
     },
     {
       "name": "Assassin Gauntlet",
-      "universesBeyondImage": "https://cards.scryfall.io/normal/front/a/9/a9ebdd18-7f07-417c-8f30-470c1f14dfae.jpg?1720471500"
+      "universesBeyondImage": "https://cards.scryfall.io/normal/front/a/9/a9ebdd18-7f07-417c-8f30-470c1f14dfae.jpg?1721423650"
     },
     {
       "name": "Ballad of the Black Flag",
-      "universesBeyondImage": "https://cards.scryfall.io/normal/front/2/d/2d6b1b2f-903c-438c-baba-a3b3e60b1d4f.jpg?1720471510"
+      "universesBeyondImage": "https://cards.scryfall.io/normal/front/2/d/2d6b1b2f-903c-438c-baba-a3b3e60b1d4f.jpg?1721423658"
     },
     {
       "name": "Become Anonymous",
-      "universesBeyondImage": "https://cards.scryfall.io/normal/front/f/3/f321777f-399b-4f80-9baf-da6a0aaa325a.jpg?1720471518"
+      "universesBeyondImage": "https://cards.scryfall.io/normal/front/f/3/f321777f-399b-4f80-9baf-da6a0aaa325a.jpg?1721423665"
     },
     {
       "name": "Crystal Skull, Isu Spyglass",
-      "universesBeyondImage": "https://cards.scryfall.io/normal/front/b/1/b10fa72b-6742-4b65-8654-ac70b6240e38.jpg?1720471526"
+      "universesBeyondImage": "https://cards.scryfall.io/normal/front/b/1/b10fa72b-6742-4b65-8654-ac70b6240e38.jpg?1721423673"
     },
     {
       "name": "Desynchronization",
-      "universesBeyondImage": "https://cards.scryfall.io/normal/front/3/d/3ddd3561-0143-40b7-81bc-640a978b8b15.jpg?1720471535"
+      "universesBeyondImage": "https://cards.scryfall.io/normal/front/3/d/3ddd3561-0143-40b7-81bc-640a978b8b15.jpg?1721423680"
     },
     {
       "name": "Eagle Vision",
-      "universesBeyondImage": "https://cards.scryfall.io/normal/front/5/1/5197e8d6-cbfe-4469-95e1-f17eeb4715f1.jpg?1720471543"
+      "universesBeyondImage": "https://cards.scryfall.io/normal/front/5/1/5197e8d6-cbfe-4469-95e1-f17eeb4715f1.jpg?1721423688"
     },
     {
       "name": "Escape Detection",
-      "universesBeyondImage": "https://cards.scryfall.io/normal/front/e/c/ec676a8f-612d-4ef4-a370-6208407a86af.jpg?1720471551"
+      "universesBeyondImage": "https://cards.scryfall.io/normal/front/e/c/ec676a8f-612d-4ef4-a370-6208407a86af.jpg?1721423696"
     },
     {
       "name": "Evie Frye",
-      "universesBeyondImage": "https://cards.scryfall.io/normal/front/6/2/62f1ff84-d363-4aa2-b884-e9640cf62537.jpg?1720471559"
+      "universesBeyondImage": "https://cards.scryfall.io/normal/front/6/2/62f1ff84-d363-4aa2-b884-e9640cf62537.jpg?1721423704"
     },
     {
       "name": "Caduceus, Staff of Hermes",
-      "universesBeyondImage": "https://cards.scryfall.io/normal/front/2/b/2b60f18e-4709-4b91-a342-74eb3fca71e1.jpg?1720471421"
+      "universesBeyondImage": "https://cards.scryfall.io/normal/front/2/b/2b60f18e-4709-4b91-a342-74eb3fca71e1.jpg?1721423580"
     },
     {
       "name": "Loyal Inventor",
-      "universesBeyondImage": "https://cards.scryfall.io/normal/front/b/e/be1e598a-840c-4166-88a6-92a8b9958536.jpg?1720471576"
+      "universesBeyondImage": "https://cards.scryfall.io/normal/front/b/e/be1e598a-840c-4166-88a6-92a8b9958536.jpg?1721423720"
     },
     {
       "name": "Assassin Initiate",
-      "universesBeyondImage": "https://cards.scryfall.io/normal/front/3/c/3ce4e330-d878-48f3-b9fe-3158d69f2da2.jpg?1720471585"
+      "universesBeyondImage": "https://cards.scryfall.io/normal/front/3/c/3ce4e330-d878-48f3-b9fe-3158d69f2da2.jpg?1721423727"
     },
     {
       "name": "Chain Assassination",
-      "universesBeyondImage": "https://cards.scryfall.io/normal/front/d/4/d4bcd9c9-5957-48ee-9c12-f659c5fd07d0.jpg?1720471593"
+      "universesBeyondImage": "https://cards.scryfall.io/normal/front/d/4/d4bcd9c9-5957-48ee-9c12-f659c5fd07d0.jpg?1721423735"
     },
     {
       "name": "Desmond Miles",
-      "universesBeyondImage": "https://cards.scryfall.io/normal/front/c/9/c9523cd1-c3cf-4745-af09-77c1a83ac86f.jpg?1720471601"
+      "universesBeyondImage": "https://cards.scryfall.io/normal/front/c/9/c9523cd1-c3cf-4745-af09-77c1a83ac86f.jpg?1721423743"
     },
     {
       "name": "Ezio Auditore da Firenze",
-      "universesBeyondImage": "https://cards.scryfall.io/normal/front/d/a/dae9ee75-30b8-4e24-af8b-031c816d3221.jpg?1720471609"
+      "universesBeyondImage": "https://cards.scryfall.io/normal/front/d/a/dae9ee75-30b8-4e24-af8b-031c816d3221.jpg?1721423751"
     },
     {
       "name": "Hemlock Vial",
-      "universesBeyondImage": "https://cards.scryfall.io/normal/front/7/e/7ea6cde3-a4e6-4052-aca3-4d209be15db3.jpg?1720471617"
+      "universesBeyondImage": "https://cards.scryfall.io/normal/front/7/e/7ea6cde3-a4e6-4052-aca3-4d209be15db3.jpg?1721423759"
     },
     {
       "name": "Jacob Frye",
-      "universesBeyondImage": "https://cards.scryfall.io/normal/front/2/3/23422e75-e1c7-484b-aa1f-155ef9a998ec.jpg?1720471625"
+      "universesBeyondImage": "https://cards.scryfall.io/normal/front/2/3/23422e75-e1c7-484b-aa1f-155ef9a998ec.jpg?1721423767"
     },
     {
       "name": "Eivor, Battle-Ready",
-      "universesBeyondImage": "https://cards.scryfall.io/normal/front/4/2/4242961d-87e8-4dd2-bdea-5d765a5cf136.jpg?1720473673"
+      "universesBeyondImage": "https://cards.scryfall.io/normal/front/4/2/4242961d-87e8-4dd2-bdea-5d765a5cf136.jpg?1721425575"
     },
     {
       "name": "Ezio, Blade of Vengeance",
-      "universesBeyondImage": "https://cards.scryfall.io/normal/front/b/b/bbdc8019-9b5e-4d9a-a09b-2a14f41ddfe1.jpg?1720473685"
+      "universesBeyondImage": "https://cards.scryfall.io/normal/front/b/b/bbdc8019-9b5e-4d9a-a09b-2a14f41ddfe1.jpg?1721425581"
     },
     {
       "name": "Battlefield Improvisation",
-      "universesBeyondImage": "https://cards.scryfall.io/normal/front/d/2/d2cf2cd1-f7b3-4a23-a23a-6eb0af5451cf.jpg?1720473696"
+      "universesBeyondImage": "https://cards.scryfall.io/normal/front/d/2/d2cf2cd1-f7b3-4a23-a23a-6eb0af5451cf.jpg?1721425586"
     },
     {
       "name": "Detained by Legionnaires",
-      "universesBeyondImage": "https://cards.scryfall.io/normal/front/f/e/fe06e87f-8915-4fc2-81fd-168a371dc407.jpg?1720473707"
+      "universesBeyondImage": "https://cards.scryfall.io/normal/front/f/e/fe06e87f-8915-4fc2-81fd-168a371dc407.jpg?1721425591"
     },
     {
       "name": "Escarpment Fortress",
-      "universesBeyondImage": "https://cards.scryfall.io/normal/front/c/1/c11c9e60-fc14-48fe-bca9-b74f82301835.jpg?1720473718"
+      "universesBeyondImage": "https://cards.scryfall.io/normal/front/c/1/c11c9e60-fc14-48fe-bca9-b74f82301835.jpg?1721425597"
     },
     {
       "name": "Keen-Eyed Raven",
-      "universesBeyondImage": "https://cards.scryfall.io/normal/front/f/d/fda99319-9312-42c4-adc0-77b49768d014.jpg?1720473729"
+      "universesBeyondImage": "https://cards.scryfall.io/normal/front/f/d/fda99319-9312-42c4-adc0-77b49768d014.jpg?1721425601"
     },
     {
       "name": "Petty Larceny",
-      "universesBeyondImage": "https://cards.scryfall.io/normal/front/4/5/45abc0a4-ae33-470f-9a39-2dd776dd6adb.jpg?1720471633"
+      "universesBeyondImage": "https://cards.scryfall.io/normal/front/4/5/45abc0a4-ae33-470f-9a39-2dd776dd6adb.jpg?1721423775"
     },
     {
       "name": "Settlement Blacksmith",
-      "universesBeyondImage": "https://cards.scryfall.io/normal/front/3/0/301310b3-c031-4fd3-a47e-9645b6177329.jpg?1720473739"
+      "universesBeyondImage": "https://cards.scryfall.io/normal/front/3/0/301310b3-c031-4fd3-a47e-9645b6177329.jpg?1721425607"
     },
     {
       "name": "Assassin Den",
-      "universesBeyondImage": "https://cards.scryfall.io/normal/front/e/f/ef45be55-42d7-475c-b405-78e856530277.jpg?1720473749"
+      "universesBeyondImage": "https://cards.scryfall.io/normal/front/e/f/ef45be55-42d7-475c-b405-78e856530277.jpg?1721425612"
     },
     {
       "name": "Brotherhood Spy",
-      "universesBeyondImage": "https://cards.scryfall.io/normal/front/0/1/0157325c-b064-4c0a-9b5d-ecdf0ed15d9c.jpg?1720473759"
+      "universesBeyondImage": "https://cards.scryfall.io/normal/front/0/1/0157325c-b064-4c0a-9b5d-ecdf0ed15d9c.jpg?1721425618"
     },
     {
       "name": "Hookblade Veteran",
-      "universesBeyondImage": "https://cards.scryfall.io/normal/front/5/5/551d1f1e-8bc0-4196-8998-0aa7db23b388.jpg?1720473769"
+      "universesBeyondImage": "https://cards.scryfall.io/normal/front/5/5/551d1f1e-8bc0-4196-8998-0aa7db23b388.jpg?1721425622"
     },
     {
       "name": "Tranquilize",
-      "universesBeyondImage": "https://cards.scryfall.io/normal/front/6/0/60ad4bd6-c6a5-420f-8491-7696f9850a05.jpg?1720473780"
+      "universesBeyondImage": "https://cards.scryfall.io/normal/front/6/0/60ad4bd6-c6a5-420f-8491-7696f9850a05.jpg?1721425627"
     },
     {
       "name": "Brotherhood Ambushers",
-      "universesBeyondImage": "https://cards.scryfall.io/normal/front/9/1/91ef922e-81b4-47e6-bd37-8ec0cb29700a.jpg?1720473790"
+      "universesBeyondImage": "https://cards.scryfall.io/normal/front/9/1/91ef922e-81b4-47e6-bd37-8ec0cb29700a.jpg?1721425632"
     },
     {
       "name": "Brotherhood Patriarch",
-      "universesBeyondImage": "https://cards.scryfall.io/normal/front/5/b/5b79ee23-d917-48f3-b014-d513f1c5ff54.jpg?1720473800"
+      "universesBeyondImage": "https://cards.scryfall.io/normal/front/5/b/5b79ee23-d917-48f3-b014-d513f1c5ff54.jpg?1721425638"
     },
     {
       "name": "Merciless Harlequin",
-      "universesBeyondImage": "https://cards.scryfall.io/normal/front/1/b/1bb19a35-7224-4fe2-a0c0-17b93d2837ad.jpg?1720473810"
+      "universesBeyondImage": "https://cards.scryfall.io/normal/front/1/b/1bb19a35-7224-4fe2-a0c0-17b93d2837ad.jpg?1721425643"
     },
     {
       "name": "Poison-Blade Mentor",
-      "universesBeyondImage": "https://cards.scryfall.io/normal/front/e/3/e3efb96a-a722-493a-be0e-a64583f8c3df.jpg?1720473819"
+      "universesBeyondImage": "https://cards.scryfall.io/normal/front/e/3/e3efb96a-a722-493a-be0e-a64583f8c3df.jpg?1721425648"
     },
     {
       "name": "Headsplitter",
-      "universesBeyondImage": "https://cards.scryfall.io/normal/front/5/9/59fcbf2a-46d5-4371-b4eb-a8dbebe18dcc.jpg?1720473826"
+      "universesBeyondImage": "https://cards.scryfall.io/normal/front/5/9/59fcbf2a-46d5-4371-b4eb-a8dbebe18dcc.jpg?1721425658"
     },
     {
       "name": "Phantom Blade",
-      "universesBeyondImage": "https://cards.scryfall.io/normal/front/e/c/ec5ec61b-5393-422b-b021-46b80bb42ac4.jpg?1720471641"
+      "universesBeyondImage": "https://cards.scryfall.io/normal/front/e/c/ec5ec61b-5393-422b-b021-46b80bb42ac4.jpg?1721423782"
     },
     {
       "name": "Labyrinth Adversary",
-      "universesBeyondImage": "https://cards.scryfall.io/normal/front/d/d/ddc770fd-d513-420b-94f8-f2d28d8ed8d1.jpg?1720473834"
+      "universesBeyondImage": "https://cards.scryfall.io/normal/front/d/d/ddc770fd-d513-420b-94f8-f2d28d8ed8d1.jpg?1721425662"
     },
     {
       "name": "Misthios's Fury",
-      "universesBeyondImage": "https://cards.scryfall.io/normal/front/e/3/e34a45ab-793e-4198-8327-e13287e0b74c.jpg?1720473841"
+      "universesBeyondImage": "https://cards.scryfall.io/normal/front/e/3/e34a45ab-793e-4198-8327-e13287e0b74c.jpg?1721425669"
     },
     {
       "name": "Spartan Veteran",
-      "universesBeyondImage": "https://cards.scryfall.io/normal/front/b/1/b16fba05-25d7-4495-a9f6-cec6b3aabbbd.jpg?1720473848"
+      "universesBeyondImage": "https://cards.scryfall.io/normal/front/b/1/b16fba05-25d7-4495-a9f6-cec6b3aabbbd.jpg?1721425672"
     },
     {
       "name": "Surtr, Fiery Jötun",
-      "universesBeyondImage": "https://cards.scryfall.io/normal/front/b/e/be38985c-f7a9-4885-9035-09390b4b754a.jpg?1720473856"
+      "universesBeyondImage": "https://cards.scryfall.io/normal/front/b/e/be38985c-f7a9-4885-9035-09390b4b754a.jpg?1721425679"
     },
     {
       "name": "Achilles Davenport",
-      "universesBeyondImage": "https://cards.scryfall.io/normal/front/f/8/f8ead24c-dd4a-40cd-839e-de08017a7c29.jpg?1720473863"
+      "universesBeyondImage": "https://cards.scryfall.io/normal/front/f/8/f8ead24c-dd4a-40cd-839e-de08017a7c29.jpg?1721425683"
     },
     {
       "name": "Auditore Ambush",
-      "universesBeyondImage": "https://cards.scryfall.io/normal/front/7/4/7426f3dc-385b-42ea-85cb-853e6035ca6f.jpg?1720473870"
+      "universesBeyondImage": "https://cards.scryfall.io/normal/front/7/4/7426f3dc-385b-42ea-85cb-853e6035ca6f.jpg?1721425690"
     },
     {
       "name": "Bureau Headmaster",
-      "universesBeyondImage": "https://cards.scryfall.io/normal/front/5/8/58766566-6e19-4f74-bfce-5a61429ffaa9.jpg?1720473879"
+      "universesBeyondImage": "https://cards.scryfall.io/normal/front/5/8/58766566-6e19-4f74-bfce-5a61429ffaa9.jpg?1721425695"
     },
     {
       "name": "Raven Clan War-Axe",
-      "universesBeyondImage": "https://cards.scryfall.io/normal/front/0/1/01de51d1-bbea-407c-b19e-dfef7fce1510.jpg?1720473886"
+      "universesBeyondImage": "https://cards.scryfall.io/normal/front/0/1/01de51d1-bbea-407c-b19e-dfef7fce1510.jpg?1721425700"
     },
     {
       "name": "Rooftop Bypass",
-      "universesBeyondImage": "https://cards.scryfall.io/normal/front/5/0/50aef0eb-5b11-49e8-b2b2-a9e0422f6e65.jpg?1720473894"
+      "universesBeyondImage": "https://cards.scryfall.io/normal/front/5/0/50aef0eb-5b11-49e8-b2b2-a9e0422f6e65.jpg?1721425708"
     },
     {
       "name": "Distract the Guards",
-      "universesBeyondImage": "https://cards.scryfall.io/normal/front/5/5/5554433e-0dee-4960-a58c-c4a24e01a989.jpg?1720471429"
+      "universesBeyondImage": "https://cards.scryfall.io/normal/front/5/5/5554433e-0dee-4960-a58c-c4a24e01a989.jpg?1721423587"
     },
     {
       "name": "Restart Sequence",
-      "universesBeyondImage": "https://cards.scryfall.io/normal/front/9/a/9a2b1b20-e5fd-4ccb-8529-12dbde0e0811.jpg?1720471649"
+      "universesBeyondImage": "https://cards.scryfall.io/normal/front/9/a/9a2b1b20-e5fd-4ccb-8529-12dbde0e0811.jpg?1721423790"
     },
     {
       "name": "The Revelations of Ezio",
-      "universesBeyondImage": "https://cards.scryfall.io/normal/front/e/d/ed77def5-ac92-4907-805d-261cae0db357.jpg?1720471656"
+      "universesBeyondImage": "https://cards.scryfall.io/normal/front/e/d/ed77def5-ac92-4907-805d-261cae0db357.jpg?1721423798"
     },
     {
       "name": "Roshan, Hidden Magister",
-      "universesBeyondImage": "https://cards.scryfall.io/normal/front/e/b/eb17e6aa-8be5-40ea-a627-783c478c8eda.jpg?1720471664"
+      "universesBeyondImage": "https://cards.scryfall.io/normal/front/e/b/eb17e6aa-8be5-40ea-a627-783c478c8eda.jpg?1721423805"
     },
     {
       "name": "Alexios, Deimos of Kosmos",
-      "universesBeyondImage": "https://cards.scryfall.io/normal/front/e/8/e81b94b2-4052-4686-a788-9baf0fa0f81a.jpg?1720471672"
+      "universesBeyondImage": "https://cards.scryfall.io/normal/front/e/8/e81b94b2-4052-4686-a788-9baf0fa0f81a.jpg?1721423813"
     },
     {
       "name": "Hidden Footblade",
-      "universesBeyondImage": "https://cards.scryfall.io/normal/front/e/1/e188fe5a-92ac-4c1c-a9a4-2dd5912cc14e.jpg?1720471682"
+      "universesBeyondImage": "https://cards.scryfall.io/normal/front/e/1/e188fe5a-92ac-4c1c-a9a4-2dd5912cc14e.jpg?1721423821"
     },
     {
       "name": "Monastery Raid",
-      "universesBeyondImage": "https://cards.scryfall.io/normal/front/3/e/3e2e91f0-3a4e-4388-9460-6756f758316b.jpg?1720471691"
+      "universesBeyondImage": "https://cards.scryfall.io/normal/front/3/e/3e2e91f0-3a4e-4388-9460-6756f758316b.jpg?1721423829"
     },
     {
       "name": "Origin of the Hidden Ones",
-      "universesBeyondImage": "https://cards.scryfall.io/normal/front/1/4/14da80cd-d0b8-4094-bfe7-28811d655f8b.jpg?1720471700"
+      "universesBeyondImage": "https://cards.scryfall.io/normal/front/1/4/14da80cd-d0b8-4094-bfe7-28811d655f8b.jpg?1721423838"
     },
     {
       "name": "Overpowering Attack",
-      "universesBeyondImage": "https://cards.scryfall.io/normal/front/e/4/e4ad338e-88ee-4919-aec4-320071a7cfb5.jpg?1720471710"
+      "universesBeyondImage": "https://cards.scryfall.io/normal/front/e/4/e4ad338e-88ee-4919-aec4-320071a7cfb5.jpg?1721423845"
     },
     {
       "name": "The Spear of Leonidas",
-      "universesBeyondImage": "https://cards.scryfall.io/normal/front/1/6/160d6ce7-2452-41a2-aa70-41e1b8045c54.jpg?1720471719"
+      "universesBeyondImage": "https://cards.scryfall.io/normal/front/1/6/160d6ce7-2452-41a2-aa70-41e1b8045c54.jpg?1721423853"
     },
     {
       "name": "The Aesir Escape Valhalla",
-      "universesBeyondImage": "https://cards.scryfall.io/normal/front/2/e/2efbcea0-53ba-444d-b2e0-6d184f945f92.jpg?1720471730"
+      "universesBeyondImage": "https://cards.scryfall.io/normal/front/2/e/2efbcea0-53ba-444d-b2e0-6d184f945f92.jpg?1721423861"
     },
     {
       "name": "Fall of the First Civilization",
-      "universesBeyondImage": "https://cards.scryfall.io/normal/front/8/5/85a8c84b-7d6c-4068-97b1-bc5dec46732c.jpg?1720471437"
+      "universesBeyondImage": "https://cards.scryfall.io/normal/front/8/5/85a8c84b-7d6c-4068-97b1-bc5dec46732c.jpg?1721423595"
     },
     {
       "name": "Aveline de Grandpré",
-      "universesBeyondImage": "https://cards.scryfall.io/normal/front/d/b/db3b4f73-e241-4d60-a877-25327092c291.jpg?1720471736"
+      "universesBeyondImage": "https://cards.scryfall.io/normal/front/d/b/db3b4f73-e241-4d60-a877-25327092c291.jpg?1721423869"
     },
     {
       "name": "Hunter's Bow",
-      "universesBeyondImage": "https://cards.scryfall.io/normal/front/c/a/ca2765df-edff-4607-843c-8528d5d4fce9.jpg?1720471745"
+      "universesBeyondImage": "https://cards.scryfall.io/normal/front/c/a/ca2765df-edff-4607-843c-8528d5d4fce9.jpg?1721423877"
     },
     {
       "name": "Palazzo Archers",
-      "universesBeyondImage": "https://cards.scryfall.io/normal/front/d/3/d37a14c4-5398-491b-8b37-8c4eeff3054f.jpg?1720471754"
+      "universesBeyondImage": "https://cards.scryfall.io/normal/front/d/3/d37a14c4-5398-491b-8b37-8c4eeff3054f.jpg?1721423885"
     },
     {
       "name": "Viewpoint Synchronization",
-      "universesBeyondImage": "https://cards.scryfall.io/normal/front/b/0/b0f10999-c7c2-462e-bd75-e3710f7a3364.jpg?1720471762"
+      "universesBeyondImage": "https://cards.scryfall.io/normal/front/b/0/b0f10999-c7c2-462e-bd75-e3710f7a3364.jpg?1721423893"
     },
     {
       "name": "Adéwalé, Breaker of Chains",
-      "universesBeyondImage": "https://cards.scryfall.io/normal/front/9/1/914efc24-5c3a-4d22-9d77-fce337a08d4d.jpg?1720471770"
+      "universesBeyondImage": "https://cards.scryfall.io/normal/front/9/1/914efc24-5c3a-4d22-9d77-fce337a08d4d.jpg?1721423900"
     },
     {
       "name": "Altaïr Ibn-La'Ahad",
-      "universesBeyondImage": "https://cards.scryfall.io/normal/front/3/5/358026de-ab7c-4a17-8cac-cfbee391b127.jpg?1720471777"
+      "universesBeyondImage": "https://cards.scryfall.io/normal/front/3/5/358026de-ab7c-4a17-8cac-cfbee391b127.jpg?1721423908"
     },
     {
       "name": "Arbaaz Mir",
-      "universesBeyondImage": "https://cards.scryfall.io/normal/front/c/7/c7187506-4af3-47e9-bad0-4ce8c78ccc10.jpg?1720471784"
+      "universesBeyondImage": "https://cards.scryfall.io/normal/front/c/7/c7187506-4af3-47e9-bad0-4ce8c78ccc10.jpg?1721423915"
     },
     {
       "name": "Arno Dorian",
-      "universesBeyondImage": "https://cards.scryfall.io/normal/front/4/1/41142b10-a493-499a-9fc5-043eeca5d1ee.jpg?1720471791"
+      "universesBeyondImage": "https://cards.scryfall.io/normal/front/4/1/41142b10-a493-499a-9fc5-043eeca5d1ee.jpg?1721423930"
     },
     {
       "name": "Aya of Alexandria",
-      "universesBeyondImage": "https://cards.scryfall.io/normal/front/8/0/80bd1928-18ec-4f55-acd8-9a62f9869fff.jpg?1720471798"
+      "universesBeyondImage": "https://cards.scryfall.io/normal/front/8/0/80bd1928-18ec-4f55-acd8-9a62f9869fff.jpg?1721423937"
     },
     {
       "name": "Basim Ibn Ishaq",
-      "universesBeyondImage": "https://cards.scryfall.io/normal/front/f/8/f8aa19c1-4e87-4f42-814c-490e75565f6e.jpg?1720471806"
+      "universesBeyondImage": "https://cards.scryfall.io/normal/front/f/8/f8aa19c1-4e87-4f42-814c-490e75565f6e.jpg?1721423945"
     },
     {
       "name": "Bayek of Siwa",
-      "universesBeyondImage": "https://cards.scryfall.io/normal/front/5/e/5e4510e9-dc3f-4403-ae52-348d2a3eef84.jpg?1720471814"
+      "universesBeyondImage": "https://cards.scryfall.io/normal/front/5/e/5e4510e9-dc3f-4403-ae52-348d2a3eef84.jpg?1721423953"
     },
     {
       "name": "Bleeding Effect",
-      "universesBeyondImage": "https://cards.scryfall.io/normal/front/6/e/6e942730-712a-42b2-8683-a18702d685f6.jpg?1720471822"
+      "universesBeyondImage": "https://cards.scryfall.io/normal/front/6/e/6e942730-712a-42b2-8683-a18702d685f6.jpg?1721423961"
     },
     {
       "name": "Edward Kenway",
-      "universesBeyondImage": "https://cards.scryfall.io/normal/front/9/4/9472be1e-388c-45fe-a18d-35b2cb12dc5f.jpg?1720471837"
+      "universesBeyondImage": "https://cards.scryfall.io/normal/front/9/4/9472be1e-388c-45fe-a18d-35b2cb12dc5f.jpg?1721423976"
     },
     {
       "name": "Eivor, Wolf-Kissed",
-      "universesBeyondImage": "https://cards.scryfall.io/normal/front/8/8/88667198-3bec-413c-b41e-de96abc8db7b.jpg?1720471846"
+      "universesBeyondImage": "https://cards.scryfall.io/normal/front/8/8/88667198-3bec-413c-b41e-de96abc8db7b.jpg?1721423992"
     },
     {
       "name": "Ezio, Brash Novice",
-      "universesBeyondImage": "https://cards.scryfall.io/normal/front/3/3/3351cae2-87be-4438-ba58-f4f4aff2416c.jpg?1720471856"
+      "universesBeyondImage": "https://cards.scryfall.io/normal/front/3/3/3351cae2-87be-4438-ba58-f4f4aff2416c.jpg?1721423999"
     },
     {
       "name": "Havi, the All-Father",
-      "universesBeyondImage": "https://cards.scryfall.io/normal/front/7/c/7c44cc99-eb71-4be3-89f2-74473f2717d3.jpg?1720471864"
+      "universesBeyondImage": "https://cards.scryfall.io/normal/front/7/c/7c44cc99-eb71-4be3-89f2-74473f2717d3.jpg?1721424007"
     },
     {
       "name": "Haytham Kenway",
-      "universesBeyondImage": "https://cards.scryfall.io/normal/front/7/3/73468f53-7de5-4a64-8f83-c0376f1d1f3f.jpg?1720471873"
+      "universesBeyondImage": "https://cards.scryfall.io/normal/front/7/3/73468f53-7de5-4a64-8f83-c0376f1d1f3f.jpg?1721424015"
     },
     {
       "name": "Jackdaw",
-      "universesBeyondImage": "https://cards.scryfall.io/normal/front/6/3/63056bb9-e825-418a-a8ff-692980aa65fe.jpg?1720471882"
+      "universesBeyondImage": "https://cards.scryfall.io/normal/front/6/3/63056bb9-e825-418a-a8ff-692980aa65fe.jpg?1721424023"
     },
     {
       "name": "Kassandra, Eagle Bearer",
-      "universesBeyondImage": "https://cards.scryfall.io/normal/front/e/1/e127a40c-90c8-4c2d-aff4-daab1c56a4c5.jpg?1720471891"
+      "universesBeyondImage": "https://cards.scryfall.io/normal/front/e/1/e127a40c-90c8-4c2d-aff4-daab1c56a4c5.jpg?1721424041"
     },
     {
       "name": "Hookblade",
-      "universesBeyondImage": "https://cards.scryfall.io/normal/front/e/1/e17eca56-f658-410f-b505-8cbc87d4f253.jpg?1720471453"
+      "universesBeyondImage": "https://cards.scryfall.io/normal/front/e/1/e17eca56-f658-410f-b505-8cbc87d4f253.jpg?1721423609"
     },
     {
       "name": "Lydia Frye",
-      "universesBeyondImage": "https://cards.scryfall.io/normal/front/9/d/9dd6c700-f961-484a-8fe2-57107f5b7717.jpg?1720471899"
+      "universesBeyondImage": "https://cards.scryfall.io/normal/front/9/d/9dd6c700-f961-484a-8fe2-57107f5b7717.jpg?1721424049"
     },
     {
       "name": "Mary Read and Anne Bonny",
-      "universesBeyondImage": "https://cards.scryfall.io/normal/front/1/1/116bf8c6-8488-4eff-b350-b3ea821353b1.jpg?1720471908"
+      "universesBeyondImage": "https://cards.scryfall.io/normal/front/1/1/116bf8c6-8488-4eff-b350-b3ea821353b1.jpg?1721424058"
     },
     {
       "name": "Ratonhnhaké꞉ton",
-      "universesBeyondImage": "https://cards.scryfall.io/normal/front/2/b/2b16a212-602c-4839-9e34-fc5c5b0388f0.jpg?1720471915"
+      "universesBeyondImage": "https://cards.scryfall.io/normal/front/2/b/2b16a212-602c-4839-9e34-fc5c5b0388f0.jpg?1721424066"
     },
     {
       "name": "Shao Jun",
-      "universesBeyondImage": "https://cards.scryfall.io/normal/front/0/8/085568e5-d622-45ff-9a31-52eaa513ff31.jpg?1720471923"
+      "universesBeyondImage": "https://cards.scryfall.io/normal/front/0/8/085568e5-d622-45ff-9a31-52eaa513ff31.jpg?1721424083"
     },
     {
       "name": "Shaun & Rebecca, Agents",
-      "universesBeyondImage": "https://cards.scryfall.io/normal/front/d/9/d90080ea-062b-4b92-89e7-b6dcb2c70a8c.jpg?1720471931"
+      "universesBeyondImage": "https://cards.scryfall.io/normal/front/d/9/d90080ea-062b-4b92-89e7-b6dcb2c70a8c.jpg?1721424091"
     },
     {
       "name": "Shay Cormac",
-      "universesBeyondImage": "https://cards.scryfall.io/normal/front/4/2/42ca7f13-df00-4904-a7be-44f94272bfee.jpg?1720471940"
+      "universesBeyondImage": "https://cards.scryfall.io/normal/front/4/2/42ca7f13-df00-4904-a7be-44f94272bfee.jpg?1721424099"
     },
     {
       "name": "Sigurd, Jarl of Ravensthorpe",
-      "universesBeyondImage": "https://cards.scryfall.io/normal/front/2/5/25ceade9-f12a-4724-b198-312fb4b1210b.jpg?1720471948"
+      "universesBeyondImage": "https://cards.scryfall.io/normal/front/2/5/25ceade9-f12a-4724-b198-312fb4b1210b.jpg?1721424116"
     },
     {
       "name": "Sokrates, Athenian Teacher",
-      "universesBeyondImage": "https://cards.scryfall.io/normal/front/f/9/f9266244-e8bc-47f8-a440-55d208b961df.jpg?1720471957"
+      "universesBeyondImage": "https://cards.scryfall.io/normal/front/f/9/f9266244-e8bc-47f8-a440-55d208b961df.jpg?1721424134"
     },
     {
       "name": "Adrestia",
-      "universesBeyondImage": "https://cards.scryfall.io/normal/front/b/3/b3d878fc-cc21-407f-b3cc-95bf2d717a80.jpg?1720471965"
+      "universesBeyondImage": "https://cards.scryfall.io/normal/front/b/3/b3d878fc-cc21-407f-b3cc-95bf2d717a80.jpg?1721424160"
     },
     {
       "name": "The Animus",
-      "universesBeyondImage": "https://cards.scryfall.io/normal/front/a/d/ad574010-01ee-4bbc-87c5-4b04338b6ef6.jpg?1720471974"
+      "universesBeyondImage": "https://cards.scryfall.io/normal/front/a/d/ad574010-01ee-4bbc-87c5-4b04338b6ef6.jpg?1721424168"
     },
     {
       "name": "Layla Hassan",
-      "universesBeyondImage": "https://cards.scryfall.io/normal/front/2/2/2278d97e-791a-4843-a385-65bac79bde7a.jpg?1720471460"
+      "universesBeyondImage": "https://cards.scryfall.io/normal/front/2/2/2278d97e-791a-4843-a385-65bac79bde7a.jpg?1721423616"
     },
     {
       "name": "Apple of Eden, Isu Relic",
-      "universesBeyondImage": "https://cards.scryfall.io/normal/front/1/7/17dd0b7f-bd26-4a46-a7a1-bc65138d54ed.jpg?1720471982"
+      "universesBeyondImage": "https://cards.scryfall.io/normal/front/1/7/17dd0b7f-bd26-4a46-a7a1-bc65138d54ed.jpg?1721424175"
     },
     {
       "name": "Brotherhood Regalia",
-      "universesBeyondImage": "https://cards.scryfall.io/normal/front/8/a/8a6439a6-288d-427e-b14b-a99e8ef8c5cd.jpg?1720471989"
+      "universesBeyondImage": "https://cards.scryfall.io/normal/front/8/a/8a6439a6-288d-427e-b14b-a99e8ef8c5cd.jpg?1721424191"
     },
     {
       "name": "Excalibur, Sword of Eden",
-      "universesBeyondImage": "https://cards.scryfall.io/normal/front/2/6/26dbf574-3193-413e-a982-4b9d27dafaf5.jpg?1720471999"
+      "universesBeyondImage": "https://cards.scryfall.io/normal/front/2/6/26dbf574-3193-413e-a982-4b9d27dafaf5.jpg?1721424198"
     },
     {
       "name": "Hidden Blade",
-      "universesBeyondImage": "https://cards.scryfall.io/normal/front/a/0/a07a488f-cb64-4f4c-9c2e-6cdb5d563f13.jpg?1720472006"
+      "universesBeyondImage": "https://cards.scryfall.io/normal/front/a/0/a07a488f-cb64-4f4c-9c2e-6cdb5d563f13.jpg?1721424206"
     },
     {
       "name": "Mjölnir, Storm Hammer",
-      "universesBeyondImage": "https://cards.scryfall.io/normal/front/d/f/df09fc8c-e008-427b-b007-ceec9a4aa4ab.jpg?1720472013"
+      "universesBeyondImage": "https://cards.scryfall.io/normal/front/d/f/df09fc8c-e008-427b-b007-ceec9a4aa4ab.jpg?1721424213"
     },
     {
       "name": "Smoke Bomb",
-      "universesBeyondImage": "https://cards.scryfall.io/normal/front/4/3/4330d8ce-3b82-4297-ad5f-c63b54b6665a.jpg?1720472021"
+      "universesBeyondImage": "https://cards.scryfall.io/normal/front/4/3/4330d8ce-3b82-4297-ad5f-c63b54b6665a.jpg?1721424221"
     },
     {
       "name": "Staff of Eden, Vault's Key",
-      "universesBeyondImage": "https://cards.scryfall.io/normal/front/3/1/31ce94a9-d6f4-432d-9447-e6d1446c393b.jpg?1720472030"
+      "universesBeyondImage": "https://cards.scryfall.io/normal/front/3/1/31ce94a9-d6f4-432d-9447-e6d1446c393b.jpg?1721424229"
     },
     {
       "name": "Towering Viewpoint",
-      "universesBeyondImage": "https://cards.scryfall.io/normal/front/d/1/d19115bf-562c-4bef-967d-52ec1e54c82e.jpg?1720472039"
+      "universesBeyondImage": "https://cards.scryfall.io/normal/front/d/1/d19115bf-562c-4bef-967d-52ec1e54c82e.jpg?1721424237"
     },
     {
       "name": "Yggdrasil, Rebirth Engine",
-      "universesBeyondImage": "https://cards.scryfall.io/normal/front/f/2/f240a9ef-06cd-4c48-ba97-fea1e55f20e2.jpg?1720472048"
+      "universesBeyondImage": "https://cards.scryfall.io/normal/front/f/2/f240a9ef-06cd-4c48-ba97-fea1e55f20e2.jpg?1721424245"
     },
     {
       "name": "Abstergo Entertainment",
-      "universesBeyondImage": "https://cards.scryfall.io/normal/front/4/d/4d197866-7633-493c-80dd-ec3a09165934.jpg?1720472058"
+      "universesBeyondImage": "https://cards.scryfall.io/normal/front/4/d/4d197866-7633-493c-80dd-ec3a09165934.jpg?1721424262"
     },
     {
       "name": "Senu, Keen-Eyed Protector",
-      "universesBeyondImage": "https://cards.scryfall.io/normal/front/5/6/5671a03d-0858-41e7-976c-60825c29af04.jpg?1720525631"
+      "universesBeyondImage": "https://cards.scryfall.io/normal/front/5/6/5671a03d-0858-41e7-976c-60825c29af04.jpg?1721423622"
     },
     {
       "name": "Brotherhood Headquarters",
-      "universesBeyondImage": "https://cards.scryfall.io/normal/front/5/3/535f43c4-8926-4981-967d-f681f98e07d9.jpg?1720472066"
+      "universesBeyondImage": "https://cards.scryfall.io/normal/front/5/3/535f43c4-8926-4981-967d-f681f98e07d9.jpg?1721424269"
     },
     {
       "name": "Tax Collector",
-      "universesBeyondImage": "https://cards.scryfall.io/normal/front/a/3/a300b5af-9223-4e97-9d33-a9226bd900f3.jpg?1720471475"
+      "universesBeyondImage": "https://cards.scryfall.io/normal/front/a/3/a300b5af-9223-4e97-9d33-a9226bd900f3.jpg?1721423629"
     }
   ]
 }; export default data;
