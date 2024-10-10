@@ -1,6 +1,21 @@
 const data = {
   "cards": [
     {
+      "name": "Well Rested",
+      "contributionInfo": {
+        "contributor": "madelson",
+        "front": {
+          "artist": "Sandara Tang",
+          "artistUrl": "https://sandara.artstation.com/",
+          "artName": "Flower Foxes",
+          "artUrl": "https://www.artstation.com/artwork/rJ9lvE",
+          "mtgCardBuilderId": "196334"
+        }
+      },
+      "universesBeyondImage": "https://cards.scryfall.io/normal/front/e/d/ed640359-01e2-4a96-a4ab-aca053a2498d.jpg?1708742381",
+      "universesWithinImage": "./cards/Well%20Rested.png"
+    },
+    {
       "name": "Mutational Advantage",
       "contributionInfo": {
         "contributor": "madelson",
@@ -925,7 +940,7 @@ const data = {
     {
       "name": "Mind Flayer, the Shadow",
       "nickname": "Arvinox, the Mind Flail",
-      "universesBeyondImage": "https://cards.scryfall.io/normal/front/0/f/0fbaa2f0-9ad0-4ce2-8ce6-359d01bd524c.jpg?1682712564",
+      "universesBeyondImage": "https://cards.scryfall.io/normal/front/0/f/0fbaa2f0-9ad0-4ce2-8ce6-359d01bd524c.jpg?1723643328",
       "universesWithinImage": "https://cards.scryfall.io/normal/front/c/8/c83542de-38ca-4aad-acba-189374be37e2.jpg?1681728814"
     },
     {
@@ -972,8 +987,8 @@ const data = {
     },
     {
       "name": "Havengul Laboratory // Havengul Mystery",
-      "universesBeyondImage": "https://cards.scryfall.io/normal/front/8/3/83a86763-c3fe-4cff-8b65-22cb329d112c.jpg?1664605623",
-      "universesBeyondBackImage": "https://cards.scryfall.io/normal/back/8/3/83a86763-c3fe-4cff-8b65-22cb329d112c.jpg?1664605623",
+      "universesBeyondImage": "https://cards.scryfall.io/normal/front/8/3/83a86763-c3fe-4cff-8b65-22cb329d112c.jpg?1723644208",
+      "universesBeyondBackImage": "https://cards.scryfall.io/normal/back/8/3/83a86763-c3fe-4cff-8b65-22cb329d112c.jpg?1723644208",
       "universesWithinImage": "https://cards.scryfall.io/normal/front/8/2/823b019e-10c0-4712-8167-d4f37a71e782.jpg?1677763621",
       "universesWithinBackImage": "https://cards.scryfall.io/normal/back/8/2/823b019e-10c0-4712-8167-d4f37a71e782.jpg?1677763621"
     },
@@ -4395,7 +4410,7 @@ const data = {
     },
     {
       "name": "The Fifteenth Doctor",
-      "universesBeyondImage": "https://cards.scryfall.io/normal/front/5/3/530a26f1-cf7a-4e56-886b-6799b057c739.jpg?1707370998"
+      "universesBeyondImage": "https://cards.scryfall.io/normal/front/5/3/530a26f1-cf7a-4e56-886b-6799b057c739.jpg?1727093500"
     },
     {
       "name": "Apothecary White",
@@ -5001,10 +5016,6 @@ const data = {
     {
       "name": "Watchful Radstag",
       "universesBeyondImage": "https://cards.scryfall.io/normal/front/b/e/be4151d4-4d35-48d2-9e72-c87014f79137.jpg?1708742373"
-    },
-    {
-      "name": "Well Rested",
-      "universesBeyondImage": "https://cards.scryfall.io/normal/front/e/d/ed640359-01e2-4a96-a4ab-aca053a2498d.jpg?1708742381"
     },
     {
       "name": "Agent Frank Horrigan",
