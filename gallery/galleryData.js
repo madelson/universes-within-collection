@@ -1,6 +1,22 @@
 const data = {
   "cards": [
     {
+      "name": "Recon Craft Theta",
+      "nickname": "Phyrexian Scolo-Manta",
+      "contributionInfo": {
+        "contributor": "madelson",
+        "front": {
+          "artist": "Thomas Ricci",
+          "artistUrl": "https://artrhino.artstation.com/",
+          "artName": "Phyrexian Scolo-Manta",
+          "artUrl": "https://artrhino.artstation.com/projects/9e2nQq",
+          "mtgCardBuilderId": "198171"
+        }
+      },
+      "universesBeyondImage": "https://cards.scryfall.io/normal/front/2/1/21aa59d3-e786-4ba0-9802-01b57597cda2.jpg?1708742768",
+      "universesWithinImage": "./cards/Recon%20Craft%20Theta.png"
+    },
+    {
       "name": "Well Rested",
       "contributionInfo": {
         "contributor": "madelson",
@@ -4643,10 +4659,6 @@ const data = {
     {
       "name": "Codsworth, Handy Helper",
       "universesBeyondImage": "https://cards.scryfall.io/normal/front/b/b/bbdfbd21-61b1-4ebd-8d37-bce2a391a7e9.jpg?1708741766"
-    },
-    {
-      "name": "Recon Craft Theta",
-      "universesBeyondImage": "https://cards.scryfall.io/normal/front/2/1/21aa59d3-e786-4ba0-9802-01b57597cda2.jpg?1708742768"
     },
     {
       "name": "Strength Bobblehead",
