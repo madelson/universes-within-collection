@@ -506,5 +506,14 @@
 		"artName": "Steel Soldier",
 		"artUrl": "https://www.instagram.com/p/CNKwXLGDsPT/?utm_source=ig_web_copy_link",
 		"mtgCardBuilderId": "149537"
-	}
+	},
+	"T0005": {
+		"name": "Alien (TPIP 6)",
+		"contributor": "madelson",
+		"artist": "Dave Kendall",
+		"artName": "Phyrexian Mite",
+		"artUrl": "https://cards.scryfall.io/art_crop/front/a/0/a0b4b9cc-b0a4-4383-881b-e843e5d8a8c1.jpg?1675957569",
+		"isMtgArt": true,
+		"mtgCardBuilderId": "198191"
+	},
 }
