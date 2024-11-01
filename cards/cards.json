@@ -474,6 +474,12 @@
 		"artUrl": "https://artrhino.artstation.com/projects/9e2nQq",
 		"mtgCardBuilderId": "198171"
 	},
+	"0058": {
+		"name": "Swooping Pteranodon",
+		"contributor": "madelson",
+		"isArtCrop": true,
+		"mtgCardBuilderId": "206260"
+	},
 	"T0001": {
 		"name": "Alien (TWHO 2)",
 		"contributor": "cgregory",

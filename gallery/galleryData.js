@@ -1,6 +1,17 @@
 const data = {
   "cards": [
     {
+      "name": "Swooping Pteranodon",
+      "contributionInfo": {
+        "contributor": "madelson",
+        "front": {
+          "mtgCardBuilderId": "206260"
+        }
+      },
+      "universesBeyondImage": "https://cards.scryfall.io/normal/front/4/3/43aa5d97-7483-4f90-998d-70732a7ae1dc.jpg?1698993174",
+      "universesWithinImage": "./cards/Swooping%20Pteranodon.png"
+    },
+    {
       "name": "Recon Craft Theta",
       "nickname": "Phyrexian Scolo-Manta",
       "contributionInfo": {
@@ -4379,10 +4390,6 @@ const data = {
       "universesBeyondImage": "https://cards.scryfall.io/normal/front/2/b/2be38927-637b-4dce-b228-83ce4f50c4a4.jpg?1698988775"
     },
     {
-      "name": "Swooping Pteranodon",
-      "universesBeyondImage": "https://cards.scryfall.io/normal/front/4/3/43aa5d97-7483-4f90-998d-70732a7ae1dc.jpg?1698993174"
-    },
-    {
       "name": "Cresting Mosasaurus",
       "universesBeyondImage": "https://cards.scryfall.io/normal/front/b/6/b6011e4b-a8a7-4cad-a276-c1022b45edc3.jpg?1698988734"
     },
@@ -5081,6 +5088,10 @@ const data = {
       "universesBeyondImage": "https://cards.scryfall.io/normal/front/b/d/bde9eb15-544a-462a-8ab8-86067840c083.jpg?1708742479"
     },
     {
+      "name": "Haystack",
+      "universesBeyondImage": "https://cards.scryfall.io/normal/front/9/2/92a70aa6-ac7d-4592-94b0-9ce862d71d50.jpg?1728881432"
+    },
+    {
       "name": "The Capitoline Triad",
       "universesBeyondImage": "https://cards.scryfall.io/normal/front/f/a/fa1b63ce-47d3-4633-9062-3fecd810e85f.jpg?1721423572"
     },
@@ -5269,6 +5280,10 @@ const data = {
       "universesBeyondImage": "https://cards.scryfall.io/normal/front/5/5/5554433e-0dee-4960-a58c-c4a24e01a989.jpg?1721423587"
     },
     {
+      "name": "Human Rogue",
+      "universesBeyondImage": "https://cards.scryfall.io/normal/front/0/5/05946b39-0b54-4f63-b521-4d5deb238541.jpg?1720341319"
+    },
+    {
       "name": "Restart Sequence",
       "universesBeyondImage": "https://cards.scryfall.io/normal/front/9/a/9a2b1b20-e5fd-4ccb-8529-12dbde0e0811.jpg?1721423790"
     },
@@ -5307,6 +5322,10 @@ const data = {
     {
       "name": "The Aesir Escape Valhalla",
       "universesBeyondImage": "https://cards.scryfall.io/normal/front/2/e/2efbcea0-53ba-444d-b2e0-6d184f945f92.jpg?1721423861"
+    },
+    {
+      "name": "Assassin",
+      "universesBeyondImage": "https://cards.scryfall.io/normal/front/1/9/19cb2062-86f0-4ce3-b5fb-d3c310f36ec3.jpg?1720341317"
     },
     {
       "name": "Fall of the First Civilization",
@@ -5351,6 +5370,10 @@ const data = {
     {
       "name": "Basim Ibn Ishaq",
       "universesBeyondImage": "https://cards.scryfall.io/normal/front/f/8/f8aa19c1-4e87-4f42-814c-490e75565f6e.jpg?1721423945"
+    },
+    {
+      "name": "Phobos",
+      "universesBeyondImage": "https://cards.scryfall.io/normal/front/4/4/447bd736-6b47-440c-86ed-db54bd655274.jpg?1720341319"
     },
     {
       "name": "Bayek of Siwa",
@@ -5487,6 +5510,26 @@ const data = {
     {
       "name": "Tax Collector",
       "universesBeyondImage": "https://cards.scryfall.io/normal/front/a/3/a300b5af-9223-4e97-9d33-a9226bd900f3.jpg?1721423629"
+    },
+    {
+      "name": "Captain America, First Avenger",
+      "universesBeyondImage": "https://cards.scryfall.io/normal/front/b/b/bba7e9c8-c24c-4bd3-b398-fe42b1fcfb5d.jpg?1729528769"
+    },
+    {
+      "name": "Iron Man, Titan of Innovation",
+      "universesBeyondImage": "https://cards.scryfall.io/normal/front/7/5/7542b1d1-e34d-46dc-af24-1b718034c0e4.jpg?1729295830"
+    },
+    {
+      "name": "Wolverine, Best There Is",
+      "universesBeyondImage": "https://cards.scryfall.io/normal/front/e/b/ebe83332-195e-4ac1-878f-f52eef62ce6a.jpg?1729387116"
+    },
+    {
+      "name": "Storm, Force of Nature",
+      "universesBeyondImage": "https://cards.scryfall.io/normal/front/6/a/6af7766e-7438-4128-a1f2-8b3b3ba3c650.jpg?1729272972"
+    },
+    {
+      "name": "Black Panther, Wakandan King",
+      "universesBeyondImage": "https://cards.scryfall.io/normal/front/3/a/3a93a12d-6913-4d9e-8e9c-8067147e37f2.jpg?1729274053"
     }
   ]
 }; export default data;
