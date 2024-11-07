@@ -480,6 +480,26 @@
 		"isArtCrop": true,
 		"mtgCardBuilderId": "206260"
 	},
+	"0059": {
+		"name": "Yggdrasil, Rebirth Engine",
+		"nickname": "The Compleation Engine",
+		"contributor": "cgregory",
+		"mtgCardBuilderId": "208236"
+	},
+	"0060": {
+		"name": "Battlefield Improvisation",
+		"contributor": "cgregory",
+		"mtgCardBuilderId": "208237"
+	},
+	"0061": {
+		"name": "Space Marine Devastator",
+		"nickname": "Cliffhaven Sanctifier",
+		"contributor": "cgregory",
+		"artist": "Nickolas Paris",
+		"artName": "Kor Mage",
+		"artUrl": "https://nickolasparis.com/projects/BXVe19?album_id=8299747",
+		"mtgCardBuilderId": "208242"
+	},
 	"T0001": {
 		"name": "Alien (TWHO 2)",
 		"contributor": "cgregory",
