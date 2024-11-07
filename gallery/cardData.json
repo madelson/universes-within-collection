@@ -50,6 +50,11 @@
     "image": "https://madelson.github.io/universes-within-collection/cards/Barbara%20Wright.png"
   },
   {
+    "oracleId": "c5b85aa7-6a76-4fe2-a63e-4f376b6c9af7",
+    "name": "Battlefield Improvisation",
+    "image": "https://madelson.github.io/universes-within-collection/cards/Battlefield%20Improvisation.png"
+  },
+  {
     "oracleId": "776aa036-08aa-4fa0-82bd-c09e6e3e2c5e",
     "name": "Bessie, the Doctor's Roadster",
     "nickname": "Kanakht's Grim Caravan",
@@ -271,6 +276,18 @@
     "image": "https://madelson.github.io/universes-within-collection/cards/Sonic%20Screwdriver.png"
   },
   {
+    "oracleId": "fa25d142-e6ba-4fc9-81e2-114c32afc030",
+    "name": "Space Marine Devastator",
+    "nickname": "Cliffhaven Sanctifier",
+    "image": "https://madelson.github.io/universes-within-collection/cards/Space%20Marine%20Devastator.png"
+  },
+  {
+    "oracleId": "d74a5638-83cc-480b-bb02-caecc6a8ff2e",
+    "name": "Space Marine Devastator",
+    "nickname": "Cliffhaven Sanctifier",
+    "image": "https://madelson.github.io/universes-within-collection/cards/Space%20Marine%20Devastator.png"
+  },
+  {
     "oracleId": "3e924a35-0e08-4050-b33a-a143d2ab5aea",
     "name": "Starscream, Power Hungry // Starscream, Seeker Leader",
     "nickname": "Gonti, Night Ship Captain // Gonti's Night Ship",
@@ -358,6 +375,12 @@
     "oracleId": "f8cebb33-9235-4f63-8171-15af8b8e1436",
     "name": "Well Rested",
     "image": "https://madelson.github.io/universes-within-collection/cards/Well%20Rested.png"
+  },
+  {
+    "oracleId": "7617a6f7-c83b-4ee5-a681-c7e164456526",
+    "name": "Yggdrasil, Rebirth Engine",
+    "nickname": "The Compleation Engine",
+    "image": "https://madelson.github.io/universes-within-collection/cards/Yggdrasil%2C%20Rebirth%20Engine.png"
   },
   {
     "oracleId": "dd903bff-d96f-431a-8ff9-88d0ad92f937",

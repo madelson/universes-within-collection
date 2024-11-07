@@ -1,6 +1,61 @@
 const data = {
   "cards": [
     {
+      "name": "Space Marine Devastator",
+      "nickname": "Cliffhaven Sanctifier",
+      "contributionInfo": {
+        "contributor": "cgregory",
+        "front": {
+          "artist": "Nickolas Paris",
+          "artistUrl": "https://nickolasparis.com",
+          "artName": "Kor Mage",
+          "artUrl": "https://nickolasparis.com/projects/BXVe19?album_id=8299747",
+          "mtgCardBuilderId": "208242"
+        }
+      },
+      "universesBeyondImage": "https://cards.scryfall.io/normal/front/4/a/4a821438-2b60-421e-9fd2-3ce3ec958eb7.jpg?1673308496",
+      "universesWithinImage": "./cards/Space%20Marine%20Devastator.png"
+    },
+    {
+      "name": "Space Marine Devastator",
+      "nickname": "Cliffhaven Sanctifier",
+      "contributionInfo": {
+        "contributor": "cgregory",
+        "front": {
+          "artist": "Nickolas Paris",
+          "artistUrl": "https://nickolasparis.com",
+          "artName": "Kor Mage",
+          "artUrl": "https://nickolasparis.com/projects/BXVe19?album_id=8299747",
+          "mtgCardBuilderId": "208242"
+        }
+      },
+      "universesBeyondImage": "https://cards.scryfall.io/normal/front/a/a/aa796e45-1d95-44f7-927d-0cdd2f67da78.jpg?1675455163",
+      "universesWithinImage": "./cards/Space%20Marine%20Devastator.png"
+    },
+    {
+      "name": "Battlefield Improvisation",
+      "contributionInfo": {
+        "contributor": "cgregory",
+        "front": {
+          "mtgCardBuilderId": "208237"
+        }
+      },
+      "universesBeyondImage": "https://cards.scryfall.io/normal/front/d/2/d2cf2cd1-f7b3-4a23-a23a-6eb0af5451cf.jpg?1721425586",
+      "universesWithinImage": "./cards/Battlefield%20Improvisation.png"
+    },
+    {
+      "name": "Yggdrasil, Rebirth Engine",
+      "nickname": "The Compleation Engine",
+      "contributionInfo": {
+        "contributor": "cgregory",
+        "front": {
+          "mtgCardBuilderId": "208236"
+        }
+      },
+      "universesBeyondImage": "https://cards.scryfall.io/normal/front/f/2/f240a9ef-06cd-4c48-ba97-fea1e55f20e2.jpg?1721424245",
+      "universesWithinImage": "./cards/Yggdrasil%2C%20Rebirth%20Engine.png"
+    },
+    {
       "name": "Swooping Pteranodon",
       "contributionInfo": {
         "contributor": "madelson",
@@ -1291,10 +1346,6 @@ const data = {
       "universesBeyondImage": "https://cards.scryfall.io/normal/front/5/4/542b3490-1247-4f47-98b6-c67cabae53cb.jpg?1675455239"
     },
     {
-      "name": "Space Marine Devastator",
-      "universesBeyondImage": "https://cards.scryfall.io/normal/front/4/a/4a821438-2b60-421e-9fd2-3ce3ec958eb7.jpg?1673308496"
-    },
-    {
       "name": "Shadow in the Warp",
       "universesBeyondImage": "https://cards.scryfall.io/normal/front/b/d/bd60cd99-1511-4903-b678-ff5a1853a742.jpg?1673309525"
     },
@@ -1589,10 +1640,6 @@ const data = {
     {
       "name": "Imotekh the Stormlord",
       "universesBeyondImage": "https://cards.scryfall.io/normal/front/2/8/286ff901-1faf-4a02-a37a-fa165989112f.jpg?1674058380"
-    },
-    {
-      "name": "Space Marine Devastator",
-      "universesBeyondImage": "https://cards.scryfall.io/normal/front/a/a/aa796e45-1d95-44f7-927d-0cdd2f67da78.jpg?1675455163"
     },
     {
       "name": "Primaris Eliminator",
@@ -5176,10 +5223,6 @@ const data = {
       "universesBeyondImage": "https://cards.scryfall.io/normal/front/b/b/bbdc8019-9b5e-4d9a-a09b-2a14f41ddfe1.jpg?1721425581"
     },
     {
-      "name": "Battlefield Improvisation",
-      "universesBeyondImage": "https://cards.scryfall.io/normal/front/d/2/d2cf2cd1-f7b3-4a23-a23a-6eb0af5451cf.jpg?1721425586"
-    },
-    {
       "name": "Detained by Legionnaires",
       "universesBeyondImage": "https://cards.scryfall.io/normal/front/f/e/fe06e87f-8915-4fc2-81fd-168a371dc407.jpg?1721425591"
     },
@@ -5490,10 +5533,6 @@ const data = {
     {
       "name": "Towering Viewpoint",
       "universesBeyondImage": "https://cards.scryfall.io/normal/front/d/1/d19115bf-562c-4bef-967d-52ec1e54c82e.jpg?1721424237"
-    },
-    {
-      "name": "Yggdrasil, Rebirth Engine",
-      "universesBeyondImage": "https://cards.scryfall.io/normal/front/f/2/f240a9ef-06cd-4c48-ba97-fea1e55f20e2.jpg?1721424245"
     },
     {
       "name": "Abstergo Entertainment",
