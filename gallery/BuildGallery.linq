@@ -43,7 +43,7 @@ async Task Main()
 	foreach (var card in universesBeyondCards)
 	{
 		var universesBeyondName = card.Card.Flavor_Name ?? card.Card.Name;
-		var universesWithinCard = universesWithinCardsByName.TryGetValue(card.Card.Name, out var c) ? c
+		var universesWithinCard = !card.Card.Layout.Contains("token") && universesWithinCardsByName.TryGetValue(card.Card.Name, out var c) ? c
 			: universesWithinCardsByName.TryGetValue(DisambiguatedName(card.Card), out c) ? c
 			: null;
 		var universesWithinName = card.OfficialUniversesWithinCard?.Name ?? universesWithinCard?.Info.Nickname;
@@ -372,10 +372,14 @@ async Task<List<CardInfo>> GetUniversesBeyondCardsAsync()
 {
 	var allCards = await CacheAsync("all-cards", GetAllCardsAsync);
 	// unique:prints is needed to make sure we capture all sets that contain UB cards. Some promo set codes like pltr won't show up otherwise
-	var universesBeyondCards = await CacheAsync("universes-beyond-cards", () => SearchAsync("is:ub -is:reprint unique:prints"));
+	var universesBeyondCards = await CacheAsync("universes-beyond-cards", () => SearchAsync("is:ub -is:reprint -is:digital unique:prints"));
 	
 	var allCardsByOracleId = allCards.ToLookup(c => c.Oracle_Id);
 	var universesBeyondSets = universesBeyondCards.Select(c => c.Set).ToHashSet();
+	// Above we exclude reprints since we don't care to include in-universe cards which were reprinted in UB sets. However, pltc is a case where
+	// a UB card was reprinted in another UB set. We need to make sure that set is tagged as UB so that it doesn't look like an official UW printing.
+	// This is not a complete solution because at some point we'll surely get a UB reprint into a non-promotional UB set.
+	universesBeyondSets.UnionWith(universesBeyondSets.Select(s => "p" + s).ToArray());
 	
 	return universesBeyondCards.GroupBy(c => c.Oracle_Id)
 		.Select(g => g.MinBy(c => c.Released_At)!)
@@ -443,7 +447,8 @@ record Card(
 	CardFace[] Card_Faces,
 	string Set,
 	DateTime Released_At,
-	string Collector_Number)
+	string Collector_Number,
+	string Layout)
 {
 	public string GetFrontImage() => (Image_Uris ?? Card_Faces[0].Image_Uris)["normal"];
 	public string? GetBackImage() => Card_Faces?[1].Image_Uris?["normal"];

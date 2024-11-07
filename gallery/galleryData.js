@@ -17,22 +17,6 @@ const data = {
       "universesWithinImage": "./cards/Space%20Marine%20Devastator.png"
     },
     {
-      "name": "Space Marine Devastator",
-      "nickname": "Cliffhaven Sanctifier",
-      "contributionInfo": {
-        "contributor": "cgregory",
-        "front": {
-          "artist": "Nickolas Paris",
-          "artistUrl": "https://nickolasparis.com",
-          "artName": "Kor Mage",
-          "artUrl": "https://nickolasparis.com/projects/BXVe19?album_id=8299747",
-          "mtgCardBuilderId": "208242"
-        }
-      },
-      "universesBeyondImage": "https://cards.scryfall.io/normal/front/a/a/aa796e45-1d95-44f7-927d-0cdd2f67da78.jpg?1675455163",
-      "universesWithinImage": "./cards/Space%20Marine%20Devastator.png"
-    },
-    {
       "name": "Battlefield Improvisation",
       "contributionInfo": {
         "contributor": "cgregory",
@@ -1640,6 +1624,10 @@ const data = {
     {
       "name": "Imotekh the Stormlord",
       "universesBeyondImage": "https://cards.scryfall.io/normal/front/2/8/286ff901-1faf-4a02-a37a-fa165989112f.jpg?1674058380"
+    },
+    {
+      "name": "Space Marine Devastator",
+      "universesBeyondImage": "https://cards.scryfall.io/normal/front/a/a/aa796e45-1d95-44f7-927d-0cdd2f67da78.jpg?1675455163"
     },
     {
       "name": "Primaris Eliminator",
@@ -5503,6 +5491,10 @@ const data = {
       "universesBeyondImage": "https://cards.scryfall.io/normal/front/2/2/2278d97e-791a-4843-a385-65bac79bde7a.jpg?1721423616"
     },
     {
+      "name": "The Capitoline Triad Emblem",
+      "universesBeyondImage": "https://cards.scryfall.io/normal/front/0/5/05402b51-8cf9-4f69-aa12-8a9d5981f8b1.jpg?1730837194"
+    },
+    {
       "name": "Apple of Eden, Isu Relic",
       "universesBeyondImage": "https://cards.scryfall.io/normal/front/1/7/17dd0b7f-bd26-4a46-a7a1-bc65138d54ed.jpg?1721424175"
     },
@@ -5552,23 +5544,23 @@ const data = {
     },
     {
       "name": "Captain America, First Avenger",
-      "universesBeyondImage": "https://cards.scryfall.io/normal/front/b/b/bba7e9c8-c24c-4bd3-b398-fe42b1fcfb5d.jpg?1729528769"
+      "universesBeyondImage": "https://cards.scryfall.io/normal/front/b/b/bba7e9c8-c24c-4bd3-b398-fe42b1fcfb5d.jpg?1730758326"
     },
     {
       "name": "Iron Man, Titan of Innovation",
-      "universesBeyondImage": "https://cards.scryfall.io/normal/front/7/5/7542b1d1-e34d-46dc-af24-1b718034c0e4.jpg?1729295830"
+      "universesBeyondImage": "https://cards.scryfall.io/normal/front/7/5/7542b1d1-e34d-46dc-af24-1b718034c0e4.jpg?1730758324"
     },
     {
       "name": "Wolverine, Best There Is",
-      "universesBeyondImage": "https://cards.scryfall.io/normal/front/e/b/ebe83332-195e-4ac1-878f-f52eef62ce6a.jpg?1729387116"
+      "universesBeyondImage": "https://cards.scryfall.io/normal/front/e/b/ebe83332-195e-4ac1-878f-f52eef62ce6a.jpg?1730758319"
     },
     {
       "name": "Storm, Force of Nature",
-      "universesBeyondImage": "https://cards.scryfall.io/normal/front/6/a/6af7766e-7438-4128-a1f2-8b3b3ba3c650.jpg?1729272972"
+      "universesBeyondImage": "https://cards.scryfall.io/normal/front/6/a/6af7766e-7438-4128-a1f2-8b3b3ba3c650.jpg?1730758321"
     },
     {
       "name": "Black Panther, Wakandan King",
-      "universesBeyondImage": "https://cards.scryfall.io/normal/front/3/a/3a93a12d-6913-4d9e-8e9c-8067147e37f2.jpg?1729274053"
+      "universesBeyondImage": "https://cards.scryfall.io/normal/front/3/a/3a93a12d-6913-4d9e-8e9c-8067147e37f2.jpg?1730758329"
     }
   ]
 }; export default data;
