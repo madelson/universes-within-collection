@@ -509,6 +509,16 @@
 		"artUrl": "https://www.instagram.com/p/Cb1ErhmJ0hZ/?hl=en",
 		"mtgCardBuilderId": "208885"
 	},
+	"0063": {
+		"name": "The Prydwen, Steel Flagship",
+		"nickname": "The Glory of Halcyon",
+		"contributor": "madelson",
+		"artist": "Ben Wootten",
+		"artName": "Protean War Engine",
+		"artUrl": "https://cards.scryfall.io/art_crop/front/1/f/1ff1009e-bae9-4bda-98b3-4b8a7744051c.jpg?1665338618",
+		"isMtgArt": true,
+		"mtgCardBuilderId": "209091"
+	},
 	"T0001": {
 		"name": "Alien (TWHO 2)",
 		"contributor": "cgregory",
@@ -550,5 +560,14 @@
 		"artUrl": "https://cards.scryfall.io/art_crop/front/a/0/a0b4b9cc-b0a4-4383-881b-e843e5d8a8c1.jpg?1675957569",
 		"isMtgArt": true,
 		"mtgCardBuilderId": "198191"
+	},
+	"T0006": {
+		"name": "Human Knight (TPIP 2)",
+		"contributor": "madelson",
+		"artist": "Jason A. Engle",
+		"artName": "Soldier",
+		"artUrl": "https://cards.scryfall.io/art_crop/front/3/d/3d5c2f87-f0c9-4188-9b20-1c2a1d3c4f45.jpg?1561897495",
+		"isMtgArt": true,
+		"mtgCardBuilderId": "209094"
 	},
 }

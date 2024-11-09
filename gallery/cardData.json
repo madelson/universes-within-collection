@@ -172,6 +172,11 @@
     "image": "https://madelson.github.io/universes-within-collection/cards/Hithlain%20Rope.png"
   },
   {
+    "oracleId": "21f78330-6b0a-4c76-974e-c2a1ef0c098d",
+    "name": "Human Knight",
+    "image": "https://madelson.github.io/universes-within-collection/cards/Human%20Knight%20(TPIP%202).png"
+  },
+  {
     "oracleId": "92a287a0-b3cc-4040-a530-fb71510cfc67",
     "name": "Leonardo da Vinci",
     "nickname": "Leoric, Sai's Apprentice",
@@ -346,6 +351,12 @@
     "name": "The Master, Gallifrey's End",
     "nickname": "Mishra, Butcher of Kroog",
     "image": "https://madelson.github.io/universes-within-collection/cards/The%20Master%2C%20Gallifrey%27s%20End.png"
+  },
+  {
+    "oracleId": "f6ea8085-5ba9-43b6-994d-04be35c5793b",
+    "name": "The Prydwen, Steel Flagship",
+    "nickname": "The Glory of Halcyon",
+    "image": "https://madelson.github.io/universes-within-collection/cards/The%20Prydwen%2C%20Steel%20Flagship.png"
   },
   {
     "oracleId": "ac9b0bdf-caf8-4dba-a900-e59de35e77d7",
