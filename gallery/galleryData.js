@@ -1,10 +1,26 @@
 const data = {
   "cards": [
     {
+      "name": "Bighorner Rancher",
+      "nickname": "Karplusan Ranger",
+      "contributionInfo": {
+        "contributor": "madelson",
+        "front": {
+          "artist": "Sandara Tang",
+          "artistUrl": "https://sandara.artstation.com/",
+          "artName": "Rest",
+          "artUrl": "https://www.instagram.com/p/Cb1ErhmJ0hZ/?hl=en",
+          "mtgCardBuilderId": "208885"
+        }
+      },
+      "universesBeyondImage": "https://cards.scryfall.io/normal/front/8/6/861361bc-b357-4ff8-931b-a48d08817191.jpg?1708742265",
+      "universesWithinImage": "./cards/Bighorner%20Rancher.png"
+    },
+    {
       "name": "Space Marine Devastator",
       "nickname": "Cliffhaven Sanctifier",
       "contributionInfo": {
-        "contributor": "cgregory",
+        "contributor": "madelson",
         "front": {
           "artist": "Nickolas Paris",
           "artistUrl": "https://nickolasparis.com",
@@ -5021,10 +5037,6 @@ const data = {
     {
       "name": "Animal Friend",
       "universesBeyondImage": "https://cards.scryfall.io/normal/front/a/f/af31a045-0387-44ff-b735-54e19b04d925.jpg?1708742257"
-    },
-    {
-      "name": "Bighorner Rancher",
-      "universesBeyondImage": "https://cards.scryfall.io/normal/front/8/6/861361bc-b357-4ff8-931b-a48d08817191.jpg?1708742265"
     },
     {
       "name": "Break Down",

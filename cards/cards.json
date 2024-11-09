@@ -494,11 +494,20 @@
 	"0061": {
 		"name": "Space Marine Devastator",
 		"nickname": "Cliffhaven Sanctifier",
-		"contributor": "cgregory",
+		"contributor": "madelson",
 		"artist": "Nickolas Paris",
 		"artName": "Kor Mage",
 		"artUrl": "https://nickolasparis.com/projects/BXVe19?album_id=8299747",
 		"mtgCardBuilderId": "208242"
+	},
+	"0062": {
+		"name": "Bighorner Rancher",
+		"nickname": "Karplusan Ranger",
+		"contributor": "madelson",
+		"artist": "Sandara Tang",
+		"artName": "Rest",
+		"artUrl": "https://www.instagram.com/p/Cb1ErhmJ0hZ/?hl=en",
+		"mtgCardBuilderId": "208885"
 	},
 	"T0001": {
 		"name": "Alien (TWHO 2)",
