@@ -1,6 +1,22 @@
 const data = {
   "cards": [
     {
+      "name": "Synth Infiltrator",
+      "nickname": "Makeshift Metamorph",
+      "contributionInfo": {
+        "contributor": "madelson",
+        "front": {
+          "artist": "Michele Giorgi",
+          "artName": "Gixian Recycler",
+          "artUrl": "https://cards.scryfall.io/art_crop/front/6/0/6059eebe-7be0-4231-80ae-f4857f8db61f.jpg?1680464162",
+          "isMtgArt": true,
+          "mtgCardBuilderId": "209352"
+        }
+      },
+      "universesBeyondImage": "https://cards.scryfall.io/normal/front/3/f/3fe16bc4-8457-4c5f-902a-0746112e80a4.jpg?1710440741",
+      "universesWithinImage": "./cards/Synth%20Infiltrator.png"
+    },
+    {
       "name": "The Prydwen, Steel Flagship",
       "nickname": "The Glory of Halcyon",
       "contributionInfo": {
@@ -4928,10 +4944,6 @@ const data = {
     {
       "name": "The Wise Mothman",
       "universesBeyondImage": "https://cards.scryfall.io/normal/front/3/d/3d6d6944-a364-41c2-b824-7a1bf6ad0d1e.jpg?1710673435"
-    },
-    {
-      "name": "Synth Infiltrator",
-      "universesBeyondImage": "https://cards.scryfall.io/normal/front/3/f/3fe16bc4-8457-4c5f-902a-0746112e80a4.jpg?1710440741"
     },
     {
       "name": "Vexing Radgull",

@@ -519,6 +519,16 @@
 		"isMtgArt": true,
 		"mtgCardBuilderId": "209091"
 	},
+	"0064": {
+		"name": "Synth Infiltrator",
+		"nickname": "Makeshift Metamorph",
+		"contributor": "madelson",
+		"artist": "Michele Giorgi",
+		"artName": "Gixian Recycler",
+		"artUrl": "https://cards.scryfall.io/art_crop/front/6/0/6059eebe-7be0-4231-80ae-f4857f8db61f.jpg?1680464162",
+		"isMtgArt": true,
+		"mtgCardBuilderId": "209352"
+	},
 	"T0001": {
 		"name": "Alien (TWHO 2)",
 		"contributor": "cgregory",
