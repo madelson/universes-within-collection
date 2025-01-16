@@ -537,6 +537,16 @@
 		"artUrl": "https://www.artstation.com/artwork/8w801m",
 		"mtgCardBuilderId": "235184"
 	},
+	"0066": {
+		"name": "River Song's Diary",
+		"nickname": "Silverwand's Diary",
+		"contributor": "madelson",
+		"artist": "Maxime Minard",
+		"artName": "Tome of Gadwick",
+		"artUrl": "https://cards.scryfall.io/png/front/9/f/9fd6e966-5591-4021-928c-e83c96ea24ea.png?1731603986",
+		"isMtgArt": true,
+		"mtgCardBuilderId": "235225"
+	},
 	"T0001": {
 		"name": "Alien (TWHO 2)",
 		"contributor": "cgregory",

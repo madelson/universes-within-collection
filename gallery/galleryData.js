@@ -1,6 +1,22 @@
 const data = {
   "cards": [
     {
+      "name": "River Song's Diary",
+      "nickname": "Silverwand's Diary",
+      "contributionInfo": {
+        "contributor": "madelson",
+        "front": {
+          "artist": "Maxime Minard",
+          "artName": "Tome of Gadwick",
+          "artUrl": "https://cards.scryfall.io/png/front/9/f/9fd6e966-5591-4021-928c-e83c96ea24ea.png?1731603986",
+          "isMtgArt": true,
+          "mtgCardBuilderId": "235225"
+        }
+      },
+      "universesBeyondImage": "https://cards.scryfall.io/normal/front/9/6/96476a30-72b0-4f91-9d2d-85fc196f89c5.jpg?1696636814",
+      "universesWithinImage": "./cards/River%20Song%27s%20Diary.png"
+    },
+    {
       "name": "Crisis of Conscience",
       "contributionInfo": {
         "contributor": "madelson",
@@ -3822,10 +3838,6 @@ const data = {
     {
       "name": "Psychic Paper",
       "universesBeyondImage": "https://cards.scryfall.io/normal/front/e/a/eae12c61-0125-4810-b0e4-139c27b1b08b.jpg?1696636814"
-    },
-    {
-      "name": "River Song's Diary",
-      "universesBeyondImage": "https://cards.scryfall.io/normal/front/9/6/96476a30-72b0-4f91-9d2d-85fc196f89c5.jpg?1696636814"
     },
     {
       "name": "Rotating Fireplace",

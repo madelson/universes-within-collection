@@ -313,7 +313,7 @@ List<UniversesWithinCard> GetUniversesWithinCards()
 		
 		foreach (var path in new[] { card.FrontImage, card.BackImage }.Where(i => i != null))
 		{
-			if (!File.Exists(Path.Combine(CardsDirectory, path!))) { throw new FileNotFoundException(path); }
+			if (!File.Exists(Path.Combine(CardsDirectory, path!))) { throw new FileNotFoundException(Path.GetFullPath(Path.Combine(CardsDirectory, path!))); }
 		}
 
 		results.Add(card);
