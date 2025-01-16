@@ -529,6 +529,14 @@
 		"isMtgArt": true,
 		"mtgCardBuilderId": "209352"
 	},
+	"0065": {
+		"name": "Crisis of Conscience",
+		"contributor": "madelson",
+		"artist": "Florian Herold",
+		"artName": "Dreams and Observance",
+		"artUrl": "https://www.artstation.com/artwork/8w801m",
+		"mtgCardBuilderId": "235184"
+	},
 	"T0001": {
 		"name": "Alien (TWHO 2)",
 		"contributor": "cgregory",

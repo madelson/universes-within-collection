@@ -1,6 +1,21 @@
 const data = {
   "cards": [
     {
+      "name": "Crisis of Conscience",
+      "contributionInfo": {
+        "contributor": "madelson",
+        "front": {
+          "artist": "Florian Herold",
+          "artistUrl": "https://www.artstation.com/faherold",
+          "artName": "Dreams and Observance",
+          "artUrl": "https://www.artstation.com/artwork/8w801m",
+          "mtgCardBuilderId": "235184"
+        }
+      },
+      "universesBeyondImage": "https://cards.scryfall.io/normal/front/3/0/308d9672-58a7-4ec8-a20d-7054d76fde37.jpg?1696636526",
+      "universesWithinImage": "./cards/Crisis%20of%20Conscience.png"
+    },
+    {
       "name": "Synth Infiltrator",
       "nickname": "Makeshift Metamorph",
       "contributionInfo": {
@@ -1078,14 +1093,14 @@ const data = {
     {
       "name": "Lucille",
       "nickname": "Gisa's Favorite Shovel",
-      "universesBeyondImage": "https://cards.scryfall.io/normal/front/d/9/d92f06af-47bd-4ede-a174-21be69387c1b.jpg?1692516765",
+      "universesBeyondImage": "https://cards.scryfall.io/normal/front/d/9/d92f06af-47bd-4ede-a174-21be69387c1b.jpg?1731690250",
       "universesWithinImage": "https://cards.scryfall.io/normal/front/8/1/8139bb44-47e8-4076-99ed-ad3623198ad9.jpg?1692516731"
     },
     {
       "name": "Mind Flayer, the Shadow",
       "nickname": "Arvinox, the Mind Flail",
-      "universesBeyondImage": "https://cards.scryfall.io/normal/front/0/f/0fbaa2f0-9ad0-4ce2-8ce6-359d01bd524c.jpg?1723643328",
-      "universesWithinImage": "https://cards.scryfall.io/normal/front/c/8/c83542de-38ca-4aad-acba-189374be37e2.jpg?1681728814"
+      "universesBeyondImage": "https://cards.scryfall.io/normal/front/0/f/0fbaa2f0-9ad0-4ce2-8ce6-359d01bd524c.jpg?1732545909",
+      "universesWithinImage": "https://cards.scryfall.io/normal/front/c/8/c83542de-38ca-4aad-acba-189374be37e2.jpg?1732546066"
     },
     {
       "name": "Chief Jim Hopper",
@@ -1186,7 +1201,7 @@ const data = {
     },
     {
       "name": "Byode, Inverse Sun",
-      "universesBeyondImage": "https://cards.scryfall.io/normal/front/c/e/cea94853-1a2c-4b17-b863-d2c130757538.jpg?1707371024"
+      "universesBeyondImage": "https://cards.scryfall.io/normal/front/c/e/cea94853-1a2c-4b17-b863-d2c130757538.jpg?1735686483"
     },
     {
       "name": "Astartes Warrior",
@@ -2004,32 +2019,45 @@ const data = {
     },
     {
       "name": "Xenk, Paladin Unbroken",
-      "universesBeyondImage": "https://cards.scryfall.io/normal/front/c/1/c150240c-10c7-439c-a076-740bd0f2cc0a.jpg?1682347200"
+      "nickname": "Rashel, Fist of Torm",
+      "universesBeyondImage": "https://cards.scryfall.io/normal/front/c/1/c150240c-10c7-439c-a076-740bd0f2cc0a.jpg?1736769381",
+      "universesWithinImage": "https://cards.scryfall.io/normal/front/1/2/12401fc7-3332-48e5-b38a-efaae29b3ee1.jpg?1736769904"
     },
     {
       "name": "Simon, Wild Magic Sorcerer",
-      "universesBeyondImage": "https://cards.scryfall.io/normal/front/a/c/ac9a9cf1-f480-48e8-a9b8-75d7f1640d1a.jpg?1682347196"
+      "nickname": "Mathise, Surge Channeler",
+      "universesBeyondImage": "https://cards.scryfall.io/normal/front/a/c/ac9a9cf1-f480-48e8-a9b8-75d7f1640d1a.jpg?1736769482",
+      "universesWithinImage": "https://cards.scryfall.io/normal/front/3/c/3c560e53-73d9-4b0e-9b93-c729e00e7bbe.jpg?1736769945"
     },
     {
       "name": "Forge, Neverwinter Charlatan",
-      "universesBeyondImage": "https://cards.scryfall.io/normal/front/2/0/2091e863-30f3-475e-9a61-e76fc4cf1ce2.jpg?1682347182"
+      "nickname": "Evin, Waterdeep Opportunist",
+      "universesBeyondImage": "https://cards.scryfall.io/normal/front/2/0/2091e863-30f3-475e-9a61-e76fc4cf1ce2.jpg?1736769560",
+      "universesWithinImage": "https://cards.scryfall.io/normal/front/c/3/c35accd3-92ee-4b0b-a30a-4dcd3252d1b8.jpg?1736769909"
     },
     {
       "name": "Holga, Relentless Rager",
-      "universesBeyondImage": "https://cards.scryfall.io/normal/front/f/a/fab07547-a6b8-487a-9688-8f93aaa71f5b.jpg?1682347215"
+      "nickname": "Jurin, Leading the Charge",
+      "universesBeyondImage": "https://cards.scryfall.io/normal/front/f/a/fab07547-a6b8-487a-9688-8f93aaa71f5b.jpg?1736769621",
+      "universesWithinImage": "https://cards.scryfall.io/normal/front/8/6/867b4e3d-e175-4d6b-868a-87b3d6f61b07.jpg?1736769913"
     },
     {
-      "name": "Doric, Nature's Warden // Doric, Owlbear Avenger",
-      "universesBeyondImage": "https://cards.scryfall.io/normal/front/f/b/fb348aec-ab4e-4940-9235-43f2ef581195.jpg?1682382576",
-      "universesBeyondBackImage": "https://cards.scryfall.io/normal/back/f/b/fb348aec-ab4e-4940-9235-43f2ef581195.jpg?1682382576"
+      "name": "Casal, Lurkwood Pathfinder // Casal, Pathbreaker Owlbear",
+      "universesBeyondImage": "https://cards.scryfall.io/normal/front/f/b/fb348aec-ab4e-4940-9235-43f2ef581195.jpg?1736769836",
+      "universesBeyondBackImage": "https://cards.scryfall.io/normal/back/f/b/fb348aec-ab4e-4940-9235-43f2ef581195.jpg?1736769836",
+      "universesWithinImage": "https://cards.scryfall.io/normal/front/d/5/d571c367-c786-41f9-9cdb-cb02594fa413.jpg?1736769917",
+      "universesWithinBackImage": "https://cards.scryfall.io/normal/back/d/5/d571c367-c786-41f9-9cdb-cb02594fa413.jpg?1736769917"
     },
     {
       "name": "Edgin, Larcenous Lutenist",
-      "universesBeyondImage": "https://cards.scryfall.io/normal/front/c/8/c80c7702-3226-4ec6-bb75-26621a146a7e.jpg?1682347227"
+      "nickname": "Bohn, Beguiling Balladeer",
+      "universesBeyondImage": "https://cards.scryfall.io/normal/front/c/8/c80c7702-3226-4ec6-bb75-26621a146a7e.jpg?1736769770",
+      "universesWithinImage": "https://cards.scryfall.io/normal/front/6/e/6e779a16-7528-49f4-8304-502bb603c15b.jpg?1736769919"
     },
     {
       "name": "Themberchaud",
-      "universesBeyondImage": "https://cards.scryfall.io/normal/front/c/e/ce332e85-a842-4afc-a5c5-b5064c5c4569.jpg?1682347209"
+      "universesBeyondImage": "https://cards.scryfall.io/normal/front/c/e/ce332e85-a842-4afc-a5c5-b5064c5c4569.jpg?1682347209",
+      "universesWithinImage": "https://cards.scryfall.io/normal/front/1/d/1dc40449-0660-4350-900c-ec9b2aaefe1c.jpg?1736769915"
     },
     {
       "name": "Banish from Edoras",
@@ -2745,7 +2773,7 @@ const data = {
     },
     {
       "name": "The One Ring",
-      "universesBeyondImage": "https://cards.scryfall.io/normal/front/d/5/d5806e68-1054-458e-866d-1f2470f682b2.jpg?1715080486"
+      "universesBeyondImage": "https://cards.scryfall.io/normal/front/d/5/d5806e68-1054-458e-866d-1f2470f682b2.jpg?1734350327"
     },
     {
       "name": "Phial of Galadriel",
@@ -3748,10 +3776,6 @@ const data = {
       "universesWithinImage": "https://cards.scryfall.io/normal/front/a/1/a177ba01-53cd-4223-8f79-9fbeb2b86906.jpg?1712354816"
     },
     {
-      "name": "Crisis of Conscience",
-      "universesBeyondImage": "https://cards.scryfall.io/normal/front/3/0/308d9672-58a7-4ec8-a20d-7054d76fde37.jpg?1696636526"
-    },
-    {
       "name": "Clockwork Droid",
       "universesBeyondImage": "https://cards.scryfall.io/normal/front/9/b/9b4fa6d0-dc2d-4903-bbba-6cf83be2b187.jpg?1696636791"
     },
@@ -4473,7 +4497,7 @@ const data = {
     },
     {
       "name": "Indoraptor, the Perfect Hybrid",
-      "universesBeyondImage": "https://cards.scryfall.io/normal/front/3/8/3826e2af-c134-4dc1-98b5-574b1bda9a98.jpg?1698988768"
+      "universesBeyondImage": "https://cards.scryfall.io/normal/front/3/8/3826e2af-c134-4dc1-98b5-574b1bda9a98.jpg?1731690315"
     },
     {
       "name": "Owen Grady, Raptor Trainer",
@@ -5171,7 +5195,7 @@ const data = {
     },
     {
       "name": "Haystack",
-      "universesBeyondImage": "https://cards.scryfall.io/normal/front/9/2/92a70aa6-ac7d-4592-94b0-9ce862d71d50.jpg?1728881432"
+      "universesBeyondImage": "https://cards.scryfall.io/normal/front/9/2/92a70aa6-ac7d-4592-94b0-9ce862d71d50.jpg?1731666331"
     },
     {
       "name": "The Capitoline Triad",
