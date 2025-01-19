@@ -1,6 +1,22 @@
 const data = {
   "cards": [
     {
+      "name": "Bigger on the Inside",
+      "nickname": "Bounty of Skola Vale",
+      "contributionInfo": {
+        "contributor": "madelson",
+        "front": {
+          "artist": "Thomas Cole",
+          "artistUrl": "https://en.wikipedia.org/wiki/Thomas_Cole",
+          "artName": "The Titan's Goblet",
+          "artUrl": "https://www.metmuseum.org/art/collection/search/10499",
+          "mtgCardBuilderId": "236283"
+        }
+      },
+      "universesBeyondImage": "https://cards.scryfall.io/normal/front/8/d/8d1178ac-35b9-4086-8ad4-6c629d976ce2.jpg?1696636678",
+      "universesWithinImage": "./cards/Bigger%20on%20the%20Inside.png"
+    },
+    {
       "name": "River Song's Diary",
       "nickname": "Silverwand's Diary",
       "contributionInfo": {
@@ -3569,10 +3585,6 @@ const data = {
     {
       "name": "Ashad, the Lone Cyberman",
       "universesBeyondImage": "https://cards.scryfall.io/normal/front/2/d/2dc19e32-4f78-492f-8586-54ad4ae6fcec.jpg?1696636676"
-    },
-    {
-      "name": "Bigger on the Inside",
-      "universesBeyondImage": "https://cards.scryfall.io/normal/front/8/d/8d1178ac-35b9-4086-8ad4-6c629d976ce2.jpg?1696636678"
     },
     {
       "name": "Blink",

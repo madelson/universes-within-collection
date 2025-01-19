@@ -547,6 +547,15 @@
 		"isMtgArt": true,
 		"mtgCardBuilderId": "235225"
 	},
+	"0067": {
+		"name": "Bigger on the Inside",
+		"nickname": "Bounty of Skola Vale",
+		"contributor": "madelson",
+		"artist": "Thomas Cole",
+		"artName": "The Titan's Goblet",
+		"artUrl": "https://www.metmuseum.org/art/collection/search/10499",
+		"mtgCardBuilderId": "236283"
+	},
 	"T0001": {
 		"name": "Alien (TWHO 2)",
 		"contributor": "cgregory",
