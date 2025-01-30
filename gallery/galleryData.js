@@ -1,6 +1,22 @@
 const data = {
   "cards": [
     {
+      "name": "Primaris Eliminator",
+      "nickname": "Sedraxis Eliminator",
+      "contributionInfo": {
+        "contributor": "madelson",
+        "front": {
+          "artist": "Anthony Catillaz",
+          "artistUrl": "https://www.artstation.com/artico_luminos",
+          "artName": "Morgo Skull Boss",
+          "artUrl": "https://www.artstation.com/artwork/oJAyX4",
+          "mtgCardBuilderId": "240290"
+        }
+      },
+      "universesBeyondImage": "https://cards.scryfall.io/normal/front/d/b/db7ab081-d6cd-4323-98bf-536e4df95115.jpg?1677541618",
+      "universesWithinImage": "./cards/Primaris%20Eliminator.png"
+    },
+    {
       "name": "Bigger on the Inside",
       "nickname": "Bounty of Skola Vale",
       "contributionInfo": {
@@ -1740,10 +1756,6 @@ const data = {
       "universesBeyondImage": "https://cards.scryfall.io/normal/front/a/a/aa796e45-1d95-44f7-927d-0cdd2f67da78.jpg?1675455163"
     },
     {
-      "name": "Primaris Eliminator",
-      "universesBeyondImage": "https://cards.scryfall.io/normal/front/d/b/db7ab081-d6cd-4323-98bf-536e4df95115.jpg?1677541618"
-    },
-    {
       "name": "Psychomancer",
       "universesBeyondImage": "https://cards.scryfall.io/normal/front/7/8/780743bf-e1a0-4114-9474-319632e0c775.jpg?1673308778"
     },
@@ -3458,7 +3470,7 @@ const data = {
     },
     {
       "name": "Grond, the Gatebreaker",
-      "universesBeyondImage": "https://cards.scryfall.io/normal/front/4/b/4bc61b28-afdd-4de9-829b-ffe5ca7c7f19.jpg?1686968507"
+      "universesBeyondImage": "https://cards.scryfall.io/normal/front/4/b/4bc61b28-afdd-4de9-829b-ffe5ca7c7f19.jpg?1738052978"
     },
     {
       "name": "Beregond of the Guard",
@@ -5287,7 +5299,7 @@ const data = {
     },
     {
       "name": "Ezio Auditore da Firenze",
-      "universesBeyondImage": "https://cards.scryfall.io/normal/front/d/a/dae9ee75-30b8-4e24-af8b-031c816d3221.jpg?1721423751"
+      "universesBeyondImage": "https://cards.scryfall.io/normal/front/d/a/dae9ee75-30b8-4e24-af8b-031c816d3221.jpg?1737999942"
     },
     {
       "name": "Hemlock Vial",

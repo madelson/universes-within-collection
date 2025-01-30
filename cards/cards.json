@@ -556,6 +556,15 @@
 		"artUrl": "https://www.metmuseum.org/art/collection/search/10499",
 		"mtgCardBuilderId": "236283"
 	},
+	"0068": {
+		"name": "Primaris Eliminator",
+		"nickname": "Sedraxis Eliminator",
+		"contributor": "madelson",
+		"artist": "Anthony Catillaz",
+		"artName": "Morgo Skull Boss",
+		"artUrl": "https://www.artstation.com/artwork/oJAyX4",
+		"mtgCardBuilderId": "240290"
+	},
 	"T0001": {
 		"name": "Alien (TWHO 2)",
 		"contributor": "cgregory",
