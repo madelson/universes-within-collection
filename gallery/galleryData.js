@@ -1,6 +1,18 @@
 const data = {
   "cards": [
     {
+      "name": "Legolas's Quick Reflexes",
+      "nickname": "Hallar's Quick Reflexes",
+      "contributionInfo": {
+        "contributor": "madelson",
+        "front": {
+          "mtgCardBuilderId": "240679"
+        }
+      },
+      "universesBeyondImage": "https://cards.scryfall.io/normal/front/8/5/851c0167-04ba-4d15-b0fa-c211bd8826f1.jpg?1695346458",
+      "universesWithinImage": "./cards/Legolas%27s%20Quick%20Reflexes.png"
+    },
+    {
       "name": "Primaris Eliminator",
       "nickname": "Sedraxis Eliminator",
       "contributionInfo": {
@@ -4402,10 +4414,6 @@ const data = {
     {
       "name": "Aragorn, Hornburg Hero",
       "universesBeyondImage": "https://cards.scryfall.io/normal/front/1/4/14c62aa6-2660-4a18-8f69-4088e18abb40.jpg?1695814198"
-    },
-    {
-      "name": "Legolas's Quick Reflexes",
-      "universesBeyondImage": "https://cards.scryfall.io/normal/front/8/5/851c0167-04ba-4d15-b0fa-c211bd8826f1.jpg?1695346458"
     },
     {
       "name": "Gimli's Reckless Might",

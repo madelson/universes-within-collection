@@ -564,6 +564,12 @@
 		"artName": "Morgo Skull Boss",
 		"artUrl": "https://www.artstation.com/artwork/oJAyX4",
 		"mtgCardBuilderId": "240290"
+	},	
+	"0069": {
+		"name": "Legolas's Quick Reflexes",
+		"nickname": "Hallar's Quick Reflexes",
+		"contributor": "madelson",
+		"mtgCardBuilderId": "240679"
 	},
 	"T0001": {
 		"name": "Alien (TWHO 2)",
