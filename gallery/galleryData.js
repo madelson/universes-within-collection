@@ -1,16 +1,20 @@
 const data = {
   "cards": [
     {
-      "name": "Excalibur, Sword of Eden",
-      "nickname": "Freyalise's Celestial Sword",
+      "name": "Power Fist",
+      "nickname": "Bramblewood Maul",
       "contributionInfo": {
         "contributor": "madelson",
         "front": {
-          "mtgCardBuilderId": "240687"
+          "artist": "Jakob Eirich",
+          "artName": "Bramblearmor Brawler",
+          "artUrl": "https://cards.scryfall.io/png/front/6/d/6da02edc-340d-4d24-aab7-1e3f30da824f.png?1724258374",
+          "isMtgArt": true,
+          "mtgCardBuilderId": "240698"
         }
       },
-      "universesBeyondImage": "https://cards.scryfall.io/normal/front/2/6/26dbf574-3193-413e-a982-4b9d27dafaf5.jpg?1721424198",
-      "universesWithinImage": "./cards/Excalibur%2C%20Sword%20of%20Eden.png"
+      "universesBeyondImage": "https://cards.scryfall.io/normal/front/9/e/9e8f7fbc-bf2a-43c1-a88d-807c1e7dab69.jpg?1708742326",
+      "universesWithinImage": "./cards/Power%20Fist.png"
     },
     {
       "name": "Legolas's Quick Reflexes",
@@ -5182,10 +5186,6 @@ const data = {
       "universesBeyondImage": "https://cards.scryfall.io/normal/front/5/3/53b92e8a-fadf-4568-8b30-2df68e6ff7cf.jpg?1708742319"
     },
     {
-      "name": "Power Fist",
-      "universesBeyondImage": "https://cards.scryfall.io/normal/front/9/e/9e8f7fbc-bf2a-43c1-a88d-807c1e7dab69.jpg?1708742326"
-    },
-    {
       "name": "Rampaging Yao Guai",
       "universesBeyondImage": "https://cards.scryfall.io/normal/front/6/3/63619236-a27a-4fdd-add6-7a295901f906.jpg?1709431365"
     },
@@ -5628,6 +5628,10 @@ const data = {
     {
       "name": "Brotherhood Regalia",
       "universesBeyondImage": "https://cards.scryfall.io/normal/front/8/a/8a6439a6-288d-427e-b14b-a99e8ef8c5cd.jpg?1721424191"
+    },
+    {
+      "name": "Excalibur, Sword of Eden",
+      "universesBeyondImage": "https://cards.scryfall.io/normal/front/2/6/26dbf574-3193-413e-a982-4b9d27dafaf5.jpg?1721424198"
     },
     {
       "name": "Hidden Blade",

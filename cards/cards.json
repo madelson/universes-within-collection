@@ -577,6 +577,16 @@
 		"contributor": "madelson",
 		"mtgCardBuilderId": "240687"
 	},
+	"0070": {
+		"name": "Power Fist",
+		"nickname": "Bramblewood Maul",
+		"contributor": "madelson",
+		"artist": "Jakob Eirich",
+		"artName": "Bramblearmor Brawler",
+		"artUrl": "https://cards.scryfall.io/png/front/6/d/6da02edc-340d-4d24-aab7-1e3f30da824f.png?1724258374",
+		"isMtgArt": true,
+		"mtgCardBuilderId": "240698"		
+	},
 	"T0001": {
 		"name": "Alien (TWHO 2)",
 		"contributor": "cgregory",
