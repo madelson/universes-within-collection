@@ -1,6 +1,18 @@
 const data = {
   "cards": [
     {
+      "name": "Excalibur, Sword of Eden",
+      "nickname": "Freyalise's Celestial Sword",
+      "contributionInfo": {
+        "contributor": "madelson",
+        "front": {
+          "mtgCardBuilderId": "240687"
+        }
+      },
+      "universesBeyondImage": "https://cards.scryfall.io/normal/front/2/6/26dbf574-3193-413e-a982-4b9d27dafaf5.jpg?1721424198",
+      "universesWithinImage": "./cards/Excalibur%2C%20Sword%20of%20Eden.png"
+    },
+    {
       "name": "Legolas's Quick Reflexes",
       "nickname": "Hallar's Quick Reflexes",
       "contributionInfo": {
@@ -5616,10 +5628,6 @@ const data = {
     {
       "name": "Brotherhood Regalia",
       "universesBeyondImage": "https://cards.scryfall.io/normal/front/8/a/8a6439a6-288d-427e-b14b-a99e8ef8c5cd.jpg?1721424191"
-    },
-    {
-      "name": "Excalibur, Sword of Eden",
-      "universesBeyondImage": "https://cards.scryfall.io/normal/front/2/6/26dbf574-3193-413e-a982-4b9d27dafaf5.jpg?1721424198"
     },
     {
       "name": "Hidden Blade",
