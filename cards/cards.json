@@ -587,6 +587,15 @@
 		"isMtgArt": true,
 		"mtgCardBuilderId": "240698"		
 	},
+	"0071": {
+		"name": "Kellogg, Dangerous Mind",
+		"nickname": "Keirion, Akroan Turncoat",
+		"contributor": "madelson",
+		"artist": "Bachzim",
+		"artName": "Achilles",
+		"artUrl": "https://www.artstation.com/artwork/BXJXEl",
+		"mtgCardBuilderId": "242240"
+	},
 	"T0001": {
 		"name": "Alien (TWHO 2)",
 		"contributor": "cgregory",

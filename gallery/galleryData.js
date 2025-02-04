@@ -1,6 +1,22 @@
 const data = {
   "cards": [
     {
+      "name": "Kellogg, Dangerous Mind",
+      "nickname": "Keirion, Akroan Turncoat",
+      "contributionInfo": {
+        "contributor": "madelson",
+        "front": {
+          "artist": "Bachzim",
+          "artistUrl": "https://www.artstation.com/bachzim",
+          "artName": "Achilles",
+          "artUrl": "https://www.artstation.com/artwork/BXJXEl",
+          "mtgCardBuilderId": "242240"
+        }
+      },
+      "universesBeyondImage": "https://cards.scryfall.io/normal/front/f/2/f2b22b32-be24-48e3-aa81-9256190df02c.jpg?1708742534",
+      "universesWithinImage": "./cards/Kellogg%2C%20Dangerous%20Mind.png"
+    },
+    {
       "name": "Power Fist",
       "nickname": "Bramblewood Maul",
       "contributionInfo": {
@@ -4727,10 +4743,6 @@ const data = {
     {
       "name": "Inventory Management",
       "universesBeyondImage": "https://cards.scryfall.io/normal/front/7/a/7a1acb59-a679-4c6d-8458-8fe5556b9d4d.jpg?1708742526"
-    },
-    {
-      "name": "Kellogg, Dangerous Mind",
-      "universesBeyondImage": "https://cards.scryfall.io/normal/front/f/2/f2b22b32-be24-48e3-aa81-9256190df02c.jpg?1708742534"
     },
     {
       "name": "Legate Lanius, Caesar's Ace",
