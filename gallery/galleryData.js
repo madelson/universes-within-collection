@@ -1,6 +1,22 @@
 const data = {
   "cards": [
     {
+      "name": "Cait, Cage Brawler",
+      "nickname": "Vara, Wanted Outcaster",
+      "contributionInfo": {
+        "contributor": "madelson",
+        "front": {
+          "artist": "Sidharth Chaturvedi",
+          "artName": "Bounty: Vara Beth Hannifer",
+          "artUrl": "https://cards.scryfall.io/png/front/4/c/4c6cd098-5a40-4031-af21-8746165ae442.png?1712319384",
+          "isMtgArt": true,
+          "mtgCardBuilderId": "242948"
+        }
+      },
+      "universesBeyondImage": "https://cards.scryfall.io/normal/front/f/c/fca61d02-2819-483f-9d30-862f0650ab0a.jpg?1708742453",
+      "universesWithinImage": "./cards/Cait%2C%20Cage%20Brawler.png"
+    },
+    {
       "name": "Kellogg, Dangerous Mind",
       "nickname": "Keirion, Akroan Turncoat",
       "contributionInfo": {
@@ -5244,10 +5260,6 @@ const data = {
     {
       "name": "Boomer Scrapper",
       "universesBeyondImage": "https://cards.scryfall.io/normal/front/1/9/193d0316-9b94-4ccb-9103-509e6a0963a1.jpg?1708742443"
-    },
-    {
-      "name": "Cait, Cage Brawler",
-      "universesBeyondImage": "https://cards.scryfall.io/normal/front/f/c/fca61d02-2819-483f-9d30-862f0650ab0a.jpg?1708742453"
     },
     {
       "name": "Cass, Hand of Vengeance",

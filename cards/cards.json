@@ -596,6 +596,16 @@
 		"artUrl": "https://www.artstation.com/artwork/BXJXEl",
 		"mtgCardBuilderId": "242240"
 	},
+	"0072": {
+		"name": "Cait, Cage Brawler",
+		"nickname": "Vara, Wanted Outcaster",
+		"contributor": "madelson",
+		"artist": "Sidharth Chaturvedi",
+		"artName": "Bounty: Vara Beth Hannifer",
+		"artUrl": "https://cards.scryfall.io/png/front/4/c/4c6cd098-5a40-4031-af21-8746165ae442.png?1712319384",
+		"isMtgArt": true,
+		"mtgCardBuilderId": "242948"
+	},
 	"T0001": {
 		"name": "Alien (TWHO 2)",
 		"contributor": "cgregory",
