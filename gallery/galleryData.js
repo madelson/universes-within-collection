@@ -1,6 +1,22 @@
 const data = {
   "cards": [
     {
+      "name": "Strax, Sontaran Nurse",
+      "nickname": "Oris-Tal, Echo of the Wilds",
+      "contributionInfo": {
+        "contributor": "madelson",
+        "front": {
+          "artist": "Sandara Tang",
+          "artistUrl": "https://sandara.artstation.com/",
+          "artName": "Garland",
+          "artUrl": "https://www.instagram.com/p/CuDs9qEpWJh/?hl=en&img_index=1",
+          "mtgCardBuilderId": "242967"
+        }
+      },
+      "universesBeyondImage": "https://cards.scryfall.io/normal/front/b/4/b4801775-70e2-4cda-959c-27f9aa623767.jpg?1696636770",
+      "universesWithinImage": "./cards/Strax%2C%20Sontaran%20Nurse.png"
+    },
+    {
       "name": "Cait, Cage Brawler",
       "nickname": "Vara, Wanted Outcaster",
       "contributionInfo": {
@@ -3833,10 +3849,6 @@ const data = {
     {
       "name": "Alien Salamander",
       "universesBeyondImage": "https://cards.scryfall.io/normal/front/d/b/db45133d-ce37-42b4-b068-fbcc8be0e907.jpg?1696625268"
-    },
-    {
-      "name": "Strax, Sontaran Nurse",
-      "universesBeyondImage": "https://cards.scryfall.io/normal/front/b/4/b4801775-70e2-4cda-959c-27f9aa623767.jpg?1696636770"
     },
     {
       "name": "Sycorax Commander",

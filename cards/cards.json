@@ -606,6 +606,15 @@
 		"isMtgArt": true,
 		"mtgCardBuilderId": "242948"
 	},
+	"0073": {
+		"name": "Strax, Sontaran Nurse",
+		"nickname": "Oris-Tal, Echo of the Wilds",
+		"contributor": "madelson",
+		"artist": "Sandara Tang",
+		"artName": "Garland",
+		"artUrl": "https://www.instagram.com/p/CuDs9qEpWJh/?hl=en&img_index=1",
+		"mtgCardBuilderId": "242967"
+	},
 	"T0001": {
 		"name": "Alien (TWHO 2)",
 		"contributor": "cgregory",
