@@ -615,6 +615,16 @@
 		"artUrl": "https://www.instagram.com/p/CuDs9qEpWJh/?hl=en&img_index=1",
 		"mtgCardBuilderId": "242967"
 	},
+	"0074": {
+		"name": "Desmond Miles",
+		"nickname": "Gaiza, Mardu Shadowblade",
+		"contributor": "madelson",
+		"artist": "Lie Setiawan",
+		"artName": "Nimble Pilferer",
+		"artUrl": "https://cards.scryfall.io/art_crop/front/7/0/706a38f3-8e7a-4ce5-9af9-e9f4c8afc9ec.jpg?1597377049",
+		"isMtgArt": true,
+		"mtgCardBuilderId": "249488"
+	},
 	"T0001": {
 		"name": "Alien (TWHO 2)",
 		"contributor": "cgregory",

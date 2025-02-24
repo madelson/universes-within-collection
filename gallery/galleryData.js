@@ -1,6 +1,22 @@
 const data = {
   "cards": [
     {
+      "name": "Desmond Miles",
+      "nickname": "Gaiza, Mardu Shadowblade",
+      "contributionInfo": {
+        "contributor": "madelson",
+        "front": {
+          "artist": "Lie Setiawan",
+          "artName": "Nimble Pilferer",
+          "artUrl": "https://cards.scryfall.io/art_crop/front/7/0/706a38f3-8e7a-4ce5-9af9-e9f4c8afc9ec.jpg?1597377049",
+          "isMtgArt": true,
+          "mtgCardBuilderId": "249488"
+        }
+      },
+      "universesBeyondImage": "https://cards.scryfall.io/normal/front/c/9/c9523cd1-c3cf-4745-af09-77c1a83ac86f.jpg?1721423743",
+      "universesWithinImage": "./cards/Desmond%20Miles.png"
+    },
+    {
       "name": "Strax, Sontaran Nurse",
       "nickname": "Oris-Tal, Echo of the Wilds",
       "contributionInfo": {
@@ -2165,8 +2181,8 @@ const data = {
       "name": "Casal, Lurkwood Pathfinder // Casal, Pathbreaker Owlbear",
       "universesBeyondImage": "https://cards.scryfall.io/normal/front/f/b/fb348aec-ab4e-4940-9235-43f2ef581195.jpg?1736769836",
       "universesBeyondBackImage": "https://cards.scryfall.io/normal/back/f/b/fb348aec-ab4e-4940-9235-43f2ef581195.jpg?1736769836",
-      "universesWithinImage": "https://cards.scryfall.io/normal/front/d/5/d571c367-c786-41f9-9cdb-cb02594fa413.jpg?1736769917",
-      "universesWithinBackImage": "https://cards.scryfall.io/normal/back/d/5/d571c367-c786-41f9-9cdb-cb02594fa413.jpg?1736769917"
+      "universesWithinImage": "https://cards.scryfall.io/normal/front/d/5/d571c367-c786-41f9-9cdb-cb02594fa413.jpg?1738584900",
+      "universesWithinBackImage": "https://cards.scryfall.io/normal/back/d/5/d571c367-c786-41f9-9cdb-cb02594fa413.jpg?1738584900"
     },
     {
       "name": "Edgin, Larcenous Lutenist",
@@ -2201,7 +2217,7 @@ const data = {
     },
     {
       "name": "Nazgûl",
-      "universesBeyondImage": "https://cards.scryfall.io/normal/front/8/3/833936c6-9381-4c0b-a81c-4a938be95040.jpg?1686968640"
+      "universesBeyondImage": "https://cards.scryfall.io/normal/front/8/3/833936c6-9381-4c0b-a81c-4a938be95040.jpg?1739485417"
     },
     {
       "name": "Oath of the Grey Host",
@@ -4662,7 +4678,7 @@ const data = {
     },
     {
       "name": "The Meep",
-      "universesBeyondImage": "https://cards.scryfall.io/normal/front/3/6/366c4cdb-c6f2-4ee8-b5fb-acb59a9931bf.jpg?1707371003"
+      "universesBeyondImage": "https://cards.scryfall.io/normal/front/3/6/366c4cdb-c6f2-4ee8-b5fb-acb59a9931bf.jpg?1739115756"
     },
     {
       "name": "The Celestial Toymaker",
@@ -4674,7 +4690,7 @@ const data = {
     },
     {
       "name": "The Fifteenth Doctor",
-      "universesBeyondImage": "https://cards.scryfall.io/normal/front/5/3/530a26f1-cf7a-4e56-886b-6799b057c739.jpg?1727093500"
+      "universesBeyondImage": "https://cards.scryfall.io/normal/front/5/3/530a26f1-cf7a-4e56-886b-6799b057c739.jpg?1739115736"
     },
     {
       "name": "Apothecary White",
@@ -4967,7 +4983,7 @@ const data = {
     },
     {
       "name": "Gary Clone",
-      "universesBeyondImage": "https://cards.scryfall.io/normal/front/a/4/a45346ac-54a9-4fda-bde7-92ff75ac34f7.jpg?1708741782"
+      "universesBeyondImage": "https://cards.scryfall.io/normal/front/a/4/a45346ac-54a9-4fda-bde7-92ff75ac34f7.jpg?1739486414"
     },
     {
       "name": "Robot",
@@ -5079,7 +5095,7 @@ const data = {
     },
     {
       "name": "Butch DeLoria, Tunnel Snake",
-      "universesBeyondImage": "https://cards.scryfall.io/normal/front/d/6/d6ed508c-ff2c-444c-8149-34b29e2fbebe.jpg?1708742018"
+      "universesBeyondImage": "https://cards.scryfall.io/normal/front/d/6/d6ed508c-ff2c-444c-8149-34b29e2fbebe.jpg?1739778968"
     },
     {
       "name": "Infesting Radroach",
@@ -5348,10 +5364,6 @@ const data = {
     {
       "name": "Chain Assassination",
       "universesBeyondImage": "https://cards.scryfall.io/normal/front/d/4/d4bcd9c9-5957-48ee-9c12-f659c5fd07d0.jpg?1721423735"
-    },
-    {
-      "name": "Desmond Miles",
-      "universesBeyondImage": "https://cards.scryfall.io/normal/front/c/9/c9523cd1-c3cf-4745-af09-77c1a83ac86f.jpg?1721423743"
     },
     {
       "name": "Ezio Auditore da Firenze",
@@ -5724,6 +5736,58 @@ const data = {
     {
       "name": "Black Panther, Wakandan King",
       "universesBeyondImage": "https://cards.scryfall.io/normal/front/3/a/3a93a12d-6913-4d9e-8e9c-8067147e37f2.jpg?1730758329"
+    },
+    {
+      "name": "Tonberry",
+      "universesBeyondImage": "https://cards.scryfall.io/normal/front/1/a/1a9b8723-4383-4c14-b24d-52863af8703d.jpg?1739885196"
+    },
+    {
+      "name": "Jumbo Cactuar",
+      "universesBeyondImage": "https://cards.scryfall.io/normal/front/d/b/db01c222-8795-47e9-a789-e7f749a3ee7d.jpg?1739910775"
+    },
+    {
+      "name": "Sazh's Chocobo",
+      "universesBeyondImage": "https://cards.scryfall.io/normal/front/d/d/dda6b4d0-1b60-46b0-b321-b9ffe15afff4.jpg?1739910738"
+    },
+    {
+      "name": "Emet-Selch, Unsundered // Hades, Sorcerer of Eld",
+      "universesBeyondImage": "https://cards.scryfall.io/normal/front/7/5/75cf4eb8-33e7-4dfc-b890-a7e3b5c1b9d5.jpg?1739885349",
+      "universesBeyondBackImage": "https://cards.scryfall.io/normal/back/7/5/75cf4eb8-33e7-4dfc-b890-a7e3b5c1b9d5.jpg?1739885349"
+    },
+    {
+      "name": "Garland, Knight of Cornelia // Chaos, the Endless",
+      "universesBeyondImage": "https://cards.scryfall.io/normal/front/d/d/dd463dbe-5f2c-4d4f-86f8-ad8ff407af62.jpg?1739887095",
+      "universesBeyondBackImage": "https://cards.scryfall.io/normal/back/d/d/dd463dbe-5f2c-4d4f-86f8-ad8ff407af62.jpg?1739887095"
+    },
+    {
+      "name": "Sin, Spira's Punishment",
+      "universesBeyondImage": "https://cards.scryfall.io/normal/front/6/5/659be746-bd31-4a70-8cec-7798da78b0b5.jpg?1739909655"
+    },
+    {
+      "name": "Sidequest: Catch a Fish // Cooking Campsite",
+      "universesBeyondImage": "https://cards.scryfall.io/normal/front/b/d/bdb5452e-d97f-409b-91d0-2664f39b09b8.jpg?1739911159",
+      "universesBeyondBackImage": "https://cards.scryfall.io/normal/back/b/d/bdb5452e-d97f-409b-91d0-2664f39b09b8.jpg?1739911159"
+    },
+    {
+      "name": "Stiltzkin, Moogle Merchant",
+      "universesBeyondImage": "https://cards.scryfall.io/normal/front/0/6/06a972a4-0c1b-4f12-a5a5-fdea47c4cd35.jpg?1739910689"
+    },
+    {
+      "name": "Cloud, Planet's Champion",
+      "universesBeyondImage": "https://cards.scryfall.io/normal/front/a/6/a6d58067-337d-43dc-b4a3-c6acc701d450.jpg?1740031800"
+    },
+    {
+      "name": "Sephiroth, Planet's Heir",
+      "universesBeyondImage": "https://cards.scryfall.io/normal/front/a/b/abd73e52-62f0-4e89-9dc6-90ff0bc2a9b7.jpg?1740031807"
+    },
+    {
+      "name": "Summon: Shiva",
+      "universesBeyondImage": "https://cards.scryfall.io/normal/front/a/8/a80511f8-7cb1-4974-afde-8a5cebe13ad7.jpg?1740066807"
+    },
+    {
+      "name": "Cecil, Dark Knight // Cecil, Redeemed Paladin",
+      "universesBeyondImage": "https://cards.scryfall.io/normal/front/0/2/026e7167-d665-43d0-a51e-8df2d68cdb5e.jpg?1739913502",
+      "universesBeyondBackImage": "https://cards.scryfall.io/normal/back/0/2/026e7167-d665-43d0-a51e-8df2d68cdb5e.jpg?1739913502"
     }
   ]
 }; export default data;
