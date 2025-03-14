@@ -625,6 +625,16 @@
 		"isMtgArt": true,
 		"mtgCardBuilderId": "249488"
 	},
+	"0075": {
+		"name": "Indoraptor, the Perfect Hybrid",
+		"nickname": "Itztaca, the Perfect Hunter",
+		"contributor": "agaddinggiraffe",
+		"artist": "PINDURSKI",
+		"artName": "LCI key art",
+		"artUrl": "https://static.wikia.nocookie.net/mtgsalvation_gamepedia/images/f/f5/LCIKeyArt5.png/revision/latest/scale-to-width-down/1000",
+		"isMtgArt": true,
+		"mtgCardBuilderId": "256779"
+	},
 	"T0001": {
 		"name": "Alien (TWHO 2)",
 		"contributor": "cgregory",
