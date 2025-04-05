@@ -53,6 +53,11 @@
 			"name": "Thomas Cole",
 			"contact": "public domain",
 			"url": "https://en.wikipedia.org/wiki/Thomas_Cole"
+		},
+		{
+			"name": "Rembrandt",
+			"contact": "public domain",
+			"url": "https://en.wikipedia.org/wiki/Rembrandt"
 		}
 	],
 	"declined": [

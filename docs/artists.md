@@ -8,6 +8,7 @@ These artists have granted permission for their works to be used to make cards f
 | [Florian Herold](https://www.artstation.com/faherold) | |
 | [Kristina Gehrmann](http://www.kristinagehrmann.com/) | |
 | [Nickolas Paris](https://nickolasparis.com/) | |
+| [Rembrandt](https://en.wikipedia.org/wiki/Rembrandt) | |
 | [Sandara Tang](https://sandara.artstation.com/) | |
 | [Thomas Cole](https://en.wikipedia.org/wiki/Thomas_Cole) | |
 | [Thomas Ricci](https://artrhino.artstation.com/) | |

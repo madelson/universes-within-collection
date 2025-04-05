@@ -1,6 +1,22 @@
 const data = {
   "cards": [
     {
+      "name": "Henry Wu, InGen Geneticist",
+      "nickname": "Machaon, Macabre Researcher",
+      "contributionInfo": {
+        "contributor": "agaddinggiraffe",
+        "front": {
+          "artist": "Rembrandt",
+          "artistUrl": "https://en.wikipedia.org/wiki/Rembrandt",
+          "artName": "The Anatomy Lesson of Dr. Nicolaes Tulp",
+          "artUrl": "https://en.wikipedia.org/wiki/The_Anatomy_Lesson_of_Dr._Nicolaes_Tulp#/media/File:Rembrandt_-_The_Anatomy_Lesson_of_Dr_Nicolaes_Tulp.jpg",
+          "mtgCardBuilderId": "266798"
+        }
+      },
+      "universesBeyondImage": "https://cards.scryfall.io/normal/front/5/b/5b67d302-ddaa-4627-adc8-86bb665f69ad.jpg?1698988761",
+      "universesWithinImage": "./cards/Henry%20Wu%2C%20InGen%20Geneticist.png"
+    },
+    {
       "name": "Indoraptor, the Perfect Hybrid",
       "nickname": "Itztaca, the Perfect Hunter",
       "contributionInfo": {
@@ -2185,7 +2201,7 @@ const data = {
       "name": "Forge, Neverwinter Charlatan",
       "nickname": "Evin, Waterdeep Opportunist",
       "universesBeyondImage": "https://cards.scryfall.io/normal/front/2/0/2091e863-30f3-475e-9a61-e76fc4cf1ce2.jpg?1736769560",
-      "universesWithinImage": "https://cards.scryfall.io/normal/front/c/3/c35accd3-92ee-4b0b-a30a-4dcd3252d1b8.jpg?1736769909"
+      "universesWithinImage": "https://cards.scryfall.io/normal/front/c/3/c35accd3-92ee-4b0b-a30a-4dcd3252d1b8.jpg?1743572910"
     },
     {
       "name": "Holga, Relentless Rager",
@@ -2285,7 +2301,7 @@ const data = {
     },
     {
       "name": "Troll of Khazad-dûm",
-      "universesBeyondImage": "https://cards.scryfall.io/normal/front/a/6/a6539e26-b63b-4725-9407-caaf451de084.jpg?1687210987"
+      "universesBeyondImage": "https://cards.scryfall.io/normal/front/a/6/a6539e26-b63b-4725-9407-caaf451de084.jpg?1743419034"
     },
     {
       "name": "Uruk-hai Berserker",
@@ -2829,7 +2845,8 @@ const data = {
     },
     {
       "name": "Shadow Summoning",
-      "universesBeyondImage": "https://cards.scryfall.io/normal/front/e/c/ec0984b2-bed6-41b1-9087-2cfd16749037.jpg?1686970017"
+      "universesBeyondImage": "https://cards.scryfall.io/normal/front/e/c/ec0984b2-bed6-41b1-9087-2cfd16749037.jpg?1686970017",
+      "universesWithinImage": "https://cards.scryfall.io/normal/front/7/1/71398076-a0ff-4bc5-b141-25dfaebe0d53.jpg?1743206076"
     },
     {
       "name": "Shadowfax, Lord of Horses",
@@ -3634,8 +3651,8 @@ const data = {
     },
     {
       "name": "The Ring // The Ring Tempts You",
-      "universesBeyondImage": "https://cards.scryfall.io/normal/front/7/2/7215460e-8c06-47d0-94e5-d1832d0218af.jpg?1688215133",
-      "universesBeyondBackImage": "https://cards.scryfall.io/normal/back/7/2/7215460e-8c06-47d0-94e5-d1832d0218af.jpg?1688215133"
+      "universesBeyondImage": "https://cards.scryfall.io/normal/front/7/2/7215460e-8c06-47d0-94e5-d1832d0218af.jpg?1742651318",
+      "universesBeyondBackImage": "https://cards.scryfall.io/normal/back/7/2/7215460e-8c06-47d0-94e5-d1832d0218af.jpg?1742651318"
     },
     {
       "name": "Davros, Dalek Creator",
@@ -4620,10 +4637,6 @@ const data = {
       "universesBeyondImage": "https://cards.scryfall.io/normal/front/a/e/ae30b824-9586-413b-b925-ce6f915bf7e5.jpg?1698988759"
     },
     {
-      "name": "Henry Wu, InGen Geneticist",
-      "universesBeyondImage": "https://cards.scryfall.io/normal/front/5/b/5b67d302-ddaa-4627-adc8-86bb665f69ad.jpg?1698988761"
-    },
-    {
       "name": "Ian Malcolm, Chaotician",
       "universesBeyondImage": "https://cards.scryfall.io/normal/front/b/4/b4a0402e-e39b-4008-b654-189b4a5e03a3.jpg?1698988761"
     },
@@ -4968,7 +4981,7 @@ const data = {
     },
     {
       "name": "Junk",
-      "universesBeyondImage": "https://cards.scryfall.io/normal/front/6/2/62c4a6f6-6425-4c0c-b35a-880fcab42aad.jpg?1707358305"
+      "universesBeyondImage": "https://cards.scryfall.io/normal/front/6/2/62c4a6f6-6425-4c0c-b35a-880fcab42aad.jpg?1743257964"
     },
     {
       "name": "Junktown",
@@ -5750,8 +5763,16 @@ const data = {
       "universesBeyondImage": "https://cards.scryfall.io/normal/front/3/a/3a93a12d-6913-4d9e-8e9c-8067147e37f2.jpg?1730758329"
     },
     {
+      "name": "Deadpool, Trading Card",
+      "universesBeyondImage": "https://cards.scryfall.io/normal/front/3/a/3a14d6c5-cfd1-4860-834a-5a0dc9df0320.jpg?1743765756"
+    },
+    {
       "name": "Tonberry",
       "universesBeyondImage": "https://cards.scryfall.io/normal/front/1/a/1a9b8723-4383-4c14-b24d-52863af8703d.jpg?1739885196"
+    },
+    {
+      "name": "Zell Dincht",
+      "universesBeyondImage": "https://cards.scryfall.io/normal/front/1/3/135d6b27-9168-4513-9d7d-56edae048857.jpg?1743425364"
     },
     {
       "name": "Jumbo Cactuar",
@@ -5804,6 +5825,30 @@ const data = {
       "name": "Cecil, Dark Knight // Cecil, Redeemed Paladin",
       "universesBeyondImage": "https://cards.scryfall.io/normal/front/0/2/026e7167-d665-43d0-a51e-8df2d68cdb5e.jpg?1739913502",
       "universesBeyondBackImage": "https://cards.scryfall.io/normal/back/0/2/026e7167-d665-43d0-a51e-8df2d68cdb5e.jpg?1739913502"
+    },
+    {
+      "name": "Grasping Tentacles",
+      "universesBeyondImage": "https://cards.scryfall.io/normal/front/8/3/83e8c09e-c195-4137-a6c1-45abdcaed10e.jpg?1742996294"
+    },
+    {
+      "name": "Venom, Deadly Devourer",
+      "universesBeyondImage": "https://cards.scryfall.io/normal/front/7/d/7d2cb243-08a7-47c9-9d71-7748c499ac30.jpg?1742996302"
+    },
+    {
+      "name": "Green Goblin, Nemesis",
+      "universesBeyondImage": "https://cards.scryfall.io/normal/front/b/2/b2860277-5b9e-444a-81f9-58e23355a722.jpg?1742996298"
+    },
+    {
+      "name": "Doc Ock, Evil Inventor",
+      "universesBeyondImage": "https://cards.scryfall.io/normal/front/a/d/ad287357-9602-4090-8feb-6f658f2a47b0.jpg?1742996292"
+    },
+    {
+      "name": "Sensational Spider-Man",
+      "universesBeyondImage": "https://cards.scryfall.io/normal/front/7/a/7a938fa9-cba2-4773-9be9-db1e37aa001f.jpg?1742996300"
+    },
+    {
+      "name": "Pumpkin Bombs",
+      "universesBeyondImage": "https://cards.scryfall.io/normal/front/6/e/6e9a83b6-2881-4ba3-96d4-0fd89110837d.jpg?1742996274"
     }
   ]
 }; export default data;

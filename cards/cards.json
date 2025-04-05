@@ -635,6 +635,15 @@
 		"isMtgArt": true,
 		"mtgCardBuilderId": "256779"
 	},
+	"0076": {
+		"name": "Henry Wu, InGen Geneticist",
+		"nickname": "Machaon, Macabre Researcher",
+		"contributor": "agaddinggiraffe",
+		"artist": "Rembrandt",
+		"artName": "The Anatomy Lesson of Dr. Nicolaes Tulp",
+		"artUrl": "https://en.wikipedia.org/wiki/The_Anatomy_Lesson_of_Dr._Nicolaes_Tulp#/media/File:Rembrandt_-_The_Anatomy_Lesson_of_Dr_Nicolaes_Tulp.jpg",
+		"mtgCardBuilderId": "266798"
+	},
 	"T0001": {
 		"name": "Alien (TWHO 2)",
 		"contributor": "cgregory",
