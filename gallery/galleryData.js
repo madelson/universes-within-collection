@@ -1,6 +1,22 @@
 const data = {
   "cards": [
     {
+      "name": "Deadpool, Trading Card",
+      "nickname": "Xantcha, Traitor to Phyrexia",
+      "contributionInfo": {
+        "contributor": "madelson",
+        "front": {
+          "artist": "Heather Hudson",
+          "artName": "Xantcha",
+          "artUrl": "https://cards.scryfall.io/art_crop/front/f/0/f0c696d1-0b5d-4102-ad93-46cb8e1e5d91.jpg?1562385559",
+          "isMtgArt": true,
+          "mtgCardBuilderId": "266801"
+        }
+      },
+      "universesBeyondImage": "https://cards.scryfall.io/normal/front/3/a/3a14d6c5-cfd1-4860-834a-5a0dc9df0320.jpg?1743765756",
+      "universesWithinImage": "./cards/Deadpool%2C%20Trading%20Card.png"
+    },
+    {
       "name": "Henry Wu, InGen Geneticist",
       "nickname": "Machaon, Macabre Researcher",
       "contributionInfo": {
@@ -5761,10 +5777,6 @@ const data = {
     {
       "name": "Black Panther, Wakandan King",
       "universesBeyondImage": "https://cards.scryfall.io/normal/front/3/a/3a93a12d-6913-4d9e-8e9c-8067147e37f2.jpg?1730758329"
-    },
-    {
-      "name": "Deadpool, Trading Card",
-      "universesBeyondImage": "https://cards.scryfall.io/normal/front/3/a/3a14d6c5-cfd1-4860-834a-5a0dc9df0320.jpg?1743765756"
     },
     {
       "name": "Tonberry",

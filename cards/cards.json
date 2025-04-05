@@ -644,6 +644,16 @@
 		"artUrl": "https://en.wikipedia.org/wiki/The_Anatomy_Lesson_of_Dr._Nicolaes_Tulp#/media/File:Rembrandt_-_The_Anatomy_Lesson_of_Dr_Nicolaes_Tulp.jpg",
 		"mtgCardBuilderId": "266798"
 	},
+	"0077": {
+		"name": "Deadpool, Trading Card",
+		"nickname": "Xantcha, Traitor to Phyrexia",
+		"contributor": "madelson",
+		"artist": "Heather Hudson",
+		"artName": "Xantcha",
+		"artUrl": "https://cards.scryfall.io/art_crop/front/f/0/f0c696d1-0b5d-4102-ad93-46cb8e1e5d91.jpg?1562385559",
+		"isMtgArt": true,
+		"mtgCardBuilderId": "266801"
+	},
 	"T0001": {
 		"name": "Alien (TWHO 2)",
 		"contributor": "cgregory",
