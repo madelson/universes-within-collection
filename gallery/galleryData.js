@@ -1179,7 +1179,7 @@ const data = {
           "artName": "Inspiring Commander",
           "artUrl": "https://cards.scryfall.io/art_crop/front/6/f/6f88ad29-5398-468f-843d-06ec80a9ec9a.jpg?1728438001",
           "isMtgArt": true,
-          "mtgCardBuilderId": ""
+          "mtgCardBuilderId": "278615"
         }
       },
       "universesBeyondImage": "https://cards.scryfall.io/normal/front/d/9/d9662108-7a01-48d4-bb5d-edcbf1ed5a0d.jpg?1675455131",
