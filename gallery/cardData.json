@@ -27,6 +27,11 @@
     "image": "https://madelson.github.io/universes-within-collection/cards/Alpha%20Deathclaw.png"
   },
   {
+    "oracleId": "35e27ced-1151-4559-b552-0d90325092c4",
+    "name": "Astartes Warrior",
+    "image": "https://madelson.github.io/universes-within-collection/cards/Astartes%20Warrior%20(T40K%201).png"
+  },
+  {
     "oracleId": "fa55177c-ba65-4113-9c05-2d63318cf7c5",
     "name": "Astrid Peth",
     "nickname": "Saffi, Balduvian Naif",
@@ -256,6 +261,12 @@
     "oracleId": "2319b39d-f342-4136-9cc1-5285ca54b20c",
     "name": "Mark of the Rani",
     "image": "https://madelson.github.io/universes-within-collection/cards/Mark%20of%20the%20Rani%20(TWHO%2015).png"
+  },
+  {
+    "oracleId": "f6479f7e-01f4-49f1-a444-04bf38934f6b",
+    "name": "Marneus Calgar",
+    "nickname": "Matilde, Militia Captain",
+    "image": "https://madelson.github.io/universes-within-collection/cards/Marneus%20Calgar.png"
   },
   {
     "oracleId": "2daa5b89-e772-4a2b-ad52-bbbf148c7b2f",

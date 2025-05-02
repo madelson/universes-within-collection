@@ -1,6 +1,22 @@
 const data = {
   "cards": [
     {
+      "name": "Marneus Calgar",
+      "nickname": "Matilde, Militia Captain",
+      "contributionInfo": {
+        "contributor": "agaddinggiraffe",
+        "front": {
+          "artist": "Francisco Miyara",
+          "artName": "Benalish Partisan",
+          "artUrl": "https://cards.scryfall.io/png/front/6/f/6f58c2dc-7cf1-4a0b-8722-a26cc1ced8db.png?1630243841",
+          "isMtgArt": true,
+          "mtgCardBuilderId": "278604"
+        }
+      },
+      "universesBeyondImage": "https://cards.scryfall.io/normal/front/e/7/e7517e8e-b424-4731-ba9d-6132bdefa6bf.jpg?1674058408",
+      "universesWithinImage": "./cards/Marneus%20Calgar.png"
+    },
+    {
       "name": "Deadpool, Trading Card",
       "nickname": "Xantcha, Traitor to Phyrexia",
       "contributionInfo": {
@@ -1155,6 +1171,21 @@ const data = {
       "universesWithinImage": "./cards/Nuka-Cola%20Vending%20Machine.png"
     },
     {
+      "name": "Astartes Warrior",
+      "contributionInfo": {
+        "contributor": "agaddinggiraffe",
+        "front": {
+          "artist": "Antonio José Manzanedo",
+          "artName": "Inspiring Commander",
+          "artUrl": "https://cards.scryfall.io/art_crop/front/6/f/6f88ad29-5398-468f-843d-06ec80a9ec9a.jpg?1728438001",
+          "isMtgArt": true,
+          "mtgCardBuilderId": ""
+        }
+      },
+      "universesBeyondImage": "https://cards.scryfall.io/normal/front/d/9/d9662108-7a01-48d4-bb5d-edcbf1ed5a0d.jpg?1675455131",
+      "universesWithinImage": "./cards/Astartes%20Warrior%20(T40K%201).png"
+    },
+    {
       "name": "Human Knight",
       "contributionInfo": {
         "contributor": "madelson",
@@ -1390,10 +1421,6 @@ const data = {
     {
       "name": "Byode, Inverse Sun",
       "universesBeyondImage": "https://cards.scryfall.io/normal/front/c/e/cea94853-1a2c-4b17-b863-d2c130757538.jpg?1735686483"
-    },
-    {
-      "name": "Astartes Warrior",
-      "universesBeyondImage": "https://cards.scryfall.io/normal/front/d/9/d9662108-7a01-48d4-bb5d-edcbf1ed5a0d.jpg?1675455131"
     },
     {
       "name": "Szarekh, the Silent King",
@@ -2028,10 +2055,6 @@ const data = {
       "universesBeyondImage": "https://cards.scryfall.io/normal/front/c/2/c29e6c69-7830-4898-9d1e-97dfc2e868d9.jpg?1673309025"
     },
     {
-      "name": "Marneus Calgar",
-      "universesBeyondImage": "https://cards.scryfall.io/normal/front/e/7/e7517e8e-b424-4731-ba9d-6132bdefa6bf.jpg?1674058408"
-    },
-    {
       "name": "Sicarian Infiltrator",
       "universesBeyondImage": "https://cards.scryfall.io/normal/front/5/8/58784a4f-8190-4751-b42c-fff188ad3ce5.jpg?1675455190"
     },
@@ -2277,7 +2300,7 @@ const data = {
     },
     {
       "name": "Orcish Bowmasters",
-      "universesBeyondImage": "https://cards.scryfall.io/normal/front/7/c/7c024bae-5631-4e20-ac69-df392ac9e109.jpg?1686968669"
+      "universesBeyondImage": "https://cards.scryfall.io/normal/front/7/c/7c024bae-5631-4e20-ac69-df392ac9e109.jpg?1745319944"
     },
     {
       "name": "Orcish Medicine",
@@ -5791,6 +5814,10 @@ const data = {
       "universesBeyondImage": "https://cards.scryfall.io/normal/front/d/b/db01c222-8795-47e9-a789-e7f749a3ee7d.jpg?1739910775"
     },
     {
+      "name": "Cloud, Ex-SOLDIER",
+      "universesBeyondImage": "https://cards.scryfall.io/normal/front/0/7/07b4e4f8-6a31-4533-be51-668ce3ddc84f.jpg?1744656038"
+    },
+    {
       "name": "Sazh's Chocobo",
       "universesBeyondImage": "https://cards.scryfall.io/normal/front/d/d/dda6b4d0-1b60-46b0-b321-b9ffe15afff4.jpg?1739910738"
     },
@@ -5809,6 +5836,10 @@ const data = {
       "universesBeyondBackImage": "https://cards.scryfall.io/normal/back/d/d/dd463dbe-5f2c-4d4f-86f8-ad8ff407af62.jpg?1741089315"
     },
     {
+      "name": "Gladiolus Amicitia",
+      "universesBeyondImage": "https://cards.scryfall.io/normal/front/4/4/442957fc-045d-4db6-b82a-445f172d23e4.jpg?1744655988"
+    },
+    {
       "name": "Sin, Spira's Punishment",
       "universesBeyondImage": "https://cards.scryfall.io/normal/front/6/5/659be746-bd31-4a70-8cec-7798da78b0b5.jpg?1739909655"
     },
@@ -5822,6 +5853,14 @@ const data = {
       "universesBeyondImage": "https://cards.scryfall.io/normal/front/0/6/06a972a4-0c1b-4f12-a5a5-fdea47c4cd35.jpg?1739910689"
     },
     {
+      "name": "Terra, Herald of Hope",
+      "universesBeyondImage": "https://cards.scryfall.io/normal/front/5/a/5aa1a2d7-6133-41a9-9662-9008d1309935.jpg?1744656055"
+    },
+    {
+      "name": "Tidus, Yuna's Guardian",
+      "universesBeyondImage": "https://cards.scryfall.io/normal/front/2/c/2cfd4494-346c-4cbc-8072-e267254cefcc.jpg?1744656061"
+    },
+    {
       "name": "Cloud, Planet's Champion",
       "universesBeyondImage": "https://cards.scryfall.io/normal/front/a/6/a6d58067-337d-43dc-b4a3-c6acc701d450.jpg?1740031800"
     },
@@ -5830,8 +5869,12 @@ const data = {
       "universesBeyondImage": "https://cards.scryfall.io/normal/front/a/b/abd73e52-62f0-4e89-9dc6-90ff0bc2a9b7.jpg?1740031807"
     },
     {
+      "name": "Y'shtola, Night's Blessed",
+      "universesBeyondImage": "https://cards.scryfall.io/normal/front/c/7/c7f2c2d5-e052-49e8-b5de-712858c2ea78.jpg?1744656066"
+    },
+    {
       "name": "Summon: Shiva",
-      "universesBeyondImage": "https://cards.scryfall.io/normal/front/a/8/a80511f8-7cb1-4974-afde-8a5cebe13ad7.jpg?1740066807"
+      "universesBeyondImage": "https://cards.scryfall.io/normal/front/a/8/a80511f8-7cb1-4974-afde-8a5cebe13ad7.jpg?1744578036"
     },
     {
       "name": "Cecil, Dark Knight // Cecil, Redeemed Paladin",

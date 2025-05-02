@@ -654,6 +654,16 @@
 		"isMtgArt": true,
 		"mtgCardBuilderId": "266801"
 	},
+	"0078": {
+		"name": "Marneus Calgar",
+		"nickname": "Matilde, Militia Captain",
+		"contributor": "agaddinggiraffe",
+		"artist": "Francisco Miyara",
+		"artName": "Benalish Partisan",
+		"artUrl": "https://cards.scryfall.io/png/front/6/f/6f58c2dc-7cf1-4a0b-8722-a26cc1ced8db.png?1630243841",
+		"isMtgArt": true,
+		"mtgCardBuilderId": "278604"
+	},
 	"T0001": {
 		"name": "Alien (TWHO 2)",
 		"contributor": "cgregory",
@@ -705,4 +715,13 @@
 		"isMtgArt": true,
 		"mtgCardBuilderId": "209094"
 	},
+	"T0007": {
+		"name": "Astartes Warrior (T40K 1)",
+		"contributor": "agaddinggiraffe",
+		"artist": "Antonio José Manzanedo",
+		"artName": "Inspiring Commander",
+		"artUrl": "https://cards.scryfall.io/art_crop/front/6/f/6f88ad29-5398-468f-843d-06ec80a9ec9a.jpg?1728438001",
+		"isMtgArt": true,
+		"mtgCardBuilderId": ""
+	}
 }
