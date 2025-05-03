@@ -16,6 +16,22 @@ const data = {
       "universesWithinImage": "./cards/Inquisitor%20Greyfax.png"
     },
     {
+      "name": "Marneus Calgar",
+      "nickname": "Matilde, Militia Captain",
+      "contributionInfo": {
+        "contributor": "agaddinggiraffe",
+        "front": {
+          "artist": "Francisco Miyara",
+          "artName": "Benalish Partisan",
+          "artUrl": "https://cards.scryfall.io/png/front/6/f/6f58c2dc-7cf1-4a0b-8722-a26cc1ced8db.png?1630243841",
+          "isMtgArt": true,
+          "mtgCardBuilderId": "278604"
+        }
+      },
+      "universesBeyondImage": "https://cards.scryfall.io/normal/front/e/7/e7517e8e-b424-4731-ba9d-6132bdefa6bf.jpg?1674058408",
+      "universesWithinImage": "./cards/Marneus%20Calgar.png"
+    },
+    {
       "name": "Deadpool, Trading Card",
       "nickname": "Xantcha, Traitor to Phyrexia",
       "contributionInfo": {
@@ -2048,10 +2064,6 @@ const data = {
     {
       "name": "Khârn the Betrayer",
       "universesBeyondImage": "https://cards.scryfall.io/normal/front/c/2/c29e6c69-7830-4898-9d1e-97dfc2e868d9.jpg?1673309025"
-    },
-    {
-      "name": "Marneus Calgar",
-      "universesBeyondImage": "https://cards.scryfall.io/normal/front/e/7/e7517e8e-b424-4731-ba9d-6132bdefa6bf.jpg?1674058408"
     },
     {
       "name": "Sicarian Infiltrator",
