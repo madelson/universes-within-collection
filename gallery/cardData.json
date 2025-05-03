@@ -223,6 +223,11 @@
     "image": "https://madelson.github.io/universes-within-collection/cards/Indoraptor%2C%20the%20Perfect%20Hybrid.png"
   },
   {
+    "oracleId": "9439d6eb-4c10-451d-85c4-3752611c671c",
+    "name": "Inquisitor Greyfax",
+    "image": "https://madelson.github.io/universes-within-collection/cards/Inquisitor%20Greyfax.png"
+  },
+  {
     "oracleId": "904b2603-00c3-44d2-a43c-c25439dd8038",
     "name": "Kellogg, Dangerous Mind",
     "nickname": "Keirion, Akroan Turncoat",
@@ -261,12 +266,6 @@
     "oracleId": "2319b39d-f342-4136-9cc1-5285ca54b20c",
     "name": "Mark of the Rani",
     "image": "https://madelson.github.io/universes-within-collection/cards/Mark%20of%20the%20Rani%20(TWHO%2015).png"
-  },
-  {
-    "oracleId": "f6479f7e-01f4-49f1-a444-04bf38934f6b",
-    "name": "Marneus Calgar",
-    "nickname": "Matilde, Militia Captain",
-    "image": "https://madelson.github.io/universes-within-collection/cards/Marneus%20Calgar.png"
   },
   {
     "oracleId": "2daa5b89-e772-4a2b-ad52-bbbf148c7b2f",

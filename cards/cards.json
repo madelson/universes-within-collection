@@ -664,6 +664,15 @@
 		"isMtgArt": true,
 		"mtgCardBuilderId": "278604"
 	},
+	"0078": {
+		"name": "Inquisitor Greyfax",
+		"contributor": "agaddinggiraffe",
+		"artist": "Monztre",
+		"artName": "Inquisitor Captain",
+		"artUrl": "https://cards.scryfall.io/art_crop/front/a/6/a6f64892-011e-4fd1-8959-927872de0cee.jpg?1680465125",
+		"isMtgArt": true,
+		"mtgCardBuilderId": "279385"
+	},
 	"T0001": {
 		"name": "Alien (TWHO 2)",
 		"contributor": "cgregory",

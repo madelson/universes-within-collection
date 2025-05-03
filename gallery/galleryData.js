@@ -1,20 +1,19 @@
 const data = {
   "cards": [
     {
-      "name": "Marneus Calgar",
-      "nickname": "Matilde, Militia Captain",
+      "name": "Inquisitor Greyfax",
       "contributionInfo": {
         "contributor": "agaddinggiraffe",
         "front": {
-          "artist": "Francisco Miyara",
-          "artName": "Benalish Partisan",
-          "artUrl": "https://cards.scryfall.io/png/front/6/f/6f58c2dc-7cf1-4a0b-8722-a26cc1ced8db.png?1630243841",
+          "artist": "Monztre",
+          "artName": "Inquisitor Captain",
+          "artUrl": "https://cards.scryfall.io/art_crop/front/a/6/a6f64892-011e-4fd1-8959-927872de0cee.jpg?1680465125",
           "isMtgArt": true,
-          "mtgCardBuilderId": "278604"
+          "mtgCardBuilderId": "279385"
         }
       },
-      "universesBeyondImage": "https://cards.scryfall.io/normal/front/e/7/e7517e8e-b424-4731-ba9d-6132bdefa6bf.jpg?1674058408",
-      "universesWithinImage": "./cards/Marneus%20Calgar.png"
+      "universesBeyondImage": "https://cards.scryfall.io/normal/front/8/6/86a4afac-69fd-46e9-8009-58de59bf3f5c.jpg?1674058362",
+      "universesWithinImage": "./cards/Inquisitor%20Greyfax.png"
     },
     {
       "name": "Deadpool, Trading Card",
@@ -1827,10 +1826,6 @@ const data = {
       "universesBeyondImage": "https://cards.scryfall.io/normal/front/0/8/0894d21c-d44c-4c7c-8693-f32dde67b336.jpg?1673308614"
     },
     {
-      "name": "Inquisitor Greyfax",
-      "universesBeyondImage": "https://cards.scryfall.io/normal/front/8/6/86a4afac-69fd-46e9-8009-58de59bf3f5c.jpg?1674058362"
-    },
-    {
       "name": "Biotransference",
       "universesBeyondImage": "https://cards.scryfall.io/normal/front/7/5/75a787a3-5838-4121-bbaf-745d22c4b0bc.jpg?1673308621"
     },
@@ -2053,6 +2048,10 @@ const data = {
     {
       "name": "Khârn the Betrayer",
       "universesBeyondImage": "https://cards.scryfall.io/normal/front/c/2/c29e6c69-7830-4898-9d1e-97dfc2e868d9.jpg?1673309025"
+    },
+    {
+      "name": "Marneus Calgar",
+      "universesBeyondImage": "https://cards.scryfall.io/normal/front/e/7/e7517e8e-b424-4731-ba9d-6132bdefa6bf.jpg?1674058408"
     },
     {
       "name": "Sicarian Infiltrator",
