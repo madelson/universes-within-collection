@@ -673,6 +673,29 @@
 		"isMtgArt": true,
 		"mtgCardBuilderId": "279385"
 	},
+	"0080": {
+		"name": "Time Beetle",
+		"contributor": "cgregory",
+		"mtgCardBuilderId": "284086"
+	},
+	"0081": {
+		"name": "Wibbly-wobbly, Timey-wimey",
+		"nickname": "Recourse",
+		"contributor": "cgregory",
+		"artist": "Florian Herold",
+		"artName": "Talk to Water",
+		"artUrl": "https://www.artstation.com/artwork/bKAmXE",
+		"mtgCardBuilderId": "284087"
+	},
+	"0082": {
+		"name": "All of History, All at Once",
+		"nickname": "Behold the Eternities",
+		"contributor": "cgregory",
+		"artist": "Kristina Gehrmann",
+		"artName": "The Hierophant",
+		"artUrl": "https://dvqlxo2m2q99q.cloudfront.net/000_clients/487558/page/w1000-thehierophant-65866f.png",
+		"mtgCardBuilderId": "284089"
+	},
 	"T0001": {
 		"name": "Alien (TWHO 2)",
 		"contributor": "cgregory",
