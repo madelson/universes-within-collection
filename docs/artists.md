@@ -3,7 +3,7 @@
 These artists have granted permission for their works to be used to make cards for this project. Thanks!
 | Name/Handle | Notes |
 | - | - |
-| [Anthony Catillaz](https://www.artstation.com/artico_luminos) | |
+| [Anthony Catillaz](https://www.artstation.com/articoluminos) | |
 | [Bachzim](https://www.artstation.com/bachzim) | |
 | [Florian Herold](https://www.artstation.com/faherold) | |
 | [Kristina Gehrmann](http://www.kristinagehrmann.com/) | |
