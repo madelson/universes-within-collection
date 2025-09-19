@@ -696,6 +696,14 @@
 		"artUrl": "https://dvqlxo2m2q99q.cloudfront.net/000_clients/487558/page/w1000-thehierophant-65866f.png",
 		"mtgCardBuilderId": "284089"
 	},
+	"0083": {
+		"name": "Lumbering Megasloth",
+		"contributor": "madelson",
+		"artist": "Charles R. Knight",
+		"artName": "A Loess Storm on the Pampas of Argentina",
+		"artUrl": "https://commons.wikimedia.org/wiki/File:A_Loess_Storm_on_the_Pampas_of_Argentina.jpg",
+		"mtgCardBuilderId": "352224"
+	},
 	"T0001": {
 		"name": "Alien (TWHO 2)",
 		"contributor": "cgregory",

@@ -1,6 +1,21 @@
 const data = {
   "cards": [
     {
+      "name": "Lumbering Megasloth",
+      "contributionInfo": {
+        "contributor": "madelson",
+        "front": {
+          "artist": "Charles R. Knight",
+          "artistUrl": "https://en.wikipedia.org/wiki/Charles_R._Knight",
+          "artName": "A Loess Storm on the Pampas of Argentina",
+          "artUrl": "https://commons.wikimedia.org/wiki/File:A_Loess_Storm_on_the_Pampas_of_Argentina.jpg",
+          "mtgCardBuilderId": "352224"
+        }
+      },
+      "universesBeyondImage": "https://cards.scryfall.io/normal/front/5/3/53b92e8a-fadf-4568-8b30-2df68e6ff7cf.jpg?1708742319",
+      "universesWithinImage": "./cards/Lumbering%20Megasloth.png"
+    },
+    {
       "name": "All of History, All at Once",
       "nickname": "Behold the Eternities",
       "contributionInfo": {
@@ -5316,10 +5331,6 @@ const data = {
     {
       "name": "Settlement",
       "universesBeyondImage": "https://cards.scryfall.io/normal/front/0/2/02789d01-f939-4515-a6e4-db6aff36f893.jpg?1708696638"
-    },
-    {
-      "name": "Lumbering Megasloth",
-      "universesBeyondImage": "https://cards.scryfall.io/normal/front/5/3/53b92e8a-fadf-4568-8b30-2df68e6ff7cf.jpg?1708742319"
     },
     {
       "name": "Rampaging Yao Guai",
