@@ -477,7 +477,9 @@
 	"0058": {
 		"name": "Swooping Pteranodon",
 		"contributor": "madelson",
-		"isArtCrop": true,
+		"artist": "Heinrich Harder",
+		"artName": "Pterasaur",
+		"artUrl": "https://www.reddit.com/r/Dinosaurs/comments/bvcg2d/technically_not_a_dinosaur_but_a_pterosaur_i_know/",
 		"mtgCardBuilderId": "206260"
 	},
 	"0059": {

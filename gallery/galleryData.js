@@ -384,6 +384,10 @@ const data = {
       "contributionInfo": {
         "contributor": "madelson",
         "front": {
+          "artist": "Heinrich Harder",
+          "artistUrl": "https://en.wikipedia.org/wiki/Heinrich_Harder",
+          "artName": "Pterasaur",
+          "artUrl": "https://www.reddit.com/r/Dinosaurs/comments/bvcg2d/technically_not_a_dinosaur_but_a_pterosaur_i_know/",
           "mtgCardBuilderId": "206260"
         }
       },

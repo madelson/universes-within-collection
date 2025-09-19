@@ -7,6 +7,7 @@ These artists have granted permission for their works to be used to make cards f
 | [Bachzim](https://www.artstation.com/bachzim) | |
 | [Charles R. Knight](https://en.wikipedia.org/wiki/Charles_R._Knight) | |
 | [Florian Herold](https://www.artstation.com/faherold) | |
+| [Heinrich Harder](https://en.wikipedia.org/wiki/Heinrich_Harder) | |
 | [Kristina Gehrmann](http://www.kristinagehrmann.com/) | |
 | [Nickolas Paris](https://nickolasparis.com/) | |
 | [Rembrandt](https://en.wikipedia.org/wiki/Rembrandt) | |
