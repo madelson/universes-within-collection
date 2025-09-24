@@ -706,6 +706,12 @@
 		"artUrl": "https://commons.wikimedia.org/wiki/File:A_Loess_Storm_on_the_Pampas_of_Argentina.jpg",
 		"mtgCardBuilderId": "352224"
 	},
+	"0084": {
+		"name": "Summon: Knights of Round",
+		"nickname": "The Sigiled Host of Valeron",
+		"contributor": "cgregory",
+		"mtgCardBuilderId": "355552",
+	},
 	"T0001": {
 		"name": "Alien (TWHO 2)",
 		"contributor": "cgregory",
