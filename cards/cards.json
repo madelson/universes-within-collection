@@ -712,6 +712,15 @@
 		"contributor": "cgregory",
 		"mtgCardBuilderId": "355552",
 	},
+	"0085": {
+		"name": "Captain America, First Avenger",
+		"nickname": "Donovan, Armory Captain",
+		"contributor": "procapra",
+		"artist": "Florian Herold",
+		"artName": "Tokens 1",
+		"artUrl": "https://cdnb.artstation.com/p/assets/images/images/078/959/467/large/florian-herold-img-5431.jpg?1723561550",
+		"mtgCardBuilderId": "359889"
+	},
 	"T0001": {
 		"name": "Alien (TWHO 2)",
 		"contributor": "cgregory",

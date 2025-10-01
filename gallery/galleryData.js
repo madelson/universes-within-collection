@@ -1,6 +1,22 @@
 const data = {
   "cards": [
     {
+      "name": "Captain America, First Avenger",
+      "nickname": "Donovan, Armory Captain",
+      "contributionInfo": {
+        "contributor": "procapra",
+        "front": {
+          "artist": "Florian Herold",
+          "artistUrl": "https://www.artstation.com/faherold",
+          "artName": "Tokens 1",
+          "artUrl": "https://cdnb.artstation.com/p/assets/images/images/078/959/467/large/florian-herold-img-5431.jpg?1723561550",
+          "mtgCardBuilderId": "359889"
+        }
+      },
+      "universesBeyondImage": "https://cards.scryfall.io/normal/front/b/b/bba7e9c8-c24c-4bd3-b398-fe42b1fcfb5d.jpg?1730758326",
+      "universesWithinImage": "./cards/Captain%20America%2C%20First%20Avenger.png"
+    },
+    {
       "name": "Summon: Knights of Round",
       "nickname": "The Sigiled Host of Valeron",
       "contributionInfo": {
@@ -5825,10 +5841,6 @@ const data = {
       "universesBeyondImage": "https://cards.scryfall.io/normal/front/a/3/a300b5af-9223-4e97-9d33-a9226bd900f3.jpg?1721423629"
     },
     {
-      "name": "Captain America, First Avenger",
-      "universesBeyondImage": "https://cards.scryfall.io/normal/front/b/b/bba7e9c8-c24c-4bd3-b398-fe42b1fcfb5d.jpg?1730758326"
-    },
-    {
       "name": "Iron Man, Titan of Innovation",
       "universesBeyondImage": "https://cards.scryfall.io/normal/front/7/5/7542b1d1-e34d-46dc-af24-1b718034c0e4.jpg?1730758324"
     },
@@ -7597,7 +7609,7 @@ const data = {
     },
     {
       "name": "Amazing Alliance",
-      "universesBeyondImage": "https://cards.scryfall.io/normal/front/d/d/ddc2386e-18a4-49f0-9c08-da870dc6f96e.jpg?1757376318"
+      "universesBeyondImage": "https://cards.scryfall.io/normal/front/d/d/ddc2386e-18a4-49f0-9c08-da870dc6f96e.jpg?1759187571"
     },
     {
       "name": "Illusion Villain",
@@ -7672,6 +7684,50 @@ const data = {
       "universesBeyondImage": "https://cards.scryfall.io/normal/front/5/f/5fa7a8dc-67b3-4f96-af6e-98bb0a052d92.jpg?1757376362"
     },
     {
+      "name": "Ellie, Brick Master",
+      "universesBeyondImage": "https://cards.scryfall.io/normal/front/e/9/e973462f-589d-4c53-81d7-075ec1d5a9b4.jpg?1759131641"
+    },
+    {
+      "name": "Joel, Resolute Survivor",
+      "universesBeyondImage": "https://cards.scryfall.io/normal/front/7/1/713ab02f-cd48-420d-a2fe-ef460e6ce2d2.jpg?1758929397"
+    },
+    {
+      "name": "Cordyceps Infected",
+      "universesBeyondImage": "https://cards.scryfall.io/normal/front/f/f/ff00d5aa-2fea-47cd-82f4-f7e388d1ecb6.jpg?1759245315"
+    },
+    {
+      "name": "Abby, Merciless Soldier",
+      "universesBeyondImage": "https://cards.scryfall.io/normal/front/2/8/28e11b59-c677-4235-a377-18921c5131f0.jpg?1758969421"
+    },
+    {
+      "name": "Ellie, Vengeful Hunter",
+      "universesBeyondImage": "https://cards.scryfall.io/normal/front/d/d/dd0b3ace-91aa-46b7-8265-b8bc22dff5f7.jpg?1758969543"
+    },
+    {
+      "name": "Kratos, God of War",
+      "universesBeyondImage": "https://cards.scryfall.io/normal/front/f/b/fb97e2a1-0e86-4c12-8d31-6ff7b825ca10.jpg?1758930105"
+    },
+    {
+      "name": "Atreus, Impulsive Son",
+      "universesBeyondImage": "https://cards.scryfall.io/normal/front/2/e/2e53b0b2-dba1-4a95-80c4-622ab1a547a4.jpg?1759135217"
+    },
+    {
+      "name": "Kratos, Stoic Father",
+      "universesBeyondImage": "https://cards.scryfall.io/normal/front/7/7/77dcd29e-d0d5-474f-a05b-768ccf6b6293.jpg?1758969458"
+    },
+    {
+      "name": "Nathan Drake, Treasure Hunter",
+      "universesBeyondImage": "https://cards.scryfall.io/normal/front/1/b/1bb5f991-4d05-48b2-ac8d-81fd9ef7f4bb.jpg?1758930026"
+    },
+    {
+      "name": "Aloy, Savior of Meridian",
+      "universesBeyondImage": "https://cards.scryfall.io/normal/front/9/0/90dee895-037c-45f9-ac4f-b2277da85459.jpg?1758930041"
+    },
+    {
+      "name": "Jin Sakai, Ghost of Tsushima",
+      "universesBeyondImage": "https://cards.scryfall.io/normal/front/9/f/9f52160b-dcc0-4ab8-b8b2-b576b1688d57.jpg?1758969480"
+    },
+    {
       "name": "Aang's Journey",
       "universesBeyondImage": "https://cards.scryfall.io/normal/front/5/e/5e51f727-5a9b-4bc7-83a9-dbcf1c933e15.jpg?1755016261"
     },
@@ -7701,8 +7757,8 @@ const data = {
     },
     {
       "name": "The Rise of Sozin // Fire Lord Sozin",
-      "universesBeyondImage": "https://cards.scryfall.io/normal/front/1/4/14eadf46-90c2-4376-8183-6a922a60174d.jpg?1755043680",
-      "universesBeyondBackImage": "https://cards.scryfall.io/normal/back/1/4/14eadf46-90c2-4376-8183-6a922a60174d.jpg?1755043680"
+      "universesBeyondImage": "https://cards.scryfall.io/normal/front/1/4/14eadf46-90c2-4376-8183-6a922a60174d.jpg?1759232496",
+      "universesBeyondBackImage": "https://cards.scryfall.io/normal/back/1/4/14eadf46-90c2-4376-8183-6a922a60174d.jpg?1759232496"
     },
     {
       "name": "Deserter's Disciple",
@@ -8196,6 +8252,102 @@ const data = {
     {
       "name": "Fire Nation Engineer",
       "universesBeyondImage": "https://cards.scryfall.io/normal/front/5/d/5daba108-277d-46c8-ac35-7610f4786813.jpg?1755203555"
+    },
+    {
+      "name": "Garland, Royal Kidnapper",
+      "universesBeyondImage": "https://cards.scryfall.io/normal/front/b/8/b81c3f08-9319-4265-a75b-5b12b09aba89.jpg?1759200238"
+    },
+    {
+      "name": "The Destined Warrior",
+      "universesBeyondImage": "https://cards.scryfall.io/normal/front/7/4/743ee254-07f1-4d13-9ec7-6cb6358b9303.jpg?1759200289"
+    },
+    {
+      "name": "The Destined White Mage",
+      "universesBeyondImage": "https://cards.scryfall.io/normal/front/8/b/8b52f14c-e6b9-4ad0-8515-6644b201e2ea.jpg?1759200331"
+    },
+    {
+      "name": "Chaos Shrine's Black Crystal",
+      "universesBeyondImage": "https://cards.scryfall.io/normal/front/4/1/417d0d15-4c90-45dc-86f8-4c17fc2dd3f4.jpg?1759200377"
+    },
+    {
+      "name": "The Destined Thief",
+      "universesBeyondImage": "https://cards.scryfall.io/normal/front/d/e/de95250d-294d-4a0e-8049-e0a877078e2e.jpg?1759200423"
+    },
+    {
+      "name": "The Destined Black Mage",
+      "universesBeyondImage": "https://cards.scryfall.io/normal/front/c/b/cbba90d0-c45e-4ef1-ba0e-a2160533e27f.jpg?1759200715"
+    },
+    {
+      "name": "Edea, Possessed Sorceress",
+      "universesBeyondImage": "https://cards.scryfall.io/normal/front/6/d/6db60c73-5943-49da-9a8a-f4a382a1c0f0.jpg?1759253762"
+    },
+    {
+      "name": "Fated Clash",
+      "universesBeyondImage": "https://cards.scryfall.io/normal/front/b/d/bd84f688-a2bb-4f1e-ae24-1a5cf8a05445.jpg?1759253633"
+    },
+    {
+      "name": "Rinoa, Angel Wing",
+      "universesBeyondImage": "https://cards.scryfall.io/normal/front/7/6/76a9b08e-53f7-48d7-a024-3e2bf2318391.jpg?1759253669"
+    },
+    {
+      "name": "Seifer, Balamb Rival",
+      "universesBeyondImage": "https://cards.scryfall.io/normal/front/8/a/8a24c7c8-18c6-4e0d-b49b-05c19deaf31e.jpg?1759253814"
+    },
+    {
+      "name": "Duelist's Flame",
+      "universesBeyondImage": "https://cards.scryfall.io/normal/front/2/3/230e997e-3736-4afd-8571-1cc1b1d6ed96.jpg?1759253720"
+    },
+    {
+      "name": "Squall, Gunblade Duelist",
+      "universesBeyondImage": "https://cards.scryfall.io/normal/front/6/8/682b9f3c-960b-4600-b650-eefd588071d3.jpg?1759253931"
+    },
+    {
+      "name": "Brilliant Wings",
+      "universesBeyondImage": "https://cards.scryfall.io/normal/front/c/3/c358af5d-61e3-4c4d-9d7d-2f3e43210339.jpg?1759253992"
+    },
+    {
+      "name": "Judgment of Alexander",
+      "universesBeyondImage": "https://cards.scryfall.io/normal/front/2/3/2327bf49-348c-44e5-9a6b-97ef1c810079.jpg?1759254474"
+    },
+    {
+      "name": "Mega Flare",
+      "universesBeyondImage": "https://cards.scryfall.io/normal/front/d/a/daecaf9c-f327-435a-963b-a4631b6cca5c.jpg?1759254562"
+    },
+    {
+      "name": "Amarant Coral",
+      "universesBeyondImage": "https://cards.scryfall.io/normal/front/0/0/00ef8f06-dfcc-4ffa-a054-b0c81b39dcc0.jpg?1759254639"
+    },
+    {
+      "name": "Vivi's Persistence",
+      "universesBeyondImage": "https://cards.scryfall.io/normal/front/b/e/be6ba2e4-e657-4a2d-8f5f-255376d861b3.jpg?1759254593"
+    },
+    {
+      "name": "Search for Dagger",
+      "universesBeyondImage": "https://cards.scryfall.io/normal/front/9/a/9adaef20-1d82-4941-b4bb-a037cf3d63db.jpg?1759254510"
+    },
+    {
+      "name": "Noctis, Heir Apparent",
+      "universesBeyondImage": "https://cards.scryfall.io/normal/front/c/8/c8c69ad3-e999-4beb-85f5-527a00f482da.jpg?1759301047"
+    },
+    {
+      "name": "Fishing Gear",
+      "universesBeyondImage": "https://cards.scryfall.io/normal/front/b/2/b2a1b5b3-8d7a-4614-b7f9-d13db5654d03.jpg?1759254986"
+    },
+    {
+      "name": "Chocobo Camp",
+      "universesBeyondImage": "https://cards.scryfall.io/normal/front/4/f/4fcd08ad-4dac-4236-9030-f59e473b3ec7.jpg?1759255143"
+    },
+    {
+      "name": "Flash Photography",
+      "universesBeyondImage": "https://cards.scryfall.io/normal/front/2/b/2bca2cd2-4d4a-44e4-87c3-732692b77921.jpg?1759254802"
+    },
+    {
+      "name": "Campsite Cuisine",
+      "universesBeyondImage": "https://cards.scryfall.io/normal/front/e/c/ec6d3402-eed6-44be-a572-9ec0678af403.jpg?1759254841"
+    },
+    {
+      "name": "Warrior's Resolve",
+      "universesBeyondImage": "https://cards.scryfall.io/normal/front/7/2/7263ef64-dc8d-4a58-91b9-ff4f718e53ae.jpg?1759254756"
     }
   ]
 }; export default data;
