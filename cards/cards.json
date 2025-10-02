@@ -754,6 +754,18 @@
 		"contributor": "cgregory",
 		"mtgCardBuilderId": "359984",
 	},
+	"0091": {
+		"name": "Summon: Titan",
+		"nickname": "Devastating Lithotitan",
+		"contributor": "cgregory",
+		"mtgCardBuilderId": "359990",
+	},
+	"0092": {
+		"name": "Summon: Primal Odin",
+		"nickname": "Thrice-Doomed Nemesis",
+		"contributor": "cgregory",
+		"mtgCardBuilderId": "359993",
+	},
 	"T0001": {
 		"name": "Alien (TWHO 2)",
 		"contributor": "cgregory",

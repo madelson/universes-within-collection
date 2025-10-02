@@ -440,6 +440,18 @@
     "image": "https://madelson.github.io/universes-within-collection/cards/Summon_%20Magus%20Sisters.png"
   },
   {
+    "oracleId": "032f59c3-9f47-4db3-a43c-065a99ed7efe",
+    "name": "Summon: Primal Odin",
+    "nickname": "Thrice-Doomed Nemesis",
+    "image": "https://madelson.github.io/universes-within-collection/cards/Summon_%20Primal%20Odin.png"
+  },
+  {
+    "oracleId": "66ce0c60-f406-4ece-915f-675da4e8b16d",
+    "name": "Summon: Titan",
+    "nickname": "Devastating Lithotitan",
+    "image": "https://madelson.github.io/universes-within-collection/cards/Summon_%20Titan.png"
+  },
+  {
     "oracleId": "ff70d743-280e-476f-a3b8-92026419419d",
     "name": "Summon: Yojimbo",
     "nickname": "Masked Duelist",

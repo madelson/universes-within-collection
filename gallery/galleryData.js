@@ -1,6 +1,30 @@
 const data = {
   "cards": [
     {
+      "name": "Summon: Primal Odin",
+      "nickname": "Thrice-Doomed Nemesis",
+      "contributionInfo": {
+        "contributor": "cgregory",
+        "front": {
+          "mtgCardBuilderId": "359993"
+        }
+      },
+      "universesBeyondImage": "https://cards.scryfall.io/normal/front/8/b/8b1b5f06-e34d-44a3-976e-5157c4b7a0f4.jpg?1748706216",
+      "universesWithinImage": "./cards/Summon_%20Primal%20Odin.png"
+    },
+    {
+      "name": "Summon: Titan",
+      "nickname": "Devastating Lithotitan",
+      "contributionInfo": {
+        "contributor": "cgregory",
+        "front": {
+          "mtgCardBuilderId": "359990"
+        }
+      },
+      "universesBeyondImage": "https://cards.scryfall.io/normal/front/5/c/5ce6ea96-7293-496d-b9c8-8ed6d6109a4d.jpg?1749123785",
+      "universesWithinImage": "./cards/Summon_%20Titan.png"
+    },
+    {
       "name": "Summon: Fenrir",
       "nickname": "Ulvenwald Pursuer",
       "contributionInfo": {
@@ -6048,10 +6072,6 @@ const data = {
       "universesBeyondImage": "https://cards.scryfall.io/normal/front/c/2/c2b4e93b-6b27-4dd3-a6dd-a75d6fab14dc.jpg?1748704066"
     },
     {
-      "name": "Summon: Primal Odin",
-      "universesBeyondImage": "https://cards.scryfall.io/normal/front/8/b/8b1b5f06-e34d-44a3-976e-5157c4b7a0f4.jpg?1748706216"
-    },
-    {
       "name": "Tonberry",
       "universesBeyondImage": "https://cards.scryfall.io/normal/front/1/a/1a9b8723-4383-4c14-b24d-52863af8703d.jpg?1748706219"
     },
@@ -6482,10 +6502,6 @@ const data = {
     {
       "name": "Summon: Fat Chocobo",
       "universesBeyondImage": "https://cards.scryfall.io/normal/front/3/2/32eb192b-de6b-4814-8077-628d343d014e.jpg?1748706518"
-    },
-    {
-      "name": "Summon: Titan",
-      "universesBeyondImage": "https://cards.scryfall.io/normal/front/5/c/5ce6ea96-7293-496d-b9c8-8ed6d6109a4d.jpg?1749123785"
     },
     {
       "name": "Summoner's Grimoire",
