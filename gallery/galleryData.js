@@ -1,6 +1,18 @@
 const data = {
   "cards": [
     {
+      "name": "Summon: Primal Garuda",
+      "nickname": "Messenger of Retribution",
+      "contributionInfo": {
+        "contributor": "cgregory",
+        "front": {
+          "mtgCardBuilderId": "359996"
+        }
+      },
+      "universesBeyondImage": "https://cards.scryfall.io/normal/front/e/4/e44497a8-067e-454e-a9c0-684f03df55ff.jpg?1748705892",
+      "universesWithinImage": "./cards/Summon_%20Primal%20Garuda.png"
+    },
+    {
       "name": "Summon: Primal Odin",
       "nickname": "Thrice-Doomed Nemesis",
       "contributionInfo": {
@@ -6998,10 +7010,6 @@ const data = {
     {
       "name": "Hraesvelgr of the First Brood",
       "universesBeyondImage": "https://cards.scryfall.io/normal/front/a/b/abcfefe3-c66d-4512-bcc3-c9a39cfbb983.jpg?1748704328"
-    },
-    {
-      "name": "Summon: Primal Garuda",
-      "universesBeyondImage": "https://cards.scryfall.io/normal/front/e/4/e44497a8-067e-454e-a9c0-684f03df55ff.jpg?1748705892"
     },
     {
       "name": "Lulu, Stern Guardian",
