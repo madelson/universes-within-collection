@@ -1,6 +1,18 @@
 const data = {
   "cards": [
     {
+      "name": "Summon: Magus Sisters",
+      "nickname": "Ironbark Clique",
+      "contributionInfo": {
+        "contributor": "cgregory",
+        "front": {
+          "mtgCardBuilderId": "359981"
+        }
+      },
+      "universesBeyondImage": "https://cards.scryfall.io/normal/front/7/6/76a8cae7-e6ea-45eb-be8d-0e6a29b98aa6.jpg?1748704456",
+      "universesWithinImage": "./cards/Summon_%20Magus%20Sisters.png"
+    },
+    {
       "name": "Summon: Yojimbo",
       "nickname": "Masked Duelist",
       "contributionInfo": {
@@ -7320,10 +7332,6 @@ const data = {
     {
       "name": "Sahagin",
       "universesBeyondImage": "https://cards.scryfall.io/normal/front/5/1/516940c7-c271-4f64-af75-c7ba98548382.jpg?1748706022"
-    },
-    {
-      "name": "Summon: Magus Sisters",
-      "universesBeyondImage": "https://cards.scryfall.io/normal/front/7/6/76a8cae7-e6ea-45eb-be8d-0e6a29b98aa6.jpg?1748704456"
     },
     {
       "name": "Scorpion Sentinel",
