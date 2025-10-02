@@ -730,6 +730,12 @@
 		"artUrl": "https://www.artstation.com/artwork/BAko6",
 		"mtgCardBuilderId": "359954"
 	},
+	"0087": {
+		"name": "Summon: Anima",
+		"nickname": "Balemurk Tormentor",
+		"contributor": "cgregory",
+		"mtgCardBuilderId": "359970",
+	},
 	"T0001": {
 		"name": "Alien (TWHO 2)",
 		"contributor": "cgregory",

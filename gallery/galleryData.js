@@ -1,6 +1,18 @@
 const data = {
   "cards": [
     {
+      "name": "Summon: Anima",
+      "nickname": "Balemurk Tormentor",
+      "contributionInfo": {
+        "contributor": "cgregory",
+        "front": {
+          "mtgCardBuilderId": "359970"
+        }
+      },
+      "universesBeyondImage": "https://cards.scryfall.io/normal/front/a/a/aa4f6703-21f8-4c29-ad5a-5afb54188ade.jpg?1748706213",
+      "universesWithinImage": "./cards/Summon_%20Anima.png"
+    },
+    {
       "name": "Flash Photography",
       "nickname": "Canecrafting",
       "contributionInfo": {
@@ -5998,10 +6010,6 @@ const data = {
     {
       "name": "Robot Warrior",
       "universesBeyondImage": "https://cards.scryfall.io/normal/front/c/2/c2b4e93b-6b27-4dd3-a6dd-a75d6fab14dc.jpg?1748704066"
-    },
-    {
-      "name": "Summon: Anima",
-      "universesBeyondImage": "https://cards.scryfall.io/normal/front/a/a/aa4f6703-21f8-4c29-ad5a-5afb54188ade.jpg?1748706213"
     },
     {
       "name": "Summon: Primal Odin",
