@@ -428,6 +428,12 @@
     "image": "https://madelson.github.io/universes-within-collection/cards/Summon_%20Knights%20of%20Round.png"
   },
   {
+    "oracleId": "ff70d743-280e-476f-a3b8-92026419419d",
+    "name": "Summon: Yojimbo",
+    "nickname": "Masked Duelist",
+    "image": "https://madelson.github.io/universes-within-collection/cards/Summon_%20Yojimbo.png"
+  },
+  {
     "oracleId": "0b1f6e77-55db-4638-9030-3f4e4d37eb1b",
     "name": "Swooping Pteranodon",
     "image": "https://madelson.github.io/universes-within-collection/cards/Swooping%20Pteranodon.png"

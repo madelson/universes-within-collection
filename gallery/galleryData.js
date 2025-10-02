@@ -1,6 +1,18 @@
 const data = {
   "cards": [
     {
+      "name": "Summon: Yojimbo",
+      "nickname": "Masked Duelist",
+      "contributionInfo": {
+        "contributor": "cgregory",
+        "front": {
+          "mtgCardBuilderId": "359976"
+        }
+      },
+      "universesBeyondImage": "https://cards.scryfall.io/normal/front/c/d/cdbc2d28-ea35-47c6-af7e-07924e9d5794.jpg?1749121887",
+      "universesWithinImage": "./cards/Summon_%20Yojimbo.png"
+    },
+    {
       "name": "Summon: Anima",
       "nickname": "Balemurk Tormentor",
       "contributionInfo": {
@@ -6821,10 +6833,6 @@ const data = {
     {
       "name": "Paladin's Arms",
       "universesBeyondImage": "https://cards.scryfall.io/normal/front/4/4/446506c5-5e1d-4b42-aef3-ea247d7881ef.jpg?1748705858"
-    },
-    {
-      "name": "Summon: Yojimbo",
-      "universesBeyondImage": "https://cards.scryfall.io/normal/front/c/d/cdbc2d28-ea35-47c6-af7e-07924e9d5794.jpg?1749121887"
     },
     {
       "name": "Gongaga, Reactor Town",
