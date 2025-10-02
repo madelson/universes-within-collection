@@ -1,6 +1,22 @@
 const data = {
   "cards": [
     {
+      "name": "Flash Photography",
+      "nickname": "Canecrafting",
+      "contributionInfo": {
+        "contributor": "madelson",
+        "front": {
+          "artist": "Sandara Tang",
+          "artistUrl": "https://sandara.artstation.com/",
+          "artName": "The Glass Sculptor",
+          "artUrl": "https://www.artstation.com/artwork/BAko6",
+          "mtgCardBuilderId": "359954"
+        }
+      },
+      "universesBeyondImage": "https://cards.scryfall.io/normal/front/2/b/2bca2cd2-4d4a-44e4-87c3-732692b77921.jpg?1759254802",
+      "universesWithinImage": "./cards/Flash%20Photography.png"
+    },
+    {
       "name": "Captain America, First Avenger",
       "nickname": "Donovan, Armory Captain",
       "contributionInfo": {
@@ -8336,10 +8352,6 @@ const data = {
     {
       "name": "Chocobo Camp",
       "universesBeyondImage": "https://cards.scryfall.io/normal/front/4/f/4fcd08ad-4dac-4236-9030-f59e473b3ec7.jpg?1759255143"
-    },
-    {
-      "name": "Flash Photography",
-      "universesBeyondImage": "https://cards.scryfall.io/normal/front/2/b/2bca2cd2-4d4a-44e4-87c3-732692b77921.jpg?1759254802"
     },
     {
       "name": "Campsite Cuisine",
