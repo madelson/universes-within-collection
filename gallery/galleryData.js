@@ -1,6 +1,18 @@
 const data = {
   "cards": [
     {
+      "name": "Summon: Fenrir",
+      "nickname": "Ulvenwald Pursuer",
+      "contributionInfo": {
+        "contributor": "cgregory",
+        "front": {
+          "mtgCardBuilderId": "359984"
+        }
+      },
+      "universesBeyondImage": "https://cards.scryfall.io/normal/front/9/3/93feb9d5-d004-4598-a448-b3488c869c05.jpg?1748706522",
+      "universesWithinImage": "./cards/Summon_%20Fenrir.png"
+    },
+    {
       "name": "Summon: Magus Sisters",
       "nickname": "Ironbark Clique",
       "contributionInfo": {
@@ -6470,10 +6482,6 @@ const data = {
     {
       "name": "Summon: Fat Chocobo",
       "universesBeyondImage": "https://cards.scryfall.io/normal/front/3/2/32eb192b-de6b-4814-8077-628d343d014e.jpg?1748706518"
-    },
-    {
-      "name": "Summon: Fenrir",
-      "universesBeyondImage": "https://cards.scryfall.io/normal/front/9/3/93feb9d5-d004-4598-a448-b3488c869c05.jpg?1748706522"
     },
     {
       "name": "Summon: Titan",
