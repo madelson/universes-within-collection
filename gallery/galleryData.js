@@ -1,6 +1,21 @@
 const data = {
   "cards": [
     {
+      "name": "Quantum Misalignment",
+      "contributionInfo": {
+        "contributor": "madelson",
+        "front": {
+          "artist": "Olena Richards",
+          "artName": "Hypnotic Pattern",
+          "artUrl": "https://scryfall.com/card/hbg/34/hypnotic-pattern",
+          "isMtgArt": true,
+          "mtgCardBuilderId": "360023"
+        }
+      },
+      "universesBeyondImage": "https://cards.scryfall.io/normal/front/c/e/ceba3080-4e10-46b3-887c-e2d45581962b.jpg?1696636579",
+      "universesWithinImage": "./cards/Quantum%20Misalignment.png"
+    },
+    {
       "name": "Summon: Primal Garuda",
       "nickname": "Messenger of Retribution",
       "contributionInfo": {
@@ -4369,10 +4384,6 @@ const data = {
     {
       "name": "Nyssa of Traken",
       "universesBeyondImage": "https://cards.scryfall.io/normal/front/b/e/bed41499-759d-4a3b-aabb-c462d5831956.jpg?1696691796"
-    },
-    {
-      "name": "Quantum Misalignment",
-      "universesBeyondImage": "https://cards.scryfall.io/normal/front/c/e/ceba3080-4e10-46b3-887c-e2d45581962b.jpg?1696636579"
     },
     {
       "name": "Reverse the Polarity",

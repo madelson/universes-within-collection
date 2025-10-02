@@ -772,6 +772,15 @@
 		"contributor": "cgregory",
 		"mtgCardBuilderId": "359996",
 	},
+	"0094": {
+		"name": "Quantum Misalignment",
+		"contributor": "madelson",
+		"artist": "Olena Richards",
+		"artName": "Hypnotic Pattern",
+		"artUrl": "https://scryfall.com/card/hbg/34/hypnotic-pattern",
+		"isMtgArt": true,
+		"mtgCardBuilderId": "360023"
+	},
 	"T0001": {
 		"name": "Alien (TWHO 2)",
 		"contributor": "cgregory",
