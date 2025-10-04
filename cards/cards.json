@@ -781,6 +781,15 @@
 		"isMtgArt": true,
 		"mtgCardBuilderId": "360023"
 	},
+	"0095": {
+		"name": "Ellie and Alan, Paleontologists",
+		"contributor": "procapra",
+		"artist": "Lie Setiawan",
+		"artName": "Stern Lesson",
+		"artUrl": "https://www.artstation.com/artwork/xYEDLO",
+		"isMtgArt": true,
+		"mtgCardBuilderId": "361194"
+	},
 	"T0001": {
 		"name": "Alien (TWHO 2)",
 		"contributor": "cgregory",

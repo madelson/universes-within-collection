@@ -1,6 +1,21 @@
 const data = {
   "cards": [
     {
+      "name": "Ellie and Alan, Paleontologists",
+      "contributionInfo": {
+        "contributor": "procapra",
+        "front": {
+          "artist": "Lie Setiawan",
+          "artName": "Stern Lesson",
+          "artUrl": "https://www.artstation.com/artwork/xYEDLO",
+          "isMtgArt": true,
+          "mtgCardBuilderId": "361194"
+        }
+      },
+      "universesBeyondImage": "https://cards.scryfall.io/normal/front/c/4/c40b25d7-73c9-4f30-a707-5afb08185a8d.jpg?1698988755",
+      "universesWithinImage": "./cards/Ellie%20and%20Alan%2C%20Paleontologists.png"
+    },
+    {
       "name": "Quantum Misalignment",
       "contributionInfo": {
         "contributor": "madelson",
@@ -4840,10 +4855,6 @@ const data = {
     {
       "name": "Don't Move",
       "universesBeyondImage": "https://cards.scryfall.io/normal/front/1/d/1d06f729-990b-4c2c-ad2a-c17449117f75.jpg?1698988731"
-    },
-    {
-      "name": "Ellie and Alan, Paleontologists",
-      "universesBeyondImage": "https://cards.scryfall.io/normal/front/c/4/c40b25d7-73c9-4f30-a707-5afb08185a8d.jpg?1698988755"
     },
     {
       "name": "Grim Giganotosaurus",
