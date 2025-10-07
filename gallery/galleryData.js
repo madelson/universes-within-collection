@@ -1,6 +1,21 @@
 const data = {
   "cards": [
     {
+      "name": "Fishing Gear",
+      "contributionInfo": {
+        "contributor": "madelson",
+        "front": {
+          "artist": "Sandara Tang",
+          "artistUrl": "https://sandara.artstation.com/",
+          "artName": "Fishing",
+          "artUrl": "https://www.reddit.com/r/ImaginaryLeviathans/comments/p2wufz/fishing_by_sandara_tang/#lightbox",
+          "mtgCardBuilderId": "363069"
+        }
+      },
+      "universesBeyondImage": "https://cards.scryfall.io/normal/front/b/2/b2a1b5b3-8d7a-4614-b7f9-d13db5654d03.jpg?1759254986",
+      "universesWithinImage": "./cards/Fishing%20Gear.png"
+    },
+    {
       "name": "Ellie and Alan, Paleontologists",
       "contributionInfo": {
         "contributor": "procapra",
@@ -8422,10 +8437,6 @@ const data = {
     {
       "name": "Noctis, Heir Apparent",
       "universesBeyondImage": "https://cards.scryfall.io/normal/front/c/8/c8c69ad3-e999-4beb-85f5-527a00f482da.jpg?1759301047"
-    },
-    {
-      "name": "Fishing Gear",
-      "universesBeyondImage": "https://cards.scryfall.io/normal/front/b/2/b2a1b5b3-8d7a-4614-b7f9-d13db5654d03.jpg?1759254986"
     },
     {
       "name": "Chocobo Camp",
