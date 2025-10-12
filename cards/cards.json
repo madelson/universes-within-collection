@@ -806,6 +806,15 @@
 		"artUrl": "https://www.instagram.com/p/DFTtxQmzToT/?hl=en&img_index=1",
 		"mtgCardBuilderId": "363680"
 	},
+	"0098": {
+		"name": "Ezio Auditore da Firenze",
+		"nickname": "Radan, Duskmantle's Shadow",
+		"contributor": "madelson",
+		"artist": "Sandara Tang",
+		"artName": "Fourth Eye Assassin",
+		"artUrl": "https://lackeybot.herokuapp.com/msem/card/Fourth%20Eye%20Assassin",
+		"mtgCardBuilderId": "366023"
+	},
 	"T0001": {
 		"name": "Alien (TWHO 2)",
 		"contributor": "cgregory",

@@ -1,6 +1,22 @@
 const data = {
   "cards": [
     {
+      "name": "Ezio Auditore da Firenze",
+      "nickname": "Radan, Duskmantle's Shadow",
+      "contributionInfo": {
+        "contributor": "madelson",
+        "front": {
+          "artist": "Sandara Tang",
+          "artistUrl": "https://sandara.artstation.com/",
+          "artName": "Fourth Eye Assassin",
+          "artUrl": "https://lackeybot.herokuapp.com/msem/card/Fourth%20Eye%20Assassin",
+          "mtgCardBuilderId": "366023"
+        }
+      },
+      "universesBeyondImage": "https://cards.scryfall.io/normal/front/d/a/dae9ee75-30b8-4e24-af8b-031c816d3221.jpg?1737999942",
+      "universesWithinImage": "./cards/Ezio%20Auditore%20da%20Firenze.png"
+    },
+    {
       "name": "Lunar Hatchling",
       "contributionInfo": {
         "contributor": "madelson",
@@ -5633,10 +5649,6 @@ const data = {
       "universesBeyondImage": "https://cards.scryfall.io/normal/front/d/4/d4bcd9c9-5957-48ee-9c12-f659c5fd07d0.jpg?1721423735"
     },
     {
-      "name": "Ezio Auditore da Firenze",
-      "universesBeyondImage": "https://cards.scryfall.io/normal/front/d/a/dae9ee75-30b8-4e24-af8b-031c816d3221.jpg?1737999942"
-    },
-    {
       "name": "Hemlock Vial",
       "universesBeyondImage": "https://cards.scryfall.io/normal/front/7/e/7ea6cde3-a4e6-4052-aca3-4d209be15db3.jpg?1721423759"
     },
@@ -7804,6 +7816,10 @@ const data = {
       "universesBeyondImage": "https://cards.scryfall.io/normal/front/5/f/5fa7a8dc-67b3-4f96-af6e-98bb0a052d92.jpg?1757376362"
     },
     {
+      "name": "Jaws, Relentless Predator",
+      "universesBeyondImage": "https://cards.scryfall.io/normal/front/c/6/c6d16a9e-98c0-46e0-987c-f0de0915a204.jpg?1759077740"
+    },
+    {
       "name": "Ellie, Brick Master",
       "universesBeyondImage": "https://cards.scryfall.io/normal/front/e/9/e973462f-589d-4c53-81d7-075ec1d5a9b4.jpg?1759131641"
     },
@@ -7990,32 +8006,12 @@ const data = {
       "universesBeyondImage": "https://cards.scryfall.io/normal/front/0/6/0613afb5-4cee-4132-8adf-404767ed8d07.jpg?1755204256"
     },
     {
-      "name": "Aang, Air Nomad",
-      "universesBeyondImage": "https://cards.scryfall.io/normal/front/f/3/f369827d-e4cd-4bc7-8c5e-72882eff0908.jpg?1755176286"
-    },
-    {
-      "name": "Aang's Defense",
-      "universesBeyondImage": "https://cards.scryfall.io/normal/front/6/4/642e1b90-c240-44fe-82b2-7522026224ae.jpg?1755176372"
-    },
-    {
-      "name": "Aardvark Sloth",
-      "universesBeyondImage": "https://cards.scryfall.io/normal/front/e/1/e16365a2-4969-4ad5-af95-9dd2d0499f06.jpg?1755176412"
-    },
-    {
       "name": "Cat-Owl",
       "universesBeyondImage": "https://cards.scryfall.io/normal/front/d/7/d7df3391-dbe5-4eb4-85c1-037c5f3ea971.jpg?1755178074"
     },
     {
       "name": "Allied Teamwork",
       "universesBeyondImage": "https://cards.scryfall.io/normal/front/8/a/8a347283-eb16-4339-945e-316a5ce9e2c5.jpg?1755177414"
-    },
-    {
-      "name": "Appa, Aang's Companion",
-      "universesBeyondImage": "https://cards.scryfall.io/normal/front/1/c/1c5ae0d3-26e4-4d10-85ae-0578cf90eead.jpg?1755237916"
-    },
-    {
-      "name": "Katara, Heroic Healer",
-      "universesBeyondImage": "https://cards.scryfall.io/normal/front/b/c/bc2ec498-54eb-41a7-bdf2-8772430e177f.jpg?1755205110"
     },
     {
       "name": "Earth Kingdom Soldier",
@@ -8026,32 +8022,12 @@ const data = {
       "universesBeyondImage": "https://cards.scryfall.io/normal/front/7/a/7a2acb28-c0e2-492b-a227-ef49e905e0fb.jpg?1755205191"
     },
     {
-      "name": "Momo, Rambunctious Rascal",
-      "universesBeyondImage": "https://cards.scryfall.io/normal/front/1/c/1ce491a2-bb43-48fc-acc7-273bc7f418d5.jpg?1758215999"
-    },
-    {
-      "name": "Sledding Otter-Penguin",
-      "universesBeyondImage": "https://cards.scryfall.io/normal/front/d/3/d3e0f159-029d-4177-8f20-c96eca0a421c.jpg?1755207254"
-    },
-    {
       "name": "Earth Village Ruffians",
       "universesBeyondImage": "https://cards.scryfall.io/normal/front/5/6/56d4e0b7-232f-4953-84a3-e6f17781aa45.jpg?1755178535"
     },
     {
-      "name": "Sokka, Wolf Cove's Protector",
-      "universesBeyondImage": "https://cards.scryfall.io/normal/front/0/3/039cb105-f8f7-4d04-a137-34b13491ee9a.jpg?1755207349"
-    },
-    {
-      "name": "Tundra Wall",
-      "universesBeyondImage": "https://cards.scryfall.io/normal/front/4/9/49ae7f36-4b37-415e-ab39-5fa1e3f2e3e9.jpg?1755207440"
-    },
-    {
       "name": "Fire Lord Zuko",
       "universesBeyondImage": "https://cards.scryfall.io/normal/front/e/6/e62d3bcc-7bb4-42be-90a9-caf3c1caa29d.jpg?1755043707"
-    },
-    {
-      "name": "Wolf Cove Villager",
-      "universesBeyondImage": "https://cards.scryfall.io/normal/front/7/d/7dbeced9-d27d-476c-92d4-3c14d8a40458.jpg?1755207662"
     },
     {
       "name": "Deny Entry",
@@ -8114,44 +8090,12 @@ const data = {
       "universesBeyondImage": "https://cards.scryfall.io/normal/front/c/3/c3ec1b6e-2f63-4b84-a101-8764c3e6d0f2.jpg?1755207030"
     },
     {
-      "name": "Capital Guard",
-      "universesBeyondImage": "https://cards.scryfall.io/normal/front/9/1/91cbed11-3b5c-4e7a-9b13-125c1fe5f22f.jpg?1755178007"
-    },
-    {
-      "name": "Dragon Moose",
-      "universesBeyondImage": "https://cards.scryfall.io/normal/front/f/d/fd61f469-5377-4bc1-a42b-dd66ca4ede1d.jpg?1755178335"
-    },
-    {
-      "name": "Explosive Shot",
-      "universesBeyondImage": "https://cards.scryfall.io/normal/front/4/b/4ba682a6-1045-4ed6-ae95-bd5af8bd7224.jpg?1755203365"
-    },
-    {
       "name": "Fire Nation Archers",
       "universesBeyondImage": "https://cards.scryfall.io/normal/front/e/8/e83ee667-7726-42e9-9483-6cfc6f9ce638.jpg?1755203508"
     },
     {
       "name": "Pretending Poxbearers",
       "universesBeyondImage": "https://cards.scryfall.io/normal/front/d/1/d1af91a5-8681-4a05-910d-96f7a819bfaa.jpg?1755209300"
-    },
-    {
-      "name": "Fire Nation Soldier",
-      "universesBeyondImage": "https://cards.scryfall.io/normal/front/5/8/58e59eba-3cf5-4ebe-8bc1-28568921650b.jpg?1755237946"
-    },
-    {
-      "name": "Fire Nation's Conquest",
-      "universesBeyondImage": "https://cards.scryfall.io/normal/front/b/6/b6fcdc4c-547a-4df4-93c8-911fd400c837.jpg?1755203728"
-    },
-    {
-      "name": "Iroh, Firebending Instructor",
-      "universesBeyondImage": "https://cards.scryfall.io/normal/front/1/e/1ee4bc92-1101-4652-be27-65450abebf00.jpg?1755204826"
-    },
-    {
-      "name": "Sokka, Bold Boomeranger",
-      "universesBeyondImage": "https://cards.scryfall.io/normal/front/4/a/4a1f1472-55b4-450d-8e4d-7297130a0cf3.jpg?1755018680"
-    },
-    {
-      "name": "Komodo Rhino",
-      "universesBeyondImage": "https://cards.scryfall.io/normal/front/e/2/e2b84af1-b40b-476a-87b2-ee8e3a018171.jpg?1755205145"
     },
     {
       "name": "Sokka, Lateral Strategist",
@@ -8170,24 +8114,8 @@ const data = {
       "universesBeyondImage": "https://cards.scryfall.io/normal/front/3/e/3e311480-04f8-4b8f-938e-1cc6d06b9902.jpg?1755210199"
     },
     {
-      "name": "Warship Scout",
-      "universesBeyondImage": "https://cards.scryfall.io/normal/front/b/1/b1a95982-be16-465a-9c1b-1f4d875c0c40.jpg?1755207556"
-    },
-    {
-      "name": "Zhao, the Seething Flame",
-      "universesBeyondImage": "https://cards.scryfall.io/normal/front/f/3/f3fa493e-b58a-4b77-88e8-b8890eefb2b7.jpg?1755207708"
-    },
-    {
-      "name": "Zuko, Avatar Hunter",
-      "universesBeyondImage": "https://cards.scryfall.io/normal/front/2/a/2a2330fa-a1e1-41d9-bb7b-8aa9b03a0543.jpg?1755207745"
-    },
-    {
       "name": "Toph, the First Metalbender",
       "universesBeyondImage": "https://cards.scryfall.io/normal/front/7/0/70b6670f-a9fa-4d75-b0a7-c01b5071a514.jpg?1755069811"
-    },
-    {
-      "name": "Zuko's Offense",
-      "universesBeyondImage": "https://cards.scryfall.io/normal/front/e/f/efc6eea1-9872-47e5-a3bc-3c8c1b9705be.jpg?1755207785"
     },
     {
       "name": "Bumi, Eclectic Earthbender",
@@ -8439,7 +8367,7 @@ const data = {
     },
     {
       "name": "Vivi's Persistence",
-      "universesBeyondImage": "https://cards.scryfall.io/normal/front/b/e/be6ba2e4-e657-4a2d-8f5f-255376d861b3.jpg?1759254593"
+      "universesBeyondImage": "https://cards.scryfall.io/normal/front/b/e/be6ba2e4-e657-4a2d-8f5f-255376d861b3.jpg?1759447064"
     },
     {
       "name": "Search for Dagger",
