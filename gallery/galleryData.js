@@ -1,6 +1,21 @@
 const data = {
   "cards": [
     {
+      "name": "Osgood, Operation Double",
+      "contributionInfo": {
+        "contributor": "madelson",
+        "front": {
+          "artist": "John Stanko",
+          "artName": "Sinister Reflections",
+          "artUrl": "https://cards.scryfall.io/art_crop/front/1/f/1f219447-d88e-46db-9b30-9d6a5c38f8ef.jpg?1680465298",
+          "isMtgArt": true,
+          "mtgCardBuilderId": "370479"
+        }
+      },
+      "universesBeyondImage": "https://cards.scryfall.io/normal/front/d/1/d180a882-84d9-4e38-8aed-1fc6ecd1df72.jpg?1696636840",
+      "universesWithinImage": "./cards/Osgood%2C%20Operation%20Double.png"
+    },
+    {
       "name": "Iraxxa, Empress of Mars",
       "nickname": "Morvaen, Hellspur Recruiter",
       "contributionInfo": {
@@ -4309,10 +4324,6 @@ const data = {
     {
       "name": "Trenzalore Clocktower",
       "universesBeyondImage": "https://cards.scryfall.io/normal/front/6/4/64444549-1198-4465-91d5-02a7903691dc.jpg?1696636838"
-    },
-    {
-      "name": "Osgood, Operation Double",
-      "universesBeyondImage": "https://cards.scryfall.io/normal/front/d/1/d180a882-84d9-4e38-8aed-1fc6ecd1df72.jpg?1696636840"
     },
     {
       "name": "The Fourth Doctor",

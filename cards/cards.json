@@ -824,6 +824,15 @@
 		"artUrl": "https://www.artstation.com/artwork/aYeX99",
 		"mtgCardBuilderId": "370452"
 	},
+	"0100": {
+		"name": "Osgood, Operation Double",
+		"contributor": "madelson",
+		"artist": "John Stanko",
+		"artName": "Sinister Reflections",
+		"artUrl": "https://cards.scryfall.io/art_crop/front/1/f/1f219447-d88e-46db-9b30-9d6a5c38f8ef.jpg?1680465298",
+		"isMtgArt": true,
+		"mtgCardBuilderId": "370479"
+	},
 	"T0001": {
 		"name": "Alien (TWHO 2)",
 		"contributor": "cgregory",
