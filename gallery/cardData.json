@@ -548,6 +548,11 @@
     "image": "https://madelson.github.io/universes-within-collection/cards/The%20Fifth%20Doctor.png"
   },
   {
+    "oracleId": "8beaaf55-e05d-49c3-9320-c222c4d8ad12",
+    "name": "The Flux",
+    "image": "https://madelson.github.io/universes-within-collection/cards/The%20Flux.png"
+  },
+  {
     "oracleId": "a177295e-3b58-4e46-a1cb-fc003a7a0848",
     "name": "The Gaffer",
     "nickname": "Gerwyn, Codger of Dundoolin",
@@ -576,6 +581,11 @@
     "name": "The Sound of Drums",
     "nickname": "Legacy of Violence",
     "image": "https://madelson.github.io/universes-within-collection/cards/The%20Sound%20of%20Drums.png"
+  },
+  {
+    "oracleId": "9ecf19ba-754e-4bb3-b526-fe9df87a0f08",
+    "name": "The Twelfth Doctor",
+    "image": "https://madelson.github.io/universes-within-collection/cards/The%20Twelfth%20Doctor.png"
   },
   {
     "oracleId": "247a0c13-c611-4c00-bedf-ecf7ea6bb956",

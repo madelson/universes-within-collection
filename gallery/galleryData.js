@@ -1,6 +1,36 @@
 const data = {
   "cards": [
     {
+      "name": "The Twelfth Doctor",
+      "contributionInfo": {
+        "contributor": "madelson",
+        "front": {
+          "artist": "Lie Setiawan",
+          "artName": "Clone Crafter",
+          "artUrl": "https://www.artstation.com/artwork/EaN594?album_id=741463",
+          "isMtgArt": true,
+          "mtgCardBuilderId": "370741"
+        }
+      },
+      "universesBeyondImage": "https://cards.scryfall.io/normal/front/2/4/2400d681-05ef-43b1-b720-c15ca4226c27.jpg?1696636777",
+      "universesWithinImage": "./cards/The%20Twelfth%20Doctor.png"
+    },
+    {
+      "name": "The Flux",
+      "contributionInfo": {
+        "contributor": "madelson",
+        "front": {
+          "artist": "Xavier Ribeiro",
+          "artName": "Mine Security",
+          "artUrl": "https://www.artstation.com/artwork/vbKONE",
+          "isMtgArt": true,
+          "mtgCardBuilderId": "370729"
+        }
+      },
+      "universesBeyondImage": "https://cards.scryfall.io/normal/front/0/2/026611f8-ae07-464f-afe5-6e94bcfac05e.jpg?1696636635",
+      "universesWithinImage": "./cards/The%20Flux.png"
+    },
+    {
       "name": "Osgood, Operation Double",
       "contributionInfo": {
         "contributor": "madelson",
@@ -4229,10 +4259,6 @@ const data = {
       "universesBeyondImage": "https://cards.scryfall.io/normal/front/c/e/ce8771cc-1042-47b1-b4fa-459c3eeece04.jpg?1696636776"
     },
     {
-      "name": "The Twelfth Doctor",
-      "universesBeyondImage": "https://cards.scryfall.io/normal/front/2/4/2400d681-05ef-43b1-b720-c15ca4226c27.jpg?1696636777"
-    },
-    {
       "name": "The Valeyard",
       "universesBeyondImage": "https://cards.scryfall.io/normal/front/d/6/d63218a4-afaf-4ad8-9ca4-4f9af87877b9.jpg?1716130169"
     },
@@ -4756,10 +4782,6 @@ const data = {
     {
       "name": "Flaming Tyrannosaurus",
       "universesBeyondImage": "https://cards.scryfall.io/normal/front/0/b/0bc8ecfd-7388-4725-8c58-bed2cc61400f.jpg?1696636630"
-    },
-    {
-      "name": "The Flux",
-      "universesBeyondImage": "https://cards.scryfall.io/normal/front/0/2/026611f8-ae07-464f-afe5-6e94bcfac05e.jpg?1696636635"
     },
     {
       "name": "Impending Flux",
