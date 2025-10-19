@@ -862,6 +862,15 @@
 		"isMtgArt": true,
 		"mtgCardBuilderId": "370743"
 	},
+	"0104": {
+		"name": "Flaming Tyrannosaurus",
+		"nickname": "Vengeful Nothosaur",
+		"contributor": "madelson",
+		"artist": "Heinrich Harder",
+		"artName": "Nothosaurus",
+		"artUrl": "https://www.finerareprints.com/nothosaurus-28053",
+		"mtgCardBuilderId": "370917"
+	},
 	"T0001": {
 		"name": "Alien (TWHO 2)",
 		"contributor": "cgregory",

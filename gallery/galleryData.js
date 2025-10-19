@@ -1,6 +1,22 @@
 const data = {
   "cards": [
     {
+      "name": "Flaming Tyrannosaurus",
+      "nickname": "Vengeful Nothosaur",
+      "contributionInfo": {
+        "contributor": "madelson",
+        "front": {
+          "artist": "Heinrich Harder",
+          "artistUrl": "https://en.wikipedia.org/wiki/Heinrich_Harder",
+          "artName": "Nothosaurus",
+          "artUrl": "https://www.finerareprints.com/nothosaurus-28053",
+          "mtgCardBuilderId": "370917"
+        }
+      },
+      "universesBeyondImage": "https://cards.scryfall.io/normal/front/0/b/0bc8ecfd-7388-4725-8c58-bed2cc61400f.jpg?1696636630",
+      "universesWithinImage": "./cards/Flaming%20Tyrannosaurus.png"
+    },
+    {
       "name": "Mysterious Stranger",
       "contributionInfo": {
         "contributor": "madelson",
@@ -4795,10 +4811,6 @@ const data = {
     {
       "name": "Ensnared by the Mara",
       "universesBeyondImage": "https://cards.scryfall.io/normal/front/1/1/11454c82-3f1d-4456-8857-0dcb01d34298.jpg?1696636630"
-    },
-    {
-      "name": "Flaming Tyrannosaurus",
-      "universesBeyondImage": "https://cards.scryfall.io/normal/front/0/b/0bc8ecfd-7388-4725-8c58-bed2cc61400f.jpg?1696636630"
     },
     {
       "name": "Impending Flux",
