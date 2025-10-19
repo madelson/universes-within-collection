@@ -835,6 +835,7 @@
 	},
 	"0101": {
 		"name": "The Flux",
+		"nickname": "The Kavu Emergence",
 		"contributor": "madelson",
 		"artist": "Xavier Ribeiro",
 		"artName": "Mine Security",
@@ -844,12 +845,22 @@
 	},
 	"0102": {
 		"name": "The Twelfth Doctor",
+		"nickname": "Ludevic, Nephalian Prodigy",
 		"contributor": "madelson",
 		"artist": "Lie Setiawan",
 		"artName": "Clone Crafter",
 		"artUrl": "https://www.artstation.com/artwork/EaN594?album_id=741463",
 		"isMtgArt": true,
 		"mtgCardBuilderId": "370741"
+	},
+	"0103": {
+		"name": "Mysterious Stranger",
+		"contributor": "madelson",
+		"artist": "Inkognit",
+		"artName": "Impetuous Lootmonger",
+		"artUrl": "https://cards.scryfall.io/art_crop/front/4/6/469de55b-1f1a-4421-b300-d209ddf4022d.jpg?1741043923",
+		"isMtgArt": true,
+		"mtgCardBuilderId": "370743"
 	},
 	"T0001": {
 		"name": "Alien (TWHO 2)",

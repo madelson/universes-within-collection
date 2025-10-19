@@ -329,6 +329,11 @@
     "image": "https://madelson.github.io/universes-within-collection/cards/Mutational%20Advantage.png"
   },
   {
+    "oracleId": "4cd2e1c2-5f14-4ac9-9c88-899af6ad9f80",
+    "name": "Mysterious Stranger",
+    "image": "https://madelson.github.io/universes-within-collection/cards/Mysterious%20Stranger.png"
+  },
+  {
     "oracleId": "6cfb03e5-aca6-4fe2-a3f1-93e1f0cbf9e1",
     "name": "Nuka-Cola Vending Machine",
     "nickname": "Witch's Hearth",
@@ -550,6 +555,7 @@
   {
     "oracleId": "8beaaf55-e05d-49c3-9320-c222c4d8ad12",
     "name": "The Flux",
+    "nickname": "The Kavu Emergence",
     "image": "https://madelson.github.io/universes-within-collection/cards/The%20Flux.png"
   },
   {
@@ -585,6 +591,7 @@
   {
     "oracleId": "9ecf19ba-754e-4bb3-b526-fe9df87a0f08",
     "name": "The Twelfth Doctor",
+    "nickname": "Ludevic, Nephalian Prodigy",
     "image": "https://madelson.github.io/universes-within-collection/cards/The%20Twelfth%20Doctor.png"
   },
   {

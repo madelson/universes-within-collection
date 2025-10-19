@@ -1,7 +1,23 @@
 const data = {
   "cards": [
     {
+      "name": "Mysterious Stranger",
+      "contributionInfo": {
+        "contributor": "madelson",
+        "front": {
+          "artist": "Inkognit",
+          "artName": "Impetuous Lootmonger",
+          "artUrl": "https://cards.scryfall.io/art_crop/front/4/6/469de55b-1f1a-4421-b300-d209ddf4022d.jpg?1741043923",
+          "isMtgArt": true,
+          "mtgCardBuilderId": "370743"
+        }
+      },
+      "universesBeyondImage": "https://cards.scryfall.io/normal/front/0/6/063ca0fa-1947-48da-86f9-76dd00dfb550.jpg?1709982761",
+      "universesWithinImage": "./cards/Mysterious%20Stranger.png"
+    },
+    {
       "name": "The Twelfth Doctor",
+      "nickname": "Ludevic, Nephalian Prodigy",
       "contributionInfo": {
         "contributor": "madelson",
         "front": {
@@ -17,6 +33,7 @@ const data = {
     },
     {
       "name": "The Flux",
+      "nickname": "The Kavu Emergence",
       "contributionInfo": {
         "contributor": "madelson",
         "front": {
@@ -5504,10 +5521,6 @@ const data = {
     {
       "name": "The Motherlode, Excavator",
       "universesBeyondImage": "https://cards.scryfall.io/normal/front/3/b/3b9df394-522c-4458-bc36-cf24ad763718.jpg?1708742178"
-    },
-    {
-      "name": "Mysterious Stranger",
-      "universesBeyondImage": "https://cards.scryfall.io/normal/front/0/6/063ca0fa-1947-48da-86f9-76dd00dfb550.jpg?1709982761"
     },
     {
       "name": "Plasma Caster",
