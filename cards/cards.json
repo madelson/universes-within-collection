@@ -871,6 +871,16 @@
 		"artUrl": "https://www.finerareprints.com/nothosaurus-28053",
 		"mtgCardBuilderId": "370917"
 	},
+	"0105": {
+		"name": "Into the Time Vortex",
+		"nickname": "Into the Pine Vortex",
+		"contributor": "madelson",
+		"artist": "Nereida",
+		"artName": "Cindercone Smite",
+		"artUrl": "https://cards.scryfall.io/art_crop/front/9/5/9589e070-c4ca-41cf-997c-481811d5410d.jpg?1734096470",
+		"isMtgArt": true,
+		"mtgCardBuilderId": "387590"
+	},
 	"T0001": {
 		"name": "Alien (TWHO 2)",
 		"contributor": "cgregory",

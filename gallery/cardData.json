@@ -12,16 +12,6 @@
     "image": "https://madelson.github.io/universes-within-collection/cards/Adipose%20Offspring.png"
   },
   {
-    "oracleId": "a7f1f254-9cae-4662-aeb0-baae43f61953",
-    "name": "Alien",
-    "image": "https://madelson.github.io/universes-within-collection/cards/Alien%20(TPIP%206).png"
-  },
-  {
-    "oracleId": "743d33fa-0318-4f76-a989-af54434f2873",
-    "name": "Alien",
-    "image": "https://madelson.github.io/universes-within-collection/cards/Alien%20(TWHO%202).png"
-  },
-  {
     "oracleId": "48f80047-a4f9-4ebb-a97a-cad157b9bb64",
     "name": "All of History, All at Once",
     "nickname": "Behold the Eternities",
@@ -31,11 +21,6 @@
     "oracleId": "0a7d0d1f-a5ac-4db9-860c-9fcbe3fd9e71",
     "name": "Alpha Deathclaw",
     "image": "https://madelson.github.io/universes-within-collection/cards/Alpha%20Deathclaw.png"
-  },
-  {
-    "oracleId": "35e27ced-1151-4559-b552-0d90325092c4",
-    "name": "Astartes Warrior",
-    "image": "https://madelson.github.io/universes-within-collection/cards/Astartes%20Warrior%20(T40K%201).png"
   },
   {
     "oracleId": "fa55177c-ba65-4113-9c05-2d63318cf7c5",
@@ -116,11 +101,6 @@
     "oracleId": "d5862292-9ef9-4bf2-b468-45bfe0d70f7a",
     "name": "Crisis of Conscience",
     "image": "https://madelson.github.io/universes-within-collection/cards/Crisis%20of%20Conscience.png"
-  },
-  {
-    "oracleId": "4bbce60c-7437-4fc4-90bb-0ead3cccb024",
-    "name": "Dalek",
-    "image": "https://madelson.github.io/universes-within-collection/cards/Dalek%20(TWHO%2012).png"
   },
   {
     "oracleId": "95d018f4-7f97-4b2c-abb4-cef69031caa1",
@@ -252,11 +232,6 @@
     "image": "https://madelson.github.io/universes-within-collection/cards/Hithlain%20Rope.png"
   },
   {
-    "oracleId": "21f78330-6b0a-4c76-974e-c2a1ef0c098d",
-    "name": "Human Knight",
-    "image": "https://madelson.github.io/universes-within-collection/cards/Human%20Knight%20(TPIP%202).png"
-  },
-  {
     "oracleId": "0dd4bc7b-2ddf-4ca4-912c-59685c41c3b5",
     "name": "Indoraptor, the Perfect Hybrid",
     "nickname": "Itztaca, the Perfect Hunter",
@@ -266,6 +241,12 @@
     "oracleId": "9439d6eb-4c10-451d-85c4-3752611c671c",
     "name": "Inquisitor Greyfax",
     "image": "https://madelson.github.io/universes-within-collection/cards/Inquisitor%20Greyfax.png"
+  },
+  {
+    "oracleId": "ad9d969e-def5-45a3-b65b-0c776f62ef0e",
+    "name": "Into the Time Vortex",
+    "nickname": "Into the Pine Vortex",
+    "image": "https://madelson.github.io/universes-within-collection/cards/Into%20the%20Time%20Vortex.png"
   },
   {
     "oracleId": "52925539-423a-42ec-91b9-0d39e7df565c",
@@ -317,11 +298,6 @@
     "oracleId": "cb2c8ea9-c125-4742-a562-b693254152e5",
     "name": "Lunar Hatchling",
     "image": "https://madelson.github.io/universes-within-collection/cards/Lunar%20Hatchling.png"
-  },
-  {
-    "oracleId": "2319b39d-f342-4136-9cc1-5285ca54b20c",
-    "name": "Mark of the Rani",
-    "image": "https://madelson.github.io/universes-within-collection/cards/Mark%20of%20the%20Rani%20(TWHO%2015).png"
   },
   {
     "oracleId": "f6479f7e-01f4-49f1-a444-04bf38934f6b",
@@ -633,6 +609,36 @@
     "name": "Yggdrasil, Rebirth Engine",
     "nickname": "The Compleation Engine",
     "image": "https://madelson.github.io/universes-within-collection/cards/Yggdrasil%2C%20Rebirth%20Engine.png"
+  },
+  {
+    "oracleId": "a7f1f254-9cae-4662-aeb0-baae43f61953",
+    "name": "Alien",
+    "image": "https://madelson.github.io/universes-within-collection/cards/Alien%20(TPIP%206).png"
+  },
+  {
+    "oracleId": "743d33fa-0318-4f76-a989-af54434f2873",
+    "name": "Alien",
+    "image": "https://madelson.github.io/universes-within-collection/cards/Alien%20(TWHO%202).png"
+  },
+  {
+    "oracleId": "35e27ced-1151-4559-b552-0d90325092c4",
+    "name": "Astartes Warrior",
+    "image": "https://madelson.github.io/universes-within-collection/cards/Astartes%20Warrior%20(T40K%201).png"
+  },
+  {
+    "oracleId": "4bbce60c-7437-4fc4-90bb-0ead3cccb024",
+    "name": "Dalek",
+    "image": "https://madelson.github.io/universes-within-collection/cards/Dalek%20(TWHO%2012).png"
+  },
+  {
+    "oracleId": "21f78330-6b0a-4c76-974e-c2a1ef0c098d",
+    "name": "Human Knight",
+    "image": "https://madelson.github.io/universes-within-collection/cards/Human%20Knight%20(TPIP%202).png"
+  },
+  {
+    "oracleId": "2319b39d-f342-4136-9cc1-5285ca54b20c",
+    "name": "Mark of the Rani",
+    "image": "https://madelson.github.io/universes-within-collection/cards/Mark%20of%20the%20Rani%20(TWHO%2015).png"
   },
   {
     "oracleId": "dd903bff-d96f-431a-8ff9-88d0ad92f937",
