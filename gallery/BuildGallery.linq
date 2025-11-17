@@ -373,7 +373,7 @@ async Task<List<CardInfo>> GetUniversesBeyondCardsAsync()
 	var allCards = await CacheAsync("all-cards", GetAllCardsAsync);
 	// unique:prints is needed to make sure we capture all sets that contain UB cards. Some promo set codes like pltr won't show up otherwise
 	var universesBeyondCards = await CacheAsync("universes-beyond-cards", () => SearchAsync("is:ub -is:reprint -is:digital unique:prints"));
-	universesBeyondCards.AddRange(await CacheAsync("universes-beyond-tokens", () => SearchAsync("is:token is:ub -is:reprint -is:digital unique:prints"));
+	universesBeyondCards.AddRange(await CacheAsync("universes-beyond-tokens", () => SearchAsync("is:token is:ub -is:reprint -is:digital unique:prints")));
 	
 	var allCardsByOracleId = allCards.ToLookup(c => c.Oracle_Id);
 	var universesBeyondSets = universesBeyondCards.Select(c => c.Set).ToHashSet();
