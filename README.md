@@ -18,7 +18,7 @@ The Universes Within Collection is an attempt to cover some of the ground that W
 
 UWC cards are designed with a few goals in mind:
 1. _100% rules compatibility with the Universes Beyond originals._ These are not custom cards in a mechanical sense.
-2. _Clear linkage to the original card to minimize confusion._ When renaming cards, the "Nickname" frame is used to clearly-but-unobtrusively reference the original name, and the collector's number is also linked like it is on official Universes Within cards.
+2. _Clear linkage to the original card to minimize confusion._ Wherever possible when renaming cards, the "Nickname" frame is used to clearly-but-unobtrusively reference the original name, and the collector's number is also linked like it is on official Universes Within cards.
 3. _Blend in with traditional Magic cards._ References to Earth and/or non-Magic IPs should be removed, except where it violates one of the other goals.
 
 ## Contributing
