@@ -64,4 +64,4 @@ Also note that [ability words](https://scryfall.com/card/pip/32/jason-bright-glo
 
 ### What about IPs like LOTR that generally fit with Magic's universe aesthetically?
 
-Personally, some IPs clash with in-universe cards more than others. However, I don't think all players have the same reactions to every IP (certainly it varies among members of my play group). Therefore, any Universes Beyond IP is fair game; players pick and choose which ones they care to use.
+Personally, I feel that some IPs clash with in-universe cards more than others. However, not all players have the same reactions to every IP (certainly it varies among members of my play group). Therefore, any Universes Beyond card is fair game to add to the collection. I figure that players who want to use these proxies can simply elect to use the original card if they like the IP.
