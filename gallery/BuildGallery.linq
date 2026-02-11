@@ -14,7 +14,7 @@
 #nullable enable
 
 bool BustCache = false;
-TimeSpan Expiry = TimeSpan.FromDays(7);
+TimeSpan Expiry = TimeSpan.FromDays(30);
 string RawImageRepository = Path.GetFullPath(Path.Combine(Path.GetDirectoryName(Util.CurrentQueryPath)!, "..", "..", "universes-within-collection-reference", "Raw Cards"));
 
 async Task Main()
