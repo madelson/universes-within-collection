@@ -881,6 +881,15 @@
 		"isMtgArt": true,
 		"mtgCardBuilderId": "387590"
 	},
+	"0106": {
+		"name": "Xande, Dark Mage",
+		"nickname": "Alyxa, Herald of Darkness",
+		"contributor": "KolaghanStorm",
+		"artist": "Anthony Catillaz",
+		"artName": "Witch Empress",
+		"artUrl": "https://www.artstation.com/artwork/2942Ge",
+		"mtgCardBuilderId": "442733"
+	},
 	"T0001": {
 		"name": "Alien (TWHO 2)",
 		"contributor": "cgregory",
