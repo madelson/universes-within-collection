@@ -18,7 +18,7 @@ The Universes Within Collection is an attempt to cover some of the ground that W
 
 UWC cards are designed with a few goals in mind:
 1. _100% rules compatibility with the Universes Beyond originals._ These are not custom cards in a mechanical sense.
-2. _Clear linkage to the original card to minimize confusion._ When renaming cards, the "Nickname" frame is used to clearly-but-unobtrusively reference the original name, and the collector's number is also linked like it is on official Universes Within cards.
+2. _Clear linkage to the original card to minimize confusion._ Wherever possible when renaming cards, the "Nickname" frame is used to clearly-but-unobtrusively reference the original name, and the collector's number is also linked like it is on official Universes Within cards.
 3. _Blend in with traditional Magic cards._ References to Earth and/or non-Magic IPs should be removed, except where it violates one of the other goals.
 
 ## Contributing
@@ -64,4 +64,4 @@ Also note that [ability words](https://scryfall.com/card/pip/32/jason-bright-glo
 
 ### What about IPs like LOTR that generally fit with Magic's universe aesthetically?
 
-Personally, some IPs clash with in-universe cards more than others. However, I don't think all players have the same reactions to every IP (certainly it varies among members of my play group). Therefore, any Universes Beyond IP is fair game; players pick and choose which ones they care to use.
+Personally, I feel that some IPs clash with in-universe cards more than others. However, not all players have the same reactions to every IP (certainly it varies among members of my play group). Therefore, any Universes Beyond card is fair game to add to the collection. I figure that players who want to use these proxies can simply elect to use the original card if they like the IP.
