@@ -1,6 +1,22 @@
 const data = {
   "cards": [
     {
+      "name": "Blink",
+      "nickname": "The Angels' Return",
+      "contributionInfo": {
+        "contributor": "madelson",
+        "front": {
+          "artist": "Florian Herold",
+          "artistUrl": "https://www.artstation.com/faherold",
+          "artName": "Night Town",
+          "artUrl": "https://www.artstation.com/artwork/VdB04P",
+          "mtgCardBuilderId": "446685"
+        }
+      },
+      "universesBeyondImage": "https://cards.scryfall.io/normal/front/0/3/032adfbd-3898-410c-acf0-79b88f924520.jpg?1696636680",
+      "universesWithinImage": "./cards/Blink.png"
+    },
+    {
       "name": "Xande, Dark Mage",
       "nickname": "Alyxa, Herald of Darkness",
       "contributionInfo": {
@@ -4134,10 +4150,6 @@ const data = {
     {
       "name": "Ashad, the Lone Cyberman",
       "universesBeyondImage": "https://cards.scryfall.io/normal/front/2/d/2dc19e32-4f78-492f-8586-54ad4ae6fcec.jpg?1696636676"
-    },
-    {
-      "name": "Blink",
-      "universesBeyondImage": "https://cards.scryfall.io/normal/front/0/3/032adfbd-3898-410c-acf0-79b88f924520.jpg?1696636680"
     },
     {
       "name": "Cult of Skaro",
