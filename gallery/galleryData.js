@@ -1,6 +1,22 @@
 const data = {
   "cards": [
     {
+      "name": "Katara, Bending Prodigy",
+      "nickname": "Noryss, Ocean’s Advocate",
+      "contributionInfo": {
+        "contributor": "KolaghanStorm",
+        "front": {
+          "artist": "Sandara Tang",
+          "artistUrl": "https://sandara.artstation.com/",
+          "artName": "Water and Flowers",
+          "artUrl": "https://www.artstation.com/artwork/Qna0N8",
+          "mtgCardBuilderId": "457329"
+        }
+      },
+      "universesBeyondImage": "https://cards.scryfall.io/normal/front/e/8/e8372167-383f-4302-a8ea-b6bf495c870c.jpg?1764120318",
+      "universesWithinImage": "./cards/Katara%2C%20Bending%20Prodigy.png"
+    },
+    {
       "name": "Blink",
       "nickname": "The Angels' Return",
       "contributionInfo": {
@@ -859,7 +875,7 @@ const data = {
           "mtgCardBuilderId": "149551"
         }
       },
-      "universesBeyondImage": "https://cards.scryfall.io/normal/front/1/5/15d56042-db45-40dc-a197-e2b7a3e6ab06.jpg?1680906588",
+      "universesBeyondImage": "https://cards.scryfall.io/normal/front/1/5/15d56042-db45-40dc-a197-e2b7a3e6ab06.jpg?1771976912",
       "universesWithinImage": "./cards/Sister%20of%20Silence.png"
     },
     {
@@ -2209,7 +2225,7 @@ const data = {
     },
     {
       "name": "Sicarian Infiltrator",
-      "universesBeyondImage": "https://cards.scryfall.io/normal/front/c/c/cc0aa0eb-dc26-49d8-bbff-74fb3d597a72.jpg?1677744516"
+      "universesBeyondImage": "https://cards.scryfall.io/normal/front/c/c/cc0aa0eb-dc26-49d8-bbff-74fb3d597a72.jpg?1771977746"
     },
     {
       "name": "Vanguard Suppressor",
@@ -8096,7 +8112,7 @@ const data = {
     },
     {
       "name": "The Cabbage Merchant",
-      "universesBeyondImage": "https://cards.scryfall.io/normal/front/2/f/2fea0356-6684-4730-9eb4-0262856bc1f9.jpg?1764118624"
+      "universesBeyondImage": "https://cards.scryfall.io/normal/front/2/f/2fea0356-6684-4730-9eb4-0262856bc1f9.jpg?1770831825"
     },
     {
       "name": "Cracked Earth Technique",
@@ -8193,7 +8209,7 @@ const data = {
     },
     {
       "name": "Aang, A Lot to Learn",
-      "universesBeyondImage": "https://cards.scryfall.io/normal/front/5/0/50a22ad6-d2a4-48a6-91c9-147c946a60a5.jpg?1764118704"
+      "universesBeyondImage": "https://cards.scryfall.io/normal/front/5/0/50a22ad6-d2a4-48a6-91c9-147c946a60a5.jpg?1770831846"
     },
     {
       "name": "Hook Swords",
@@ -8321,7 +8337,7 @@ const data = {
     },
     {
       "name": "Diligent Zookeeper",
-      "universesBeyondImage": "https://cards.scryfall.io/normal/front/2/1/21f52564-9820-42dc-a08d-459d51afc397.jpg?1764121165"
+      "universesBeyondImage": "https://cards.scryfall.io/normal/front/2/1/21f52564-9820-42dc-a08d-459d51afc397.jpg?1771532900"
     },
     {
       "name": "The Earth King",
@@ -9141,10 +9157,6 @@ const data = {
       "universesBeyondImage": "https://cards.scryfall.io/normal/front/4/7/47c25e41-f43c-4447-81b5-b9631448bd29.jpg?1764120308"
     },
     {
-      "name": "Katara, Bending Prodigy",
-      "universesBeyondImage": "https://cards.scryfall.io/normal/front/e/8/e8372167-383f-4302-a8ea-b6bf495c870c.jpg?1764120318"
-    },
-    {
       "name": "Airbender Ascension",
       "universesBeyondImage": "https://cards.scryfall.io/normal/front/9/9/99a90d13-891c-45cc-b1d5-6080ebae5862.jpg?1764119907"
     },
@@ -9571,16 +9583,48 @@ const data = {
       "universesBeyondImage": "https://cards.scryfall.io/normal/front/b/2/b2caf8e8-f98f-484f-b233-54ccf71ff9b9.jpg?1769467466"
     },
     {
+      "name": "Action News Crew",
+      "universesBeyondImage": "https://cards.scryfall.io/normal/front/b/c/bc0f5ca8-47bd-4451-8fd1-a312ff7d31ec.jpg?1771342158"
+    },
+    {
       "name": "Leonardo, the Balance",
       "universesBeyondImage": "https://cards.scryfall.io/normal/front/7/2/72e637db-7112-406f-809b-0eda248488b5.jpg?1761372752"
+    },
+    {
+      "name": "Baxter, Fly in the Ointment",
+      "universesBeyondImage": "https://cards.scryfall.io/normal/front/f/5/f5ee290f-03cd-48a8-ba6e-d934cb3f4ff4.jpg?1771344233"
+    },
+    {
+      "name": "Jennika, Bad Apple Big Sister",
+      "universesBeyondImage": "https://cards.scryfall.io/normal/front/a/5/a5b83101-e3ef-4ffe-a886-4fc2b57a0947.jpg?1771502505"
     },
     {
       "name": "Rat King, the Chaosbringer",
       "universesBeyondImage": "https://cards.scryfall.io/normal/front/d/d/dd43716d-06bb-4187-ab77-414cfc59d20f.jpg?1761372639"
     },
     {
+      "name": "Robot",
+      "universesBeyondImage": "https://cards.scryfall.io/normal/front/0/8/08497fc5-1c0e-4c3c-a356-bf4b34bd4c45.jpg?1771590585"
+    },
+    {
+      "name": "Hamato Ninpō",
+      "universesBeyondImage": "https://cards.scryfall.io/normal/front/3/0/30f96e3b-fa3b-4737-ad66-1876a2482f14.jpg?1771502287"
+    },
+    {
+      "name": "Purple Dragon Punks",
+      "universesBeyondImage": "https://cards.scryfall.io/normal/front/b/b/bbe1d7e5-68e2-4458-aa3f-5e97fa8e7cae.jpg?1771586948"
+    },
+    {
       "name": "Leonardo, Worldly Warrior",
       "universesBeyondImage": "https://cards.scryfall.io/normal/front/b/6/b6913056-de4a-45ac-a731-b478bdad6754.jpg?1760103591"
+    },
+    {
+      "name": "Raphael, Most Attitude",
+      "universesBeyondImage": "https://cards.scryfall.io/normal/front/8/8/88385a87-f931-409f-8a21-250f0866d63d.jpg?1771502673"
+    },
+    {
+      "name": "Leo's Guidance",
+      "universesBeyondImage": "https://cards.scryfall.io/normal/front/a/9/a9498b8c-cb1c-46e2-a0b0-6c53d27d0bc9.jpg?1771502303"
     },
     {
       "name": "Raphael, Ninja Destroyer",
@@ -9591,12 +9635,44 @@ const data = {
       "universesBeyondImage": "https://cards.scryfall.io/normal/front/6/a/6af50b50-3776-4383-b493-7c5dd732c965.jpg?1769006162"
     },
     {
+      "name": "Splinter & Leo, Father & Son",
+      "universesBeyondImage": "https://cards.scryfall.io/normal/front/a/8/a8959c36-068f-48fa-ab6a-9dd24ba985ce.jpg?1771502310"
+    },
+    {
+      "name": "Raphael, Tough Turtle",
+      "universesBeyondImage": "https://cards.scryfall.io/normal/front/f/2/f24c90c8-ed04-4b4e-8b19-c7d07a90c6b8.jpg?1771342404"
+    },
+    {
+      "name": "Splinter, Aging Champion",
+      "universesBeyondImage": "https://cards.scryfall.io/normal/front/9/a/9a9cd2d2-74ba-497a-828c-ba22fbb9f2b1.jpg?1771344709"
+    },
+    {
       "name": "Raphael's Technique",
       "universesBeyondImage": "https://cards.scryfall.io/normal/front/7/c/7ce8b00f-5a4f-4206-8eb3-e79308e91f47.jpg?1760102758"
     },
     {
+      "name": "Triceraton Regenta",
+      "universesBeyondImage": "https://cards.scryfall.io/normal/front/6/0/60e9e931-6e64-439f-9513-c64cf17047f5.jpg?1771502316"
+    },
+    {
       "name": "Ravenous Robots",
       "universesBeyondImage": "https://cards.scryfall.io/normal/front/3/b/3b303ea3-9f4d-4c28-9446-285a23f841a0.jpg?1769006169"
+    },
+    {
+      "name": "Wooden Cane",
+      "universesBeyondImage": "https://cards.scryfall.io/normal/front/4/c/4c056bc2-e33e-4e8e-ab02-d5d0a4c8a13c.jpg?1771502323"
+    },
+    {
+      "name": "April O'Neil, Human Element",
+      "universesBeyondImage": "https://cards.scryfall.io/normal/front/c/d/cd6d7bba-2de4-49fe-8e07-a7c00c6bfc96.jpg?1771344781"
+    },
+    {
+      "name": "Rock Soldiers",
+      "universesBeyondImage": "https://cards.scryfall.io/normal/front/0/f/0fada65d-fd8d-4be9-b2bb-ea5cac78fdd7.jpg?1771586954"
+    },
+    {
+      "name": "Containment Protocol",
+      "universesBeyondImage": "https://cards.scryfall.io/normal/front/5/a/5a92ec45-3eb5-4212-bdbd-073cbd0299d7.jpg?1771502329"
     },
     {
       "name": "Slash, Reptile Rampager",
@@ -9607,16 +9683,72 @@ const data = {
       "universesBeyondImage": "https://cards.scryfall.io/normal/front/3/a/3a80b791-17e1-46be-bc65-ab96f52b23dd.jpg?1760103558"
     },
     {
+      "name": "Here Comes a New Hero!",
+      "universesBeyondImage": "https://cards.scryfall.io/normal/front/0/9/096a07e2-c213-4f8a-852f-813435bf1655.jpg?1771424133"
+    },
+    {
+      "name": "Koya, Death from Above",
+      "universesBeyondImage": "https://cards.scryfall.io/normal/front/7/a/7a4f1ccc-2225-4cd0-abef-0eb7a8eae9cf.jpg?1771586885"
+    },
+    {
+      "name": "Rocksteady, Rowdy Rhino",
+      "universesBeyondImage": "https://cards.scryfall.io/normal/front/1/b/1b2a91d9-42ae-4f2b-ba95-46dc74e68fd6.jpg?1771536267"
+    },
+    {
+      "name": "Donatello's Science Lesson",
+      "universesBeyondImage": "https://cards.scryfall.io/normal/front/d/7/d7f0365f-ec72-4472-9506-6cc3e490b2e2.jpg?1771502336"
+    },
+    {
+      "name": "Wingnut, Bat on the Belfry",
+      "universesBeyondImage": "https://cards.scryfall.io/normal/front/4/0/40b9b1d0-b7d1-473e-b6a9-a29d527c2f35.jpg?1771502679"
+    },
+    {
       "name": "Donnie & April, Adorkable Duo",
       "universesBeyondImage": "https://cards.scryfall.io/normal/front/7/b/7b4bdb8c-e19f-46bd-9743-edc26ee5c8e2.jpg?1760103515"
+    },
+    {
+      "name": "Zog, Triceraton Castaway",
+      "universesBeyondImage": "https://cards.scryfall.io/normal/front/a/8/a83a70ba-448e-45f3-b23b-6f38af54811f.jpg?1771502686"
+    },
+    {
+      "name": "Cowabunga!",
+      "universesBeyondImage": "https://cards.scryfall.io/normal/front/0/f/0ffce972-bed9-445a-a9a0-4816f156d88d.jpg?1771342415"
+    },
+    {
+      "name": "Utrom Monitor",
+      "universesBeyondImage": "https://cards.scryfall.io/normal/front/8/c/8ce6647c-343a-45e8-9b6e-0292ae01ec81.jpg?1771766039"
+    },
+    {
+      "name": "Casey & Raph, Hotheads",
+      "universesBeyondImage": "https://cards.scryfall.io/normal/front/b/c/bc235c57-b263-418a-8d33-094d9ba1f5e6.jpg?1771502351"
+    },
+    {
+      "name": "Frog Butler",
+      "universesBeyondImage": "https://cards.scryfall.io/normal/front/d/1/d1a72d09-9cfc-463a-a9ec-3359003d54da.jpg?1771502693"
+    },
+    {
+      "name": "Casey Jones, Asphalt Hooligan",
+      "universesBeyondImage": "https://cards.scryfall.io/normal/front/a/2/a2754751-031f-4682-86fd-ea9a60a33a05.jpg?1771502358"
     },
     {
       "name": "Groundchuck & Dirtbag",
       "universesBeyondImage": "https://cards.scryfall.io/normal/front/1/5/1563592e-0f21-4488-a3ec-ca766386e423.jpg?1769006182"
     },
     {
+      "name": "Guac & Marshmallow Pizza",
+      "universesBeyondImage": "https://cards.scryfall.io/normal/front/a/5/a5405de0-16c9-4e5a-8ceb-00508e212f12.jpg?1771502701"
+    },
+    {
       "name": "Leatherhead, Swamp Stalker",
       "universesBeyondImage": "https://cards.scryfall.io/normal/front/b/1/b1f6b5b5-12ca-468d-bc53-dd0cde60e7b6.jpg?1769006176"
+    },
+    {
+      "name": "Monster Mashup",
+      "universesBeyondImage": "https://cards.scryfall.io/normal/front/e/2/e27bc544-ff5f-405c-914e-b727341b776e.jpg?1771539411"
+    },
+    {
+      "name": "Michelangelo, Game Master",
+      "universesBeyondImage": "https://cards.scryfall.io/normal/front/2/e/2e914c3d-2eed-48bf-af9a-a8998fd5111d.jpg?1771502708"
     },
     {
       "name": "Raphael, Tag Team Tough",
@@ -9627,12 +9759,48 @@ const data = {
       "universesBeyondImage": "https://cards.scryfall.io/normal/front/9/5/955848c0-5092-4e13-97c9-5978d44d5586.jpg?1769006201"
     },
     {
+      "name": "Raph's Bravado",
+      "universesBeyondImage": "https://cards.scryfall.io/normal/front/c/f/cf1aa146-fa2e-4996-9b36-2262d3cdc04d.jpg?1771502380"
+    },
+    {
+      "name": "Irma, Part-Time Mutant",
+      "universesBeyondImage": "https://cards.scryfall.io/normal/front/c/3/c3128529-4ccd-4809-8388-03f7faa0eabe.jpg?1771424140"
+    },
+    {
+      "name": "The Last Ronin's Technique",
+      "universesBeyondImage": "https://cards.scryfall.io/normal/front/d/f/dfb18239-d373-4795-8598-c82abae2cb62.jpg?1771342217"
+    },
+    {
+      "name": "Savanti Romero, Temporal Rogue",
+      "universesBeyondImage": "https://cards.scryfall.io/normal/front/2/2/22c51c78-a578-4a1a-87b0-430b32da7d78.jpg?1771536274"
+    },
+    {
+      "name": "Michelangelo, Mutant BFF",
+      "universesBeyondImage": "https://cards.scryfall.io/normal/front/0/2/02f7281f-b50c-4a1c-a2fc-3caeb6ab7d41.jpg?1771502715"
+    },
+    {
+      "name": "Storm of Steel",
+      "universesBeyondImage": "https://cards.scryfall.io/normal/front/1/8/18836218-292e-4217-b040-2658cea94a29.jpg?1771502387"
+    },
+    {
       "name": "Michelangelo, Weirdness to 11",
       "universesBeyondImage": "https://cards.scryfall.io/normal/front/1/8/18477047-218d-4b2a-a086-37431b6a3025.jpg?1769006195"
     },
     {
+      "name": "Ticked Off",
+      "universesBeyondImage": "https://cards.scryfall.io/normal/front/9/0/909b765a-1a2b-403b-8842-657e0d482357.jpg?1771502394"
+    },
+    {
+      "name": "Foe-liage",
+      "universesBeyondImage": "https://cards.scryfall.io/normal/front/d/5/d54cd688-8950-4a84-a74f-5f31b344b6c9.jpg?1771502405"
+    },
+    {
       "name": "Michelangelo's Technique",
       "universesBeyondImage": "https://cards.scryfall.io/normal/front/3/a/3a63c06a-7c59-4b72-b916-e5b6ad78c684.jpg?1769006772"
+    },
+    {
+      "name": "Mona Lisa, Science Geek",
+      "universesBeyondImage": "https://cards.scryfall.io/normal/front/c/2/c2164204-120c-4dff-86ac-46ca9012ccd9.jpg?1771424712"
     },
     {
       "name": "Michelangelo, On the Scene",
@@ -9643,8 +9811,48 @@ const data = {
       "universesBeyondImage": "https://cards.scryfall.io/normal/front/9/f/9f9085f0-3702-462c-8c81-b4576236792d.jpg?1769006218"
     },
     {
+      "name": "Mikey & Mona, Mutant Sitters",
+      "universesBeyondImage": "https://cards.scryfall.io/normal/front/f/b/fb7fdad9-8a39-4c66-b9d2-cfce8c4928a5.jpg?1771502413"
+    },
+    {
+      "name": "Mutant Chain Reaction",
+      "universesBeyondImage": "https://cards.scryfall.io/normal/front/8/7/8763e0ee-a48e-424f-8bce-132582d5944b.jpg?1771342410"
+    },
+    {
+      "name": "Mona Lisa, Ever Adaptable",
+      "universesBeyondImage": "https://cards.scryfall.io/normal/front/4/1/41f1503b-b056-4f7c-94a1-1e6d78eb209b.jpg?1771502420"
+    },
+    {
+      "name": "New Generation's Technique",
+      "universesBeyondImage": "https://cards.scryfall.io/normal/front/f/1/f1616a07-e4a1-4574-b341-d6b31d76b3c5.jpg?1771586961"
+    },
+    {
+      "name": "Novel Nunchaku",
+      "universesBeyondImage": "https://cards.scryfall.io/normal/front/f/3/f37ef012-c566-4d16-acf8-6079244907be.jpg?1771502723"
+    },
+    {
+      "name": "Prehistoric Turtlesaurus",
+      "universesBeyondImage": "https://cards.scryfall.io/normal/front/b/b/bb73c782-d246-4a4c-b15c-e7d8f944221a.jpg?1771502431"
+    },
+    {
       "name": "Party Dude",
       "universesBeyondImage": "https://cards.scryfall.io/normal/front/d/2/d27b6f2a-84df-4097-a66a-8e463db47f58.jpg?1769006231"
+    },
+    {
+      "name": "Study the Classics",
+      "universesBeyondImage": "https://cards.scryfall.io/normal/front/c/6/c609e1a6-3976-4d54-889d-e95ba4f25c1f.jpg?1771502439"
+    },
+    {
+      "name": "Primordial Pachyderm",
+      "universesBeyondImage": "https://cards.scryfall.io/normal/front/e/1/e1a866e6-4108-4290-9680-8f1652fbcf77.jpg?1771502730"
+    },
+    {
+      "name": "Turtle Tracks",
+      "universesBeyondImage": "https://cards.scryfall.io/normal/front/b/7/b7e2ece7-8182-4ad8-a266-bffcb4be4522.jpg?1771344787"
+    },
+    {
+      "name": "Krang, the All-Powerful",
+      "universesBeyondImage": "https://cards.scryfall.io/normal/front/0/8/08a0ca58-e29e-477e-9377-f8b00e4b28a0.jpg?1771424147"
     },
     {
       "name": "Leader's Talent",
@@ -9655,6 +9863,26 @@ const data = {
       "universesBeyondImage": "https://cards.scryfall.io/normal/front/1/9/19f04282-ef44-4474-bb0f-bcc938bdba7a.jpg?1761372642"
     },
     {
+      "name": "Manhole Cover",
+      "universesBeyondImage": "https://cards.scryfall.io/normal/front/5/e/5eeb4a0e-20d4-461b-954e-ef65c8612f68.jpg?1771502452"
+    },
+    {
+      "name": "Ragamuffin Raptor",
+      "universesBeyondImage": "https://cards.scryfall.io/normal/front/2/e/2edc1d40-3154-4ec0-88c7-faf35fd5e560.jpg?1771502737"
+    },
+    {
+      "name": "Rocksteady, Crash Courser",
+      "universesBeyondImage": "https://cards.scryfall.io/normal/front/e/b/ebbb5756-80fa-406f-8daa-be1f5a6c3c80.jpg?1771586968"
+    },
+    {
+      "name": "Saved by the Shell",
+      "universesBeyondImage": "https://cards.scryfall.io/normal/front/f/6/f6314c7f-41dc-4bbd-99db-3a8a1d2977b2.jpg?1771586974"
+    },
+    {
+      "name": "Tenderize",
+      "universesBeyondImage": "https://cards.scryfall.io/normal/front/b/c/bc19807b-09e8-4923-abc3-d4bbe8cde5fc.jpg?1771502744"
+    },
+    {
       "name": "Transdimensional Bovine",
       "universesBeyondImage": "https://cards.scryfall.io/normal/front/d/e/de124563-205c-4f40-8c13-4ae203599912.jpg?1769006238"
     },
@@ -9663,8 +9891,40 @@ const data = {
       "universesBeyondImage": "https://cards.scryfall.io/normal/front/4/0/4079ca90-dcc3-4184-9dfc-a626e0776332.jpg?1769006224"
     },
     {
+      "name": "Venus, Torn Between Worlds",
+      "universesBeyondImage": "https://cards.scryfall.io/normal/front/f/c/fcb59b16-3d76-478e-9306-969dd2cb1b5a.jpg?1771586980"
+    },
+    {
+      "name": "West Wind Avatar",
+      "universesBeyondImage": "https://cards.scryfall.io/normal/front/f/4/f4b8f7e6-9bff-430b-b2f5-4308d57d1194.jpg?1771586987"
+    },
+    {
+      "name": "Zoo Escapees",
+      "universesBeyondImage": "https://cards.scryfall.io/normal/front/f/5/f57ba8ff-2f8c-4ca1-9b13-42a7cc213e99.jpg?1771502750"
+    },
+    {
+      "name": "Baxter Stockman",
+      "universesBeyondImage": "https://cards.scryfall.io/normal/front/1/1/117b1341-2cf0-466e-b3a8-7e1afa42cd4c.jpg?1771586994"
+    },
+    {
+      "name": "Leonardo, Big Brother",
+      "universesBeyondImage": "https://cards.scryfall.io/normal/front/e/8/e802838f-cc8c-4313-8c3b-32a6a7248e64.jpg?1771502512"
+    },
+    {
+      "name": "Ray Fillet, Wave Warrior",
+      "universesBeyondImage": "https://cards.scryfall.io/normal/front/7/9/796c1b1c-c701-4c7e-922b-0964f04e03a6.jpg?1771424154"
+    },
+    {
+      "name": "Slash, the Dark Mirror",
+      "universesBeyondImage": "https://cards.scryfall.io/normal/front/6/d/6d84f8fc-0da6-4acc-9da2-9993daabd9f4.jpg?1771536281"
+    },
+    {
       "name": "Bebop & Rocksteady",
       "universesBeyondImage": "https://cards.scryfall.io/normal/front/5/3/535461bd-f763-408b-816f-64b7bfb9210d.jpg?1760102796"
+    },
+    {
+      "name": "Brilliance Unleashed",
+      "universesBeyondImage": "https://cards.scryfall.io/normal/front/b/7/b7ab2110-5aad-46c9-8dc4-1eac24b6f46b.jpg?1771587000"
     },
     {
       "name": "Dark Leo & Shredder",
@@ -9679,8 +9939,48 @@ const data = {
       "universesBeyondImage": "https://cards.scryfall.io/normal/front/4/f/4f38126c-26a9-4447-801f-4f19e84c4aa5.jpg?1769006276"
     },
     {
+      "name": "EPF Point Squad",
+      "universesBeyondImage": "https://cards.scryfall.io/normal/front/f/a/faab52c0-ce79-40af-a156-b193a62d439e.jpg?1771502756"
+    },
+    {
+      "name": "Foot Elite",
+      "universesBeyondImage": "https://cards.scryfall.io/normal/front/2/4/24bd571e-652a-4e7c-afc6-a45f0ccf62f6.jpg?1771342404"
+    },
+    {
+      "name": "Foot Ninjas",
+      "universesBeyondImage": "https://cards.scryfall.io/normal/front/a/b/abb1ab9c-b067-4b75-8e5b-a893b7948df1.jpg?1771503783"
+    },
+    {
+      "name": "Genghis Frog",
+      "universesBeyondImage": "https://cards.scryfall.io/normal/front/7/d/7df26085-eedb-4bdd-a60a-aabfbe9c3157.jpg?1771342425"
+    },
+    {
+      "name": "Go Ninja Go",
+      "universesBeyondImage": "https://cards.scryfall.io/normal/front/9/0/90e68cd8-ea76-4bd1-9199-474da9c3e8bf.jpg?1771587007"
+    },
+    {
+      "name": "Bebop, Skull & Crossbones",
+      "universesBeyondImage": "https://cards.scryfall.io/normal/front/a/f/af2a1494-9c0d-4590-999b-2c52725dc5d0.jpg?1771424167"
+    },
+    {
       "name": "Leonardo, Cutting Edge",
       "universesBeyondImage": "https://cards.scryfall.io/normal/front/7/4/74c11ee3-19d1-4ad5-a727-1d74c565d6a5.jpg?1769005535"
+    },
+    {
+      "name": "Event: Baxter's Experiments",
+      "universesBeyondImage": "https://cards.scryfall.io/normal/front/c/b/cb231e4d-dbba-4475-a01b-212d83859722.jpg?1771536328"
+    },
+    {
+      "name": "Ice Cream Kitty",
+      "universesBeyondImage": "https://cards.scryfall.io/normal/front/6/6/66081fd3-2457-4602-96c4-3075ddfec1c2.jpg?1771587014"
+    },
+    {
+      "name": "Karai, Future of the Foot",
+      "universesBeyondImage": "https://cards.scryfall.io/normal/front/0/d/0dded2d4-1640-4431-809e-403b51b27db6.jpg?1771342417"
+    },
+    {
+      "name": "Karai's Technique",
+      "universesBeyondImage": "https://cards.scryfall.io/normal/front/0/3/037fe188-3355-4724-b2eb-e2448fc55607.jpg?1771587021"
     },
     {
       "name": "Krang & Shredder",
@@ -9688,7 +9988,15 @@ const data = {
     },
     {
       "name": "The Last Ronin",
-      "universesBeyondImage": "https://cards.scryfall.io/normal/front/7/2/72ab3ccf-3ddb-4dd1-9cfb-98802a18d954.jpg?1769006244"
+      "universesBeyondImage": "https://cards.scryfall.io/normal/front/7/2/72ab3ccf-3ddb-4dd1-9cfb-98802a18d954.jpg?1771603465"
+    },
+    {
+      "name": "Lessons from Life",
+      "universesBeyondImage": "https://cards.scryfall.io/normal/front/0/f/0f886117-aff3-4db7-9cf5-7cbe94c8cd02.jpg?1771424719"
+    },
+    {
+      "name": "Mechanized Ninja Cavalry",
+      "universesBeyondImage": "https://cards.scryfall.io/normal/front/2/c/2cb65388-dc6c-4e2a-93ac-49ea484849e9.jpg?1771502774"
     },
     {
       "name": "Mikey & Don, Party Planners",
@@ -9699,8 +10007,44 @@ const data = {
       "universesBeyondImage": "https://cards.scryfall.io/normal/front/9/c/9cfeb2b4-937c-4bcc-bb03-467cc0effba2.jpg?1769006353"
     },
     {
+      "name": "Mouser Mark III",
+      "universesBeyondImage": "https://cards.scryfall.io/normal/front/6/0/608a13b4-0b94-4be5-ac4b-e939901e8419.jpg?1771502784"
+    },
+    {
+      "name": "Dimension X Pizzasaur",
+      "universesBeyondImage": "https://cards.scryfall.io/normal/front/f/e/fe4ab58f-3fb5-45fa-8ea1-794efa6f7da9.jpg?1771424174"
+    },
+    {
+      "name": "Leonardo, Leader in Blue",
+      "universesBeyondImage": "https://cards.scryfall.io/normal/front/d/6/d6eaae35-d513-43d8-be2d-b97c15e25937.jpg?1771502519"
+    },
+    {
+      "name": "Event: Bebop's Rampage",
+      "universesBeyondImage": "https://cards.scryfall.io/normal/front/b/0/b05811b0-1856-4cf8-9910-44da1a994116.jpg?1771536334"
+    },
+    {
+      "name": "The Neutrinos",
+      "universesBeyondImage": "https://cards.scryfall.io/normal/front/1/3/1308dadc-08a9-40bd-98a4-fb66d792e27d.jpg?1771587028"
+    },
+    {
+      "name": "Nobody",
+      "universesBeyondImage": "https://cards.scryfall.io/normal/front/0/9/0966b8ff-61d3-4394-a357-97c35f042a29.jpg?1771587036"
+    },
+    {
       "name": "North Wind Avatar",
       "universesBeyondImage": "https://cards.scryfall.io/normal/front/4/1/41439cfe-bb3e-42f3-9d81-de9db537ce68.jpg?1769006359"
+    },
+    {
+      "name": "Pizza Face, Gastromancer",
+      "universesBeyondImage": "https://cards.scryfall.io/normal/front/b/0/b03cf0bb-3207-4e8e-bb3f-e3e4367aa86e.jpg?1771599896"
+    },
+    {
+      "name": "Punk Frogs",
+      "universesBeyondImage": "https://cards.scryfall.io/normal/front/3/7/375c91a3-53c4-4f2d-bf7b-2c79a219d3ae.jpg?1771587049"
+    },
+    {
+      "name": "Putrid Pals",
+      "universesBeyondImage": "https://cards.scryfall.io/normal/front/4/2/42cdb88d-675a-43bb-b85c-51c4cc526315.jpg?1771587057"
     },
     {
       "name": "Raph & Leo, Sibling Rivals",
@@ -9711,12 +10055,28 @@ const data = {
       "universesBeyondImage": "https://cards.scryfall.io/normal/front/8/7/8795fba4-0ff3-4c04-a81c-60408608a00c.jpg?1769006366"
     },
     {
+      "name": "Slithering Cryptid",
+      "universesBeyondImage": "https://cards.scryfall.io/normal/front/6/d/6d35cb39-8832-4cf1-be73-8de49fbea529.jpg?1771502794"
+    },
+    {
       "name": "Splinter, Radical Rat",
       "universesBeyondImage": "https://cards.scryfall.io/normal/front/f/0/f0797466-c527-4d35-86bc-e0e90fd04073.jpg?1769024412"
     },
     {
+      "name": "Foot Chopper",
+      "universesBeyondImage": "https://cards.scryfall.io/normal/front/f/4/f43fa5c7-51e6-4824-95f8-837ccc77a6ce.jpg?1771424180"
+    },
+    {
       "name": "Leonardo, Sewer Samurai",
       "universesBeyondImage": "https://cards.scryfall.io/normal/front/0/e/0e3a0a26-c163-4f31-bed8-1be52a35feea.jpg?1764512256"
+    },
+    {
+      "name": "Event: Chrome Dome's Overload",
+      "universesBeyondImage": "https://cards.scryfall.io/normal/front/7/f/7f183188-a0a2-474c-b741-63a70365fd8e.jpg?1771342636"
+    },
+    {
+      "name": "Tainted Treats",
+      "universesBeyondImage": "https://cards.scryfall.io/normal/front/f/a/fa684608-ecd3-43e2-99a1-71318f133e29.jpg?1771587064"
     },
     {
       "name": "Tokka & Rahzar, Terrible Twos",
@@ -9727,20 +10087,48 @@ const data = {
       "universesBeyondImage": "https://cards.scryfall.io/normal/front/9/9/994a01eb-2689-49e7-be23-0713da9da9a8.jpg?1769006406"
     },
     {
+      "name": "Everything Pizza",
+      "universesBeyondImage": "https://cards.scryfall.io/normal/front/d/f/df2cdaa5-9ea0-4aa5-89d3-9edf40fa2a39.jpg?1771476702"
+    },
+    {
+      "name": "Henchbots",
+      "universesBeyondImage": "https://cards.scryfall.io/normal/front/d/7/d77aa46e-fa57-4427-b0a3-0a957dc994dc.jpg?1771502803"
+    },
+    {
       "name": "Krang, Utrom Warlord",
       "universesBeyondImage": "https://cards.scryfall.io/normal/front/8/8/88d36c32-d6f9-46e4-9cc8-08e6c0ff05d2.jpg?1769006413"
+    },
+    {
+      "name": "Omni-Cheese Pizza",
+      "universesBeyondImage": "https://cards.scryfall.io/normal/front/f/2/f2c8397c-2014-4a43-9ed7-41795880011f.jpg?1771587071"
     },
     {
       "name": "The Ooze",
       "universesBeyondImage": "https://cards.scryfall.io/normal/front/1/f/1f9bd4da-4626-40ba-95f4-14e3de36f989.jpg?1769006428"
     },
     {
+      "name": "Skateboard",
+      "universesBeyondImage": "https://cards.scryfall.io/normal/front/d/e/deadb6d8-3eea-4261-a07c-8536df89e85c.jpg?1771502813"
+    },
+    {
       "name": "Technodrome",
       "universesBeyondImage": "https://cards.scryfall.io/normal/front/2/8/287f5ab0-b15b-4507-8a24-585f9a9841ad.jpg?1769006421"
     },
     {
+      "name": "Game Over",
+      "universesBeyondImage": "https://cards.scryfall.io/normal/front/f/1/f1eb50a6-07e2-41de-b948-8075bba197ee.jpg?1771344255"
+    },
+    {
       "name": "Leonardo's Technique",
       "universesBeyondImage": "https://cards.scryfall.io/normal/front/4/0/405e4057-e26c-4882-89a9-706868548c37.jpg?1769005546"
+    },
+    {
+      "name": "Event: Karai's Planning",
+      "universesBeyondImage": "https://cards.scryfall.io/normal/front/3/3/33dd64d2-8656-4ee8-93a8-fccbdc950899.jpg?1771536342"
+    },
+    {
+      "name": "Turtle Blimp",
+      "universesBeyondImage": "https://cards.scryfall.io/normal/front/6/e/6e118fc5-b0ae-4592-8292-d611856ae203.jpg?1771587078"
     },
     {
       "name": "Turtle Van",
@@ -9751,8 +10139,44 @@ const data = {
       "universesBeyondImage": "https://cards.scryfall.io/normal/front/a/a/aaba62c1-760b-491b-8047-869bb1d3f67e.jpg?1769006491"
     },
     {
+      "name": "Dimension X",
+      "universesBeyondImage": "https://cards.scryfall.io/normal/front/1/c/1c244fc2-70f0-4149-b0d2-d49fc6bac2b0.jpg?1771587085"
+    },
+    {
+      "name": "Foot Headquarters",
+      "universesBeyondImage": "https://cards.scryfall.io/normal/front/4/5/45e68113-3f05-4547-947d-4cb9ebfa73c7.jpg?1771587092"
+    },
+    {
+      "name": "Illegitimate Business",
+      "universesBeyondImage": "https://cards.scryfall.io/normal/front/7/1/71597acf-1ce6-46a8-b6c0-88755c8a377c.jpg?1771587098"
+    },
+    {
+      "name": "Mutant Town",
+      "universesBeyondImage": "https://cards.scryfall.io/normal/front/c/6/c6eac43d-08b6-45a4-803b-10a321a241d7.jpg?1771587105"
+    },
+    {
       "name": "Northampton Farm",
       "universesBeyondImage": "https://cards.scryfall.io/normal/front/d/b/dbca168e-095f-4fbc-88f8-3048d83caf94.jpg?1769006600"
+    },
+    {
+      "name": "TCRI Building",
+      "universesBeyondImage": "https://cards.scryfall.io/normal/front/8/8/8817a1d6-ef39-4e7c-8277-74aea012803b.jpg?1771587112"
+    },
+    {
+      "name": "Lita, Little Orphan Amphibian",
+      "universesBeyondImage": "https://cards.scryfall.io/normal/front/9/f/9fbaabb5-e981-4cbf-888c-46449412711f.jpg?1771424706"
+    },
+    {
+      "name": "Rat King, Pale Piper",
+      "universesBeyondImage": "https://cards.scryfall.io/normal/front/9/b/9b215ce4-a085-4627-99b1-f4f1344ad41b.jpg?1771424187"
+    },
+    {
+      "name": "Event: Krang's Stratagem",
+      "universesBeyondImage": "https://cards.scryfall.io/normal/front/7/c/7c25a10b-e2a7-4345-ae6f-021b607a3e59.jpg?1771536368"
+    },
+    {
+      "name": "Turtle Lair",
+      "universesBeyondImage": "https://cards.scryfall.io/normal/front/c/5/c50c4580-979b-4863-86b9-16e258198972.jpg?1771424738"
     },
     {
       "name": "Agent Bishop, Man in Black",
@@ -9763,44 +10187,228 @@ const data = {
       "universesBeyondImage": "https://cards.scryfall.io/normal/front/7/7/774716f4-d211-497a-be91-69cd700edbf2.jpg?1761372747"
     },
     {
+      "name": "Dinosaur Soldier",
+      "universesBeyondImage": "https://cards.scryfall.io/normal/front/f/8/f8845523-62d5-451c-aa20-780c64bb44b3.jpg?1771590377"
+    },
+    {
+      "name": "Shredder, Shadow Master",
+      "universesBeyondImage": "https://cards.scryfall.io/normal/front/d/d/ddf4d3c9-bef9-4796-91ef-3d5beebae571.jpg?1771344271"
+    },
+    {
+      "name": "Event: Leatherhead's Smackdown",
+      "universesBeyondImage": "https://cards.scryfall.io/normal/front/f/a/fac36345-b2fb-4a44-a499-f68bbe87e736.jpg?1771342647"
+    },
+    {
+      "name": "Mighty Mutanimals",
+      "universesBeyondImage": "https://cards.scryfall.io/normal/front/5/d/5dd5369c-174c-450b-b776-553866787f8f.jpg?1771502533"
+    },
+    {
+      "name": "Swift Demise",
+      "universesBeyondImage": "https://cards.scryfall.io/normal/front/4/4/442feb65-9c0f-4962-8518-78e6d314c916.jpg?1771424193"
+    },
+    {
+      "name": "Event: Rat King's Revolution",
+      "universesBeyondImage": "https://cards.scryfall.io/normal/front/b/b/bbafc14d-099c-4bad-a90c-788d2b838186.jpg?1771536379"
+    },
+    {
+      "name": "Casey Jones, Back Alley Brute",
+      "universesBeyondImage": "https://cards.scryfall.io/normal/front/4/1/416d888d-2699-49bd-830b-bf5bda25c91f.jpg?1771424200"
+    },
+    {
       "name": "Prehistoric Pet",
       "universesBeyondImage": "https://cards.scryfall.io/normal/front/1/4/148e6acd-a96a-4bea-8cfe-a129cd8d1003.jpg?1769005558"
+    },
+    {
+      "name": "Event: Rocksteady's Beatdown",
+      "universesBeyondImage": "https://cards.scryfall.io/normal/front/7/f/7fbf846e-9496-470d-b039-b4cd9e71f066.jpg?1771536385"
+    },
+    {
+      "name": "Electric Seaweed",
+      "universesBeyondImage": "https://cards.scryfall.io/normal/front/1/e/1ead9586-2b40-498e-90d3-c8a3aa81ef92.jpg?1771344285"
+    },
+    {
+      "name": "Quintessential Katana",
+      "universesBeyondImage": "https://cards.scryfall.io/normal/front/e/f/ef9e227e-c581-479c-a962-2f191352b07f.jpg?1771502541"
+    },
+    {
+      "name": "Event: Savanti Romero's Curse",
+      "universesBeyondImage": "https://cards.scryfall.io/normal/front/8/4/84c98b5c-4bec-4455-9681-045842a87721.jpg?1771536416"
+    },
+    {
+      "name": "Fast Forward",
+      "universesBeyondImage": "https://cards.scryfall.io/normal/front/f/e/fe07512e-46c1-4f45-a06f-5875acaf8928.jpg?1771424206"
     },
     {
       "name": "Sally Pride, Lioness Leader",
       "universesBeyondImage": "https://cards.scryfall.io/normal/front/b/c/bcd8ee6b-7142-4548-8b7a-691a36411851.jpg?1769005568"
     },
     {
+      "name": "Event: Shredder's Challenge",
+      "universesBeyondImage": "https://cards.scryfall.io/normal/front/8/b/8b673d4b-0188-4225-9067-dc61386a18fd.jpg?1771536444"
+    },
+    {
+      "name": "Shellshock",
+      "universesBeyondImage": "https://cards.scryfall.io/normal/front/7/d/7d180bb8-6a33-4c55-b4c0-2abbf6595d7b.jpg?1771424213"
+    },
+    {
       "name": "Triceraton Commander",
       "universesBeyondImage": "https://cards.scryfall.io/normal/front/6/4/6445b690-71ce-4371-ae9c-bac0e70dda81.jpg?1769005579"
+    },
+    {
+      "name": "Event: Slash's Smash",
+      "universesBeyondImage": "https://cards.scryfall.io/normal/front/f/5/f5287c97-72fa-47a0-9316-44719e447f99.jpg?1771536451"
+    },
+    {
+      "name": "Special Move",
+      "universesBeyondImage": "https://cards.scryfall.io/normal/front/6/0/600e2c3f-dfbd-4d5c-813a-47ae2d75ac12.jpg?1771424220"
     },
     {
       "name": "Turncoat Kunoichi",
       "universesBeyondImage": "https://cards.scryfall.io/normal/front/3/a/3ae61336-a4ee-40cd-9a18-392d96b873a4.jpg?1769685362"
     },
     {
+      "name": "Event: Villain Infiltration",
+      "universesBeyondImage": "https://cards.scryfall.io/normal/front/3/2/321f758f-a738-4f9b-a1d8-8edeb4fd9aff.jpg?1771536457"
+    },
+    {
+      "name": "Tempestra, Dame of Games",
+      "universesBeyondImage": "https://cards.scryfall.io/normal/front/4/c/4ccb74c9-046a-4d6b-b8c2-641e2a238d52.jpg?1771424226"
+    },
+    {
       "name": "Turtles Forever",
       "universesBeyondImage": "https://cards.scryfall.io/normal/front/f/0/f0db974a-3289-4727-9aaf-e9cca9113c87.jpg?1760102536"
+    },
+    {
+      "name": "Event: Villain Mayhem!",
+      "universesBeyondImage": "https://cards.scryfall.io/normal/front/e/0/e05ee2a3-4054-48a5-8646-6588d1b39fb8.jpg?1771536463"
+    },
+    {
+      "name": "Tokka & Rahzar, Unsupervised",
+      "universesBeyondImage": "https://cards.scryfall.io/normal/front/8/b/8bc5a0ac-5979-43ce-8a65-98c5f09f4aa6.jpg?1771424232"
+    },
+    {
+      "name": "Uneasy Alliance",
+      "universesBeyondImage": "https://cards.scryfall.io/normal/front/5/d/5d9a4f9a-1e3a-4de8-a7c0-7158c6703b4e.jpg?1771586776"
+    },
+    {
+      "name": "Event: Villain Scheme!",
+      "universesBeyondImage": "https://cards.scryfall.io/normal/front/3/1/3119f359-ca5f-46f4-aa32-c03db9a4f397.jpg?1771536469"
     },
     {
       "name": "April O'Neil, Hacktivist",
       "universesBeyondImage": "https://cards.scryfall.io/normal/front/f/0/f0147f6d-b797-4d5e-aca2-a9d309896eca.jpg?1760102651"
     },
     {
+      "name": "High Score",
+      "universesBeyondImage": "https://cards.scryfall.io/normal/front/b/9/b9077ef5-d19a-4106-950b-bb49b3b37510.jpg?1771344338"
+    },
+    {
+      "name": "Foot Skirmisher",
+      "universesBeyondImage": "https://cards.scryfall.io/normal/front/b/d/bd58ad15-8d15-46f6-b9b3-05ee8cbecadc.jpg?1771536475"
+    },
+    {
+      "name": "April O'Neil, Kunoichi Trainee",
+      "universesBeyondImage": "https://cards.scryfall.io/normal/front/8/b/8b1982ea-686b-4acd-b677-47571430efb0.jpg?1771586740"
+    },
+    {
       "name": "Splinter, the Mentor",
       "universesBeyondImage": "https://cards.scryfall.io/normal/front/0/6/06c595fa-55ff-46f3-afaf-17edae465864.jpg?1761372769"
+    },
+    {
+      "name": "Ninja Turtle Spirit",
+      "universesBeyondImage": "https://cards.scryfall.io/normal/front/9/8/98c32288-8676-44d0-b480-7eddcac1a0e4.jpg?1771590416"
+    },
+    {
+      "name": "April, Reporter of the Weird",
+      "universesBeyondImage": "https://cards.scryfall.io/normal/front/3/1/31aa943f-c9db-43dc-8a72-7ef56f9f5c8b.jpg?1771502549"
+    },
+    {
+      "name": "Leatherhead, Iron Gator",
+      "universesBeyondImage": "https://cards.scryfall.io/normal/front/c/0/c0cacd61-bdce-46c6-ac7f-b084987d9aec.jpg?1771344359"
+    },
+    {
+      "name": "Foot Disciple",
+      "universesBeyondImage": "https://cards.scryfall.io/normal/front/f/5/f5dd41f4-3153-408a-a20c-09334cfd686c.jpg?1771536482"
+    },
+    {
+      "name": "Bespoke Bō",
+      "universesBeyondImage": "https://cards.scryfall.io/normal/front/6/c/6c517308-831b-4e41-a82c-02ddf6383a0c.jpg?1771586788"
+    },
+    {
+      "name": "Level Up",
+      "universesBeyondImage": "https://cards.scryfall.io/normal/front/d/4/d4398907-17d2-4fad-bfa9-56925fb75834.jpg?1771344371"
+    },
+    {
+      "name": "Foot Enforcer",
+      "universesBeyondImage": "https://cards.scryfall.io/normal/front/6/4/641b27a0-7fe5-4987-81bd-aa208b7463fd.jpg?1771536488"
+    },
+    {
+      "name": "Buzz Bots",
+      "universesBeyondImage": "https://cards.scryfall.io/normal/front/7/c/7c375190-f81b-4ab1-a1b6-fe432796821f.jpg?1771502556"
+    },
+    {
+      "name": "Ninja Pizza",
+      "universesBeyondImage": "https://cards.scryfall.io/normal/front/7/4/74c24ff9-d3d2-4ffb-bf8b-dba803481a99.jpg?1771344383"
+    },
+    {
+      "name": "Crustacean Commando",
+      "universesBeyondImage": "https://cards.scryfall.io/normal/front/9/5/9528cc07-df4b-417f-ad65-c2fae6fc2d49.jpg?1771502563"
+    },
+    {
+      "name": "Rocksteady, Mutant Marauder",
+      "universesBeyondImage": "https://cards.scryfall.io/normal/front/a/e/ae25d91f-5489-4cd8-8634-42bcd32d4cf1.jpg?1771424239"
     },
     {
       "name": "Does Machines",
       "universesBeyondImage": "https://cards.scryfall.io/normal/front/9/8/989da63a-2cbd-41a9-9bbb-99f4ad1c6a25.jpg?1769005611"
     },
     {
+      "name": "Super Combo",
+      "universesBeyondImage": "https://cards.scryfall.io/normal/front/5/2/52bed0d4-3bcf-4770-b9c9-2a1d0666d220.jpg?1771424246"
+    },
+    {
       "name": "Donatello, Gadget Master",
       "universesBeyondImage": "https://cards.scryfall.io/normal/front/8/b/8b5dd830-dab8-4628-845f-3d17973f9ffa.jpg?1769005622"
     },
     {
+      "name": "Double Jump // Flying Kick",
+      "universesBeyondImage": "https://cards.scryfall.io/normal/front/c/0/c0b94a92-48d5-4d08-a8fa-6f3a992db941.jpg?1771947292"
+    },
+    {
+      "name": "Arcade Cabinet",
+      "universesBeyondImage": "https://cards.scryfall.io/normal/front/b/2/b2fd1df8-cc67-4209-af9d-5cf18c68cca9.jpg?1771344409"
+    },
+    {
       "name": "Donatello, Mutant Mechanic",
       "universesBeyondImage": "https://cards.scryfall.io/normal/front/3/2/3271b821-8efc-49e2-96fd-c48e2b2585c6.jpg?1769005688"
+    },
+    {
+      "name": "Big Mother Mouser",
+      "universesBeyondImage": "https://cards.scryfall.io/normal/front/c/9/c9ae6898-6b5a-43bd-8c84-4d8add285f7d.jpg?1771424349"
+    },
+    {
+      "name": "Donatello, Turtle Techie",
+      "universesBeyondImage": "https://cards.scryfall.io/normal/front/6/8/683cfef0-f164-4db8-b83f-79eb804e50ae.jpg?1771502569"
+    },
+    {
+      "name": "Coin of Mastery",
+      "universesBeyondImage": "https://cards.scryfall.io/normal/front/c/a/ca053574-2ac9-4814-955d-87a97e0aca7e.jpg?1771424360"
+    },
+    {
+      "name": "Donatello, Way with Machines",
+      "universesBeyondImage": "https://cards.scryfall.io/normal/front/a/3/a3a5b63a-3263-4f06-a643-808c38f64c77.jpg?1771502576"
+    },
+    {
+      "name": "Donatello's Technique",
+      "universesBeyondImage": "https://cards.scryfall.io/normal/front/e/5/e570082f-8129-44d2-b471-ec7f46a98dbd.jpg?1771586794"
+    },
+    {
+      "name": "Exploding Barrel",
+      "universesBeyondImage": "https://cards.scryfall.io/normal/front/d/e/dee26c1c-f890-46ca-81bb-2bd63fa691c9.jpg?1771424367"
+    },
+    {
+      "name": "Dimensional Exile",
+      "universesBeyondImage": "https://cards.scryfall.io/normal/front/b/e/be8d96fb-a1be-4fff-b844-e38d185884e1.jpg?1771342164"
     },
     {
       "name": "Raphael, the Muscle",
@@ -9811,44 +10419,152 @@ const data = {
       "universesBeyondImage": "https://cards.scryfall.io/normal/front/8/5/85067e01-384c-434d-8cbf-e9dcba5e9ae8.jpg?1761372632"
     },
     {
+      "name": "Insect Warrior",
+      "universesBeyondImage": "https://cards.scryfall.io/normal/front/8/6/86e41be4-d555-4e35-b9b0-1e937ac5edce.jpg?1771590426"
+    },
+    {
+      "name": "Fugitive Droid",
+      "universesBeyondImage": "https://cards.scryfall.io/normal/front/5/0/50c4e65f-00dc-4fc5-bd5c-8482c2848f4c.jpg?1771586801"
+    },
+    {
+      "name": "Mole Module",
+      "universesBeyondImage": "https://cards.scryfall.io/normal/front/2/4/248757d9-f590-4f90-98a5-3df947b2bff6.jpg?1771424373"
+    },
+    {
       "name": "Kitsune, Dragon's Daughter",
       "universesBeyondImage": "https://cards.scryfall.io/normal/front/a/8/a87a9257-4535-4286-8b59-a842ac45d05e.jpg?1769005699"
+    },
+    {
+      "name": "Roadkill Rodney",
+      "universesBeyondImage": "https://cards.scryfall.io/normal/front/3/f/3fc23e7a-5059-4c8d-85bd-224f4c1bfc1c.jpg?1771424379"
+    },
+    {
+      "name": "Big Apple, 3 a.m.",
+      "universesBeyondImage": "https://cards.scryfall.io/normal/front/b/9/b9cc16f9-fea3-4527-9b81-3c84ce9c5e01.jpg?1771424386"
     },
     {
       "name": "Kitsune's Technique",
       "universesBeyondImage": "https://cards.scryfall.io/normal/front/9/c/9ca5327e-df90-483c-875f-73a23781f56d.jpg?1769005745"
     },
     {
+      "name": "Hidden Hideout",
+      "universesBeyondImage": "https://cards.scryfall.io/normal/front/f/3/f356522c-018d-43c7-988a-9ef9829ae75c.jpg?1771424393"
+    },
+    {
       "name": "Krang, Master Mind",
       "universesBeyondImage": "https://cards.scryfall.io/normal/front/d/2/d27fa497-e842-4812-80fe-28517544e1c5.jpg?1760102684"
+    },
+    {
+      "name": "Metalhead",
+      "universesBeyondImage": "https://cards.scryfall.io/normal/front/3/c/3c2d8b09-8694-45ab-be01-f8dc17378cf0.jpg?1771586807"
+    },
+    {
+      "name": "Mind Transfer Protocol",
+      "universesBeyondImage": "https://cards.scryfall.io/normal/front/2/d/2ddfcc4d-dd5f-42f1-8f33-a8e8b5354534.jpg?1771502582"
     },
     {
       "name": "Mondo Gecko",
       "universesBeyondImage": "https://cards.scryfall.io/normal/front/6/6/665e44f9-bc0d-40aa-83a4-f7fe64f2506d.jpg?1769005708"
     },
     {
+      "name": "Ooze Spill",
+      "universesBeyondImage": "https://cards.scryfall.io/normal/front/b/e/beef76b7-856e-48ab-bc73-e4f456c3a100.jpg?1771586813"
+    },
+    {
+      "name": "Ray Fillet, Man Ray",
+      "universesBeyondImage": "https://cards.scryfall.io/normal/front/1/4/14e0892c-a556-43c3-974f-6be44188da2e.jpg?1771502589"
+    },
+    {
+      "name": "East Wind Avatar",
+      "universesBeyondImage": "https://cards.scryfall.io/normal/front/c/9/c9d5b56c-ad2a-4958-8783-4eceb8733610.jpg?1771502461"
+    },
+    {
       "name": "Michelangelo, the Heart",
       "universesBeyondImage": "https://cards.scryfall.io/normal/front/b/a/bac2d744-db65-4b56-8634-c87fd00c090e.jpg?1761372757"
+    },
+    {
+      "name": "Bebop, Porcine Punk",
+      "universesBeyondImage": "https://cards.scryfall.io/normal/front/6/6/66acff08-ba29-4785-8d10-127d023a055e.jpg?1771536244"
+    },
+    {
+      "name": "Ninja",
+      "universesBeyondImage": "https://cards.scryfall.io/normal/front/a/7/a7b76498-d696-40d1-b7c7-91657525b44f.jpg?1771590477"
     },
     {
       "name": "Renet, Temporal Apprentice",
       "universesBeyondImage": "https://cards.scryfall.io/normal/front/2/a/2ae30766-c858-4f4e-a042-14af55698cb2.jpg?1769005718"
     },
     {
+      "name": "Retro-Mutation",
+      "universesBeyondImage": "https://cards.scryfall.io/normal/front/4/a/4af284ba-fa54-43c5-8c76-3e1128957452.jpg?1771586820"
+    },
+    {
+      "name": "Return to the Sewers",
+      "universesBeyondImage": "https://cards.scryfall.io/normal/front/5/2/52e99505-17dc-4051-99f6-e23559fc6c95.jpg?1771586826"
+    },
+    {
+      "name": "Sewer-veillance Cam",
+      "universesBeyondImage": "https://cards.scryfall.io/normal/front/a/b/ab47a37b-b66d-4f70-9bf0-4d5ed6b518f3.jpg?1771502595"
+    },
+    {
+      "name": "Stockman, Mad Fly-entist",
+      "universesBeyondImage": "https://cards.scryfall.io/normal/front/0/1/01ca65e2-898e-4150-a6bf-e61b183fd98a.jpg?1771502603"
+    },
+    {
       "name": "Turtles in Time",
       "universesBeyondImage": "https://cards.scryfall.io/normal/front/b/d/bdb3efe7-7b12-4503-83e9-7977eb099db5.jpg?1769005754"
+    },
+    {
+      "name": "Utrom Scientists",
+      "universesBeyondImage": "https://cards.scryfall.io/normal/front/6/d/6da89625-5278-49d4-813b-a1a631f114f5.jpg?1771502610"
+    },
+    {
+      "name": "Anchovy & Banana Pizza",
+      "universesBeyondImage": "https://cards.scryfall.io/normal/front/4/4/44443ad2-ef8c-4106-ba1b-ee3fb6fd8b17.jpg?1771586832"
     },
     {
       "name": "Armaggon, Future Shark",
       "universesBeyondImage": "https://cards.scryfall.io/normal/front/5/9/5989378b-0eac-43cf-bc83-8f7765536789.jpg?1769005763"
     },
     {
+      "name": "Bebop, Warthog Warrior",
+      "universesBeyondImage": "https://cards.scryfall.io/normal/front/3/7/371ba16d-73f7-450c-8b1f-c05012a4ca93.jpg?1771586838"
+    },
+    {
+      "name": "Featherbrained Filcher",
+      "universesBeyondImage": "https://cards.scryfall.io/normal/front/7/8/78c55706-4d00-4b97-965c-0b2d0963e59d.jpg?1771513766"
+    },
+    {
       "name": "Heroes in a Half Shell",
       "universesBeyondImage": "https://cards.scryfall.io/normal/front/c/c/ccc2a4e6-f505-4040-9d8a-c7b8e1a2b55e.jpg?1760103919"
     },
     {
+      "name": "Chrome Dome, Cyber-Ninja",
+      "universesBeyondImage": "https://cards.scryfall.io/normal/front/9/a/9a2d23c4-d381-4a92-b4b1-0cf71948f941.jpg?1771342608"
+    },
+    {
       "name": "The Cloning of Shredder",
-      "universesBeyondImage": "https://cards.scryfall.io/normal/front/9/4/94449d88-2df4-4850-8ffa-d6d193835dda.jpg?1769005727"
+      "universesBeyondImage": "https://cards.scryfall.io/normal/front/9/4/94449d88-2df4-4850-8ffa-d6d193835dda.jpg?1771603451"
+    },
+    {
+      "name": "Death in the Family",
+      "universesBeyondImage": "https://cards.scryfall.io/normal/front/2/e/2e4f2148-d398-4f3d-9c59-81c87b6a4588.jpg?1771586845"
+    },
+    {
+      "name": "Dream Beavers",
+      "universesBeyondImage": "https://cards.scryfall.io/normal/front/6/0/600e3bc1-9777-4057-a11e-4f61582636c6.jpg?1771586853"
+    },
+    {
+      "name": "Foot Mystic",
+      "universesBeyondImage": "https://cards.scryfall.io/normal/front/6/1/61e40a18-6cc8-436d-826b-1cf8cd037df3.jpg?1771586860"
+    },
+    {
+      "name": "Insectoid Exterminator",
+      "universesBeyondImage": "https://cards.scryfall.io/normal/front/f/f/ff26f7ff-7f70-4204-9b48-de9e21dc89ec.jpg?1771586866"
+    },
+    {
+      "name": "Lord Dregg, Insect Invader",
+      "universesBeyondImage": "https://cards.scryfall.io/normal/front/8/d/8d1a9c8a-d0b6-4d83-a168-8078de4b14c7.jpg?1771586872"
     },
     {
       "name": "Madame Null, Power Broker",
@@ -9857,6 +10573,34 @@ const data = {
     {
       "name": "Ninja Teen",
       "universesBeyondImage": "https://cards.scryfall.io/normal/front/0/8/0825a28f-f60b-4f80-83e3-cad6f9b266ce.jpg?1769005903"
+    },
+    {
+      "name": "Oroku Saki, Shredder Rising",
+      "universesBeyondImage": "https://cards.scryfall.io/normal/front/e/6/e65ff1f4-a061-4c31-a78e-92af6e7bc56f.jpg?1771586878"
+    },
+    {
+      "name": "Pain 101",
+      "universesBeyondImage": "https://cards.scryfall.io/normal/front/a/1/a1c70bf2-b2bd-4585-ba50-304f4dad8e62.jpg?1771586891"
+    },
+    {
+      "name": "Continue?",
+      "universesBeyondImage": "https://cards.scryfall.io/normal/front/2/c/2c99c472-8820-43d8-9dfa-508dc3d07478.jpg?1771424097"
+    },
+    {
+      "name": "Grounded for Life",
+      "universesBeyondImage": "https://cards.scryfall.io/normal/front/7/2/72388199-85fa-4eba-9a9c-c2904e6da9ed.jpg?1771502482"
+    },
+    {
+      "name": "Karai, Shadow Warrior",
+      "universesBeyondImage": "https://cards.scryfall.io/normal/front/8/a/8a534b81-f4a1-4a57-85cc-be6801ebd5b0.jpg?1771536255"
+    },
+    {
+      "name": "Mutant",
+      "universesBeyondImage": "https://cards.scryfall.io/normal/front/5/1/51e33613-7a24-461c-8d9f-12680af4b92a.jpg?1771590526"
+    },
+    {
+      "name": "Paramecia Coloniex",
+      "universesBeyondImage": "https://cards.scryfall.io/normal/front/6/5/654e2646-78ac-4b08-bed1-3c71355d55fc.jpg?1771586897"
     },
     {
       "name": "Rat King, Verminister",
@@ -9871,8 +10615,36 @@ const data = {
       "universesBeyondImage": "https://cards.scryfall.io/normal/front/8/f/8f946b3d-7d2a-4210-a909-d16078757e3b.jpg?1769006593"
     },
     {
+      "name": "Shredder, Unrelenting",
+      "universesBeyondImage": "https://cards.scryfall.io/normal/front/8/8/88a48867-5c65-483c-92b0-f70c53ea2a9e.jpg?1771502616"
+    },
+    {
+      "name": "Shredder's Armor",
+      "universesBeyondImage": "https://cards.scryfall.io/normal/front/d/2/d2cbe512-725f-4884-ac49-a98a78e7d14e.jpg?1771586903"
+    },
+    {
+      "name": "Shredder's Revenge",
+      "universesBeyondImage": "https://cards.scryfall.io/normal/front/7/2/72fadf47-2e0b-4b24-b1bc-7c86780716b6.jpg?1771342364"
+    },
+    {
+      "name": "Shredder's Technique",
+      "universesBeyondImage": "https://cards.scryfall.io/normal/front/9/9/99a24349-7d11-421b-a161-c1edbb8f53b1.jpg?1771342367"
+    },
+    {
       "name": "South Wind Avatar",
       "universesBeyondImage": "https://cards.scryfall.io/normal/front/c/1/c17bc07c-7147-4c84-aa0b-8a0865fba94e.jpg?1769005861"
+    },
+    {
+      "name": "Splinter, Hamato Yoshi",
+      "universesBeyondImage": "https://cards.scryfall.io/normal/front/9/e/9ea9d072-aa98-405e-a475-26f93cc37e53.jpg?1771586909"
+    },
+    {
+      "name": "Endless Foot Assault",
+      "universesBeyondImage": "https://cards.scryfall.io/normal/front/3/8/387f6f60-69da-4965-9ab9-57bdb763a013.jpg?1771424115"
+    },
+    {
+      "name": "Hamato Guardian Stance",
+      "universesBeyondImage": "https://cards.scryfall.io/normal/front/7/3/735b540b-b472-46fa-a232-d444cabf6c4c.jpg?1771502490"
     },
     {
       "name": "Krang, Dimension X Overlord",
@@ -9881,6 +10653,22 @@ const data = {
     {
       "name": "Splinter's Technique",
       "universesBeyondImage": "https://cards.scryfall.io/normal/front/f/d/fd3a5465-074a-4688-b79b-68e232076581.jpg?1769006137"
+    },
+    {
+      "name": "Squirrelanoids",
+      "universesBeyondImage": "https://cards.scryfall.io/normal/front/b/e/be08d2b0-375b-434f-9e6d-060809e0ed34.jpg?1771586916"
+    },
+    {
+      "name": "Stomped by the Foot",
+      "universesBeyondImage": "https://cards.scryfall.io/normal/front/3/f/3fdec16f-77f5-4792-9698-b9099a204028.jpg?1771586922"
+    },
+    {
+      "name": "Tunnel Rats",
+      "universesBeyondImage": "https://cards.scryfall.io/normal/front/7/0/70faf7d8-008a-454a-a21b-702aa661b8f9.jpg?1771586928"
+    },
+    {
+      "name": "Bot Bashing Time",
+      "universesBeyondImage": "https://cards.scryfall.io/normal/front/0/8/08b3af61-d516-45ca-aede-2f50ba23cb07.jpg?1771586935"
     },
     {
       "name": "Broadcast Takeover",
@@ -9899,12 +10687,64 @@ const data = {
       "universesBeyondImage": "https://cards.scryfall.io/normal/front/a/5/a566ab2d-6ec8-4833-8ad6-210378b1a20e.jpg?1769005892"
     },
     {
+      "name": "April O'Neil, Live on the Scene",
+      "universesBeyondImage": "https://cards.scryfall.io/normal/front/7/2/7265ab42-5434-4127-acd6-8905ab63d62d.jpg?1771424122"
+    },
+    {
+      "name": "High-Flying Ace",
+      "universesBeyondImage": "https://cards.scryfall.io/normal/front/e/9/e927eb0b-1c69-421a-8acd-01e92f729ffb.jpg?1771502498"
+    },
+    {
+      "name": "Leatherhead, Sewer Gator",
+      "universesBeyondImage": "https://cards.scryfall.io/normal/front/1/7/17193bd0-63c0-49ce-9a85-12996fdcda00.jpg?1771342627"
+    },
+    {
       "name": "Mutagen",
       "universesBeyondImage": "https://cards.scryfall.io/normal/front/6/5/6559c423-449c-4e8e-8384-3ce78183e317.jpg?1760102885"
     },
     {
+      "name": "General Traag, Heart of Stone",
+      "universesBeyondImage": "https://cards.scryfall.io/normal/front/e/0/e02e971f-6008-4c82-acd2-2aed13009ccb.jpg?1771502622"
+    },
+    {
+      "name": "Hard-Won Jitte",
+      "universesBeyondImage": "https://cards.scryfall.io/normal/front/5/d/5d3dc219-f024-49de-b88d-dc1e9e84184c.jpg?1771342392"
+    },
+    {
       "name": "Improvised Arsenal",
       "universesBeyondImage": "https://cards.scryfall.io/normal/front/0/0/003265d9-b2fc-4916-afc8-53ed2d6aa053.jpg?1769006146"
+    },
+    {
+      "name": "Jennika's Technique",
+      "universesBeyondImage": "https://cards.scryfall.io/normal/front/d/f/df559199-c8b9-455b-aa07-0a042348de96.jpg?1771502629"
+    },
+    {
+      "name": "Manhole Missile",
+      "universesBeyondImage": "https://cards.scryfall.io/normal/front/2/4/243e392b-48b0-4e90-ae22-9a696f45e878.jpg?1771502635"
+    },
+    {
+      "name": "Mouser Attack!",
+      "universesBeyondImage": "https://cards.scryfall.io/normal/front/0/5/058490f4-0ada-45e6-b4f0-e433537f52d6.jpg?1771502642"
+    },
+    {
+      "name": "Mouser Foundry",
+      "universesBeyondImage": "https://cards.scryfall.io/normal/front/8/a/8aae3bd6-a935-44a5-aa4d-a525b00cbf50.jpg?1771502649"
+    },
+    {
+      "name": "Mutant Town Musicians",
+      "universesBeyondImage": "https://cards.scryfall.io/normal/front/2/d/2dbe9207-06e8-4837-8227-0f960490771b.jpg?1771766034"
+    },
+    {
+      "name": "Definitely Not a Turtle",
+      "universesBeyondImage": "https://cards.scryfall.io/normal/front/8/f/8f15d16e-b9cc-4edd-9792-f5d452488778.jpg?1771766028"
+    },
+    {
+      "name": "Null Group Biological Assets",
+      "universesBeyondImage": "https://cards.scryfall.io/normal/front/e/b/eb44c134-fcd8-4ad8-841c-f1723ba93216.jpg?1771502666"
+    },
+    {
+      "name": "Old Hob, Alleycat Blues",
+      "universesBeyondImage": "https://cards.scryfall.io/normal/front/1/5/1515eed9-3b21-42f0-ab57-de5df19317af.jpg?1771586941"
     },
     {
       "name": "Invisible Woman",
@@ -9960,8 +10800,20 @@ const data = {
       "universesBeyondBackImage": "https://cards.scryfall.io/normal/back/e/0/e0dbbdcf-84e1-494f-8b8c-0a094f603fa9.jpg?1765295911"
     },
     {
+      "name": "Captain America, Team Leader",
+      "universesBeyondImage": "https://cards.scryfall.io/normal/front/6/1/61a51b67-d941-4e07-9c12-ffe583cb65d4.jpg?1771908610"
+    },
+    {
+      "name": "Doctor Doom, King of Latveria",
+      "universesBeyondImage": "https://cards.scryfall.io/normal/front/0/9/099ed408-9178-4403-8b2d-479ca3cbda9b.jpg?1771908614"
+    },
+    {
       "name": "Namor the Sub-Mariner",
       "universesBeyondImage": "https://cards.scryfall.io/normal/front/7/a/7aaefcf9-fbe1-4767-92a5-09825761d116.jpg?1765293814"
+    },
+    {
+      "name": "T'Challa, the Black Panther",
+      "universesBeyondImage": "https://cards.scryfall.io/normal/front/c/1/c1c8ad61-b7e1-446c-8b74-6e29371ea1d5.jpg?1771908617"
     },
     {
       "name": "Baron Helmut Zemo",
