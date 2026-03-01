@@ -1,6 +1,22 @@
 const data = {
   "cards": [
     {
+      "name": "The Eighth Doctor",
+      "nickname": "Sodvar, Temporal Historian",
+      "contributionInfo": {
+        "contributor": "KolaghanStorm",
+        "front": {
+          "artist": "Anthony Catillaz",
+          "artistUrl": "https://www.artstation.com/artico_luminos",
+          "artName": "Black Wizard",
+          "artUrl": "https://www.artstation.com/artwork/29QWgB",
+          "mtgCardBuilderId": "457341"
+        }
+      },
+      "universesBeyondImage": "https://cards.scryfall.io/normal/front/a/2/a26bf6fd-ced3-4c37-8adb-9a75c6d6d5cc.jpg?1696636698",
+      "universesWithinImage": "./cards/The%20Eighth%20Doctor.png"
+    },
+    {
       "name": "Katara, Bending Prodigy",
       "nickname": "Noryss, Ocean’s Advocate",
       "contributionInfo": {
@@ -4190,10 +4206,6 @@ const data = {
     {
       "name": "Duggan, Private Detective",
       "universesBeyondImage": "https://cards.scryfall.io/normal/front/a/d/ad21aafe-c093-40db-830e-da4c87055254.jpg?1696636696"
-    },
-    {
-      "name": "The Eighth Doctor",
-      "universesBeyondImage": "https://cards.scryfall.io/normal/front/a/2/a26bf6fd-ced3-4c37-8adb-9a75c6d6d5cc.jpg?1696636698"
     },
     {
       "name": "The Eleventh Doctor",
