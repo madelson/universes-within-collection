@@ -1,6 +1,22 @@
 const data = {
   "cards": [
     {
+      "name": "Black Waltz No. 3",
+      "nickname": "Ulraea, Fated Destroyer",
+      "contributionInfo": {
+        "contributor": "KolaghanStorm",
+        "front": {
+          "artist": "Anthony Catillaz",
+          "artistUrl": "https://www.artstation.com/artico_luminos",
+          "artName": "Witch Master",
+          "artUrl": "https://www.artstation.com/artwork/VJZQZR",
+          "mtgCardBuilderId": "462635"
+        }
+      },
+      "universesBeyondImage": "https://cards.scryfall.io/normal/front/f/e/fe86e41b-b0f6-4aa1-8827-c095c721f304.jpg?1748706560",
+      "universesWithinImage": "./cards/Black%20Waltz%20No.%203.png"
+    },
+    {
       "name": "The Eighth Doctor",
       "nickname": "Sodvar, Temporal Historian",
       "contributionInfo": {
@@ -6584,10 +6600,6 @@ const data = {
     {
       "name": "Balthier and Fran",
       "universesBeyondImage": "https://cards.scryfall.io/normal/front/a/f/afcaed7d-7ea3-4f2a-a7f5-ee3315226369.jpg?1748706557"
-    },
-    {
-      "name": "Black Waltz No. 3",
-      "universesBeyondImage": "https://cards.scryfall.io/normal/front/f/e/fe86e41b-b0f6-4aa1-8827-c095c721f304.jpg?1748706560"
     },
     {
       "name": "Choco, Seeker of Paradise",
