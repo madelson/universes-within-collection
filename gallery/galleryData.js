@@ -1,6 +1,22 @@
 const data = {
   "cards": [
     {
+      "name": "Splinter, Aging Champion",
+      "nickname": "Rask, the Patient Blade",
+      "contributionInfo": {
+        "contributor": "madelson",
+        "front": {
+          "artist": "Paul Bramsom",
+          "artistUrl": "https://en.wikipedia.org/wiki/Paul_Bransom",
+          "artName": "Rat",
+          "artUrl": "https://www.amazon.com/Willows-Drawing-Bransom-Kenneth-GrahameS/dp/B07CG84943",
+          "mtgCardBuilderId": "468625"
+        }
+      },
+      "universesBeyondImage": "https://cards.scryfall.io/normal/front/9/a/9a9cd2d2-74ba-497a-828c-ba22fbb9f2b1.jpg?1771344709",
+      "universesWithinImage": "./cards/Splinter%2C%20Aging%20Champion.png"
+    },
+    {
       "name": "Haste Magic",
       "nickname": "Quickened Slice",
       "contributionInfo": {
@@ -9737,10 +9753,6 @@ const data = {
     {
       "name": "Raphael, Tough Turtle",
       "universesBeyondImage": "https://cards.scryfall.io/normal/front/f/2/f24c90c8-ed04-4b4e-8b19-c7d07a90c6b8.jpg?1771342404"
-    },
-    {
-      "name": "Splinter, Aging Champion",
-      "universesBeyondImage": "https://cards.scryfall.io/normal/front/9/a/9a9cd2d2-74ba-497a-828c-ba22fbb9f2b1.jpg?1771344709"
     },
     {
       "name": "Raphael's Technique",

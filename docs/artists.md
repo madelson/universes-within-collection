@@ -10,6 +10,7 @@ These artists have granted permission for their works to be used to make cards f
 | [Heinrich Harder](https://en.wikipedia.org/wiki/Heinrich_Harder) | |
 | [Kristina Gehrmann](http://www.kristinagehrmann.com/) | |
 | [Nickolas Paris](https://nickolasparis.com/) | |
+| [Paul Bramsom](https://en.wikipedia.org/wiki/Paul_Bransom) | |
 | [Rembrandt](https://en.wikipedia.org/wiki/Rembrandt) | |
 | [Sandara Tang](https://sandara.artstation.com/) | |
 | [Thomas Cole](https://en.wikipedia.org/wiki/Thomas_Cole) | |
