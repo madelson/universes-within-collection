@@ -1,6 +1,22 @@
 const data = {
   "cards": [
     {
+      "name": "Ice Magic",
+      "nickname": "Icewind Storm",
+      "contributionInfo": {
+        "contributor": "KolaghanStorm",
+        "front": {
+          "artist": "Thomas Ricci",
+          "artistUrl": "https://artrhino.artstation.com/",
+          "artName": "Coldsnap",
+          "artUrl": "https://artrhino.artstation.com/projects/v2OQZD",
+          "mtgCardBuilderId": "468328"
+        }
+      },
+      "universesBeyondImage": "https://cards.scryfall.io/normal/front/9/d/9dabd626-7ec3-4913-babb-d5d3fd5e32d5.jpg?1748705962",
+      "universesWithinImage": "./cards/Ice%20Magic.png"
+    },
+    {
       "name": "The Last Agni Kai",
       "nickname": "Fiery Resolve",
       "contributionInfo": {
@@ -7301,10 +7317,6 @@ const data = {
     {
       "name": "Gogo, Mysterious Mime",
       "universesBeyondImage": "https://cards.scryfall.io/normal/front/0/d/0db05dc8-03f8-4ab4-9ca3-2aaaa0099eb4.jpg?1748704399"
-    },
-    {
-      "name": "Ice Magic",
-      "universesBeyondImage": "https://cards.scryfall.io/normal/front/9/d/9dabd626-7ec3-4913-babb-d5d3fd5e32d5.jpg?1748705962"
     },
     {
       "name": "Lightning, Security Sergeant",
