@@ -1,6 +1,22 @@
 const data = {
   "cards": [
     {
+      "name": "The Neutrinos",
+      "nickname": "Floryn, Airborne General",
+      "contributionInfo": {
+        "contributor": "KolaghanStorm",
+        "front": {
+          "artist": "Sandara Tang",
+          "artistUrl": "https://sandara.artstation.com/",
+          "artName": "Lightsworn Seeker",
+          "artUrl": "https://www.artstation.com/artwork/34ZKE",
+          "mtgCardBuilderId": "468302"
+        }
+      },
+      "universesBeyondImage": "https://cards.scryfall.io/normal/front/1/3/1308dadc-08a9-40bd-98a4-fb66d792e27d.jpg?1771587028",
+      "universesWithinImage": "./cards/The%20Neutrinos.png"
+    },
+    {
       "name": "Sisterhood of Karn",
       "nickname": "Devoted Sisterhood",
       "contributionInfo": {
@@ -10053,10 +10069,6 @@ const data = {
     {
       "name": "Event: Bebop's Rampage",
       "universesBeyondImage": "https://cards.scryfall.io/normal/front/b/0/b05811b0-1856-4cf8-9910-44da1a994116.jpg?1771536334"
-    },
-    {
-      "name": "The Neutrinos",
-      "universesBeyondImage": "https://cards.scryfall.io/normal/front/1/3/1308dadc-08a9-40bd-98a4-fb66d792e27d.jpg?1771587028"
     },
     {
       "name": "Nobody",
