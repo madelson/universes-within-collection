@@ -1,6 +1,22 @@
 const data = {
   "cards": [
     {
+      "name": "The Last Agni Kai",
+      "nickname": "Fiery Resolve",
+      "contributionInfo": {
+        "contributor": "KolaghanStorm",
+        "front": {
+          "artist": "Kristina Gehrmann",
+          "artistUrl": "http://www.kristinagehrmann.com/",
+          "artName": "Flame-bound Warrior",
+          "artUrl": "https://cara.app/post/fa2e67ed-c6d8-465c-b790-376520d1c36d",
+          "mtgCardBuilderId": "468319"
+        }
+      },
+      "universesBeyondImage": "https://cards.scryfall.io/normal/front/6/1/61eaebc6-7575-48ed-b212-ff8b0c7ae694.jpg?1764120987",
+      "universesWithinImage": "./cards/The%20Last%20Agni%20Kai.png"
+    },
+    {
       "name": "Sauron, the Lidless Eye",
       "nickname": "Form of the Abyss",
       "contributionInfo": {
@@ -8253,10 +8269,6 @@ const data = {
     {
       "name": "Tectonic Split",
       "universesBeyondImage": "https://cards.scryfall.io/normal/front/7/0/704b3385-bd73-4479-9579-4d9e38711529.jpg?1764118691"
-    },
-    {
-      "name": "The Last Agni Kai",
-      "universesBeyondImage": "https://cards.scryfall.io/normal/front/6/1/61eaebc6-7575-48ed-b212-ff8b0c7ae694.jpg?1764120987"
     },
     {
       "name": "The Legend of Roku // Avatar Roku",
