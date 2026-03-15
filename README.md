@@ -40,7 +40,7 @@ If you'd like to go the full mile, you can take the extra step of using [MTGCard
 ### Sourcing art
 
 My goal for this project is to use _high-quality human art_. This can be:
-* Public domain art
+* Public domain art (e.g. see [this library](https://publicdomainimagelibrary.com/))
 * Existing Magic art, either heavily cropped or art that was not used on physical cards (e.g. box art, [Digital-only cards](https://scryfall.com/search?q=-game%3Apaper+-is%3Areprint+-name%3A%2F%5EA%5C-%2F&unique=art), or OTJ bounty tokens)
 * Non-magic art _with permission from the artist_. See the [artists list](https://github.com/madelson/universes-within-collection/blob/main/docs/artists.md) for current options.
 
