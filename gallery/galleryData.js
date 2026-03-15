@@ -1,6 +1,22 @@
 const data = {
   "cards": [
     {
+      "name": "Haste Magic",
+      "nickname": "Quickened Slice",
+      "contributionInfo": {
+        "contributor": "KolaghanStorm",
+        "front": {
+          "artist": "Bachzim",
+          "artistUrl": "https://www.artstation.com/bachzim",
+          "artName": "Here i come!",
+          "artUrl": "https://www.artstation.com/artwork/ybE13J",
+          "mtgCardBuilderId": "468353"
+        }
+      },
+      "universesBeyondImage": "https://cards.scryfall.io/normal/front/3/a/3af9d100-70ee-4c6c-a762-11a0c4f3ef6f.jpg?1748706286",
+      "universesWithinImage": "./cards/Haste%20Magic.png"
+    },
+    {
       "name": "Ice Magic",
       "nickname": "Icewind Storm",
       "contributionInfo": {
@@ -6292,10 +6308,6 @@ const data = {
     {
       "name": "Wizard",
       "universesBeyondImage": "https://cards.scryfall.io/normal/front/1/8/187fe54c-7d0c-4225-9d46-3affbead897d.jpg?1748704073"
-    },
-    {
-      "name": "Haste Magic",
-      "universesBeyondImage": "https://cards.scryfall.io/normal/front/3/a/3af9d100-70ee-4c6c-a762-11a0c4f3ef6f.jpg?1748706286"
     },
     {
       "name": "Hill Gigas",
