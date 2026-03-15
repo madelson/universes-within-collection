@@ -1,6 +1,18 @@
 const data = {
   "cards": [
     {
+      "name": "Sisterhood of Karn",
+      "nickname": "Devoted Sisterhood",
+      "contributionInfo": {
+        "contributor": "KolaghanStorm",
+        "front": {
+          "mtgCardBuilderId": "468202"
+        }
+      },
+      "universesBeyondImage": "https://cards.scryfall.io/normal/front/4/b/4b94f939-5f3b-4b55-8514-b7d296509ac1.jpg?1696636670",
+      "universesWithinImage": "./cards/Sisterhood%20of%20Karn.png"
+    },
+    {
       "name": "Black Waltz No. 3",
       "nickname": "Ulraea, Fated Destroyer",
       "contributionInfo": {
@@ -4174,10 +4186,6 @@ const data = {
     {
       "name": "The Sea Devils",
       "universesBeyondImage": "https://cards.scryfall.io/normal/front/9/6/96fcb0cb-0df9-4a45-beab-08dc39cf6b3b.jpg?1696636668"
-    },
-    {
-      "name": "Sisterhood of Karn",
-      "universesBeyondImage": "https://cards.scryfall.io/normal/front/4/b/4b94f939-5f3b-4b55-8514-b7d296509ac1.jpg?1696636670"
     },
     {
       "name": "Alien Angel",
