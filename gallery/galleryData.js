@@ -1,6 +1,54 @@
 const data = {
   "cards": [
     {
+      "name": "Weeping Angel",
+      "nickname": "Banisher Angel",
+      "contributionInfo": {
+        "contributor": "KolaghanStorm",
+        "front": {
+          "artist": "Thomas Ricci",
+          "artistUrl": "https://artrhino.artstation.com/",
+          "artName": "Cosmic Archangel",
+          "artUrl": "https://www.artstation.com/artwork/ybzzn8",
+          "mtgCardBuilderId": "474332"
+        }
+      },
+      "universesBeyondImage": "https://cards.scryfall.io/normal/front/e/0/e0fd7b66-28f1-407b-bd60-6bcc577288cb.jpg?1696636785",
+      "universesWithinImage": "./cards/Weeping%20Angel.png"
+    },
+    {
+      "name": "Auron, Venerated Guardian",
+      "nickname": "Aoi, Resolute Guardian",
+      "contributionInfo": {
+        "contributor": "KolaghanStorm",
+        "front": {
+          "artist": "Thomas Ricci",
+          "artistUrl": "https://artrhino.artstation.com/",
+          "artName": "Aoi, Master Conjurer",
+          "artUrl": "https://artrhino.artstation.com/projects/K3BXmy",
+          "mtgCardBuilderId": "474325"
+        }
+      },
+      "universesBeyondImage": "https://cards.scryfall.io/normal/front/c/b/cb82d614-13d8-40ec-9213-8e6852d37c9c.jpg?1748704223",
+      "universesWithinImage": "./cards/Auron%2C%20Venerated%20Guardian.png"
+    },
+    {
+      "name": "Mirelurk Queen",
+      "nickname": "Imposing Crustacean",
+      "contributionInfo": {
+        "contributor": "KolaghanStorm",
+        "front": {
+          "artist": "Thomas Ricci",
+          "artistUrl": "https://artrhino.artstation.com/",
+          "artName": "Crabstation",
+          "artUrl": "https://artrhino.artstation.com/projects/GvLADQ",
+          "mtgCardBuilderId": "473614"
+        }
+      },
+      "universesBeyondImage": "https://cards.scryfall.io/normal/front/6/e/6e6d1843-9e05-4cdd-ad4e-15d7913d87f7.jpg?1708741932",
+      "universesWithinImage": "./cards/Mirelurk%20Queen.png"
+    },
+    {
       "name": "Northern Air Temple",
       "nickname": "Ominous Crypt",
       "contributionInfo": {
@@ -4504,10 +4552,6 @@ const data = {
       "universesBeyondImage": "https://cards.scryfall.io/normal/front/7/a/7a51472c-b61f-4d31-8753-a9ec90d12889.jpg?1696636782"
     },
     {
-      "name": "Weeping Angel",
-      "universesBeyondImage": "https://cards.scryfall.io/normal/front/e/0/e0fd7b66-28f1-407b-bd60-6bcc577288cb.jpg?1696636785"
-    },
-    {
       "name": "Wreck and Rebuild",
       "universesBeyondImage": "https://cards.scryfall.io/normal/front/4/4/44e7d2ca-3fa9-4cb2-adc2-dae4e161f186.jpg?1696636786",
       "universesWithinImage": "https://cards.scryfall.io/normal/front/a/1/a177ba01-53cd-4223-8f79-9fbeb2b86906.jpg?1712354816"
@@ -5455,10 +5499,6 @@ const data = {
       "universesBeyondImage": "https://cards.scryfall.io/normal/front/4/8/48313997-fd94-486a-bf30-e9143a155814.jpg?1708741922"
     },
     {
-      "name": "Mirelurk Queen",
-      "universesBeyondImage": "https://cards.scryfall.io/normal/front/6/e/6e6d1843-9e05-4cdd-ad4e-15d7913d87f7.jpg?1708741932"
-    },
-    {
       "name": "Nerd Rage",
       "universesBeyondImage": "https://cards.scryfall.io/normal/front/e/9/e9857669-5fad-458a-8eda-c1790298add7.jpg?1708741940"
     },
@@ -6125,10 +6165,6 @@ const data = {
     {
       "name": "Summon: Bahamut",
       "universesBeyondImage": "https://cards.scryfall.io/normal/front/9/5/95318d85-4a08-47ac-a43d-ea83c0bea81c.jpg?1748705758"
-    },
-    {
-      "name": "Auron, Venerated Guardian",
-      "universesBeyondImage": "https://cards.scryfall.io/normal/front/c/b/cb82d614-13d8-40ec-9213-8e6852d37c9c.jpg?1748704223"
     },
     {
       "name": "Fight On!",

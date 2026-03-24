@@ -34,6 +34,12 @@
     "image": "https://madelson.github.io/universes-within-collection/cards/Atomize.png"
   },
   {
+    "oracleId": "5e166b42-252e-4f34-9610-dcddc04a62ff",
+    "name": "Auron, Venerated Guardian",
+    "nickname": "Aoi, Resolute Guardian",
+    "image": "https://madelson.github.io/universes-within-collection/cards/Auron%2C%20Venerated%20Guardian.png"
+  },
+  {
     "oracleId": "94357494-4ccc-43d4-b2d4-351581cbf9b6",
     "name": "Auton Soldier",
     "nickname": "Adaptive Gearwardens",
@@ -334,6 +340,12 @@
     "name": "Marneus Calgar",
     "nickname": "Matilde, Militia Captain",
     "image": "https://madelson.github.io/universes-within-collection/cards/Marneus%20Calgar.png"
+  },
+  {
+    "oracleId": "116ef9ea-d199-49b8-89c7-d61dd92711f5",
+    "name": "Mirelurk Queen",
+    "nickname": "Imposing Crustacean",
+    "image": "https://madelson.github.io/universes-within-collection/cards/Mirelurk%20Queen.png"
   },
   {
     "oracleId": "2daa5b89-e772-4a2b-ad52-bbbf148c7b2f",
@@ -664,6 +676,12 @@
     "name": "Vault 13: Dweller's Journey",
     "nickname": "Sorin's Search for Avacyn",
     "image": "https://madelson.github.io/universes-within-collection/cards/Vault%2013_%20Dweller%27s%20Journey.png"
+  },
+  {
+    "oracleId": "1a89c623-c9c3-443c-bbd3-834767b6bdb8",
+    "name": "Weeping Angel",
+    "nickname": "Banisher Angel",
+    "image": "https://madelson.github.io/universes-within-collection/cards/Weeping%20Angel.png"
   },
   {
     "oracleId": "f8cebb33-9235-4f63-8171-15af8b8e1436",

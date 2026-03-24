@@ -995,6 +995,33 @@
 		"artUrl": "https://www.artstation.com/artwork/393KeY",
 		"mtgCardBuilderId": "470220"
 	},
+	"0119": {
+		"name": "Mirelurk Queen",
+		"nickname": "Imposing Crustacean",
+		"contributor": "KolaghanStorm",
+		"artist": "Thomas Ricci",
+		"artName": "Crabstation",
+		"artUrl": "https://artrhino.artstation.com/projects/GvLADQ",
+		"mtgCardBuilderId": "473614"
+	},
+	"0120": {
+		"name": "Auron, Venerated Guardian",
+		"nickname": "Aoi, Resolute Guardian",
+		"contributor": "KolaghanStorm",
+		"artist": "Thomas Ricci",
+		"artName": "Aoi, Master Conjurer",
+		"artUrl": "https://artrhino.artstation.com/projects/K3BXmy",
+		"mtgCardBuilderId": "474325"
+	},
+	"0121": {
+		"name": "Weeping Angel",
+		"nickname": "Banisher Angel",
+		"contributor": "KolaghanStorm",
+		"artist": "Thomas Ricci",
+		"artName": "Cosmic Archangel",
+		"artUrl": "https://www.artstation.com/artwork/ybzzn8",
+		"mtgCardBuilderId": "474332"
+	},
 	"T0001": {
 		"name": "Alien (TWHO 2)",
 		"contributor": "cgregory",
