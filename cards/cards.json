@@ -1022,6 +1022,14 @@
 		"artUrl": "https://www.artstation.com/artwork/ybzzn8",
 		"mtgCardBuilderId": "474332"
 	},
+	"0122": {
+		"name": "Hidden Hideout",
+		"contributor": "madelson",
+		"artist": "Thomas Cole",
+		"artName": "The Fountain of Vaucluse",
+		"artUrl": "https://en.wikipedia.org/wiki/The_Fountain_of_Vaucluse",
+		"mtgCardBuilderId": "475717"
+	},
 	"T0001": {
 		"name": "Alien (TWHO 2)",
 		"contributor": "cgregory",

@@ -1,6 +1,21 @@
 const data = {
   "cards": [
     {
+      "name": "Hidden Hideout",
+      "contributionInfo": {
+        "contributor": "madelson",
+        "front": {
+          "artist": "Thomas Cole",
+          "artistUrl": "https://en.wikipedia.org/wiki/Thomas_Cole",
+          "artName": "The Fountain of Vaucluse",
+          "artUrl": "https://en.wikipedia.org/wiki/The_Fountain_of_Vaucluse",
+          "mtgCardBuilderId": "475717"
+        }
+      },
+      "universesBeyondImage": "https://cards.scryfall.io/normal/front/f/3/f356522c-018d-43c7-988a-9ef9829ae75c.jpg?1771424393",
+      "universesWithinImage": "./cards/Hidden%20Hideout.png"
+    },
+    {
       "name": "Weeping Angel",
       "nickname": "Banisher Angel",
       "contributionInfo": {
@@ -55,7 +70,7 @@ const data = {
         "contributor": "KolaghanStorm",
         "front": {
           "artist": "Anthony Catillaz",
-          "artistUrl": "https://www.artstation.com/artico_luminos",
+          "artistUrl": "https://www.artstation.com/articoluminos",
           "artName": "Nordic crypta",
           "artUrl": "https://www.artstation.com/artwork/393KeY",
           "mtgCardBuilderId": "470220"
@@ -179,7 +194,7 @@ const data = {
         "contributor": "KolaghanStorm",
         "front": {
           "artist": "Anthony Catillaz",
-          "artistUrl": "https://www.artstation.com/artico_luminos",
+          "artistUrl": "https://www.artstation.com/articoluminos",
           "artName": "Witch Master",
           "artUrl": "https://www.artstation.com/artwork/VJZQZR",
           "mtgCardBuilderId": "462635"
@@ -195,7 +210,7 @@ const data = {
         "contributor": "KolaghanStorm",
         "front": {
           "artist": "Anthony Catillaz",
-          "artistUrl": "https://www.artstation.com/artico_luminos",
+          "artistUrl": "https://www.artstation.com/articoluminos",
           "artName": "Black Wizard",
           "artUrl": "https://www.artstation.com/artwork/29QWgB",
           "mtgCardBuilderId": "457341"
@@ -243,7 +258,7 @@ const data = {
         "contributor": "KolaghanStorm",
         "front": {
           "artist": "Anthony Catillaz",
-          "artistUrl": "https://www.artstation.com/artico_luminos",
+          "artistUrl": "https://www.artstation.com/articoluminos",
           "artName": "Witch Empress",
           "artUrl": "https://www.artstation.com/artwork/2942Ge",
           "mtgCardBuilderId": "442733"
@@ -802,7 +817,7 @@ const data = {
         "contributor": "madelson",
         "front": {
           "artist": "Anthony Catillaz",
-          "artistUrl": "https://www.artstation.com/artico_luminos",
+          "artistUrl": "https://www.artstation.com/articoluminos",
           "artName": "Morgo Skull Boss",
           "artUrl": "https://www.artstation.com/artwork/oJAyX4",
           "mtgCardBuilderId": "240290"
@@ -1045,7 +1060,7 @@ const data = {
         "contributor": "cgregory",
         "front": {
           "artist": "Anthony Catillaz",
-          "artistUrl": "https://www.artstation.com/artico_luminos",
+          "artistUrl": "https://www.artstation.com/articoluminos",
           "artName": "Whisper of Souls",
           "artUrl": "https://www.artstation.com/artwork/g0naxL",
           "mtgCardBuilderId": "149566"
@@ -1276,7 +1291,7 @@ const data = {
         "contributor": "cgregory",
         "front": {
           "artist": "Anthony Catillaz",
-          "artistUrl": "https://www.artstation.com/artico_luminos",
+          "artistUrl": "https://www.artstation.com/articoluminos",
           "artName": "Sorceress",
           "artUrl": "https://www.artstation.com/artwork/XgzL0L",
           "mtgCardBuilderId": "145988"
@@ -1399,7 +1414,7 @@ const data = {
         "contributor": "cgregory",
         "front": {
           "artist": "Anthony Catillaz",
-          "artistUrl": "https://www.artstation.com/artico_luminos",
+          "artistUrl": "https://www.artstation.com/articoluminos",
           "artName": "Mountain Trail",
           "artUrl": "https://www.artstation.com/artwork/YBqXW6",
           "mtgCardBuilderId": "144254"
@@ -1511,7 +1526,7 @@ const data = {
         "contributor": "cgregory",
         "front": {
           "artist": "Anthony Catillaz",
-          "artistUrl": "https://www.artstation.com/artico_luminos",
+          "artistUrl": "https://www.artstation.com/articoluminos",
           "artName": "Witcher Leshy Hunt",
           "artUrl": "https://www.artstation.com/artwork/kQWz06",
           "mtgCardBuilderId": "141718"
@@ -1580,7 +1595,7 @@ const data = {
         "contributor": "madelson",
         "front": {
           "artist": "Anthony Catillaz",
-          "artistUrl": "https://www.artstation.com/artico_luminos",
+          "artistUrl": "https://www.artstation.com/articoluminos",
           "artName": "Jungle mutant",
           "artUrl": "https://www.artstation.com/artwork/LRGgG5",
           "mtgCardBuilderId": "137856"
@@ -1596,7 +1611,7 @@ const data = {
         "contributor": "madelson",
         "front": {
           "artist": "Anthony Catillaz",
-          "artistUrl": "https://www.artstation.com/artico_luminos",
+          "artistUrl": "https://www.artstation.com/articoluminos",
           "artName": "Ancient Shadow",
           "artUrl": "https://www.artstation.com/artwork/04bkDy",
           "mtgCardBuilderId": "137631"
@@ -1668,7 +1683,7 @@ const data = {
         "contributor": "madelson",
         "front": {
           "artist": "Anthony Catillaz",
-          "artistUrl": "https://www.artstation.com/artico_luminos",
+          "artistUrl": "https://www.artstation.com/articoluminos",
           "artName": "Dragon Golem",
           "artUrl": "https://www.artstation.com/artwork/WBk3wE",
           "mtgCardBuilderId": "135723"
@@ -1712,7 +1727,7 @@ const data = {
         "contributor": "madelson",
         "front": {
           "artist": "Anthony Catillaz",
-          "artistUrl": "https://www.artstation.com/artico_luminos",
+          "artistUrl": "https://www.artstation.com/articoluminos",
           "artName": "Just little Nightmares",
           "artUrl": "https://www.artstation.com/artwork/aGlxDX",
           "mtgCardBuilderId": "138864"
@@ -1728,7 +1743,7 @@ const data = {
         "contributor": "madelson",
         "front": {
           "artist": "Anthony Catillaz",
-          "artistUrl": "https://www.artstation.com/artico_luminos",
+          "artistUrl": "https://www.artstation.com/articoluminos",
           "artName": "Storm Appendix",
           "artUrl": "https://www.artstation.com/artwork/g0rG0K",
           "mtgCardBuilderId": "138868"
@@ -1909,7 +1924,7 @@ const data = {
         "contributor": "cgregory",
         "front": {
           "artist": "Anthony Catillaz",
-          "artistUrl": "https://www.artstation.com/artico_luminos",
+          "artistUrl": "https://www.artstation.com/articoluminos",
           "artName": "Thing",
           "artUrl": "https://www.artstation.com/artwork/39LggD",
           "mtgCardBuilderId": "144691"
@@ -10597,10 +10612,6 @@ const data = {
     {
       "name": "Kitsune's Technique",
       "universesBeyondImage": "https://cards.scryfall.io/normal/front/9/c/9ca5327e-df90-483c-875f-73a23781f56d.jpg?1769005745"
-    },
-    {
-      "name": "Hidden Hideout",
-      "universesBeyondImage": "https://cards.scryfall.io/normal/front/f/3/f356522c-018d-43c7-988a-9ef9829ae75c.jpg?1771424393"
     },
     {
       "name": "Krang, Master Mind",
