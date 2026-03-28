@@ -1,6 +1,22 @@
 const data = {
   "cards": [
     {
+      "name": "Me, the Immortal",
+      "nickname": "Kalyra, Quartzwood Renegade",
+      "contributionInfo": {
+        "contributor": "madelson",
+        "front": {
+          "artist": "Anthony Catillaz",
+          "artistUrl": "https://www.artstation.com/articoluminos",
+          "artName": "Female Knight",
+          "artUrl": "https://www.artstation.com/artwork/qevV3N",
+          "mtgCardBuilderId": "476896"
+        }
+      },
+      "universesBeyondImage": "https://cards.scryfall.io/normal/front/d/d/ddfbf6bf-c0e1-48a1-9223-73099fe470aa.jpg?1696636748",
+      "universesWithinImage": "./cards/Me%2C%20the%20Immortal.png"
+    },
+    {
       "name": "Hidden Hideout",
       "contributionInfo": {
         "contributor": "madelson",
@@ -4485,10 +4501,6 @@ const data = {
     {
       "name": "The Master, Multiplied",
       "universesBeyondImage": "https://cards.scryfall.io/normal/front/7/f/7f734ca0-91bc-4496-9bd7-2d09415e850f.jpg?1696636744"
-    },
-    {
-      "name": "Me, the Immortal",
-      "universesBeyondImage": "https://cards.scryfall.io/normal/front/d/d/ddfbf6bf-c0e1-48a1-9223-73099fe470aa.jpg?1696636748"
     },
     {
       "name": "The Ninth Doctor",
