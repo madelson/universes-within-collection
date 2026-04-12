@@ -214,6 +214,11 @@
     "image": "https://madelson.github.io/universes-within-collection/cards/Gl%C3%B3in%2C%20Dwarf%20Emissary.png"
   },
   {
+    "oracleId": "c5fa1631-8685-49e1-baad-86ef72a9499c",
+    "name": "Goblin Fireleaper",
+    "image": "https://madelson.github.io/universes-within-collection/cards/Goblin%20Fireleaper.png"
+  },
+  {
     "oracleId": "95d59a06-5144-4da3-8a9c-846b087975b9",
     "name": "Gollum, Obsessed Stalker",
     "nickname": "Kanakht the Eremite",
@@ -329,6 +334,12 @@
     "oracleId": "a92edf30-6c7f-481c-855e-2a7dc4963ea7",
     "name": "Lost to Legend",
     "image": "https://madelson.github.io/universes-within-collection/cards/Lost%20to%20Legend.png"
+  },
+  {
+    "oracleId": "1196a4cb-544c-4e7b-91cd-f0820b21a80d",
+    "name": "Lucy MacLean, Positively Armed",
+    "nickname": "Kinara, Lone Survivor",
+    "image": "https://madelson.github.io/universes-within-collection/cards/Lucy%20MacLean%2C%20Positively%20Armed.png"
   },
   {
     "oracleId": "6492c381-0fa1-4d43-bf72-d8956d8a34b6",

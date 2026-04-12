@@ -1039,6 +1039,20 @@
 		"artUrl": "https://www.artstation.com/artwork/qevV3N",
 		"mtgCardBuilderId": "476896"
 	},
+	"0124": {
+		"name": "Goblin Fireleaper",
+		"contributor": "KolaghanStorm",
+		"mtgCardBuilderId": "486201"
+	},
+	"0125": {
+		"name": "Lucy MacLean, Positively Armed",
+		"nickname": "Kinara, Lone Survivor",
+		"contributor": "KolaghanStorm",
+		"artist": "Anthony Catillaz",
+		"artName": "Crimson Winter March",
+		"artUrl": "https://www.artstation.com/artwork/V2PmJg",
+		"mtgCardBuilderId": "486207"
+	},
 	"T0001": {
 		"name": "Alien (TWHO 2)",
 		"contributor": "cgregory",
