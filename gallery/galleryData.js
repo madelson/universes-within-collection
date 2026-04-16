@@ -1,6 +1,21 @@
 const data = {
   "cards": [
     {
+      "name": "Kitsune, Dragon's Daughter",
+      "contributionInfo": {
+        "contributor": "KolaghanStorm",
+        "front": {
+          "artist": "Bachzim",
+          "artistUrl": "https://www.artstation.com/bachzim",
+          "artName": "Swiftfoot Suna",
+          "artUrl": "https://www.artstation.com/artwork/L3LxPR",
+          "mtgCardBuilderId": "487110"
+        }
+      },
+      "universesBeyondImage": "https://cards.scryfall.io/normal/front/a/8/a87a9257-4535-4286-8b59-a842ac45d05e.jpg?1769005699",
+      "universesWithinImage": "./cards/Kitsune%2C%20Dragon%27s%20Daughter.png"
+    },
+    {
       "name": "Improvised Arsenal",
       "contributionInfo": {
         "contributor": "madelson",
@@ -10642,10 +10657,6 @@ const data = {
     {
       "name": "Mole Module",
       "universesBeyondImage": "https://cards.scryfall.io/normal/front/2/4/248757d9-f590-4f90-98a5-3df947b2bff6.jpg?1771424373"
-    },
-    {
-      "name": "Kitsune, Dragon's Daughter",
-      "universesBeyondImage": "https://cards.scryfall.io/normal/front/a/8/a87a9257-4535-4286-8b59-a842ac45d05e.jpg?1769005699"
     },
     {
       "name": "Roadkill Rodney",
