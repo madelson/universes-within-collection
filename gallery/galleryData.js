@@ -1,6 +1,21 @@
 const data = {
   "cards": [
     {
+      "name": "Estinien Varlineau",
+      "contributionInfo": {
+        "contributor": "KolaghanStorm",
+        "front": {
+          "artist": "Bachzim",
+          "artistUrl": "https://www.artstation.com/bachzim",
+          "artName": "Garena Blade and Soul",
+          "artUrl": "https://www.artstation.com/artwork/KrKKEG",
+          "mtgCardBuilderId": "487117"
+        }
+      },
+      "universesBeyondImage": "https://cards.scryfall.io/normal/front/7/8/7812c768-8417-4689-9a51-f577c1cf5dc0.jpg?1765359326",
+      "universesWithinImage": "./cards/Estinien%20Varlineau.png"
+    },
+    {
       "name": "Kitsune, Dragon's Daughter",
       "contributionInfo": {
         "contributor": "KolaghanStorm",
@@ -7711,10 +7726,6 @@ const data = {
     {
       "name": "Thief's Knife",
       "universesBeyondImage": "https://cards.scryfall.io/normal/front/c/2/c2dcfd0a-3f52-4616-a09a-fd2db8b6b93e.jpg?1748706064"
-    },
-    {
-      "name": "Estinien Varlineau",
-      "universesBeyondImage": "https://cards.scryfall.io/normal/front/7/8/7812c768-8417-4689-9a51-f577c1cf5dc0.jpg?1765359326"
     },
     {
       "name": "Travel the Overworld",
