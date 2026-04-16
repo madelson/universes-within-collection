@@ -1,6 +1,21 @@
 const data = {
   "cards": [
     {
+      "name": "Improvised Arsenal",
+      "contributionInfo": {
+        "contributor": "madelson",
+        "front": {
+          "artist": "Adriaen van Ostade",
+          "artistUrl": "https://en.wikipedia.org/wiki/Adriaen_van_Ostade",
+          "artName": "A Peasant Brawl",
+          "artUrl": "https://commons.wikimedia.org/wiki/File:Adriaen_van_Ostade_-_A_Peasant_Brawl.jpg",
+          "mtgCardBuilderId": "488448"
+        }
+      },
+      "universesBeyondImage": "https://cards.scryfall.io/normal/front/0/0/003265d9-b2fc-4916-afc8-53ed2d6aa053.jpg?1769006146",
+      "universesWithinImage": "./cards/Improvised%20Arsenal.png"
+    },
+    {
       "name": "Lucy MacLean, Positively Armed",
       "nickname": "Kinara, Lone Survivor",
       "contributionInfo": {
@@ -10907,10 +10922,6 @@ const data = {
     {
       "name": "Hard-Won Jitte",
       "universesBeyondImage": "https://cards.scryfall.io/normal/front/5/d/5d3dc219-f024-49de-b88d-dc1e9e84184c.jpg?1771342392"
-    },
-    {
-      "name": "Improvised Arsenal",
-      "universesBeyondImage": "https://cards.scryfall.io/normal/front/0/0/003265d9-b2fc-4916-afc8-53ed2d6aa053.jpg?1769006146"
     },
     {
       "name": "Jennika's Technique",

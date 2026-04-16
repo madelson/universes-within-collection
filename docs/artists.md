@@ -3,6 +3,7 @@
 These artists have granted permission for their works to be used to make cards for this project. Thanks!
 | Name/Handle | Notes |
 | - | - |
+| [Adriaen van Ostade](https://en.wikipedia.org/wiki/Adriaen_van_Ostade) | |
 | [Anthony Catillaz](https://www.artstation.com/articoluminos) | |
 | [Bachzim](https://www.artstation.com/bachzim) | |
 | [Charles R. Knight](https://en.wikipedia.org/wiki/Charles_R._Knight) | |

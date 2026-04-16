@@ -1053,6 +1053,14 @@
 		"artUrl": "https://www.artstation.com/artwork/V2PmJg",
 		"mtgCardBuilderId": "486207"
 	},
+	"0126": {
+		"name": "Improvised Arsenal",
+		"contributor": "madelson",
+		"artist": "Adriaen van Ostade",
+		"artName": "A Peasant Brawl",
+		"artUrl": "https://commons.wikimedia.org/wiki/File:Adriaen_van_Ostade_-_A_Peasant_Brawl.jpg",
+		"mtgCardBuilderId": "488448"
+	},
 	"T0001": {
 		"name": "Alien (TWHO 2)",
 		"contributor": "cgregory",
