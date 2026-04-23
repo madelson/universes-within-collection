@@ -1,6 +1,21 @@
 const data = {
   "cards": [
     {
+      "name": "Study the Classics",
+      "contributionInfo": {
+        "contributor": "KolaghanStorm",
+        "front": {
+          "artist": "Nickolas Paris",
+          "artistUrl": "https://nickolasparis.com",
+          "artName": "Spirit of the Enchanted Blossom",
+          "artUrl": "https://nickolasparis.com/projects/YBEEZ3?album_id=8299747",
+          "mtgCardBuilderId": "492410"
+        }
+      },
+      "universesBeyondImage": "https://cards.scryfall.io/normal/front/c/6/c609e1a6-3976-4d54-889d-e95ba4f25c1f.jpg?1771502439",
+      "universesWithinImage": "./cards/Study%20the%20Classics.png"
+    },
+    {
       "name": "Start the TARDIS",
       "nickname": "Survey the Cosmos",
       "contributionInfo": {
@@ -10,7 +25,7 @@ const data = {
           "artistUrl": "https://sandara.artstation.com/",
           "artName": "The Astrodrakus",
           "artUrl": "https://sandara.artstation.com/projects/JeLndv",
-          "mtgCardBuilderId": ""
+          "mtgCardBuilderId": "492408"
         }
       },
       "universesBeyondImage": "https://cards.scryfall.io/normal/front/f/3/f3574926-dd5a-4997-b9e2-7b051bc59c57.jpg?1696636585",
@@ -10110,10 +10125,6 @@ const data = {
     {
       "name": "Party Dude",
       "universesBeyondImage": "https://cards.scryfall.io/normal/front/d/2/d27b6f2a-84df-4097-a66a-8e463db47f58.jpg?1769006231"
-    },
-    {
-      "name": "Study the Classics",
-      "universesBeyondImage": "https://cards.scryfall.io/normal/front/c/6/c609e1a6-3976-4d54-889d-e95ba4f25c1f.jpg?1771502439"
     },
     {
       "name": "Primordial Pachyderm",

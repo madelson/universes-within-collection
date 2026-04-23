@@ -1097,7 +1097,15 @@
 		"artist": "Sandara Tang",
 		"artName": "The Astrodrakus",
 		"artUrl": "https://sandara.artstation.com/projects/JeLndv",
-		"mtgCardBuilderId": ""
+		"mtgCardBuilderId": "492408"
+	},
+	"0132": {
+		"name": "Study the Classics",
+		"contributor": "KolaghanStorm",
+		"artist": "Nickolas Paris",
+		"artName": "Spirit of the Enchanted Blossom",
+		"artUrl": "https://nickolasparis.com/projects/YBEEZ3?album_id=8299747",
+		"mtgCardBuilderId": "492410"
 	},
 	"T0001": {
 		"name": "Alien (TWHO 2)",
