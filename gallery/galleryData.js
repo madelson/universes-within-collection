@@ -1,6 +1,21 @@
 const data = {
   "cards": [
     {
+      "name": "Animal Friend",
+      "contributionInfo": {
+        "contributor": "KolaghanStorm",
+        "front": {
+          "artist": "Sandara Tang",
+          "artistUrl": "https://sandara.artstation.com/",
+          "artName": "The Queen's Retinue",
+          "artUrl": "https://sandara.artstation.com/projects/1NaZ6Z",
+          "mtgCardBuilderId": "492406"
+        }
+      },
+      "universesBeyondImage": "https://cards.scryfall.io/normal/front/a/f/af31a045-0387-44ff-b735-54e19b04d925.jpg?1708742257",
+      "universesWithinImage": "./cards/Animal%20Friend.png"
+    },
+    {
       "name": "Grey Host Reinforcements",
       "contributionInfo": {
         "contributor": "KolaghanStorm",
@@ -5747,10 +5762,6 @@ const data = {
     {
       "name": "Wild Wasteland",
       "universesBeyondImage": "https://cards.scryfall.io/normal/front/c/a/ca1024d6-c5f1-48f5-9081-fb90d0c46fdb.jpg?1708742249"
-    },
-    {
-      "name": "Animal Friend",
-      "universesBeyondImage": "https://cards.scryfall.io/normal/front/a/f/af31a045-0387-44ff-b735-54e19b04d925.jpg?1708742257"
     },
     {
       "name": "Break Down",
