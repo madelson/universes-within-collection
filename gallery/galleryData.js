@@ -1,6 +1,17 @@
 const data = {
   "cards": [
     {
+      "name": "Windswift Slice",
+      "contributionInfo": {
+        "contributor": "KolaghanStorm",
+        "front": {
+          "mtgCardBuilderId": "492414"
+        }
+      },
+      "universesBeyondImage": "https://cards.scryfall.io/normal/front/f/8/f8097193-1d32-4235-afd4-f6839602e4fb.jpg?1686964123",
+      "universesWithinImage": "./cards/Windswift%20Slice.png"
+    },
+    {
       "name": "Study the Classics",
       "contributionInfo": {
         "contributor": "KolaghanStorm",
@@ -4031,10 +4042,6 @@ const data = {
     {
       "name": "Captain of Umbar",
       "universesBeyondImage": "https://cards.scryfall.io/normal/front/c/2/c222577d-a3c7-41d9-b11b-62065bdb98ef.jpg?1686968046"
-    },
-    {
-      "name": "Windswift Slice",
-      "universesBeyondImage": "https://cards.scryfall.io/normal/front/f/8/f8097193-1d32-4235-afd4-f6839602e4fb.jpg?1686964123"
     },
     {
       "name": "Council's Deliberation",
