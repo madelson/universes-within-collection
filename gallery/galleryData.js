@@ -1,6 +1,22 @@
 const data = {
   "cards": [
     {
+      "name": "Shredder's Technique",
+      "nickname": "Smothering Embrace",
+      "contributionInfo": {
+        "contributor": "KolaghanStorm",
+        "front": {
+          "artist": "Anthony Catillaz",
+          "artistUrl": "https://www.artstation.com/articoluminos",
+          "artName": "Dead space Mutation",
+          "artUrl": "https://www.artstation.com/artwork/vbEXJ6",
+          "mtgCardBuilderId": "494725"
+        }
+      },
+      "universesBeyondImage": "https://cards.scryfall.io/normal/front/9/9/99a24349-7d11-421b-a161-c1edbb8f53b1.jpg?1771342367",
+      "universesWithinImage": "./cards/Shredder%27s%20Technique.png"
+    },
+    {
       "name": "Windswift Slice",
       "contributionInfo": {
         "contributor": "KolaghanStorm",
@@ -10904,10 +10920,6 @@ const data = {
     {
       "name": "Shredder's Revenge",
       "universesBeyondImage": "https://cards.scryfall.io/normal/front/7/2/72fadf47-2e0b-4b24-b1bc-7c86780716b6.jpg?1771342364"
-    },
-    {
-      "name": "Shredder's Technique",
-      "universesBeyondImage": "https://cards.scryfall.io/normal/front/9/9/99a24349-7d11-421b-a161-c1edbb8f53b1.jpg?1771342367"
     },
     {
       "name": "South Wind Avatar",
