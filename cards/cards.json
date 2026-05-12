@@ -1139,6 +1139,19 @@
 		"artUrl": "https://sandara.artstation.com/projects/zDmJ96",
 		"mtgCardBuilderId": "503203"
 	},
+	"0137": {
+		"name": "Clive, Ifrit's Dominant // Ifrit, Warden of Inferno",
+		"nickname": "Oraxos, Burning Soul // Soxaro, Flame Unleashed",
+		"contributor": "KolaghanStorm",
+		"artist": "Bachzim",
+		"artName": "A Kingdom Divided",
+		"artUrl": "https://www.artstation.com/artwork/ZekLyR",
+		"backArtist": "Bachzim",
+		"backArtName": "Ares",
+		"backArtUrl": "https://www.artstation.com/artwork/LegPR5",
+		"mtgCardBuilderId": "503213",
+		"backMtgCardBuilderId": "503212"
+	},
 	"T0001": {
 		"name": "Alien (TWHO 2)",
 		"contributor": "cgregory",

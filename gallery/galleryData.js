@@ -1,6 +1,31 @@
 const data = {
   "cards": [
     {
+      "name": "Clive, Ifrit's Dominant // Ifrit, Warden of Inferno",
+      "nickname": "Oraxos, Burning Soul // Soxaro, Flame Unleashed",
+      "contributionInfo": {
+        "contributor": "KolaghanStorm",
+        "front": {
+          "artist": "Bachzim",
+          "artistUrl": "https://www.artstation.com/bachzim",
+          "artName": "A Kingdom Divided",
+          "artUrl": "https://www.artstation.com/artwork/ZekLyR",
+          "mtgCardBuilderId": "503213"
+        },
+        "back": {
+          "artist": "Bachzim",
+          "artistUrl": "https://www.artstation.com/bachzim",
+          "artName": "Ares",
+          "artUrl": "https://www.artstation.com/artwork/LegPR5",
+          "mtgCardBuilderId": "503212"
+        }
+      },
+      "universesBeyondImage": "https://cards.scryfall.io/normal/front/9/a/9a069e96-2786-493d-aca8-f70611435dbe.jpg?1748707817",
+      "universesBeyondBackImage": "https://cards.scryfall.io/normal/back/9/a/9a069e96-2786-493d-aca8-f70611435dbe.jpg?1748707817",
+      "universesWithinImage": "./cards/Clive%2C%20Ifrit%27s%20Dominant.png",
+      "universesWithinBackImage": "./cards/Ifrit%2C%20Warden%20of%20Inferno.png"
+    },
+    {
       "name": "Waterbending Lesson",
       "nickname": "Hydromancy Lesson",
       "contributionInfo": {
@@ -6530,11 +6555,6 @@ const data = {
     {
       "name": "Choco-Comet",
       "universesBeyondImage": "https://cards.scryfall.io/normal/front/8/d/8d8d3903-a7f4-4cd8-8d29-b4a173e4fbb2.jpg?1748706258"
-    },
-    {
-      "name": "Clive, Ifrit's Dominant // Ifrit, Warden of Inferno",
-      "universesBeyondImage": "https://cards.scryfall.io/normal/front/9/a/9a069e96-2786-493d-aca8-f70611435dbe.jpg?1748707817",
-      "universesBeyondBackImage": "https://cards.scryfall.io/normal/back/9/a/9a069e96-2786-493d-aca8-f70611435dbe.jpg?1748707817"
     },
     {
       "name": "Coral Sword",
