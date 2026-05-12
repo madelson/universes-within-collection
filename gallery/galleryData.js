@@ -1,6 +1,22 @@
 const data = {
   "cards": [
     {
+      "name": "Waterbending Lesson",
+      "nickname": "Hydromancy Lesson",
+      "contributionInfo": {
+        "contributor": "KolaghanStorm",
+        "front": {
+          "artist": "Sandara Tang",
+          "artistUrl": "https://sandara.artstation.com/",
+          "artName": "Father and son",
+          "artUrl": "https://sandara.artstation.com/projects/zDmJ96",
+          "mtgCardBuilderId": "503203"
+        }
+      },
+      "universesBeyondImage": "https://cards.scryfall.io/normal/front/4/f/4f81e3b5-a0a9-4764-8c2d-b499ce1740b4.jpg?1764120543",
+      "universesWithinImage": "./cards/Waterbending%20Lesson.png"
+    },
+    {
       "name": "Grounded for Life",
       "nickname": "Burden Soul",
       "contributionInfo": {
@@ -9660,10 +9676,6 @@ const data = {
     {
       "name": "Koala-Sheep",
       "universesBeyondImage": "https://cards.scryfall.io/normal/front/7/7/7785ddfe-f8ae-473a-8064-549884c5aabc.jpg?1764118281"
-    },
-    {
-      "name": "Waterbending Lesson",
-      "universesBeyondImage": "https://cards.scryfall.io/normal/front/4/f/4f81e3b5-a0a9-4764-8c2d-b499ce1740b4.jpg?1764120543"
     },
     {
       "name": "Monk Gyatso",
