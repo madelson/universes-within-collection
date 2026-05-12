@@ -1,6 +1,22 @@
 const data = {
   "cards": [
     {
+      "name": "Grounded for Life",
+      "nickname": "Burden Soul",
+      "contributionInfo": {
+        "contributor": "madelson",
+        "front": {
+          "artist": "Odilon Redon",
+          "artistUrl": "https://en.wikipedia.org/wiki/Odilon_Redon",
+          "artName": "Melancholy",
+          "artUrl": "https://www.artic.edu/artworks/96841/melancholy",
+          "mtgCardBuilderId": "503197"
+        }
+      },
+      "universesBeyondImage": "https://cards.scryfall.io/normal/front/7/2/72388199-85fa-4eba-9a9c-c2904e6da9ed.jpg?1771502482",
+      "universesWithinImage": "./cards/Grounded%20for%20Life.png"
+    },
+    {
       "name": "Shredder's Technique",
       "nickname": "Smothering Embrace",
       "contributionInfo": {
@@ -10880,10 +10896,6 @@ const data = {
     {
       "name": "Continue?",
       "universesBeyondImage": "https://cards.scryfall.io/normal/front/2/c/2c99c472-8820-43d8-9dfa-508dc3d07478.jpg?1771424097"
-    },
-    {
-      "name": "Grounded for Life",
-      "universesBeyondImage": "https://cards.scryfall.io/normal/front/7/2/72388199-85fa-4eba-9a9c-c2904e6da9ed.jpg?1771502482"
     },
     {
       "name": "Karai, Shadow Warrior",
