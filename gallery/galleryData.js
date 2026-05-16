@@ -2194,6 +2194,7 @@ const data = {
     },
     {
       "name": "Dalek",
+      "nickname": "Assimilator",
       "contributionInfo": {
         "contributor": "madelson",
         "front": {
