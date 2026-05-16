@@ -98,6 +98,11 @@
     "image": "https://madelson.github.io/universes-within-collection/cards/Cait%2C%20Cage%20Brawler.png"
   },
   {
+    "oracleId": "0623c51a-e829-413f-a3a0-817c0902821e",
+    "name": "Call Forth the Tempest",
+    "image": "https://madelson.github.io/universes-within-collection/cards/Call%20Forth%20the%20Tempest.png"
+  },
+  {
     "oracleId": "61849685-b407-4ed0-aafc-ec3a003200b9",
     "name": "Canoptek Wraith",
     "nickname": "Tangle Wraith",
@@ -108,6 +113,11 @@
     "name": "Captain America, First Avenger",
     "nickname": "Donovan, Armory Captain",
     "image": "https://madelson.github.io/universes-within-collection/cards/Captain%20America%2C%20First%20Avenger.png"
+  },
+  {
+    "oracleId": "57e4a1c0-4218-4a07-88e7-d6083884c2b6",
+    "name": "Champions from Beyond",
+    "image": "https://madelson.github.io/universes-within-collection/cards/Champions%20from%20Beyond.png"
   },
   {
     "oracleId": "e7a80464-1522-48d7-bf82-f9894f5c3ae0",
@@ -225,6 +235,12 @@
     "image": "https://madelson.github.io/universes-within-collection/cards/Four%20Knocks.png"
   },
   {
+    "oracleId": "e326b5a1-f8ce-471b-8663-ec1ba649b24f",
+    "name": "Game Over",
+    "nickname": "Ruthless Conquest",
+    "image": "https://madelson.github.io/universes-within-collection/cards/Game%20Over.png"
+  },
+  {
     "oracleId": "29375a7a-af4e-46aa-8d1c-e8d22d3c0ea7",
     "name": "Glóin, Dwarf Emissary",
     "nickname": "Herlief, Embereth Emissary",
@@ -328,6 +344,12 @@
     "image": "https://madelson.github.io/universes-within-collection/cards/Iraxxa%2C%20Empress%20of%20Mars.png"
   },
   {
+    "oracleId": "2b947703-751a-4d95-b5de-e2d6b1fcb502",
+    "name": "Isengard Unleashed",
+    "nickname": "Dragon's Fury",
+    "image": "https://madelson.github.io/universes-within-collection/cards/Isengard%20Unleashed.png"
+  },
+  {
     "oracleId": "55adde23-c818-40fe-9bba-123de93568a5",
     "name": "Katara, Bending Prodigy",
     "nickname": "Noryss, Ocean’s Advocate",
@@ -406,6 +428,18 @@
     "name": "Mirelurk Queen",
     "nickname": "Imposing Crustacean",
     "image": "https://madelson.github.io/universes-within-collection/cards/Mirelurk%20Queen.png"
+  },
+  {
+    "oracleId": "65259ba4-956d-46a3-abd9-791d02015b41",
+    "name": "Mists of Lórien",
+    "nickname": "Unrelenting Plague",
+    "image": "https://madelson.github.io/universes-within-collection/cards/Mists%20of%20L%C3%B3rien.png"
+  },
+  {
+    "oracleId": "d4e54b48-956f-4467-8485-a5fdb44779fd",
+    "name": "Mr. House, President and CEO",
+    "nickname": "Yoran, Enhanced Gambler",
+    "image": "https://madelson.github.io/universes-within-collection/cards/Mr.%20House%2C%20President%20and%20CEO.png"
   },
   {
     "oracleId": "2daa5b89-e772-4a2b-ad52-bbbf148c7b2f",

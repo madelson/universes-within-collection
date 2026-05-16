@@ -1152,6 +1152,57 @@
 		"mtgCardBuilderId": "503213",
 		"backMtgCardBuilderId": "503212"
 	},
+	"0138": {
+		"name": "Mr. House, President and CEO",
+		"nickname": "Yoran, Enhanced Gambler",
+		"contributor": "KolaghanStorm",
+		"artist": "Bachzim",
+		"artName": "Natalya",
+		"artUrl": "https://www.artstation.com/artwork/OoQGKy",
+		"mtgCardBuilderId": "505947"
+	},
+	"0139": {
+		"name": "Game Over",
+		"nickname": "Ruthless Conquest",
+		"contributor": "KolaghanStorm",
+		"artist": "Anthony Catillaz",
+		"artName": "Dragon Attack",
+		"artUrl": "https://www.artstation.com/artwork/6LXrd0",
+		"isArtCrop": true,
+		"mtgCardBuilderId": "505950"
+	},
+	"0140": {
+		"name": "Call Forth the Tempest",
+		"contributor": "KolaghanStorm",
+		"mtgCardBuilderId": "505953"
+	},
+	"0141": {
+		"name": "Champions from Beyond",
+		"contributor": "KolaghanStorm",
+		"artist": "Sandara Tang",
+		"artName": "Shrubley, the Monster Adventurer",
+		"artUrl": "https://sandara.artstation.com/projects/PXw0W1",
+		"mtgCardBuilderId": "505956"
+	},
+	"0142": {
+		"name": "Isengard Unleashed",
+		"nickname": "Dragon's Fury",
+		"contributor": "KolaghanStorm",
+		"artist": "Anthony Catillaz",
+		"artName": "Dragon Attack",
+		"artUrl": "https://www.artstation.com/artwork/6LXrd0",
+		"isArtCrop": true,
+		"mtgCardBuilderId": "505958"
+	},
+	"0143": {
+		"name": "Mists of Lórien",
+		"nickname": "Unrelenting Plague",
+		"contributor": "KolaghanStorm",
+		"artist": "John Martin",
+		"artName": "The Seventh Plague of Egypt",
+		"artUrl": "https://en.wikipedia.org/wiki/The_Seventh_Plague_of_Egypt#/media/File:Martin,_John_-_The_Seventh_Plague_-_1823.jpg",
+		"mtgCardBuilderId": "505960"
+	},
 	"T0001": {
 		"name": "Alien (TWHO 2)",
 		"contributor": "cgregory",
