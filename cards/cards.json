@@ -1203,6 +1203,24 @@
 		"artUrl": "https://en.wikipedia.org/wiki/The_Seventh_Plague_of_Egypt#/media/File:Martin,_John_-_The_Seventh_Plague_-_1823.jpg",
 		"mtgCardBuilderId": "505960"
 	},
+	"0144": {
+		"name": "Genesis of the Daleks",
+		"nickname": "Summon the Assimilators",
+		"contributor": "madelson",
+		"artist": "Thomas Ricci",
+		"artName": "Envoy from the Other Side",
+		"artUrl": "https://www.instagram.com/p/DWyhOO2DP3l/?img_index=1",
+		"mtgCardBuilderId": "506071"
+	},
+	"0145": {
+		"name": "The Coming of Galactus",
+		"nickname": "Waking of the Colossus",
+		"contributor": "madelson",
+		"artist": "Francisco de Goya",
+		"artName": "The Colossus",
+		"artUrl": "https://en.wikipedia.org/wiki/The_Colossus_(painting)",
+		"mtgCardBuilderId": "506077"
+	},
 	"T0001": {
 		"name": "Alien (TWHO 2)",
 		"contributor": "cgregory",

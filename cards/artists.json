@@ -88,6 +88,11 @@
 			"name": "John Martin",
 			"contact": "public domain",
 			"url": "https://en.wikipedia.org/wiki/John_Martin_(painter)"
+		},
+		{
+			"name": "Francisco de Goya",
+			"contact": "public domain",
+			"url": "https://en.wikipedia.org/wiki/Francisco_Goya"
 		}
 	],
 	"declined": [

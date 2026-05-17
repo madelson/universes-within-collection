@@ -1,6 +1,38 @@
 const data = {
   "cards": [
     {
+      "name": "The Coming of Galactus",
+      "nickname": "Waking of the Colossus",
+      "contributionInfo": {
+        "contributor": "madelson",
+        "front": {
+          "artist": "Francisco de Goya",
+          "artistUrl": "https://en.wikipedia.org/wiki/Francisco_Goya",
+          "artName": "The Colossus",
+          "artUrl": "https://en.wikipedia.org/wiki/The_Colossus_(painting)",
+          "mtgCardBuilderId": "506077"
+        }
+      },
+      "universesBeyondImage": "https://cards.scryfall.io/normal/front/0/4/04a38b92-619e-4fe8-b0cb-6fa31f0824ff.jpg?1778243954",
+      "universesWithinImage": "./cards/The%20Coming%20of%20Galactus.png"
+    },
+    {
+      "name": "Genesis of the Daleks",
+      "nickname": "Summon the Assimilators",
+      "contributionInfo": {
+        "contributor": "madelson",
+        "front": {
+          "artist": "Thomas Ricci",
+          "artistUrl": "https://artrhino.artstation.com/",
+          "artName": "Envoy from the Other Side",
+          "artUrl": "https://www.instagram.com/p/DWyhOO2DP3l/?img_index=1",
+          "mtgCardBuilderId": "506071"
+        }
+      },
+      "universesBeyondImage": "https://cards.scryfall.io/normal/front/6/c/6ce10eb6-9718-4739-a796-da33d823a463.jpg?1696636607",
+      "universesWithinImage": "./cards/Genesis%20of%20the%20Daleks.png"
+    },
+    {
       "name": "Mists of Lórien",
       "nickname": "Unrelenting Plague",
       "contributionInfo": {
@@ -5145,10 +5177,6 @@ const data = {
     {
       "name": "Exterminate!",
       "universesBeyondImage": "https://cards.scryfall.io/normal/front/d/a/da54bbfd-48d8-4b1f-9336-e45be7e0b0e5.jpg?1696636606"
-    },
-    {
-      "name": "Genesis of the Daleks",
-      "universesBeyondImage": "https://cards.scryfall.io/normal/front/6/c/6ce10eb6-9718-4739-a796-da33d823a463.jpg?1696636607"
     },
     {
       "name": "Yasmin Khan",
@@ -11190,10 +11218,6 @@ const data = {
     {
       "name": "The Mind Stone",
       "universesBeyondImage": "https://cards.scryfall.io/normal/front/8/7/87f1e69a-6d74-4982-afda-82613637799a.jpg?1778243714"
-    },
-    {
-      "name": "The Coming of Galactus",
-      "universesBeyondImage": "https://cards.scryfall.io/normal/front/0/4/04a38b92-619e-4fe8-b0cb-6fa31f0824ff.jpg?1778243954"
     },
     {
       "name": "Moon Girl and Devil Dinosaur",

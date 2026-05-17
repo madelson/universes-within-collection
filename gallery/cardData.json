@@ -241,6 +241,12 @@
     "image": "https://madelson.github.io/universes-within-collection/cards/Game%20Over.png"
   },
   {
+    "oracleId": "71ff4603-9f7a-459e-b5b3-9b39583f1dc7",
+    "name": "Genesis of the Daleks",
+    "nickname": "Summon the Assimilators",
+    "image": "https://madelson.github.io/universes-within-collection/cards/Genesis%20of%20the%20Daleks.png"
+  },
+  {
     "oracleId": "29375a7a-af4e-46aa-8d1c-e8d22d3c0ea7",
     "name": "Glóin, Dwarf Emissary",
     "nickname": "Herlief, Embereth Emissary",
@@ -692,6 +698,12 @@
     "name": "The Beast, Deathless Prince",
     "nickname": "Acteus, Patron of Treachery",
     "image": "https://madelson.github.io/universes-within-collection/cards/The%20Beast%2C%20Deathless%20Prince.png"
+  },
+  {
+    "oracleId": "e05f23ba-f2b2-4c40-83fa-8defce3cb978",
+    "name": "The Coming of Galactus",
+    "nickname": "Waking of the Colossus",
+    "image": "https://madelson.github.io/universes-within-collection/cards/The%20Coming%20of%20Galactus.png"
   },
   {
     "oracleId": "06c25d71-f3f4-4089-b9bc-de96fbad73a5",
