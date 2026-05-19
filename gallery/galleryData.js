@@ -1,6 +1,37 @@
 const data = {
   "cards": [
     {
+      "name": "Don't Move",
+      "contributionInfo": {
+        "contributor": "KolaghanStorm",
+        "front": {
+          "artist": "Kristina Gehrmann",
+          "artistUrl": "http://www.kristinagehrmann.com/",
+          "artName": "Cursed by Shadows",
+          "artUrl": "https://dvqlxo2m2q99q.cloudfront.net/000_clients/487558/page/w1000-lianemarscover1cursedbyshadows-kristinagehrmann-0abfc2.webp",
+          "mtgCardBuilderId": "506809"
+        }
+      },
+      "universesBeyondImage": "https://cards.scryfall.io/normal/front/1/d/1d06f729-990b-4c2c-ad2a-c17449117f75.jpg?1698988731",
+      "universesWithinImage": "./cards/Don%27t%20Move.png"
+    },
+    {
+      "name": "Bartz and Boko",
+      "nickname": "Delia, Lady of Swans",
+      "contributionInfo": {
+        "contributor": "KolaghanStorm",
+        "front": {
+          "artist": "Kristina Gehrmann",
+          "artistUrl": "http://www.kristinagehrmann.com/",
+          "artName": "Swan Warrior",
+          "artUrl": "https://dvqlxo2m2q99q.cloudfront.net/000_clients/487558/page/h800-swanwarrior-kristinagehrmann-0310ef.png",
+          "mtgCardBuilderId": "506798"
+        }
+      },
+      "universesBeyondImage": "https://cards.scryfall.io/normal/front/d/8/d818d574-2832-4a7a-a13b-aa6e695fdaa5.jpg?1748706414",
+      "universesWithinImage": "./cards/Bartz%20and%20Boko.png"
+    },
+    {
       "name": "The Coming of Galactus",
       "nickname": "Waking of the Colossus",
       "contributionInfo": {
@@ -5383,10 +5414,6 @@ const data = {
       "universesBeyondImage": "https://cards.scryfall.io/normal/front/c/a/ca533454-8bea-4e08-ab0b-e2f4affffaef.jpg?1719684210"
     },
     {
-      "name": "Don't Move",
-      "universesBeyondImage": "https://cards.scryfall.io/normal/front/1/d/1d06f729-990b-4c2c-ad2a-c17449117f75.jpg?1698988731"
-    },
-    {
       "name": "Grim Giganotosaurus",
       "universesBeyondImage": "https://cards.scryfall.io/normal/front/a/e/ae30b824-9586-413b-b925-ce6f915bf7e5.jpg?1698988759"
     },
@@ -6859,10 +6886,6 @@ const data = {
     {
       "name": "Bard's Bow",
       "universesBeyondImage": "https://cards.scryfall.io/normal/front/2/a/2ac03e90-1e16-453f-88e4-a0448db73403.jpg?1748706414"
-    },
-    {
-      "name": "Bartz and Boko",
-      "universesBeyondImage": "https://cards.scryfall.io/normal/front/d/8/d818d574-2832-4a7a-a13b-aa6e695fdaa5.jpg?1748706414"
     },
     {
       "name": "Blitzball Shot",

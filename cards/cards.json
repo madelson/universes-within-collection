@@ -1221,6 +1221,23 @@
 		"artUrl": "https://en.wikipedia.org/wiki/The_Colossus_(painting)",
 		"mtgCardBuilderId": "506077"
 	},
+	"0146": {
+		"name": "Bartz and Boko",
+		"nickname": "Delia, Lady of Swans",
+		"contributor": "KolaghanStorm",
+		"artist": "Kristina Gehrmann",
+		"artName": "Swan Warrior",
+		"artUrl": "https://dvqlxo2m2q99q.cloudfront.net/000_clients/487558/page/h800-swanwarrior-kristinagehrmann-0310ef.png",
+		"mtgCardBuilderId": "506798",
+	},
+	"0147": {
+		"name": "Don't Move",
+		"contributor": "KolaghanStorm",
+		"artist": "Kristina Gehrmann",
+		"artName": "Cursed by Shadows",
+		"artUrl": "https://dvqlxo2m2q99q.cloudfront.net/000_clients/487558/page/w1000-lianemarscover1cursedbyshadows-kristinagehrmann-0abfc2.webp",
+		"mtgCardBuilderId": "506809"
+	},
 	"T0001": {
 		"name": "Alien (TWHO 2)",
 		"contributor": "cgregory",

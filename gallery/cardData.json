@@ -57,6 +57,12 @@
     "image": "https://madelson.github.io/universes-within-collection/cards/Barbara%20Wright.png"
   },
   {
+    "oracleId": "2d995c47-e548-4fc4-9182-fef46af20ca5",
+    "name": "Bartz and Boko",
+    "nickname": "Delia, Lady of Swans",
+    "image": "https://madelson.github.io/universes-within-collection/cards/Bartz%20and%20Boko.png"
+  },
+  {
     "oracleId": "c5b85aa7-6a76-4fe2-a63e-4f376b6c9af7",
     "name": "Battlefield Improvisation",
     "image": "https://madelson.github.io/universes-within-collection/cards/Battlefield%20Improvisation.png"
@@ -177,6 +183,11 @@
     "name": "Dogmeat, Ever Loyal",
     "nickname": "Phelia the Steadfast",
     "image": "https://madelson.github.io/universes-within-collection/cards/Dogmeat%2C%20Ever%20Loyal.png"
+  },
+  {
+    "oracleId": "23cf095c-d43e-4a80-9bc5-f0f46ff885c4",
+    "name": "Don't Move",
+    "image": "https://madelson.github.io/universes-within-collection/cards/Don%27t%20Move.png"
   },
   {
     "oracleId": "1b1bbad2-13b3-4716-85ef-3956268e23ad",
