@@ -121,6 +121,12 @@
     "image": "https://madelson.github.io/universes-within-collection/cards/Captain%20America%2C%20First%20Avenger.png"
   },
   {
+    "oracleId": "12c57ebe-35a7-4cb3-936b-99c148a3cfed",
+    "name": "Chakra Meditation",
+    "nickname": "Lunar Studies",
+    "image": "https://madelson.github.io/universes-within-collection/cards/Chakra%20Meditation.png"
+  },
+  {
     "oracleId": "57e4a1c0-4218-4a07-88e7-d6083884c2b6",
     "name": "Champions from Beyond",
     "image": "https://madelson.github.io/universes-within-collection/cards/Champions%20from%20Beyond.png"
@@ -212,6 +218,11 @@
     "image": "https://madelson.github.io/universes-within-collection/cards/Ezio%20Auditore%20da%20Firenze.png"
   },
   {
+    "oracleId": "610d9f58-4182-49cb-855c-9b6030e7f714",
+    "name": "Fated Clash",
+    "image": "https://madelson.github.io/universes-within-collection/cards/Fated%20Clash.png"
+  },
+  {
     "oracleId": "284db94d-e583-4355-89fd-6c0906f9d17e",
     "name": "Feral Ghoul",
     "image": "https://madelson.github.io/universes-within-collection/cards/Feral%20Ghoul.png"
@@ -273,6 +284,12 @@
     "name": "Gollum, Obsessed Stalker",
     "nickname": "Kanakht the Eremite",
     "image": "https://madelson.github.io/universes-within-collection/cards/Gollum%2C%20Obsessed%20Stalker.png"
+  },
+  {
+    "oracleId": "79e69a91-d580-47fb-be76-1e32c50d2fa0",
+    "name": "Great Divide Guide",
+    "nickname": "Allied Falconer",
+    "image": "https://madelson.github.io/universes-within-collection/cards/Great%20Divide%20Guide.png"
   },
   {
     "oracleId": "cb9abc41-07f8-4a06-b7b9-9dd6be526e42",
@@ -367,6 +384,12 @@
     "image": "https://madelson.github.io/universes-within-collection/cards/Isengard%20Unleashed.png"
   },
   {
+    "oracleId": "cb184995-700f-4900-994a-4ce7fd12f942",
+    "name": "It'll Quench Ya!",
+    "nickname": "Sudden Madness",
+    "image": "https://madelson.github.io/universes-within-collection/cards/It%27ll%20Quench%20Ya!.png"
+  },
+  {
     "oracleId": "55adde23-c818-40fe-9bba-123de93568a5",
     "name": "Katara, Bending Prodigy",
     "nickname": "Noryss, Ocean’s Advocate",
@@ -451,6 +474,12 @@
     "name": "Mists of Lórien",
     "nickname": "Unrelenting Plague",
     "image": "https://madelson.github.io/universes-within-collection/cards/Mists%20of%20L%C3%B3rien.png"
+  },
+  {
+    "oracleId": "588eecbf-dcfc-4b97-b81c-8b9f3d39e08f",
+    "name": "Mortarion, Daemon Primarch",
+    "nickname": "Colaris, Chapel Defiler",
+    "image": "https://madelson.github.io/universes-within-collection/cards/Mortarion%2C%20Daemon%20Primarch.png"
   },
   {
     "oracleId": "d4e54b48-956f-4467-8485-a5fdb44779fd",
