@@ -24,7 +24,7 @@ html`
 		</label>
 	</div>
 	<div class="header-bottom">
-		<em>UWC card images are <a href="https://raw.githubusercontent.com/madelson/universes-within-collection/main/LICENSE.txt">free for personal, non-commercial use as proxies</a>. Usage of non-Magic art on UWC cards is done with permission from the Artist.</em>
+		<em>UWC card images are <a href="https://raw.githubusercontent.com/madelson/universes-within-collection/main/LICENSE.txt">free for personal, non-commercial use as proxies</a>. Usage of non-Magic, non-public domain art on UWC cards is done with permission from the Artist.</em>
 	</div>
 </header>
 <div class="container">
