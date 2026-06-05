@@ -145,6 +145,12 @@
     "backImage": "https://madelson.github.io/universes-within-collection/cards/Ifrit%2C%20Warden%20of%20Inferno.png"
   },
   {
+    "oracleId": "175c76c8-f36c-4948-aaa8-0208eac5f0d3",
+    "name": "Continue?",
+    "nickname": "Revitalizing Assist",
+    "image": "https://madelson.github.io/universes-within-collection/cards/Continue_.png"
+  },
+  {
     "oracleId": "a3099143-0146-435f-8d29-cd364aefbc2b",
     "name": "Crack in Time",
     "image": "https://madelson.github.io/universes-within-collection/cards/Crack%20in%20Time.png"
@@ -502,6 +508,12 @@
     "oracleId": "4cd2e1c2-5f14-4ac9-9c88-899af6ad9f80",
     "name": "Mysterious Stranger",
     "image": "https://madelson.github.io/universes-within-collection/cards/Mysterious%20Stranger.png"
+  },
+  {
+    "oracleId": "9466cfc1-a8fe-44a0-abd2-5d2dfe7110e0",
+    "name": "Neyam Shai Murad",
+    "nickname": "Revitalizing Assist",
+    "image": "https://madelson.github.io/universes-within-collection/cards/Neyam%20Shai%20Murad.png"
   },
   {
     "oracleId": "28a2ad5b-d637-4634-8d4b-889e1fc88319",
