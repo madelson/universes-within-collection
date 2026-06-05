@@ -9,6 +9,7 @@ These artists have granted permission for their works to be used to make cards f
 | [Charles R. Knight](https://en.wikipedia.org/wiki/Charles_R._Knight) | |
 | [Florian Herold](https://www.artstation.com/faherold) | |
 | [Francisco de Goya](https://en.wikipedia.org/wiki/Francisco_Goya) | |
+| [Georges Clairin](https://en.wikipedia.org/wiki/Georges_Clairin) | |
 | [Heinrich Harder](https://en.wikipedia.org/wiki/Heinrich_Harder) | |
 | [John Martin](https://en.wikipedia.org/wiki/John_Martin_(painter)) | |
 | [Kristina Gehrmann](http://www.kristinagehrmann.com/) | |

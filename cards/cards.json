@@ -1279,6 +1279,15 @@
 		"contributor": "KolaghanStorm",
 		"mtgCardBuilderId": "513650"
 	},
+	"0153": {
+		"name": "MJ, Rising Star",
+		"nickname": "Celestine Veil, Cabaretti Vocalist",
+		"contributor": "KolaghanStorm",
+		"artist": "Georges Clairin",
+		"artName": "Portrait of Sarah Bernhardt",
+		"artUrl": "https://commons.wikimedia.org/wiki/File:Georges_Jules_Victor_Clairin_-_Portrait_de_Sarah_Bernhardt_-_PPP744_-_Mus%C3%A9e_des_Beaux-Arts_de_la_ville_de_Paris.jpg",
+		"mtgCardBuilderId": "518066"
+	},
 	"T0001": {
 		"name": "Alien (TWHO 2)",
 		"contributor": "cgregory",

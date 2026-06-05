@@ -1,6 +1,22 @@
 const data = {
   "cards": [
     {
+      "name": "MJ, Rising Star",
+      "nickname": "Celestine Veil, Cabaretti Vocalist",
+      "contributionInfo": {
+        "contributor": "KolaghanStorm",
+        "front": {
+          "artist": "Georges Clairin",
+          "artistUrl": "https://en.wikipedia.org/wiki/Georges_Clairin",
+          "artName": "Portrait of Sarah Bernhardt",
+          "artUrl": "https://commons.wikimedia.org/wiki/File:Georges_Jules_Victor_Clairin_-_Portrait_de_Sarah_Bernhardt_-_PPP744_-_Mus%C3%A9e_des_Beaux-Arts_de_la_ville_de_Paris.jpg",
+          "mtgCardBuilderId": "518066"
+        }
+      },
+      "universesBeyondImage": "https://cards.scryfall.io/normal/front/4/6/46734558-4af4-4773-8c13-59e110bacae9.jpg?1757376324",
+      "universesWithinImage": "./cards/MJ%2C%20Rising%20Star.png"
+    },
+    {
       "name": "Fated Clash",
       "contributionInfo": {
         "contributor": "KolaghanStorm",
@@ -8299,10 +8315,6 @@ const data = {
     {
       "name": "Pumpkin Bombs",
       "universesBeyondImage": "https://cards.scryfall.io/normal/front/6/e/6e9a83b6-2881-4ba3-96d4-0fd89110837d.jpg?1757376477"
-    },
-    {
-      "name": "MJ, Rising Star",
-      "universesBeyondImage": "https://cards.scryfall.io/normal/front/4/6/46734558-4af4-4773-8c13-59e110bacae9.jpg?1757376324"
     },
     {
       "name": "Spider",
