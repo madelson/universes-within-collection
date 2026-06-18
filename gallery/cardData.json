@@ -257,6 +257,12 @@
     "image": "https://madelson.github.io/universes-within-collection/cards/Flesh%20Duplicate.png"
   },
   {
+    "oracleId": "b56bb8cb-457e-4b85-9bf9-5e891e79f1dd",
+    "name": "Foggy Bottom Swamp",
+    "nickname": "Desolate Swamp",
+    "image": "https://madelson.github.io/universes-within-collection/cards/Foggy%20Bottom%20Swamp.png"
+  },
+  {
     "oracleId": "64fe83b1-5aae-4433-82c3-a11c8c83137e",
     "name": "Four Knocks",
     "nickname": "Pursuit of Wisdom",
@@ -356,6 +362,12 @@
     "image": "https://madelson.github.io/universes-within-collection/cards/Ice%20Magic.png"
   },
   {
+    "oracleId": "01ee70d4-6527-45ae-9600-bd3d16b3037d",
+    "name": "Illegitimate Business",
+    "nickname": "Swamped Ruins",
+    "image": "https://madelson.github.io/universes-within-collection/cards/Illegitimate%20Business.png"
+  },
+  {
     "oracleId": "4f02aa99-481c-4089-8f7c-cfe7eaa7dda0",
     "name": "Improvised Arsenal",
     "image": "https://madelson.github.io/universes-within-collection/cards/Improvised%20Arsenal.png"
@@ -394,6 +406,11 @@
     "name": "It'll Quench Ya!",
     "nickname": "Sudden Madness",
     "image": "https://madelson.github.io/universes-within-collection/cards/It%27ll%20Quench%20Ya!.png"
+  },
+  {
+    "oracleId": "aad9f9f2-4c6b-48d0-80bd-77b73a9ea5f1",
+    "name": "Judgment Bolt",
+    "image": "https://madelson.github.io/universes-within-collection/cards/Judgment%20Bolt.png"
   },
   {
     "oracleId": "55adde23-c818-40fe-9bba-123de93568a5",
@@ -845,6 +862,12 @@
     "oracleId": "247a0c13-c611-4c00-bedf-ecf7ea6bb956",
     "name": "Time Beetle",
     "image": "https://madelson.github.io/universes-within-collection/cards/Time%20Beetle.png"
+  },
+  {
+    "oracleId": "1eae48aa-f01d-4398-a68e-3b5af0542ab1",
+    "name": "Ultimate Magic: Holy",
+    "nickname": "Holy Blessing",
+    "image": "https://madelson.github.io/universes-within-collection/cards/Ultimate%20Magic_%20Holy.png"
   },
   {
     "oracleId": "9ae26054-caf4-47a3-b4bb-3dc14a634740",

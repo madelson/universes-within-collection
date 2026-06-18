@@ -1306,6 +1306,38 @@
 		"artUrl": "https://www.artstation.com/artwork/lxLgJe",
 		"mtgCardBuilderId": "518069"
 	},
+	"0156": {
+		"name": "Judgment Bolt",
+		"contributor": "KolaghanStorm",
+		"artist": "Anthony Catillaz",
+		"artName": "Rising Angel",
+		"artUrl": "https://www.artstation.com/artwork/XgN2QR",
+		"mtgCardBuilderId": "524460"
+	},
+	"0157": {
+		"name": "Ultimate Magic: Holy",
+		"nickname": "Holy Blessing",
+		"contributor": "KolaghanStorm",
+		"artist": "Anthony Catillaz",
+		"artName": "Holy Relict",
+		"artUrl": "https://www.artstation.com/artwork/L4Xmzr",
+		"mtgCardBuilderId": "524467"
+	},
+	"0158": {
+		"name": "Foggy Bottom Swamp",
+		"nickname": "Desolate Swamp",
+		"contributor": "KolaghanStorm",
+		"mtgCardBuilderId": "526820"
+	},
+	"0159": {
+		"name": "Illegitimate Business",
+		"nickname": "Swamped Ruins",
+		"contributor": "KolaghanStorm",
+		"artist": "Florian Herold",
+		"artName": "Moonlight Mire",
+		"artUrl": "https://www.artstation.com/artwork/v1rXKA",
+		"mtgCardBuilderId": 526821
+	},
 	"T0001": {
 		"name": "Alien (TWHO 2)",
 		"contributor": "cgregory",
