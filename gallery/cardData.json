@@ -191,6 +191,11 @@
     "image": "https://madelson.github.io/universes-within-collection/cards/Desmond%20Miles.png"
   },
   {
+    "oracleId": "9703140f-36ee-4427-a390-c1dbdb9e4ee9",
+    "name": "Destined Confrontation",
+    "image": "https://madelson.github.io/universes-within-collection/cards/Destined%20Confrontation.png"
+  },
+  {
     "oracleId": "5232fcc0-5dba-4569-8e99-c0b2c230e9f0",
     "name": "Dogmeat, Ever Loyal",
     "nickname": "Phelia the Steadfast",
@@ -222,6 +227,12 @@
     "name": "Ezio Auditore da Firenze",
     "nickname": "Radan, Duskmantle's Shadow",
     "image": "https://madelson.github.io/universes-within-collection/cards/Ezio%20Auditore%20da%20Firenze.png"
+  },
+  {
+    "oracleId": "6665bfe2-942c-4b3d-a976-776fe00c99f4",
+    "name": "Fang, Roku's Companion",
+    "nickname": "Lord of the Summits",
+    "image": "https://madelson.github.io/universes-within-collection/cards/Fang%2C%20Roku%27s%20Companion.png"
   },
   {
     "oracleId": "610d9f58-4182-49cb-855c-9b6030e7f714",
@@ -454,6 +465,11 @@
     "image": "https://madelson.github.io/universes-within-collection/cards/Lily%20Bowen%2C%20Raging%20Grandma.png"
   },
   {
+    "oracleId": "69ac3757-66f8-47d4-af7b-dda66c96c254",
+    "name": "Lost in Memories",
+    "image": "https://madelson.github.io/universes-within-collection/cards/Lost%20in%20Memories.png"
+  },
+  {
     "oracleId": "a92edf30-6c7f-481c-855e-2a7dc4963ea7",
     "name": "Lost to Legend",
     "image": "https://madelson.github.io/universes-within-collection/cards/Lost%20to%20Legend.png"
@@ -554,6 +570,12 @@
     "oracleId": "292aafef-8945-4827-90b2-1dd9764e517b",
     "name": "Osgood, Operation Double",
     "image": "https://madelson.github.io/universes-within-collection/cards/Osgood%2C%20Operation%20Double.png"
+  },
+  {
+    "oracleId": "aba5c046-2f8c-4749-b347-9a7d8cb1c865",
+    "name": "Ozai's Cruelty",
+    "nickname": "Piercing Gaze",
+    "image": "https://madelson.github.io/universes-within-collection/cards/Ozai%27s%20Cruelty.png"
   },
   {
     "oracleId": "7798a4d9-1c1d-48e6-b9a2-ecd6aec1efa7",
@@ -763,6 +785,12 @@
     "image": "https://madelson.github.io/universes-within-collection/cards/Tegan%20Jovanka.png"
   },
   {
+    "oracleId": "090d815b-b2c8-48cd-a0b3-dc662d5352ac",
+    "name": "Thanos, the Mad Titan",
+    "nickname": "Solara, the Supernova",
+    "image": "https://madelson.github.io/universes-within-collection/cards/Thanos%2C%20the%20Mad%20Titan.png"
+  },
+  {
     "oracleId": "a94c191d-a938-458e-bc1b-2f44fd8873a3",
     "name": "The Battle of Bywater",
     "nickname": "The Battle of Kinsbaile",
@@ -870,6 +898,12 @@
     "image": "https://madelson.github.io/universes-within-collection/cards/Ultimate%20Magic_%20Holy.png"
   },
   {
+    "oracleId": "31cc5d9d-9384-4a9b-ba7f-6a4edbcb7a35",
+    "name": "Ultimate Magic: Meteor",
+    "nickname": "Meteor Impact",
+    "image": "https://madelson.github.io/universes-within-collection/cards/Ultimate%20Magic_%20Meteor.png"
+  },
+  {
     "oracleId": "9ae26054-caf4-47a3-b4bb-3dc14a634740",
     "name": "Vashta Nerada",
     "nickname": "Umbral Reaper",
@@ -880,6 +914,11 @@
     "name": "Vault 13: Dweller's Journey",
     "nickname": "Sorin's Search for Avacyn",
     "image": "https://madelson.github.io/universes-within-collection/cards/Vault%2013_%20Dweller%27s%20Journey.png"
+  },
+  {
+    "oracleId": "aeee8308-76aa-4ed5-b7b2-04fb9e29c676",
+    "name": "Voracious Brood",
+    "image": "https://madelson.github.io/universes-within-collection/cards/Voracious%20Brood.png"
   },
   {
     "oracleId": "3d28886c-46bf-4d2e-a257-cb9016cc3573",

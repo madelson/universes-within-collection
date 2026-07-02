@@ -1337,6 +1337,57 @@
 		"artName": "Moonlight Mire",
 		"artUrl": "https://www.artstation.com/artwork/v1rXKA",
 		"mtgCardBuilderId": 526821
+	},	
+	"0160": {
+		"name": "Voracious Brood",
+		"contributor": "KolaghanStorm",
+		"mtgCardBuilderId": 528548
+	},
+	"0161": {
+		"name": "Thanos, the Mad Titan",
+		"nickname": "Solara, the Supernova",
+		"contributor": "KolaghanStorm",
+		"artist": "Bachzim",
+		"artName": "Celestial",
+		"artUrl": "https://www.artstation.com/artwork/oAVWnm",
+		"mtgCardBuilderId": 528994
+	},
+	"0162": {
+		"name": "Ultimate Magic: Meteor",
+		"nickname": "Meteor Impact",
+		"contributor": "KolaghanStorm",
+		"mtgCardBuilderId": 529001
+	},
+	"0163": {
+		"name": "Destined Confrontation",
+		"contributor": "KolaghanStorm",
+		"artist": "Bachzim",
+		"artName": "Than Tich God's Fight",
+		"artUrl": "https://www.artstation.com/artwork/9m05Wq",
+		"mtgCardBuilderId": 529004
+	},
+	"0164": {
+		"name": "Fang, Roku's Companion",
+		"nickname": "Lord of the Summits",
+		"contributor": "KolaghanStorm",
+		"mtgCardBuilderId": 529225
+	},
+	"0165": {
+		"name": "Ozai's Cruelty",
+		"nickname": "Piercing Gaze",
+		"contributor": "KolaghanStorm",
+		"artist": "Anthony Catillaz",
+		"artName": "Steam Capsule Art Own Project Horror",
+		"artUrl": "https://www.artstation.com/artwork/rlQvvG",
+		"mtgCardBuilderId": 529244
+	},
+	"0166": {
+		"name": "Lost in Memories",
+		"contributor": "KolaghanStorm",
+		"artist": "Florian Herold",
+		"artName": "Unforgotten",
+		"artUrl": "https://www.artstation.com/artwork/LeA5gP",
+		"mtgCardBuilderId": 535082
 	},
 	"T0001": {
 		"name": "Alien (TWHO 2)",
