@@ -1389,6 +1389,16 @@
 		"artUrl": "https://www.artstation.com/artwork/LeA5gP",
 		"mtgCardBuilderId": 535082
 	},
+	"0167": {
+		"name": "West Wind Avatar",
+		"contributor": "KolaghanStorm",
+		"mtgCardBuilderId": 548959
+	},
+	"0168": {
+		"name": "East Wind Avatar",
+		"contributor": "KolaghanStorm",
+		"mtgCardBuilderId": 548966
+	},
 	"T0001": {
 		"name": "Alien (TWHO 2)",
 		"contributor": "cgregory",

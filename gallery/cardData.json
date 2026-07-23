@@ -207,6 +207,11 @@
     "image": "https://madelson.github.io/universes-within-collection/cards/Don%27t%20Move.png"
   },
   {
+    "oracleId": "e2ef355a-2472-47e0-9b2e-987994291921",
+    "name": "East Wind Avatar",
+    "image": "https://madelson.github.io/universes-within-collection/cards/East%20Wind%20Avatar.png"
+  },
+  {
     "oracleId": "1b1bbad2-13b3-4716-85ef-3956268e23ad",
     "name": "ED-E, Lonesome Eyebot",
     "nickname": "The Warden of Argentum",
@@ -936,6 +941,11 @@
     "oracleId": "f8cebb33-9235-4f63-8171-15af8b8e1436",
     "name": "Well Rested",
     "image": "https://madelson.github.io/universes-within-collection/cards/Well%20Rested.png"
+  },
+  {
+    "oracleId": "92e45a8f-c582-45e1-9b7f-def219023ebf",
+    "name": "West Wind Avatar",
+    "image": "https://madelson.github.io/universes-within-collection/cards/West%20Wind%20Avatar.png"
   },
   {
     "oracleId": "5207621d-aecf-40ae-8108-2bd571e3a427",
