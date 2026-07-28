@@ -377,6 +377,7 @@ async Task<List<CardInfo>> GetUniversesBeyondCardsAsync()
 	
 	var allCardsByOracleId = allCards.ToLookup(c => c.Oracle_Id);
 	var universesBeyondSets = universesBeyondCards.Select(c => c.Set).ToHashSet();
+	if (!universesBeyondSets.Add("mar")) { throw new Exception("Remove this override"); }
 	// Above we exclude reprints since we don't care to include in-universe cards which were reprinted in UB sets. However, pltc is a case where
 	// a UB card was reprinted in another UB set. We need to make sure that set is tagged as UB so that it doesn't look like an official UW printing.
 	// This is not a complete solution because at some point we'll surely get a UB reprint into a non-promotional UB set.
