@@ -1,6 +1,22 @@
 const data = {
   "cards": [
     {
+      "name": "Dinosaurs on a Spaceship",
+      "nickname": "Herd of Dinosaurs",
+      "contributionInfo": {
+        "contributor": "KolaghanStorm",
+        "front": {
+          "artist": "Sandara Tang",
+          "artistUrl": "https://sandara.artstation.com/",
+          "artName": "Stampede",
+          "artUrl": "https://sandara.artstation.com/projects/9KNOL",
+          "mtgCardBuilderId": "537379"
+        }
+      },
+      "universesBeyondImage": "https://cards.scryfall.io/normal/front/8/1/816242c4-54ec-4f49-8f77-b3dbf1576247.jpg?1783914637",
+      "universesWithinImage": "./cards/Dinosaurs%20on%20a%20Spaceship.png"
+    },
+    {
       "name": "Crossroads Village",
       "contributionInfo": {
         "contributor": "KolaghanStorm",
@@ -5068,10 +5084,6 @@ const data = {
     {
       "name": "The Day of the Doctor",
       "universesBeyondImage": "https://cards.scryfall.io/normal/front/9/7/9767f42c-df04-4426-929a-87e51aa2b8a5.jpg?1783914637"
-    },
-    {
-      "name": "Dinosaurs on a Spaceship",
-      "universesBeyondImage": "https://cards.scryfall.io/normal/front/8/1/816242c4-54ec-4f49-8f77-b3dbf1576247.jpg?1783914637"
     },
     {
       "name": "Duggan, Private Detective",
