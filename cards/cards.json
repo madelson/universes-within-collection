@@ -1430,6 +1430,37 @@
 		"contributor": "KolaghanStorm",
 		"mtgCardBuilderId": 547474
 	},
+	"0173": {
+		"name": "Keeper of Secrets",
+		"artist": "Anthony Catillaz",
+		"artName": "Oorion demon",
+		"artUrl": "https://www.artstation.com/artwork/lDAwaz",
+		"contributor": "KolaghanStorm",
+		"mtgCardBuilderId": 554205
+	},
+	"0174": {
+		"name": "Cosmic Cube",
+		"nickname": "Orb of Infinite Potential",
+		"artist": "Sandara Tang",
+		"artName": "A Touch of Power 3",
+		"artUrl": "https://sandara.artstation.com/projects/6araQ6",
+		"contributor": "KolaghanStorm",
+		"mtgCardBuilderId": 561611
+	},
+	"0175": {
+		"name": "Unagi's Spray",
+		"nickname": "Koma's Spray",
+		"contributor": "KolaghanStorm",
+		"mtgCardBuilderId": 561614
+	},
+	"0176": {
+		"name": "Grey Knight Paragon",
+		"artist": "Sandara Tang",
+		"artName": "Death's Carousel",
+		"artUrl": "https://sandara.artstation.com/projects/Wee1Q",
+		"contributor": "KolaghanStorm",
+		"mtgCardBuilderId": 561618
+	},
 	"T0001": {
 		"name": "Alien (TWHO 2)",
 		"contributor": "cgregory",

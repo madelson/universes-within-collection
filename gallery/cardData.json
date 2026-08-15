@@ -156,6 +156,12 @@
     "image": "https://madelson.github.io/universes-within-collection/cards/Continue_.png"
   },
   {
+    "oracleId": "0866a630-d962-4aa9-a15f-08b2947540ef",
+    "name": "Cosmic Cube",
+    "nickname": "Orb of Infinite Potential",
+    "image": "https://madelson.github.io/universes-within-collection/cards/Cosmic%20Cube.png"
+  },
+  {
     "oracleId": "a3099143-0146-435f-8d29-cd364aefbc2b",
     "name": "Crack in Time",
     "image": "https://madelson.github.io/universes-within-collection/cards/Crack%20in%20Time.png"
@@ -347,6 +353,11 @@
     "image": "https://madelson.github.io/universes-within-collection/cards/Grey%20Host%20Reinforcements.png"
   },
   {
+    "oracleId": "12cc97ec-5d03-4434-a31b-51e77d208466",
+    "name": "Grey Knight Paragon",
+    "image": "https://madelson.github.io/universes-within-collection/cards/Grey%20Knight%20Paragon.png"
+  },
+  {
     "oracleId": "9a334434-072a-4486-810a-63efb29dea6d",
     "name": "Grounded for Life",
     "nickname": "Burden Soul",
@@ -449,6 +460,11 @@
     "name": "Katara, Bending Prodigy",
     "nickname": "Noryss, Ocean’s Advocate",
     "image": "https://madelson.github.io/universes-within-collection/cards/Katara%2C%20Bending%20Prodigy.png"
+  },
+  {
+    "oracleId": "23f86ee2-b1e3-45c2-bfd5-044919033922",
+    "name": "Keeper of Secrets",
+    "image": "https://madelson.github.io/universes-within-collection/cards/Keeper%20of%20Secrets.png"
   },
   {
     "oracleId": "904b2603-00c3-44d2-a43c-c25439dd8038",
@@ -929,6 +945,12 @@
     "name": "Ultimate Magic: Meteor",
     "nickname": "Meteor Impact",
     "image": "https://madelson.github.io/universes-within-collection/cards/Ultimate%20Magic_%20Meteor.png"
+  },
+  {
+    "oracleId": "74b8976a-15cb-4604-a65d-ca9735cd6000",
+    "name": "Unagi's Spray",
+    "nickname": "Koma's Spray",
+    "image": "https://madelson.github.io/universes-within-collection/cards/Unagi%27s%20Spray.png"
   },
   {
     "oracleId": "9ae26054-caf4-47a3-b4bb-3dc14a634740",

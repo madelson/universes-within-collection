@@ -1,6 +1,64 @@
 const data = {
   "cards": [
     {
+      "name": "Grey Knight Paragon",
+      "contributionInfo": {
+        "contributor": "KolaghanStorm",
+        "front": {
+          "artist": "Sandara Tang",
+          "artistUrl": "https://sandara.artstation.com/",
+          "artName": "Death's Carousel",
+          "artUrl": "https://sandara.artstation.com/projects/Wee1Q",
+          "mtgCardBuilderId": "561618"
+        }
+      },
+      "universesBeyondImage": "https://cards.scryfall.io/normal/front/2/7/27b29b3f-1f99-4880-8f66-442fa5326150.jpg?1783920946",
+      "universesWithinImage": "./cards/Grey%20Knight%20Paragon.png"
+    },
+    {
+      "name": "Unagi's Spray",
+      "nickname": "Koma's Spray",
+      "contributionInfo": {
+        "contributor": "KolaghanStorm",
+        "front": {
+          "mtgCardBuilderId": "561614"
+        }
+      },
+      "universesBeyondImage": "https://cards.scryfall.io/normal/front/a/e/ae943628-f7d2-4ad7-ba12-0e19520a1bb5.jpg?1783904828",
+      "universesWithinImage": "./cards/Unagi%27s%20Spray.png"
+    },
+    {
+      "name": "Cosmic Cube",
+      "nickname": "Orb of Infinite Potential",
+      "contributionInfo": {
+        "contributor": "KolaghanStorm",
+        "front": {
+          "artist": "Sandara Tang",
+          "artistUrl": "https://sandara.artstation.com/",
+          "artName": "A Touch of Power 3",
+          "artUrl": "https://sandara.artstation.com/projects/6araQ6",
+          "mtgCardBuilderId": "561611"
+        }
+      },
+      "universesBeyondImage": "https://cards.scryfall.io/normal/front/d/1/d1cf1ead-fe91-4328-89ab-6d0bc9ff6cbe.jpg?1783902891",
+      "universesWithinImage": "./cards/Cosmic%20Cube.png"
+    },
+    {
+      "name": "Keeper of Secrets",
+      "contributionInfo": {
+        "contributor": "KolaghanStorm",
+        "front": {
+          "artist": "Anthony Catillaz",
+          "artistUrl": "https://www.artstation.com/darkmoonarts",
+          "artName": "Oorion demon",
+          "artUrl": "https://www.artstation.com/artwork/lDAwaz",
+          "mtgCardBuilderId": "554205"
+        }
+      },
+      "universesBeyondImage": "https://cards.scryfall.io/normal/front/4/f/4fe408aa-14d9-4afd-abfe-b5156c5341b7.jpg?1783920889",
+      "universesWithinImage": "./cards/Keeper%20of%20Secrets.png"
+    },
+    {
       "name": "Break Down",
       "contributionInfo": {
         "contributor": "KolaghanStorm",
@@ -2945,10 +3003,6 @@ const data = {
       "universesBeyondImage": "https://cards.scryfall.io/normal/front/9/a/9a53cf96-b47f-48f0-b9cc-3330ae546a87.jpg?1783920844"
     },
     {
-      "name": "Grey Knight Paragon",
-      "universesBeyondImage": "https://cards.scryfall.io/normal/front/2/7/27b29b3f-1f99-4880-8f66-442fa5326150.jpg?1783920946"
-    },
-    {
       "name": "Cherubael",
       "universesBeyondImage": "https://cards.scryfall.io/normal/front/0/6/065e30fe-03e5-4558-8f41-42992b07712e.jpg?1783920663"
     },
@@ -3407,10 +3461,6 @@ const data = {
     {
       "name": "Herald of Slaanesh",
       "universesBeyondImage": "https://cards.scryfall.io/normal/front/0/4/04a1852a-9b23-4834-852e-b018df88f497.jpg?1783920889"
-    },
-    {
-      "name": "Keeper of Secrets",
-      "universesBeyondImage": "https://cards.scryfall.io/normal/front/4/f/4fe408aa-14d9-4afd-abfe-b5156c5341b7.jpg?1783920889"
     },
     {
       "name": "Khârn the Betrayer",
@@ -10248,10 +10298,6 @@ const data = {
       "universesBeyondImage": "https://cards.scryfall.io/normal/front/3/3/3343933d-4425-4ede-8d92-876bd0c6df60.jpg?1783904973"
     },
     {
-      "name": "Unagi's Spray",
-      "universesBeyondImage": "https://cards.scryfall.io/normal/front/a/e/ae943628-f7d2-4ad7-ba12-0e19520a1bb5.jpg?1783904828"
-    },
-    {
       "name": "The Fire Nation Drill",
       "universesBeyondImage": "https://cards.scryfall.io/normal/front/5/4/54d762f6-e131-480f-b294-10f5a63d9c98.jpg?1783904973"
     },
@@ -12310,10 +12356,6 @@ const data = {
     {
       "name": "Captain America's Shield",
       "universesBeyondImage": "https://cards.scryfall.io/normal/front/4/b/4b5433ac-0d36-4472-bf8b-d22f0ffd367b.jpg?1783902892"
-    },
-    {
-      "name": "Cosmic Cube",
-      "universesBeyondImage": "https://cards.scryfall.io/normal/front/d/1/d1cf1ead-fe91-4328-89ab-6d0bc9ff6cbe.jpg?1783902891"
     },
     {
       "name": "Dependable Quinjet",
