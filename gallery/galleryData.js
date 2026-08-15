@@ -1,6 +1,21 @@
 const data = {
   "cards": [
     {
+      "name": "Heroic Sacrifice",
+      "contributionInfo": {
+        "contributor": "madelson",
+        "front": {
+          "artist": "Florian Herold",
+          "artistUrl": "https://www.artstation.com/faherold",
+          "artName": "The Legend of King Arthur (Part 4)",
+          "artUrl": "https://www.artstation.com/artwork/oOBX2L",
+          "mtgCardBuilderId": "565020"
+        }
+      },
+      "universesBeyondImage": "https://cards.scryfall.io/normal/front/e/c/ec7bd155-1dd6-4fc3-870f-e0905f8c6d42.jpg?1783903298",
+      "universesWithinImage": "./cards/Heroic%20Sacrifice.png"
+    },
+    {
       "name": "Grey Knight Paragon",
       "contributionInfo": {
         "contributor": "KolaghanStorm",
@@ -12021,10 +12036,6 @@ const data = {
     {
       "name": "Powerful Broker",
       "universesBeyondImage": "https://cards.scryfall.io/normal/front/8/0/801f0417-b663-4e28-9a61-9570061654d7.jpg?1783902917"
-    },
-    {
-      "name": "Heroic Sacrifice",
-      "universesBeyondImage": "https://cards.scryfall.io/normal/front/e/c/ec7bd155-1dd6-4fc3-870f-e0905f8c6d42.jpg?1783903298"
     },
     {
       "name": "Jennifer Walters // The Sensational She-Hulk",
