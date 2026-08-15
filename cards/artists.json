@@ -2,7 +2,7 @@
 	"approved": [
 		{
 			"name": "Anthony Catillaz",
-			"url": "https://www.artstation.com/articoluminos",
+			"url": "https://www.artstation.com/darkmoonarts",
 			"contact": "artstation.com"
 		},
 		{
@@ -98,6 +98,11 @@
 			"name": "Georges Clairin",
 			"contact": "public domain",
 			"url": "https://en.wikipedia.org/wiki/Georges_Clairin"
+		},
+		{
+			"name": "Jemima Blackburn",
+			"contact": "public domain",
+			"url": "https://en.wikipedia.org/wiki/Jemima_Blackburn"
 		}
 	],
 	"declined": [
@@ -194,6 +199,10 @@
 		{
 			"name": "Frank Freire",
 			"contact": "artstation.com"
+		},
+		{
+			"name": "Joel Chaim Holtzman",
+			"contact": "https://www.joelchaimholtzman.com/contact.html"
 		}
 	],
 	"unclearHowToReach": [

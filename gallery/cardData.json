@@ -98,6 +98,11 @@
     "image": "https://madelson.github.io/universes-within-collection/cards/Blink.png"
   },
   {
+    "oracleId": "73094bde-5466-41a4-88f9-a98e67f5ed2e",
+    "name": "Break Down",
+    "image": "https://madelson.github.io/universes-within-collection/cards/Break%20Down.png"
+  },
+  {
     "oracleId": "f24319a1-0662-44be-9027-11e7bc020e1d",
     "name": "Cait, Cage Brawler",
     "nickname": "Vara, Wanted Outcaster",
@@ -455,6 +460,12 @@
     "oracleId": "9be19bdf-db1e-433e-8be4-8b985a568211",
     "name": "Kitsune, Dragon's Daughter",
     "image": "https://madelson.github.io/universes-within-collection/cards/Kitsune%2C%20Dragon%27s%20Daughter.png"
+  },
+  {
+    "oracleId": "71ae0fab-eb3e-4226-9fcc-29186f98a569",
+    "name": "Knuckles the Echidna",
+    "nickname": "Puggle and Quill, Antbanes",
+    "image": "https://madelson.github.io/universes-within-collection/cards/Knuckles%20the%20Echidna.png"
   },
   {
     "oracleId": "59154c04-6bc5-4b95-af1f-6de5fed05649",

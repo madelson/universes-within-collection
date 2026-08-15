@@ -9,6 +9,7 @@
   <Namespace>System.Runtime.CompilerServices</Namespace>
   <Namespace>System.Threading.Tasks</Namespace>
   <Namespace>TinifyAPI</Namespace>
+  <Namespace>System.IO.Compression</Namespace>
 </Query>
 
 #nullable enable
@@ -407,11 +408,18 @@ async Task<List<Card>> GetAllCardsAsync()
 	using var bulkDataMetaResponse = await Client.GetAsync("https://api.scryfall.com/bulk-data");
 	bulkDataMetaResponse.EnsureSuccessStatusCode();
 	var bulkDataJson = JObject.Parse(await bulkDataMetaResponse.Content.ReadAsStringAsync());
-	var downloadUri = ((JArray)bulkDataJson["data"]!).Single(o => o["name"]!.ToObject<string>() == "Default Cards")["download_uri"]!.ToObject<string>();
+	var downloadUri = ((JArray)bulkDataJson["data"]!).Single(o => o["name"]!.ToObject<string>() == "Default Cards")["jsonl_download_uri"]!.ToObject<string>();
 	
 	using var bulkDataResponse = await Client.GetAsync(downloadUri);
 	bulkDataResponse.EnsureSuccessStatusCode();
-	var bulkDataCards = JsonConvert.DeserializeObject<List<Card>>(await bulkDataResponse.Content.ReadAsStringAsync())!;
+	using var reader = new StreamReader(new GZipStream(await bulkDataResponse.Content.ReadAsStreamAsync(), CompressionMode.Decompress));
+	List<Card> bulkDataCards = [];
+	while (true)
+	{
+		var line = await reader.ReadLineAsync();
+		if (line is null) { break; }
+		bulkDataCards.Add(JsonConvert.DeserializeObject<Card>(line) ?? throw new Exception("deserialized null"));
+	}
 	return bulkDataCards;
 }
 
