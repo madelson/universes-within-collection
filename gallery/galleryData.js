@@ -1,6 +1,21 @@
 const data = {
   "cards": [
     {
+      "name": "Brilliant Wings",
+      "contributionInfo": {
+        "contributor": "KolaghanStorm",
+        "front": {
+          "artist": "Nickolas Paris",
+          "artistUrl": "https://nickolasparis.com",
+          "artName": "Divine Ascent",
+          "artUrl": "https://nickolasparis.com/projects/xYl4wm?album_id=8299747",
+          "mtgCardBuilderId": "570864"
+        }
+      },
+      "universesBeyondImage": "https://cards.scryfall.io/normal/front/c/3/c358af5d-61e3-4c4d-9d7d-2f3e43210339.jpg?1783904653",
+      "universesWithinImage": "./cards/Brilliant%20Wings.png"
+    },
+    {
       "name": "Earth's Mightiest Heroes",
       "nickname": "Nissa's Recruitment",
       "contributionInfo": {
@@ -10405,10 +10420,6 @@ const data = {
     {
       "name": "Squall, Gunblade Duelist",
       "universesBeyondImage": "https://cards.scryfall.io/normal/front/6/8/682b9f3c-960b-4600-b650-eefd588071d3.jpg?1783904653"
-    },
-    {
-      "name": "Brilliant Wings",
-      "universesBeyondImage": "https://cards.scryfall.io/normal/front/c/3/c358af5d-61e3-4c4d-9d7d-2f3e43210339.jpg?1783904653"
     },
     {
       "name": "Judgment of Alexander",
