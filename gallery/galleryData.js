@@ -1,6 +1,22 @@
 const data = {
   "cards": [
     {
+      "name": "Earth's Mightiest Heroes",
+      "nickname": "Nissa's Recruitment",
+      "contributionInfo": {
+        "contributor": "KolaghanStorm",
+        "front": {
+          "artist": "Thomas Ricci",
+          "artistUrl": "https://artrhino.artstation.com/",
+          "artName": "Nissa Revane",
+          "artUrl": "https://artrhino.artstation.com/projects/qAlml2",
+          "mtgCardBuilderId": "570859"
+        }
+      },
+      "universesBeyondImage": "https://cards.scryfall.io/normal/front/b/3/b38b9bd6-1dd7-4bbc-8a82-ce391c1172e1.jpg?1783902919",
+      "universesWithinImage": "./cards/Earth%27s%20Mightiest%20Heroes.png"
+    },
+    {
       "name": "Through the Forest Gate",
       "contributionInfo": {
         "contributor": "KolaghanStorm",
@@ -11990,10 +12006,6 @@ const data = {
     {
       "name": "Doc Samson, Super Psychiatrist",
       "universesBeyondImage": "https://cards.scryfall.io/normal/front/1/9/19dc5fcc-d05d-41a0-84c5-2dec996f3e4f.jpg?1783902920"
-    },
-    {
-      "name": "Earth's Mightiest Heroes",
-      "universesBeyondImage": "https://cards.scryfall.io/normal/front/b/3/b38b9bd6-1dd7-4bbc-8a82-ce391c1172e1.jpg?1783902919"
     },
     {
       "name": "Epic Fight",
