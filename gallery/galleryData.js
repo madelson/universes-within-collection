@@ -1,6 +1,22 @@
 const data = {
   "cards": [
     {
+      "name": "Endless Ranks of HYDRA",
+      "nickname": "Neverending Evil",
+      "contributionInfo": {
+        "contributor": "KolaghanStorm",
+        "front": {
+          "artist": "Sandara Tang",
+          "artistUrl": "https://sandara.artstation.com/",
+          "artName": "The Last Battle",
+          "artUrl": "https://sandara.artstation.com/projects/eRvJZb",
+          "mtgCardBuilderId": "571631"
+        }
+      },
+      "universesBeyondImage": "https://cards.scryfall.io/normal/front/2/7/27da10b3-a131-4afc-ab84-5df93160d81f.jpg?1783903287",
+      "universesWithinImage": "./cards/Endless%20Ranks%20of%20HYDRA.png"
+    },
+    {
       "name": "Brilliant Wings",
       "contributionInfo": {
         "contributor": "KolaghanStorm",
@@ -12696,10 +12712,6 @@ const data = {
     {
       "name": "Aerial Doombot",
       "universesBeyondImage": "https://cards.scryfall.io/normal/front/e/7/e727ec1c-dc3b-4f1a-8a62-18549f118b89.jpg?1783902963"
-    },
-    {
-      "name": "Endless Ranks of HYDRA",
-      "universesBeyondImage": "https://cards.scryfall.io/normal/front/2/7/27da10b3-a131-4afc-ab84-5df93160d81f.jpg?1783903287"
     },
     {
       "name": "A.I.M. Scientists",
