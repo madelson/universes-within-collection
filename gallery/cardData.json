@@ -28,6 +28,12 @@
     "image": "https://madelson.github.io/universes-within-collection/cards/Animal%20Friend.png"
   },
   {
+    "oracleId": "13ac12db-d04b-4211-90df-886e1c597e8f",
+    "name": "Arwen's Gift",
+    "nickname": "A Kingly Gift",
+    "image": "https://madelson.github.io/universes-within-collection/cards/Arwen%27s%20Gift.png"
+  },
+  {
     "oracleId": "fa55177c-ba65-4113-9c05-2d63318cf7c5",
     "name": "Astrid Peth",
     "nickname": "Saffi, Balduvian Naif",
@@ -294,6 +300,12 @@
     "image": "https://madelson.github.io/universes-within-collection/cards/Feral%20Ghoul.png"
   },
   {
+    "oracleId": "2a99c0d6-3200-44ff-8d4c-f7a38cecb05f",
+    "name": "Fire Nation Occupation",
+    "nickname": "Relentless Conquest",
+    "image": "https://madelson.github.io/universes-within-collection/cards/Fire%20Nation%20Occupation.png"
+  },
+  {
     "oracleId": "7d309b18-8dc5-41ee-888c-e275761029e7",
     "name": "Fishing Gear",
     "image": "https://madelson.github.io/universes-within-collection/cards/Fishing%20Gear.png"
@@ -309,12 +321,6 @@
     "name": "Flash Photography",
     "nickname": "Canecrafting",
     "image": "https://madelson.github.io/universes-within-collection/cards/Flash%20Photography.png"
-  },
-  {
-    "oracleId": "1869eb1e-7786-4fea-8a92-2bd839de47df",
-    "name": "Flesh Duplicate",
-    "nickname": "Congealed Imitation",
-    "image": "https://madelson.github.io/universes-within-collection/cards/Flesh%20Duplicate.png"
   },
   {
     "oracleId": "b56bb8cb-457e-4b85-9bf9-5e891e79f1dd",
@@ -694,6 +700,12 @@
     "image": "https://madelson.github.io/universes-within-collection/cards/Recon%20Craft%20Theta.png"
   },
   {
+    "oracleId": "35ad9e15-3e00-4bd2-96cf-36a6ef49059f",
+    "name": "Red Mage's Rapier",
+    "nickname": "Mage's Sword of Lightning",
+    "image": "https://madelson.github.io/universes-within-collection/cards/Red%20Mage%27s%20Rapier.png"
+  },
+  {
     "oracleId": "6b5565a2-be5c-46b1-99df-8094e77446cc",
     "name": "Renegade Silent",
     "nickname": "Whispering Lurker",
@@ -1033,6 +1045,12 @@
     "oracleId": "39ab72e2-04f2-41cc-ae33-4cc564b1542b",
     "name": "Windswift Slice",
     "image": "https://madelson.github.io/universes-within-collection/cards/Windswift%20Slice.png"
+  },
+  {
+    "oracleId": "afcb21bb-aeb3-4024-9ce1-68ba7fb64b2d",
+    "name": "Witch-king, Bringer of Ruin",
+    "nickname": "Naroth, Ruinous Queen",
+    "image": "https://madelson.github.io/universes-within-collection/cards/Witch-king%2C%20Bringer%20of%20Ruin.png"
   },
   {
     "oracleId": "36b5c793-30f6-4f21-8bf6-c18d1c46d732",

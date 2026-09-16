@@ -1505,6 +1505,42 @@
 		"contributor": "KolaghanStorm",
 		"mtgCardBuilderId": 571631
 	},
+	"0183": {
+		"name": "Red Mage's Rapier",
+		"nickname": "Mage's Sword of Lightning",
+		"artist": "Florian Herold",
+		"artName": "Sword of Arthur",
+		"artUrl": "https://www.artstation.com/artwork/oOBX2L",
+		"contributor": "KolaghanStorm",
+		"mtgCardBuilderId": 576558
+	},
+	"0184": {
+		"name": "Arwen's Gift",
+		"nickname": "A Kingly Gift",
+		"artist": "Florian Herold",
+		"artName": "Lady of the Lake",
+		"artUrl": "https://www.artstation.com/artwork/oOBX2L",
+		"contributor": "KolaghanStorm",
+		"mtgCardBuilderId": 576563
+	},
+	"0185": {
+		"name": "Fire Nation Occupation",
+		"nickname": "Relentless Conquest",
+		"artist": "Florian Herold",
+		"artName": "Battle of Arthur",
+		"artUrl": "https://www.artstation.com/artwork/oOBX2L",
+		"contributor": "KolaghanStorm",
+		"mtgCardBuilderId": 576573
+	},
+	"0186": {
+		"name": "Witch-king, Bringer of Ruin",
+		"nickname": "Naroth, Ruinous Queen",
+		"artist": "Florian Herold",
+		"artName": "Night Queen",
+		"artUrl": "https://www.artstation.com/artwork/YevrX3",
+		"contributor": "KolaghanStorm",
+		"mtgCardBuilderId": 580322
+	},
 	"T0001": {
 		"name": "Alien (TWHO 2)",
 		"contributor": "cgregory",

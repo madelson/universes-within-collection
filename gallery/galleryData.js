@@ -1,6 +1,70 @@
 const data = {
   "cards": [
     {
+      "name": "Witch-king, Bringer of Ruin",
+      "nickname": "Naroth, Ruinous Queen",
+      "contributionInfo": {
+        "contributor": "KolaghanStorm",
+        "front": {
+          "artist": "Florian Herold",
+          "artistUrl": "https://www.artstation.com/faherold",
+          "artName": "Night Queen",
+          "artUrl": "https://www.artstation.com/artwork/YevrX3",
+          "mtgCardBuilderId": "580322"
+        }
+      },
+      "universesBeyondImage": "https://cards.scryfall.io/normal/front/9/0/90da1d3e-dbcb-4b1e-a606-d4fc1a60a8fe.jpg?1783916216",
+      "universesWithinImage": "./cards/Witch-king%2C%20Bringer%20of%20Ruin.png"
+    },
+    {
+      "name": "Fire Nation Occupation",
+      "nickname": "Relentless Conquest",
+      "contributionInfo": {
+        "contributor": "KolaghanStorm",
+        "front": {
+          "artist": "Florian Herold",
+          "artistUrl": "https://www.artstation.com/faherold",
+          "artName": "Battle of Arthur",
+          "artUrl": "https://www.artstation.com/artwork/oOBX2L",
+          "mtgCardBuilderId": "576573"
+        }
+      },
+      "universesBeyondImage": "https://cards.scryfall.io/normal/front/3/4/3455d55e-aef5-4eb1-bcd9-1ff9d1ab3698.jpg?1783904825",
+      "universesWithinImage": "./cards/Fire%20Nation%20Occupation.png"
+    },
+    {
+      "name": "Arwen's Gift",
+      "nickname": "A Kingly Gift",
+      "contributionInfo": {
+        "contributor": "KolaghanStorm",
+        "front": {
+          "artist": "Florian Herold",
+          "artistUrl": "https://www.artstation.com/faherold",
+          "artName": "Lady of the Lake",
+          "artUrl": "https://www.artstation.com/artwork/oOBX2L",
+          "mtgCardBuilderId": "576563"
+        }
+      },
+      "universesBeyondImage": "https://cards.scryfall.io/normal/front/3/0/30e1ec49-ad4f-4623-aeeb-dba07d6e6251.jpg?1783916327",
+      "universesWithinImage": "./cards/Arwen%27s%20Gift.png"
+    },
+    {
+      "name": "Red Mage's Rapier",
+      "nickname": "Mage's Sword of Lightning",
+      "contributionInfo": {
+        "contributor": "KolaghanStorm",
+        "front": {
+          "artist": "Florian Herold",
+          "artistUrl": "https://www.artstation.com/faherold",
+          "artName": "Sword of Arthur",
+          "artUrl": "https://www.artstation.com/artwork/oOBX2L",
+          "mtgCardBuilderId": "576558"
+        }
+      },
+      "universesBeyondImage": "https://cards.scryfall.io/normal/front/e/0/e0579955-75f9-47a9-8b03-e287d120826a.jpg?1783906600",
+      "universesWithinImage": "./cards/Red%20Mage%27s%20Rapier.png"
+    },
+    {
       "name": "Endless Ranks of HYDRA",
       "nickname": "Neverending Evil",
       "contributionInfo": {
@@ -1998,19 +2062,8 @@ const data = {
     },
     {
       "name": "Flesh Duplicate",
-      "nickname": "Congealed Imitation",
-      "contributionInfo": {
-        "contributor": "cgregory",
-        "front": {
-          "artist": "Thomas Ricci",
-          "artistUrl": "https://artrhino.artstation.com/",
-          "artName": "Mourning Gold Knight",
-          "artUrl": "https://artrhino.artstation.com/projects/YK49lP",
-          "mtgCardBuilderId": "149540"
-        }
-      },
       "universesBeyondImage": "https://cards.scryfall.io/normal/front/5/1/512e9bd2-77b9-4c1c-8d30-e6249dbd930e.jpg?1783914670",
-      "universesWithinImage": "./cards/Flesh%20Duplicate.png"
+      "universesWithinImage": "https://cards.scryfall.io/normal/front/c/1/c12dd88f-ce9a-445c-882a-62e7695e39df.jpg?1788922543"
     },
     {
       "name": "The Dalek Emperor",
@@ -4592,10 +4645,6 @@ const data = {
       "universesBeyondImage": "https://cards.scryfall.io/normal/front/7/f/7f93ad17-b655-4a10-990e-b26ead90d221.jpg?1783916217"
     },
     {
-      "name": "Witch-king, Bringer of Ruin",
-      "universesBeyondImage": "https://cards.scryfall.io/normal/front/9/0/90da1d3e-dbcb-4b1e-a606-d4fc1a60a8fe.jpg?1783916216"
-    },
-    {
       "name": "Fires of Mount Doom",
       "universesBeyondImage": "https://cards.scryfall.io/normal/front/b/9/b9db8702-fc72-453b-afc8-62266f7cd1c2.jpg?1783916217"
     },
@@ -4694,10 +4743,6 @@ const data = {
     {
       "name": "You Cannot Pass!",
       "universesBeyondImage": "https://cards.scryfall.io/normal/front/1/1/116d4030-acd2-4aa2-8254-aaaff1264459.jpg?1783916325"
-    },
-    {
-      "name": "Arwen's Gift",
-      "universesBeyondImage": "https://cards.scryfall.io/normal/front/3/0/30e1ec49-ad4f-4623-aeeb-dba07d6e6251.jpg?1783916327"
     },
     {
       "name": "Haldir, Lórien Lieutenant",
@@ -7249,10 +7294,6 @@ const data = {
       "universesBeyondImage": "https://cards.scryfall.io/normal/front/7/0/7035d11b-525f-4120-8dcb-610095196681.jpg?1783906599"
     },
     {
-      "name": "Red Mage's Rapier",
-      "universesBeyondImage": "https://cards.scryfall.io/normal/front/e/0/e0579955-75f9-47a9-8b03-e287d120826a.jpg?1783906600"
-    },
-    {
       "name": "Sabotender",
       "universesBeyondImage": "https://cards.scryfall.io/normal/front/1/2/12df1295-8b08-4c8e-bac9-55b4f514c0be.jpg?1783906599"
     },
@@ -8813,10 +8854,6 @@ const data = {
       "universesBeyondImage": "https://cards.scryfall.io/normal/front/4/f/4f442970-5355-4abf-8684-17daaa8e469b.jpg?1783904970"
     },
     {
-      "name": "Fire Nation Occupation",
-      "universesBeyondImage": "https://cards.scryfall.io/normal/front/3/4/3455d55e-aef5-4eb1-bcd9-1ff9d1ab3698.jpg?1783904825"
-    },
-    {
       "name": "Joo Dee, One of Many",
       "universesBeyondImage": "https://cards.scryfall.io/normal/front/7/a/7ae1439f-a0c4-42c2-a4f3-8851defa981e.jpg?1783904970"
     },
@@ -9373,7 +9410,7 @@ const data = {
     },
     {
       "name": "Shared Roots",
-      "universesBeyondImage": "https://cards.scryfall.io/normal/front/e/7/e7847ba5-e85e-417f-96c0-aef2e6f83994.jpg?1783904936",
+      "universesBeyondImage": "https://cards.scryfall.io/normal/front/e/7/e7847ba5-e85e-417f-96c0-aef2e6f83994.jpg?1789543862",
       "universesWithinImage": "https://cards.scryfall.io/normal/front/3/a/3aeb1fe1-3ff3-466c-9eda-b8747702734c.jpg?1783903916"
     },
     {
@@ -12627,7 +12664,7 @@ const data = {
     },
     {
       "name": "Robot Hero",
-      "universesBeyondImage": "https://cards.scryfall.io/normal/front/9/5/952d0fa0-86fe-4ddc-84e8-48dc96f9dcda.jpg?1785056936"
+      "universesBeyondImage": "https://cards.scryfall.io/normal/front/9/5/952d0fa0-86fe-4ddc-84e8-48dc96f9dcda.jpg?1788866307"
     },
     {
       "name": "Iron Man, Armored Avenger",
@@ -14933,7 +14970,7 @@ const data = {
     },
     {
       "name": "Dwarf",
-      "universesBeyondImage": "https://cards.scryfall.io/normal/front/9/f/9fcb3a3f-c0d4-43d4-8549-826a38bfa27d.jpg?1786258756"
+      "universesBeyondImage": "https://cards.scryfall.io/normal/front/9/f/9fcb3a3f-c0d4-43d4-8549-826a38bfa27d.jpg?1788932088"
     },
     {
       "name": "Along the Crooked Way",
