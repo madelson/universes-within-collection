@@ -1541,6 +1541,21 @@
 		"contributor": "KolaghanStorm",
 		"mtgCardBuilderId": 580322
 	},
+	"0187": {
+		"name": "Clash of the Eikons",
+		"nickname": "Legendary Showdown",
+		"contributor": "KolaghanStorm",
+		"mtgCardBuilderId": 583390
+	},
+	"0188": {
+		"name": "Feral Ferocity",
+		"nickname": "Legendary Showdown",
+		"contributor": "KolaghanStorm",
+		"artist": "Bachzim",
+		"artUrl": "https://www.artstation.com/artwork/4bgq3W",
+		"artName": "Chimera",
+		"mtgCardBuilderId": 583397
+	},
 	"T0001": {
 		"name": "Alien (TWHO 2)",
 		"contributor": "cgregory",

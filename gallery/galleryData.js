@@ -1,6 +1,34 @@
 const data = {
   "cards": [
     {
+      "name": "Feral Ferocity",
+      "nickname": "Legendary Showdown",
+      "contributionInfo": {
+        "contributor": "KolaghanStorm",
+        "front": {
+          "artist": "Bachzim",
+          "artistUrl": "https://www.artstation.com/bachzim",
+          "artName": "Chimera",
+          "artUrl": "https://www.artstation.com/artwork/4bgq3W",
+          "mtgCardBuilderId": "583397"
+        }
+      },
+      "universesBeyondImage": "https://cards.scryfall.io/normal/front/c/9/c957bbb7-0322-46d1-89e1-1a59515b3b1b.jpg?1783903095",
+      "universesWithinImage": "./cards/Feral%20Ferocity.png"
+    },
+    {
+      "name": "Clash of the Eikons",
+      "nickname": "Legendary Showdown",
+      "contributionInfo": {
+        "contributor": "KolaghanStorm",
+        "front": {
+          "mtgCardBuilderId": "583390"
+        }
+      },
+      "universesBeyondImage": "https://cards.scryfall.io/normal/front/7/5/75c18134-f517-4a68-8640-0426b3cd4f6c.jpg?1783906590",
+      "universesWithinImage": "./cards/Clash%20of%20the%20Eikons.png"
+    },
+    {
       "name": "Witch-king, Bringer of Ruin",
       "nickname": "Naroth, Ruinous Queen",
       "contributionInfo": {
@@ -7432,10 +7460,6 @@ const data = {
       "universesBeyondImage": "https://cards.scryfall.io/normal/front/e/3/e3c84944-23b8-40d7-9b25-c746b08b4dc4.jpg?1783906132"
     },
     {
-      "name": "Clash of the Eikons",
-      "universesBeyondImage": "https://cards.scryfall.io/normal/front/7/5/75c18134-f517-4a68-8640-0426b3cd4f6c.jpg?1783906590"
-    },
-    {
       "name": "Coliseum Behemoth",
       "universesBeyondImage": "https://cards.scryfall.io/normal/front/9/0/900206f1-7dd6-4db9-a430-73e560fd196b.jpg?1783906589"
     },
@@ -13034,10 +13058,6 @@ const data = {
     {
       "name": "Loki's Scepter",
       "universesBeyondImage": "https://cards.scryfall.io/normal/front/5/7/57e90938-9225-4c15-b4fb-aad2cced2e6a.jpg?1783903282"
-    },
-    {
-      "name": "Feral Ferocity",
-      "universesBeyondImage": "https://cards.scryfall.io/normal/front/c/9/c957bbb7-0322-46d1-89e1-1a59515b3b1b.jpg?1783903095"
     },
     {
       "name": "Flora Colossus",

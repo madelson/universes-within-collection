@@ -153,6 +153,12 @@
     "image": "https://madelson.github.io/universes-within-collection/cards/Champions%20from%20Beyond.png"
   },
   {
+    "oracleId": "b1c38b70-575d-4d87-bc50-0b77b48ee823",
+    "name": "Clash of the Eikons",
+    "nickname": "Legendary Showdown",
+    "image": "https://madelson.github.io/universes-within-collection/cards/Clash%20of%20the%20Eikons.png"
+  },
+  {
     "oracleId": "e7a80464-1522-48d7-bf82-f9894f5c3ae0",
     "name": "Cleopatra, Exiled Pharaoh",
     "nickname": "Hapatra, the Broken Fang",
@@ -293,6 +299,12 @@
     "oracleId": "610d9f58-4182-49cb-855c-9b6030e7f714",
     "name": "Fated Clash",
     "image": "https://madelson.github.io/universes-within-collection/cards/Fated%20Clash.png"
+  },
+  {
+    "oracleId": "5e968bf3-8d83-480b-81a4-98883cafd04f",
+    "name": "Feral Ferocity",
+    "nickname": "Legendary Showdown",
+    "image": "https://madelson.github.io/universes-within-collection/cards/Feral%20Ferocity.png"
   },
   {
     "oracleId": "284db94d-e583-4355-89fd-6c0906f9d17e",
