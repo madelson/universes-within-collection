@@ -4545,7 +4545,7 @@ const data = {
     },
     {
       "name": "The One Ring",
-      "universesBeyondImage": "https://cards.scryfall.io/normal/front/d/5/d5806e68-1054-458e-866d-1f2470f682b2.jpg?1783916239"
+      "universesBeyondImage": "https://cards.scryfall.io/normal/front/d/5/d5806e68-1054-458e-866d-1f2470f682b2.jpg?1790212038"
     },
     {
       "name": "Phial of Galadriel",
@@ -11672,7 +11672,8 @@ const data = {
     },
     {
       "name": "Invisible Woman",
-      "universesBeyondImage": "https://cards.scryfall.io/normal/front/d/8/d8e13ecb-98be-4d9b-86a2-24eaa98f7f0d.jpg?1783903304"
+      "universesBeyondImage": "https://cards.scryfall.io/normal/front/d/8/d8e13ecb-98be-4d9b-86a2-24eaa98f7f0d.jpg?1783903304",
+      "universesWithinImage": "https://cards.scryfall.io/normal/front/8/d/8d239a23-9575-4202-804a-cab7c08a546d.jpg?1789532579"
     },
     {
       "name": "Wall",
@@ -12829,7 +12830,8 @@ const data = {
     },
     {
       "name": "Captain America, Team Leader",
-      "universesBeyondImage": "https://cards.scryfall.io/normal/front/6/1/61a51b67-d941-4e07-9c12-ffe583cb65d4.jpg?1783903303"
+      "universesBeyondImage": "https://cards.scryfall.io/normal/front/6/1/61a51b67-d941-4e07-9c12-ffe583cb65d4.jpg?1783903303",
+      "universesWithinImage": "https://cards.scryfall.io/normal/front/f/f/ff25a4f5-c1de-464b-8153-7678bca847a8.jpg?1789532484"
     },
     {
       "name": "Leviathan",
@@ -13213,7 +13215,8 @@ const data = {
     },
     {
       "name": "Doctor Doom, King of Latveria",
-      "universesBeyondImage": "https://cards.scryfall.io/normal/front/0/9/099ed408-9178-4403-8b2d-479ca3cbda9b.jpg?1783903303"
+      "universesBeyondImage": "https://cards.scryfall.io/normal/front/0/9/099ed408-9178-4403-8b2d-479ca3cbda9b.jpg?1783903303",
+      "universesWithinImage": "https://cards.scryfall.io/normal/front/b/9/b9997d93-4c6f-49dd-8ff0-76901fe78859.jpg?1789532701"
     },
     {
       "name": "Ironheart, Clever Champion",
@@ -13701,7 +13704,8 @@ const data = {
     },
     {
       "name": "T'Challa, the Black Panther",
-      "universesBeyondImage": "https://cards.scryfall.io/normal/front/c/1/c1c8ad61-b7e1-446c-8b74-6e29371ea1d5.jpg?1783903301"
+      "universesBeyondImage": "https://cards.scryfall.io/normal/front/c/1/c1c8ad61-b7e1-446c-8b74-6e29371ea1d5.jpg?1783903301",
+      "universesWithinImage": "https://cards.scryfall.io/normal/front/d/7/d72c4452-b4f2-45a8-9127-42368a23ac6a.jpg?1789532400"
     },
     {
       "name": "Redwing",
