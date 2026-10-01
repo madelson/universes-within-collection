@@ -1,6 +1,45 @@
 const data = {
   "cards": [
     {
+      "name": "Savage Land Dinosaur",
+      "nickname": "Lumbering Dinosaur",
+      "contributionInfo": {
+        "contributor": "KolaghanStorm",
+        "front": {
+          "mtgCardBuilderId": "584537"
+        }
+      },
+      "universesBeyondImage": "https://cards.scryfall.io/normal/front/5/6/562bd376-3fba-4de0-b9fc-183004b03732.jpg?1783902912",
+      "universesWithinImage": "./cards/Savage%20Land%20Dinosaur.png"
+    },
+    {
+      "name": "Tippy-Toe, Terrific Partner",
+      "contributionInfo": {
+        "contributor": "KolaghanStorm",
+        "front": {
+          "artist": "Sandara Tang",
+          "artistUrl": "https://sandara.artstation.com/",
+          "artName": "Hornbill and Squirrel",
+          "artUrl": "https://sandara.artstation.com/projects/qJJ15P",
+          "mtgCardBuilderId": "584533"
+        }
+      },
+      "universesBeyondImage": "https://cards.scryfall.io/normal/front/6/0/6082ab9f-290e-4230-84a0-46c7f8ed712d.jpg?1783903035",
+      "universesWithinImage": "./cards/Tippy-Toe%2C%20Terrific%20Partner.png"
+    },
+    {
+      "name": "Mushroom Watchdogs",
+      "nickname": "Steadfast Watchdogs",
+      "contributionInfo": {
+        "contributor": "KolaghanStorm",
+        "front": {
+          "mtgCardBuilderId": "584528"
+        }
+      },
+      "universesBeyondImage": "https://cards.scryfall.io/normal/front/d/1/d15fd66d-fa7e-411d-9014-a56caa879d93.jpg?1783916263",
+      "universesWithinImage": "./cards/Mushroom%20Watchdogs.png"
+    },
+    {
       "name": "Feral Ferocity",
       "contributionInfo": {
         "contributor": "KolaghanStorm",
@@ -4228,10 +4267,6 @@ const data = {
     {
       "name": "Frodo, Sauron's Bane",
       "universesBeyondImage": "https://cards.scryfall.io/normal/front/7/d/7d86dc2e-6f0c-4714-9d30-5d099d3b895c.jpg?1783916334"
-    },
-    {
-      "name": "Mushroom Watchdogs",
-      "universesBeyondImage": "https://cards.scryfall.io/normal/front/d/1/d15fd66d-fa7e-411d-9014-a56caa879d93.jpg?1783916263"
     },
     {
       "name": "Peregrin Took",
@@ -12185,10 +12220,6 @@ const data = {
       "universesBeyondImage": "https://cards.scryfall.io/normal/front/2/9/29bffd7c-73be-4185-976b-36a42a4512fe.jpg?1783902914"
     },
     {
-      "name": "Savage Land Dinosaur",
-      "universesBeyondImage": "https://cards.scryfall.io/normal/front/5/6/562bd376-3fba-4de0-b9fc-183004b03732.jpg?1783902912"
-    },
-    {
       "name": "Serpent Specialist",
       "universesBeyondImage": "https://cards.scryfall.io/normal/front/7/2/72727c2a-08a9-47bc-a5eb-cda52e21684b.jpg?1783902912"
     },
@@ -13877,10 +13908,6 @@ const data = {
     {
       "name": "Storm, Shaker of Skies",
       "universesBeyondImage": "https://cards.scryfall.io/normal/front/9/e/9eadf356-105e-4a17-ab06-075ca662e963.jpg?1783903037"
-    },
-    {
-      "name": "Tippy-Toe, Terrific Partner",
-      "universesBeyondImage": "https://cards.scryfall.io/normal/front/6/0/6082ab9f-290e-4230-84a0-46c7f8ed712d.jpg?1783903035"
     },
     {
       "name": "White Tiger, Amulet Keeper",

@@ -1555,6 +1555,26 @@
 		"artName": "Chimera",
 		"mtgCardBuilderId": 583397
 	},
+	"0189": {
+		"name": "Mushroom Watchdogs",
+		"nickname": "Steadfast Watchdogs",
+		"contributor": "KolaghanStorm",
+		"mtgCardBuilderId": 584528
+	},
+	"0190": {
+		"name": "Tippy-Toe, Terrific Partner",
+		"contributor": "KolaghanStorm",
+		"artist": "Sandara Tang",
+		"artUrl": "https://sandara.artstation.com/projects/qJJ15P",
+		"artName": "Hornbill and Squirrel",
+		"mtgCardBuilderId": 584533
+	},
+	"0191": {
+		"name": "Savage Land Dinosaur",
+		"nickname": "Lumbering Dinosaur",
+		"contributor": "KolaghanStorm",
+		"mtgCardBuilderId": 584537
+	},
 	"T0001": {
 		"name": "Alien (TWHO 2)",
 		"contributor": "cgregory",

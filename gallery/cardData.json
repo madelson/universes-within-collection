@@ -620,6 +620,12 @@
     "image": "https://madelson.github.io/universes-within-collection/cards/Mr.%20House%2C%20President%20and%20CEO.png"
   },
   {
+    "oracleId": "82259c84-773d-4670-9b09-d73f5a3be7ea",
+    "name": "Mushroom Watchdogs",
+    "nickname": "Steadfast Watchdogs",
+    "image": "https://madelson.github.io/universes-within-collection/cards/Mushroom%20Watchdogs.png"
+  },
+  {
     "oracleId": "2daa5b89-e772-4a2b-ad52-bbbf148c7b2f",
     "name": "Mutational Advantage",
     "image": "https://madelson.github.io/universes-within-collection/cards/Mutational%20Advantage.png"
@@ -739,6 +745,12 @@
     "name": "Sauron, the Lidless Eye",
     "nickname": "Form of the Abyss",
     "image": "https://madelson.github.io/universes-within-collection/cards/Sauron%2C%20the%20Lidless%20Eye.png"
+  },
+  {
+    "oracleId": "6e21ebdf-b97c-494e-a1d5-19db1b7d3016",
+    "name": "Savage Land Dinosaur",
+    "nickname": "Lumbering Dinosaur",
+    "image": "https://madelson.github.io/universes-within-collection/cards/Savage%20Land%20Dinosaur.png"
   },
   {
     "oracleId": "ed5889c9-e524-40c1-9011-7559a992bb1b",
@@ -988,6 +1000,11 @@
     "oracleId": "247a0c13-c611-4c00-bedf-ecf7ea6bb956",
     "name": "Time Beetle",
     "image": "https://madelson.github.io/universes-within-collection/cards/Time%20Beetle.png"
+  },
+  {
+    "oracleId": "6a1bce89-0c11-4d8d-aacb-c0a5a5effffc",
+    "name": "Tippy-Toe, Terrific Partner",
+    "image": "https://madelson.github.io/universes-within-collection/cards/Tippy-Toe%2C%20Terrific%20Partner.png"
   },
   {
     "oracleId": "1eae48aa-f01d-4398-a68e-3b5af0542ab1",
