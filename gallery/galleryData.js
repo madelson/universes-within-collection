@@ -2,7 +2,6 @@ const data = {
   "cards": [
     {
       "name": "Feral Ferocity",
-      "nickname": "Legendary Showdown",
       "contributionInfo": {
         "contributor": "KolaghanStorm",
         "front": {
