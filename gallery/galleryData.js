@@ -1,6 +1,22 @@
 const data = {
   "cards": [
     {
+      "name": "Burn, Burn, Tree and Fern",
+      "nickname": "The Ancient Fire Awakens",
+      "contributionInfo": {
+        "contributor": "KolaghanStorm",
+        "front": {
+          "artist": "Santiago Rosas / @firos_art",
+          "artistUrl": "https://www.santiagorosasart.com/",
+          "artName": "Cosmic Allure",
+          "artUrl": "https://santiagorosasart.com/#portfolio",
+          "mtgCardBuilderId": "611199"
+        }
+      },
+      "universesBeyondImage": "https://cards.scryfall.io/normal/front/f/c/fceb1a2d-121e-49ad-acf2-1bb5aebec116.jpg?1787200962",
+      "universesWithinImage": "./cards/Burn%2C%20Burn%2C%20Tree%20and%20Fern.png"
+    },
+    {
       "name": "Savage Land Dinosaur",
       "nickname": "Lumbering Dinosaur",
       "contributionInfo": {
@@ -2129,7 +2145,7 @@ const data = {
     {
       "name": "Flesh Duplicate",
       "universesBeyondImage": "https://cards.scryfall.io/normal/front/5/1/512e9bd2-77b9-4c1c-8d30-e6249dbd930e.jpg?1783914670",
-      "universesWithinImage": "https://cards.scryfall.io/normal/front/c/1/c12dd88f-ce9a-445c-882a-62e7695e39df.jpg?1788922543"
+      "universesWithinImage": "https://cards.scryfall.io/normal/front/c/1/c12dd88f-ce9a-445c-882a-62e7695e39df.jpg?1790866144"
     },
     {
       "name": "The Dalek Emperor",
@@ -8821,7 +8837,7 @@ const data = {
     },
     {
       "name": "Jaws, Relentless Predator",
-      "universesBeyondImage": "https://cards.scryfall.io/normal/front/c/6/c6d16a9e-98c0-46e0-987c-f0de0915a204.jpg?1785419997"
+      "universesBeyondImage": "https://cards.scryfall.io/normal/front/c/6/c6d16a9e-98c0-46e0-987c-f0de0915a204.jpg?1791470750"
     },
     {
       "name": "Ellie, Brick Master",
@@ -9713,10 +9729,6 @@ const data = {
     {
       "name": "Fire Nation Sentinels",
       "universesBeyondImage": "https://cards.scryfall.io/normal/front/4/a/4a08c7c4-d20f-4c5b-a308-b8c84c9030a9.jpg?1783904781"
-    },
-    {
-      "name": "Katara, the Fearless",
-      "universesBeyondImage": "https://cards.scryfall.io/normal/front/b/0/b0a18f8b-7364-4375-b2e1-e2f15978517f.jpg?1783904926"
     },
     {
       "name": "Gilacorn",
@@ -11707,7 +11719,7 @@ const data = {
     {
       "name": "Invisible Woman",
       "universesBeyondImage": "https://cards.scryfall.io/normal/front/d/8/d8e13ecb-98be-4d9b-86a2-24eaa98f7f0d.jpg?1783903304",
-      "universesWithinImage": "https://cards.scryfall.io/normal/front/8/d/8d239a23-9575-4202-804a-cab7c08a546d.jpg?1789532579"
+      "universesWithinImage": "https://cards.scryfall.io/normal/front/8/d/8d239a23-9575-4202-804a-cab7c08a546d.jpg?1791201997"
     },
     {
       "name": "Wall",
@@ -12861,7 +12873,7 @@ const data = {
     {
       "name": "Captain America, Team Leader",
       "universesBeyondImage": "https://cards.scryfall.io/normal/front/6/1/61a51b67-d941-4e07-9c12-ffe583cb65d4.jpg?1783903303",
-      "universesWithinImage": "https://cards.scryfall.io/normal/front/f/f/ff25a4f5-c1de-464b-8153-7678bca847a8.jpg?1789532484"
+      "universesWithinImage": "https://cards.scryfall.io/normal/front/f/f/ff25a4f5-c1de-464b-8153-7678bca847a8.jpg?1791202003"
     },
     {
       "name": "Leviathan",
@@ -13246,7 +13258,7 @@ const data = {
     {
       "name": "Doctor Doom, King of Latveria",
       "universesBeyondImage": "https://cards.scryfall.io/normal/front/0/9/099ed408-9178-4403-8b2d-479ca3cbda9b.jpg?1783903303",
-      "universesWithinImage": "https://cards.scryfall.io/normal/front/b/9/b9997d93-4c6f-49dd-8ff0-76901fe78859.jpg?1789532701"
+      "universesWithinImage": "https://cards.scryfall.io/normal/front/b/9/b9997d93-4c6f-49dd-8ff0-76901fe78859.jpg?1791202012"
     },
     {
       "name": "Ironheart, Clever Champion",
@@ -13735,7 +13747,7 @@ const data = {
     {
       "name": "T'Challa, the Black Panther",
       "universesBeyondImage": "https://cards.scryfall.io/normal/front/c/1/c1c8ad61-b7e1-446c-8b74-6e29371ea1d5.jpg?1783903301",
-      "universesWithinImage": "https://cards.scryfall.io/normal/front/d/7/d72c4452-b4f2-45a8-9127-42368a23ac6a.jpg?1789532400"
+      "universesWithinImage": "https://cards.scryfall.io/normal/front/d/7/d72c4452-b4f2-45a8-9127-42368a23ac6a.jpg?1791202017"
     },
     {
       "name": "Redwing",
@@ -14727,10 +14739,6 @@ const data = {
       "universesBeyondImage": "https://cards.scryfall.io/normal/front/a/b/abdb9d4e-e6ca-409b-b589-0cf71724340b.jpg?1785412736"
     },
     {
-      "name": "Tom, Bert, and William",
-      "universesBeyondImage": "https://cards.scryfall.io/normal/front/2/1/211a9764-3c60-46ba-bb53-e6692640ec8f.jpg?1783902784"
-    },
-    {
       "name": "Kíli the Resourceful",
       "universesBeyondImage": "https://cards.scryfall.io/normal/front/1/8/1805532f-6d99-47d0-9529-5f5831a7fdc8.jpg?1785496242"
     },
@@ -15171,10 +15179,6 @@ const data = {
       "universesBeyondImage": "https://cards.scryfall.io/normal/front/5/5/55872bce-08ce-4d4f-8951-9fa230f3e160.jpg?1784377221"
     },
     {
-      "name": "Burn, Burn, Tree and Fern",
-      "universesBeyondImage": "https://cards.scryfall.io/normal/front/f/c/fceb1a2d-121e-49ad-acf2-1bb5aebec116.jpg?1787200962"
-    },
-    {
       "name": "Dáin Ironfoot",
       "universesBeyondImage": "https://cards.scryfall.io/normal/front/7/1/7112e460-9160-4535-ad94-93f1f4ac04cf.jpg?1785236701"
     },
@@ -15483,14 +15487,6 @@ const data = {
       "universesBeyondImage": "https://cards.scryfall.io/normal/front/f/b/fb9805a5-eea3-48a8-92b6-7387bb23bc88.jpg?1784036706"
     },
     {
-      "name": "Borg Queen, Perfection Manifest",
-      "universesBeyondImage": "https://cards.scryfall.io/normal/front/c/b/cb07e5e4-154e-4ba5-85a4-ecc78f1555d2.jpg?1784036713"
-    },
-    {
-      "name": "Kirk, Enterprising Captain",
-      "universesBeyondImage": "https://cards.scryfall.io/normal/front/e/1/e1d339e1-3433-4630-965e-1841e46b40a4.jpg?1784036716"
-    },
-    {
       "name": "First Contact",
       "universesBeyondImage": "https://cards.scryfall.io/normal/front/5/4/5407e8f4-0c8e-4e66-9d2f-f22277aa38f4.jpg?1785981580"
     },
@@ -15669,6 +15665,22 @@ const data = {
     {
       "name": "Collective Drone",
       "universesBeyondImage": "https://cards.scryfall.io/normal/front/6/5/65b74daa-4606-4118-9752-b0dcd7a3f486.jpg?1785981469"
+    },
+    {
+      "name": "Giant",
+      "universesBeyondImage": "https://cards.scryfall.io/normal/front/0/6/0689b1b8-84be-4cc8-be4b-4461fefa885b.jpg?1791637288"
+    },
+    {
+      "name": "Angel",
+      "universesBeyondImage": "https://cards.scryfall.io/normal/front/4/8/481ff636-8343-4eb2-93cf-48b94c9ecfdb.jpg?1791637012"
+    },
+    {
+      "name": "Spirit Sorcerer Token",
+      "universesBeyondImage": "https://cards.scryfall.io/normal/front/3/b/3b9c4950-9890-4977-87a0-6eba840e1f66.jpg?1791637068"
+    },
+    {
+      "name": "Mindless-One",
+      "universesBeyondImage": "https://cards.scryfall.io/normal/front/2/1/21d44eef-8dbc-4f2f-9be3-d6c43d4b405c.jpg?1791637095"
     }
   ]
 }; export default data;
