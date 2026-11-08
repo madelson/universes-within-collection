@@ -1598,6 +1598,42 @@
 		"contributor": "KolaghanStorm",
 		"mtgCardBuilderId": 602102
 	},
+	"0195": {
+		"name": "Bugenhagen, Wise Elder",
+		"nickname": "Pestulum, Wandering Elder",
+		"contributor": "TheBeeOfDeath",
+		"artist": "Anthony Catillaz",
+		"artName": "Pestulum the Wanderer",
+		"artUrl": "https://www.artstation.com/artwork/WBxX1X",
+		"mtgCardBuilderId": 625927
+	},
+	"0196": {
+		"name": "Atlantis Attacks",
+		"nickname": "From the Deep",
+		"contributor": "KolaghanStorm",
+		"artist": "Thomas Ricci",
+		"artName": "The Tooth Fairy Mage",
+		"artUrl": "https://artrhino.artstation.com/projects/kwl12d",
+		"mtgCardBuilderId": 621557
+	},
+	"0197": {
+		"name": "Fantastic Bounce",
+		"nickname": "Treacherous Geysers",
+		"contributor": "KolaghanStorm",
+		"artist": "Florian Herold",
+		"artName": "Island",
+		"artUrl": "https://www.artstation.com/artwork/Ry83LO",
+		"mtgCardBuilderId": 607796
+	},
+	"0198": {
+		"name": "Vrestin, Menoptra Leader",
+		"nickname": "Redgin, Fearless Rider",
+		"contributor": "KolaghanStorm",
+		"artist": "Thomas Ricci",
+		"artName": "Dragonslayer Mosquito",
+		"artUrl": "https://artrhino.artstation.com/projects/WXqdoN",
+		"mtgCardBuilderId": 621568
+	},
 	"T0001": {
 		"name": "Alien (TWHO 2)",
 		"contributor": "cgregory",

@@ -1,6 +1,70 @@
 const data = {
   "cards": [
     {
+      "name": "Vrestin, Menoptra Leader",
+      "nickname": "Redgin, Fearless Rider",
+      "contributionInfo": {
+        "contributor": "KolaghanStorm",
+        "front": {
+          "artist": "Thomas Ricci",
+          "artistUrl": "https://artrhino.artstation.com/",
+          "artName": "Dragonslayer Mosquito",
+          "artUrl": "https://artrhino.artstation.com/projects/WXqdoN",
+          "mtgCardBuilderId": "621568"
+        }
+      },
+      "universesBeyondImage": "https://cards.scryfall.io/normal/front/b/1/b117d388-ac94-4e20-84f0-f4d242121d7f.jpg?1783914620",
+      "universesWithinImage": "./cards/Vrestin%2C%20Menoptra%20Leader.png"
+    },
+    {
+      "name": "Fantastic Bounce",
+      "nickname": "Treacherous Geysers",
+      "contributionInfo": {
+        "contributor": "KolaghanStorm",
+        "front": {
+          "artist": "Florian Herold",
+          "artistUrl": "https://www.artstation.com/faherold",
+          "artName": "Island",
+          "artUrl": "https://www.artstation.com/artwork/Ry83LO",
+          "mtgCardBuilderId": "607796"
+        }
+      },
+      "universesBeyondImage": "https://cards.scryfall.io/normal/front/7/1/715ccf9c-5f3b-49b7-a8c3-704cd5fb7731.jpg?1783903074",
+      "universesWithinImage": "./cards/Fantastic%20Bounce.png"
+    },
+    {
+      "name": "Atlantis Attacks",
+      "nickname": "From the Deep",
+      "contributionInfo": {
+        "contributor": "KolaghanStorm",
+        "front": {
+          "artist": "Thomas Ricci",
+          "artistUrl": "https://artrhino.artstation.com/",
+          "artName": "The Tooth Fairy Mage",
+          "artUrl": "https://artrhino.artstation.com/projects/kwl12d",
+          "mtgCardBuilderId": "621557"
+        }
+      },
+      "universesBeyondImage": "https://cards.scryfall.io/normal/front/4/0/40bc4380-055d-4913-93cb-280c9c1d1a87.jpg?1783902962",
+      "universesWithinImage": "./cards/Atlantis%20Attacks.png"
+    },
+    {
+      "name": "Bugenhagen, Wise Elder",
+      "nickname": "Pestulum, Wandering Elder",
+      "contributionInfo": {
+        "contributor": "TheBeeOfDeath",
+        "front": {
+          "artist": "Anthony Catillaz",
+          "artistUrl": "https://www.artstation.com/darkmoonarts",
+          "artName": "Pestulum the Wanderer",
+          "artUrl": "https://www.artstation.com/artwork/WBxX1X",
+          "mtgCardBuilderId": "625927"
+        }
+      },
+      "universesBeyondImage": "https://cards.scryfall.io/normal/front/9/9/99155fae-507a-4eab-918a-bdee021e2262.jpg?1783906352",
+      "universesWithinImage": "./cards/Bugenhagen%2C%20Wise%20Elder.png"
+    },
+    {
       "name": "Reverent Howl",
       "contributionInfo": {
         "contributor": "KolaghanStorm",
@@ -5553,10 +5617,6 @@ const data = {
       "universesBeyondImage": "https://cards.scryfall.io/normal/front/d/6/d63218a4-afaf-4ad8-9ca4-4f9af87877b9.jpg?1783914619"
     },
     {
-      "name": "Vrestin, Menoptra Leader",
-      "universesBeyondImage": "https://cards.scryfall.io/normal/front/b/1/b117d388-ac94-4e20-84f0-f4d242121d7f.jpg?1783914620"
-    },
-    {
       "name": "The War Doctor",
       "universesBeyondImage": "https://cards.scryfall.io/normal/front/7/a/7a51472c-b61f-4d31-8753-a9ec90d12889.jpg?1783914620"
     },
@@ -7874,7 +7934,7 @@ const data = {
     },
     {
       "name": "The Wandering Minstrel",
-      "universesBeyondImage": "https://cards.scryfall.io/normal/front/7/7/77bc419d-ff69-4e7c-afe6-faca383a5ed7.jpg?1783906560"
+      "universesBeyondImage": "https://cards.scryfall.io/normal/front/7/7/77bc419d-ff69-4e7c-afe6-faca383a5ed7.jpg?1792421941"
     },
     {
       "name": "Magitek Infantry",
@@ -8427,10 +8487,6 @@ const data = {
     {
       "name": "Yuffie, Materia Hunter",
       "universesBeyondImage": "https://cards.scryfall.io/normal/front/1/1/117bb5db-4a1c-4704-b0b5-c67b45ac2f52.jpg?1783906353"
-    },
-    {
-      "name": "Bugenhagen, Wise Elder",
-      "universesBeyondImage": "https://cards.scryfall.io/normal/front/9/9/99155fae-507a-4eab-918a-bdee021e2262.jpg?1783906352"
     },
     {
       "name": "Quistis Trepe",
@@ -12857,10 +12913,6 @@ const data = {
       "universesBeyondImage": "https://cards.scryfall.io/normal/front/7/9/799554d1-d1fb-4206-af9a-80d3582bedc0.jpg?1783903288"
     },
     {
-      "name": "Atlantis Attacks",
-      "universesBeyondImage": "https://cards.scryfall.io/normal/front/4/0/40bc4380-055d-4913-93cb-280c9c1d1a87.jpg?1783902962"
-    },
-    {
       "name": "Klaw, Master of Sound",
       "universesBeyondImage": "https://cards.scryfall.io/normal/front/5/c/5c589d94-7cea-4d4c-91a8-4d939634a5e5.jpg?1783903287"
     },
@@ -13386,10 +13438,6 @@ const data = {
     {
       "name": "Titania, Proud Pummeler",
       "universesBeyondImage": "https://cards.scryfall.io/normal/front/3/1/31255422-9afa-416c-90b2-62baf1d02cca.jpg?1783903279"
-    },
-    {
-      "name": "Fantastic Bounce",
-      "universesBeyondImage": "https://cards.scryfall.io/normal/front/7/1/715ccf9c-5f3b-49b7-a8c3-704cd5fb7731.jpg?1783903074"
     },
     {
       "name": "Flying Drone",
@@ -13974,7 +14022,7 @@ const data = {
     },
     {
       "name": "The Fantastic Four",
-      "universesBeyondImage": "https://cards.scryfall.io/normal/front/d/7/d78cb67a-ed8a-4e76-8506-04c274318b56.jpg?1783903031"
+      "universesBeyondImage": "https://cards.scryfall.io/normal/front/d/7/d78cb67a-ed8a-4e76-8506-04c274318b56.jpg?1792282544"
     },
     {
       "name": "Iceman and Firestar",
@@ -14122,7 +14170,7 @@ const data = {
     },
     {
       "name": "Council of Reeds",
-      "universesBeyondImage": "https://cards.scryfall.io/normal/front/b/1/b1776802-c1d7-4d4d-926f-ab3748942b62.jpg?1783902813"
+      "universesBeyondImage": "https://cards.scryfall.io/normal/front/b/1/b1776802-c1d7-4d4d-926f-ab3748942b62.jpg?1792371811"
     },
     {
       "name": "Galactus",
@@ -14639,7 +14687,7 @@ const data = {
     },
     {
       "name": "Enduring Story",
-      "universesBeyondImage": "https://cards.scryfall.io/normal/front/5/3/53bfaac7-07cf-4637-8f64-aba93ec7fd1a.jpg?1786595037"
+      "universesBeyondImage": "https://cards.scryfall.io/normal/front/5/3/53bfaac7-07cf-4637-8f64-aba93ec7fd1a.jpg?1792386921"
     },
     {
       "name": "Wargling",
@@ -15242,72 +15290,340 @@ const data = {
       "universesBeyondImage": "https://cards.scryfall.io/normal/front/5/7/5793b8eb-2fc5-454d-8fa2-20346fef167a.jpg?1785324545"
     },
     {
+      "name": "Doctor Strange, Master of Magic",
+      "universesBeyondImage": "https://cards.scryfall.io/normal/front/d/c/dce65d5f-6fd4-469f-97fd-636be341d793.jpg?1792154594"
+    },
+    {
+      "name": "Beta Ray Bill",
+      "universesBeyondImage": "https://cards.scryfall.io/normal/front/2/3/23a18d46-82d9-42b6-a057-6c1c7d2641a3.jpg?1792306764"
+    },
+    {
       "name": "70,000 Light-Years from Home",
       "universesBeyondImage": "https://cards.scryfall.io/normal/front/0/2/02080f42-863a-471b-992b-67e35ef1b7b7.jpg?1786005780"
+    },
+    {
+      "name": "The Borg Queen",
+      "universesBeyondImage": "https://cards.scryfall.io/normal/front/8/e/8ed939ba-bf8d-4a68-ae9f-f8ca4eb301ab.jpg?1792507909"
     },
     {
       "name": "Human",
       "universesBeyondImage": "https://cards.scryfall.io/normal/front/2/5/25b0644d-4934-4495-9b6e-c31d1d10c298.jpg?1784177188"
     },
     {
+      "name": "Balance of Terror",
+      "universesBeyondImage": "https://cards.scryfall.io/normal/front/2/f/2fc3e03e-29bd-4d69-b1c1-438183f39eb5.jpg?1793281149"
+    },
+    {
+      "name": "Conquest Mission",
+      "universesBeyondImage": "https://cards.scryfall.io/normal/front/f/9/f91755d7-6fb9-4caf-b4b4-f21ed5572d52.jpg?1792750872"
+    },
+    {
+      "name": "Commander Raffi Musiker",
+      "universesBeyondImage": "https://cards.scryfall.io/normal/front/7/e/7e60bd56-3da1-4211-b790-320471eef242.jpg?1793013565"
+    },
+    {
+      "name": "One, Borg Evolved",
+      "universesBeyondImage": "https://cards.scryfall.io/normal/front/8/5/85b7aef6-33fd-45ff-bbe7-1e943e43bb19.jpg?1793021021"
+    },
+    {
+      "name": "D'Ghor Bloodletter",
+      "universesBeyondImage": "https://cards.scryfall.io/normal/front/5/0/5075645d-ef69-4559-953e-c3140153bd75.jpg?1792753733"
+    },
+    {
+      "name": "Pavel Chekov, First Posting",
+      "universesBeyondImage": "https://cards.scryfall.io/normal/front/4/0/4015cb79-b698-4f3b-85b7-083cc4ab1e3c.jpg?1793281273"
+    },
+    {
+      "name": "Death Is Irrelevant",
+      "universesBeyondImage": "https://cards.scryfall.io/normal/front/4/0/408cb5dd-1a79-47a9-98ea-41f3f4502c5e.jpg?1792668404"
+    },
+    {
+      "name": "Reg Barclay, Fidgety Fantasist",
+      "universesBeyondImage": "https://cards.scryfall.io/normal/front/6/6/663a6877-6963-4fa0-9d28-da6ecb4fd550.jpg?1793111791"
+    },
+    {
+      "name": "Rite of Ascension",
+      "universesBeyondImage": "https://cards.scryfall.io/normal/front/0/3/03932c24-ffdc-4593-b223-342d68a1533c.jpg?1793197423"
+    },
+    {
+      "name": "The Destruction of Praxis",
+      "universesBeyondImage": "https://cards.scryfall.io/normal/front/3/d/3d33ac2a-73a9-4804-bf9f-c8cf4eea1c76.jpg?1793187997"
+    },
+    {
+      "name": "De-evolve",
+      "universesBeyondImage": "https://cards.scryfall.io/normal/front/8/1/81d798f1-07dd-46b1-b0b3-411280a2e257.jpg?1793101370"
+    },
+    {
+      "name": "Sins of the Father",
+      "universesBeyondImage": "https://cards.scryfall.io/normal/front/e/b/ebd459db-bde4-4410-b0f4-4ef6bffd956b.jpg?1793197425"
+    },
+    {
       "name": "Eject the Warp Core",
       "universesBeyondImage": "https://cards.scryfall.io/normal/front/0/4/04a479be-8093-4775-a5d9-8b0e1683bf12.jpg?1785981475"
+    },
+    {
+      "name": "Tom Paris, Risk-Taker",
+      "universesBeyondImage": "https://cards.scryfall.io/normal/front/0/4/04ea9781-885c-479b-9b96-c08ba56a6438.jpg?1793111792"
+    },
+    {
+      "name": "Elim Garak, Simple Tailor",
+      "universesBeyondImage": "https://cards.scryfall.io/normal/front/1/1/113bd51a-dfbb-4106-adf3-e567057fcd06.jpg?1792668600"
+    },
+    {
+      "name": "T'Pring, Never Parted",
+      "universesBeyondImage": "https://cards.scryfall.io/normal/front/c/8/c80275f8-eac0-4541-a62c-1bd77f3591dd.jpg?1793281275"
+    },
+    {
+      "name": "Fugitive Listener",
+      "universesBeyondImage": "https://cards.scryfall.io/normal/front/b/d/bd04c738-b4e3-481e-9a68-d257524bf40e.jpg?1793361283"
+    },
+    {
+      "name": "Unification",
+      "universesBeyondImage": "https://cards.scryfall.io/normal/front/1/c/1c2378fb-fb29-499e-97c2-f10f97babf7b.jpg?1793111989"
+    },
+    {
+      "name": "Gabriel Lorca, Mirror Menace",
+      "universesBeyondImage": "https://cards.scryfall.io/normal/front/a/9/a98d0f01-8e5e-4ff1-88e5-684b8f4c015c.jpg?1793100690"
+    },
+    {
+      "name": "Vic Fontaine, One Night Only",
+      "universesBeyondImage": "https://cards.scryfall.io/normal/front/4/1/41887da1-5ff0-4785-a3ab-95fff12ca79e.jpg?1793111803"
     },
     {
       "name": "General Chang, Cold Warrior",
       "universesBeyondImage": "https://cards.scryfall.io/normal/front/c/4/c46a0910-215c-4757-8bfe-7eca479157a5.jpg?1786396042"
     },
     {
+      "name": "Worf, Son of Mogh",
+      "universesBeyondImage": "https://cards.scryfall.io/normal/front/d/7/d74900c9-aedc-4fcd-a074-43ff0ff61805.jpg?1793111815"
+    },
+    {
+      "name": "Beverly Crusher, Ship's Doctor",
+      "universesBeyondImage": "https://cards.scryfall.io/normal/front/3/5/35a289b9-18da-437a-ad0a-450accb99100.jpg?1793111677"
+    },
+    {
+      "name": "Deanna Troi, Psychic Counsel",
+      "universesBeyondImage": "https://cards.scryfall.io/normal/front/1/a/1a027761-84e7-4cbf-a629-ae9bd3d8467b.jpg?1793100632"
+    },
+    {
+      "name": "Class-4 Tactical Cube",
+      "universesBeyondImage": "https://cards.scryfall.io/normal/front/3/6/363d63ce-a9a8-46bf-b5e4-837aa10efca8.jpg?1793021021"
+    },
+    {
+      "name": "Georgiou, Terran Emperor",
+      "universesBeyondImage": "https://cards.scryfall.io/normal/front/a/6/a68361a3-83fa-44b5-92b5-b7905866fc99.jpg?1792753873"
+    },
+    {
       "name": "A Good Day to Die",
       "universesBeyondImage": "https://cards.scryfall.io/normal/front/e/2/e2b350b2-0eda-4c2b-b9d6-b58ab4848545.jpg?1785981483"
+    },
+    {
+      "name": "Command Chair",
+      "universesBeyondImage": "https://cards.scryfall.io/normal/front/e/4/e46c4bbc-d4b3-44ae-bf91-cad01a66f302.jpg?1792507982"
+    },
+    {
+      "name": "Grand Nagus Zek",
+      "universesBeyondImage": "https://cards.scryfall.io/normal/front/4/7/47488f1e-512d-4dc6-a82d-1ead24d3276a.jpg?1793013572"
+    },
+    {
+      "name": "The Guardian of Forever",
+      "universesBeyondImage": "https://cards.scryfall.io/normal/front/b/6/b682a918-4f3a-41ce-90d9-f7acca9acfde.jpg?1793281284"
+    },
+    {
+      "name": "Gul Dukat, Colonial Prefect",
+      "universesBeyondImage": "https://cards.scryfall.io/normal/front/7/a/7adc6373-1196-448f-8aee-cee7a890c724.jpg?1793359426"
+    },
+    {
+      "name": "I.K.S. Negh'Var, Imperial Flagship",
+      "universesBeyondImage": "https://cards.scryfall.io/normal/front/1/a/1a9b48d4-3954-4073-a629-a4e31b9bc962.jpg?1793197435"
     },
     {
       "name": "He's Dead, Jim",
       "universesBeyondImage": "https://cards.scryfall.io/normal/front/2/c/2c309b0d-94b4-405e-be6c-18b407323e51.jpg?1785981492"
     },
     {
+      "name": "Jefferies Tube",
+      "universesBeyondImage": "https://cards.scryfall.io/normal/front/6/b/6b81db51-ae7e-4f4b-9071-afabc72f61c0.jpg?1793281286"
+    },
+    {
       "name": "Hive Mind Coprocessor",
       "universesBeyondImage": "https://cards.scryfall.io/normal/front/a/4/a4734c59-ff41-47ac-bbb4-c8c3bf052fe6.jpg?1785981497"
+    },
+    {
+      "name": "K't'inga-Class Battle Cruiser",
+      "universesBeyondImage": "https://cards.scryfall.io/normal/front/c/7/c7a6064b-a29a-4cf1-a8b7-a0d56b8a737c.jpg?1793197438"
+    },
+    {
+      "name": "Impossible Choice",
+      "universesBeyondImage": "https://cards.scryfall.io/normal/front/6/c/6c5a87cf-7790-4335-8497-ff793bbdcb05.jpg?1793013157"
+    },
+    {
+      "name": "K'Vort-Class Raider",
+      "universesBeyondImage": "https://cards.scryfall.io/normal/front/9/e/9e2ad655-5206-4832-a350-ebfffdc180ff.jpg?1793197446"
     },
     {
       "name": "In the Pale Moonlight",
       "universesBeyondImage": "https://cards.scryfall.io/normal/front/4/7/47c8262c-e0c6-4c1a-b1c1-3b5fe5252a9c.jpg?1784065713"
     },
     {
+      "name": "Planet Killer",
+      "universesBeyondImage": "https://cards.scryfall.io/normal/front/3/e/3e488b00-6488-4342-b71e-edd9137b8a01.jpg?1793281296"
+    },
+    {
+      "name": "Kai Winn, Faithless Leader",
+      "universesBeyondImage": "https://cards.scryfall.io/normal/front/9/7/973ab6cd-fc23-4816-aa08-f77c93e1b1d6.jpg?1793013575"
+    },
+    {
+      "name": "Queen's Diamond",
+      "universesBeyondImage": "https://cards.scryfall.io/normal/front/5/f/5f936935-4f47-4d33-871b-0159cb6fb4da.jpg?1793021033"
+    },
+    {
+      "name": "Khan, Vengeful Heart",
+      "universesBeyondImage": "https://cards.scryfall.io/normal/front/a/6/a6f47b34-02fb-41d2-978a-a6d0a47ee8ba.jpg?1792551016"
+    },
+    {
+      "name": "Reconnaissance Partition",
+      "universesBeyondImage": "https://cards.scryfall.io/normal/front/0/d/0d62b5d1-b22c-4919-8b3e-19aa3b42e521.jpg?1793021038"
+    },
+    {
+      "name": "Borg Incursion",
+      "universesBeyondImage": "https://cards.scryfall.io/normal/front/2/b/2b7eed2d-8baa-4be2-a392-e218baaedd50.jpg?1793020848"
+    },
+    {
       "name": "DOT-7 Repair Squad",
       "universesBeyondImage": "https://cards.scryfall.io/normal/front/f/c/fca1528c-84cc-42d2-99ae-9f10f0e28743.jpg?1786005749"
+    },
+    {
+      "name": "Obsidian Order Operative",
+      "universesBeyondImage": "https://cards.scryfall.io/normal/front/1/7/17a7b0a8-baaf-4e6a-8536-f511c796a713.jpg?1793361289"
+    },
+    {
+      "name": "S.S. Botany Bay",
+      "universesBeyondImage": "https://cards.scryfall.io/normal/front/6/7/67ab2c2a-0bc7-4672-bf50-53c96e126859.jpg?1793282641"
     },
     {
       "name": "Organic Avulsion Unit",
       "universesBeyondImage": "https://cards.scryfall.io/normal/front/8/c/8cc06121-6ecd-44c3-90f9-34d492b031d4.jpg?1785981505"
     },
     {
+      "name": "Starfleet Communicator",
+      "universesBeyondImage": "https://cards.scryfall.io/normal/front/a/c/ac87fcef-019e-45d4-bc8a-0ccb3adaa3b5.jpg?1792507985"
+    },
+    {
+      "name": "Overflow Submatrix",
+      "universesBeyondImage": "https://cards.scryfall.io/normal/front/7/e/7e5654a7-ce83-4801-8978-7294a39dbef8.jpg?1793100705"
+    },
+    {
+      "name": "Starship Enterprise",
+      "universesBeyondImage": "https://cards.scryfall.io/normal/front/6/6/66fa6995-4857-466d-8068-508f2904805b.jpg?1792645550"
+    },
+    {
+      "name": "Pattern Buffer Preservation",
+      "universesBeyondImage": "https://cards.scryfall.io/normal/front/2/3/23166580-9676-4025-916b-864568c2e59d.jpg?1793361304"
+    },
+    {
+      "name": "The Sword of Kahless",
+      "universesBeyondImage": "https://cards.scryfall.io/normal/front/d/c/dcc0ee8a-3400-4cf8-888e-96c847ebc71b.jpg?1792507997"
+    },
+    {
       "name": "Relentless Drednok",
       "universesBeyondImage": "https://cards.scryfall.io/normal/front/c/e/ce538db8-373d-4554-821e-cd96e795e37a.jpg?1786005690"
+    },
+    {
+      "name": "U.S.S. Defiant, Mirror Migrant",
+      "universesBeyondImage": "https://cards.scryfall.io/normal/front/6/c/6c347d57-4a92-42eb-b703-d4bec298e94b.jpg?1793281306"
     },
     {
       "name": "Resistance Is Futile",
       "universesBeyondImage": "https://cards.scryfall.io/normal/front/8/1/81d88257-466d-4729-862f-591885b3d875.jpg?1785981518"
     },
     {
+      "name": "U.S.S. Defiant, Tough Little Ship",
+      "universesBeyondImage": "https://cards.scryfall.io/normal/front/e/9/e92acccf-d5a6-4559-8acd-d24492b0649e.jpg?1793111816"
+    },
+    {
       "name": "Rogue Artificial Intelligence",
       "universesBeyondImage": "https://cards.scryfall.io/normal/front/e/d/edcce061-88c9-40bf-97f8-d0d3018e24dd.jpg?1785981516"
+    },
+    {
+      "name": "U.S.S. Enterprise-C, Time-Tossed",
+      "universesBeyondImage": "https://cards.scryfall.io/normal/front/2/0/20a62007-baf3-4e1b-80e1-71b7a7efd13f.jpg?1793111826"
     },
     {
       "name": "Salt Vampire",
       "universesBeyondImage": "https://cards.scryfall.io/normal/front/7/8/78faba81-01a3-489f-927e-1adaa8fe4436.jpg?1784036770"
     },
     {
+      "name": "U.S.S. Farragut, Bold Explorer",
+      "universesBeyondImage": "https://cards.scryfall.io/normal/front/b/f/bfbef056-cf8b-46f8-892e-30742fd78707.jpg?1793281307"
+    },
+    {
+      "name": "Sela, Tal Shiar Paradox",
+      "universesBeyondImage": "https://cards.scryfall.io/normal/front/c/b/cb680a44-3395-4c96-a73d-af1e0b7b8a9f.jpg?1793101376"
+    },
+    {
+      "name": "U.S.S. Prometheus, Prototype",
+      "universesBeyondImage": "https://cards.scryfall.io/normal/front/6/9/69ed6b4e-f4de-4c68-9db9-9692dc247897.jpg?1793111827"
+    },
+    {
+      "name": "Storied Veteran",
+      "universesBeyondImage": "https://cards.scryfall.io/normal/front/3/b/3b80995c-8e9a-4a9c-8854-59439a58166f.jpg?1792753937"
+    },
+    {
+      "name": "U.S.S. Stargazer, Here and There",
+      "universesBeyondImage": "https://cards.scryfall.io/normal/front/b/6/b63286ae-127b-4eb0-870f-f105decf575a.jpg?1793111838"
+    },
+    {
       "name": "Dr. Beverly Crusher",
       "universesBeyondImage": "https://cards.scryfall.io/normal/front/e/f/ef9c5790-d909-4271-90bd-5fa4816ddd6b.jpg?1784065540"
+    },
+    {
+      "name": "Dr. Pulaski, Cynical Clinician",
+      "universesBeyondImage": "https://cards.scryfall.io/normal/front/a/6/a6d26af7-43c8-49d7-8fb8-ed72b9cd643e.jpg?1793111680"
+    },
+    {
+      "name": "Shore Leave Planet",
+      "universesBeyondImage": "https://cards.scryfall.io/normal/front/5/4/54cbe3ca-9a18-4297-aff4-9d13670fefb0.jpg?1793021044"
+    },
+    {
+      "name": "Stray from History",
+      "universesBeyondImage": "https://cards.scryfall.io/normal/front/a/a/aac57a7f-a28b-486a-8d85-c620702a9cc0.jpg?1793359454"
+    },
+    {
+      "name": "Tal Shiar Operative",
+      "universesBeyondImage": "https://cards.scryfall.io/normal/front/e/b/ebe9c7bd-5528-41fd-9c51-2306086c7887.jpg?1793359459"
     },
     {
       "name": "Evasive Maneuvers",
       "universesBeyondImage": "https://cards.scryfall.io/normal/front/5/4/547e7238-ed01-462a-8135-08114ada7541.jpg?1785980944"
     },
     {
+      "name": "Tell Me What You See",
+      "universesBeyondImage": "https://cards.scryfall.io/normal/front/e/3/e339c8fb-26d2-4514-aeb7-014274df0c9c.jpg?1793013584"
+    },
+    {
       "name": "Head of Security",
       "universesBeyondImage": "https://cards.scryfall.io/normal/front/9/4/94f68b16-121a-49e1-abf4-0bd2cd3e74ce.jpg?1786005815"
+    },
+    {
+      "name": "Tenacious Drone",
+      "universesBeyondImage": "https://cards.scryfall.io/normal/front/2/0/206ae042-09af-4fc1-8441-69cecdd087de.jpg?1793359485"
+    },
+    {
+      "name": "Test of Loyalty",
+      "universesBeyondImage": "https://cards.scryfall.io/normal/front/7/2/722eeb21-be3c-4ae6-abd2-c3281d53c035.jpg?1792753889"
+    },
+    {
+      "name": "U.S.S. Reliant, From Hell's Heart",
+      "universesBeyondImage": "https://cards.scryfall.io/normal/front/a/4/a4c6fc55-f585-4529-b549-31d4d838c9af.jpg?1792551037"
+    },
+    {
+      "name": "Vengeance Mission",
+      "universesBeyondImage": "https://cards.scryfall.io/normal/front/0/5/059e3331-43bc-43a8-90e9-86fef37e032a.jpg?1793187091"
+    },
+    {
+      "name": "Academy Instructor",
+      "universesBeyondImage": "https://cards.scryfall.io/normal/front/6/6/660ec8bc-dc03-4b42-84f3-091c19e2a853.jpg?1793188005"
     },
     {
       "name": "Shuttle Crew",
@@ -15322,8 +15638,24 @@ const data = {
       "universesBeyondImage": "https://cards.scryfall.io/normal/front/d/7/d78afa7d-1952-46e9-bdaf-870b27c77844.jpg?1785980993"
     },
     {
+      "name": "Boarding Action",
+      "universesBeyondImage": "https://cards.scryfall.io/normal/front/3/a/3a0d33cd-f81c-4950-81ed-9536061eca8a.jpg?1793361310"
+    },
+    {
       "name": "Starfleet Crew",
       "universesBeyondImage": "https://cards.scryfall.io/normal/front/e/c/ecf2358f-542d-45c9-b5c5-c57b2b0c1122.jpg?1785981010"
+    },
+    {
+      "name": "Dr. McCoy, Surly Surgeon",
+      "universesBeyondImage": "https://cards.scryfall.io/normal/front/b/3/b300d814-cf74-44ba-b253-ec179ec54a20.jpg?1792668584"
+    },
+    {
+      "name": "Emergency Regeneration",
+      "universesBeyondImage": "https://cards.scryfall.io/normal/front/d/4/d46d512e-b4c1-42df-9945-c5ba4e2d339f.jpg?1793020844"
+    },
+    {
+      "name": "Brazen Bluff",
+      "universesBeyondImage": "https://cards.scryfall.io/normal/front/5/b/5b306901-1bba-488b-866e-83aa162dab5a.jpg?1793274251"
     },
     {
       "name": "Will Riker, Assuming Command",
@@ -15346,28 +15678,64 @@ const data = {
       "universesBeyondImage": "https://cards.scryfall.io/normal/front/e/4/e453d221-41b6-4e95-83b3-b16695e81c75.jpg?1785981038"
     },
     {
+      "name": "Captain Michael Burnham",
+      "universesBeyondImage": "https://cards.scryfall.io/normal/front/e/1/e10d6d71-9360-4ecf-97c8-22afb22aaeb7.jpg?1792508221"
+    },
+    {
       "name": "Captain's Tutelage",
       "universesBeyondImage": "https://cards.scryfall.io/normal/front/0/c/0c340eba-645d-416a-9ed4-f2303aa8c919.jpg?1785981528"
+    },
+    {
+      "name": "D-7 Battle Cruiser",
+      "universesBeyondImage": "https://cards.scryfall.io/normal/front/6/c/6c22998d-7bd7-433d-95b8-50f2fd8b7b7f.jpg?1792508232"
     },
     {
       "name": "Exocomp",
       "universesBeyondImage": "https://cards.scryfall.io/normal/front/4/6/46012ec9-9605-44fe-84a9-6aab0738737f.jpg?1785981040"
     },
     {
+      "name": "Dahar Master",
+      "universesBeyondImage": "https://cards.scryfall.io/normal/front/1/1/1122fe1c-97f7-409d-ad37-0fed46f9f963.jpg?1793361323"
+    },
+    {
       "name": "Kolinahr Priest",
       "universesBeyondImage": "https://cards.scryfall.io/normal/front/0/1/0167486d-ed77-4612-a385-25251b544a14.jpg?1785981062"
+    },
+    {
+      "name": "Dominion Infiltration",
+      "universesBeyondImage": "https://cards.scryfall.io/normal/front/3/8/38b7cc7c-e6f0-4460-83c0-0bcd1ab5b4cf.jpg?1793274258"
     },
     {
       "name": "La Forge, Perceptive Engineer",
       "universesBeyondImage": "https://cards.scryfall.io/normal/front/c/2/c2412446-ddff-40fa-b180-9385c691a9fd.jpg?1785981065"
     },
     {
+      "name": "Encounter the Unknown",
+      "universesBeyondImage": "https://cards.scryfall.io/normal/front/9/a/9a49f66c-7017-4ddd-8787-21d68fe1bff5.jpg?1793274490"
+    },
+    {
       "name": "Pelia, Immortal Innovator",
       "universesBeyondImage": "https://cards.scryfall.io/normal/front/4/f/4f7ef05c-e9a9-4431-8cd5-4cd41c64de67.jpg?1785981087"
     },
     {
+      "name": "Erica Ortegas, Plucky Pilot",
+      "universesBeyondImage": "https://cards.scryfall.io/normal/front/3/6/3667eb41-598e-4543-97ed-6da961f8b567.jpg?1793013175"
+    },
+    {
       "name": "Emergency Medical Hologram",
       "universesBeyondImage": "https://cards.scryfall.io/normal/front/d/d/dda6f965-cbdf-4dbc-b0b1-00c27e32f5f2.jpg?1786005719"
+    },
+    {
+      "name": "Ensign Harry Kim, Operations",
+      "universesBeyondImage": "https://cards.scryfall.io/normal/front/1/c/1ccd6aeb-e6f4-4673-b4f5-a4b66b869992.jpg?1793111690"
+    },
+    {
+      "name": "Exploratory Mission",
+      "universesBeyondImage": "https://cards.scryfall.io/normal/front/6/1/61bb2ec5-5f04-4c34-ba72-7fa226922c5c.jpg?1793013181"
+    },
+    {
+      "name": "Genesis Effect",
+      "universesBeyondImage": "https://cards.scryfall.io/normal/front/f/0/f0996bab-c2e4-4483-a76e-1355c81f1577.jpg?1793361330"
     },
     {
       "name": "T'Pol, Vulcan Representative",
@@ -15386,16 +15754,44 @@ const data = {
       "universesBeyondImage": "https://cards.scryfall.io/normal/front/8/b/8ba16590-26bb-4bc9-9147-b7f4728da549.jpg?1785981107"
     },
     {
+      "name": "Infinite Diversity",
+      "universesBeyondImage": "https://cards.scryfall.io/normal/front/3/3/33ade614-3593-4055-8ecc-2d9e4858ba19.jpg?1793273819"
+    },
+    {
       "name": "Khaaaaaaaaaaaannn!",
       "universesBeyondImage": "https://cards.scryfall.io/normal/front/2/2/22c60c17-74ec-460b-bf7a-e56e42239826.jpg?1785981536"
+    },
+    {
+      "name": "Khan, Despot by Design",
+      "universesBeyondImage": "https://cards.scryfall.io/normal/front/f/d/fd283ef1-fd8c-4288-8efa-6e81c92b3415.jpg?1793013585"
     },
     {
       "name": "La'An Noonien-Singh, Security",
       "universesBeyondImage": "https://cards.scryfall.io/normal/front/a/f/afe08bef-b184-4b91-8d69-0101e183c3ff.jpg?1785981540"
     },
     {
+      "name": "Lwaxana Troi, Charming Guest",
+      "universesBeyondImage": "https://cards.scryfall.io/normal/front/1/9/19bf2f2f-4be2-4958-bfab-eb46c9ca1995.jpg?1793013189"
+    },
+    {
       "name": "Munitions Enthusiast",
       "universesBeyondImage": "https://cards.scryfall.io/normal/front/6/d/6d73bb1c-39e3-429c-b6bb-96dae2254708.jpg?1785981544"
+    },
+    {
+      "name": "The Naked Time",
+      "universesBeyondImage": "https://cards.scryfall.io/normal/front/6/2/627c2ff6-88be-4c37-a676-0eddf453e8c6.jpg?1793359584"
+    },
+    {
+      "name": "Excalbian Gamemaster",
+      "universesBeyondImage": "https://cards.scryfall.io/normal/front/3/1/31b5780c-8c5f-4836-8848-1eea1d416a93.jpg?1792753846"
+    },
+    {
+      "name": "Ezri Dax, Newly Joined",
+      "universesBeyondImage": "https://cards.scryfall.io/normal/front/f/4/f46512c2-0d03-406d-a37c-5e4cb8d5a465.jpg?1793111694"
+    },
+    {
+      "name": "Pah-Wraith",
+      "universesBeyondImage": "https://cards.scryfall.io/normal/front/2/4/24c7e179-c016-4db8-ad8b-aa5629152b5c.jpg?1793013595"
     },
     {
       "name": "Defense Force Aggressor",
@@ -15408,6 +15804,10 @@ const data = {
     {
       "name": "Direct Hit",
       "universesBeyondImage": "https://cards.scryfall.io/normal/front/9/7/97388288-9254-4fa8-bcae-c2e2a55ef92b.jpg?1785981126"
+    },
+    {
+      "name": "Planetary Bombardment",
+      "universesBeyondImage": "https://cards.scryfall.io/normal/front/4/d/4d9c39ce-f598-48d1-afa0-22f9513f1483.jpg?1793013596"
     },
     {
       "name": "Gin'tak Charge",
@@ -15426,16 +15826,44 @@ const data = {
       "universesBeyondImage": "https://cards.scryfall.io/normal/front/9/1/9158819b-3961-49b6-a167-fff1a5504b8a.jpg?1785981139"
     },
     {
+      "name": "Q, Stacking the Deck",
+      "universesBeyondImage": "https://cards.scryfall.io/normal/front/d/c/dcbe34db-0065-4960-92b8-3ea1d336e803.jpg?1792508237"
+    },
+    {
       "name": "Mek'leth Berserker",
       "universesBeyondImage": "https://cards.scryfall.io/normal/front/4/f/4f503eb1-d95d-4c72-bc58-a7b9e9f92eb6.jpg?1785981193"
+    },
+    {
+      "name": "Quark, Humble Proprietor",
+      "universesBeyondImage": "https://cards.scryfall.io/normal/front/9/6/96104754-57e2-46e9-948d-628aab2aa0ad.jpg?1792508242"
+    },
+    {
+      "name": "Ravenous Cosmozoan",
+      "universesBeyondImage": "https://cards.scryfall.io/normal/front/8/e/8eeb471b-412d-4ea1-bec0-d7dd0a557d76.jpg?1793013221"
     },
     {
       "name": "Warship Flight Crew",
       "universesBeyondImage": "https://cards.scryfall.io/normal/front/9/b/9b6d130a-60f7-410a-b45f-ad81dd203c8c.jpg?1785981141"
     },
     {
+      "name": "Red Alert!",
+      "universesBeyondImage": "https://cards.scryfall.io/normal/front/0/f/0f9b10d3-ba76-45ec-a85c-fb7b26da5561.jpg?1793274269"
+    },
+    {
       "name": "Federation Field Medic",
       "universesBeyondImage": "https://cards.scryfall.io/normal/front/b/3/b312dacd-b87f-44c1-a804-bee221e70f52.jpg?1785981333"
+    },
+    {
+      "name": "Guinan, Ancient Advisor",
+      "universesBeyondImage": "https://cards.scryfall.io/normal/front/0/6/06fa6050-0f9d-46a2-9635-8d05899dbc49.jpg?1792507961"
+    },
+    {
+      "name": "Sarcophagus, Ship of the Dead",
+      "universesBeyondImage": "https://cards.scryfall.io/normal/front/b/5/b5ea32b5-aa58-4f87-ac2e-4e3b8dd4a752.jpg?1793187110"
+    },
+    {
+      "name": "Savvy Profiteer",
+      "universesBeyondImage": "https://cards.scryfall.io/normal/front/8/2/8256376f-011f-4cc8-9be4-47f5121ca75e.jpg?1793359515"
     },
     {
       "name": "Gorn Captain",
@@ -15450,32 +15878,152 @@ const data = {
       "universesBeyondImage": "https://cards.scryfall.io/normal/front/1/c/1cf2440a-63ed-485a-806a-dd267fc6e298.jpg?1785981151"
     },
     {
+      "name": "Starfleet Security",
+      "universesBeyondImage": "https://cards.scryfall.io/normal/front/6/2/62acde0e-791d-4259-83bc-3690e498f3b0.jpg?1793359516"
+    },
+    {
+      "name": "Tal Shiar Analyst",
+      "universesBeyondImage": "https://cards.scryfall.io/normal/front/6/6/66daae4f-8024-4d87-b42f-e5271d29e646.jpg?1793361345"
+    },
+    {
       "name": "Talarian Hook Spider",
       "universesBeyondImage": "https://cards.scryfall.io/normal/front/f/4/f49df857-5488-455e-8ac1-b000f600eda7.jpg?1785981165"
+    },
+    {
+      "name": "Targ Wrangler",
+      "universesBeyondImage": "https://cards.scryfall.io/normal/front/e/a/eabc4252-cf58-48c3-9483-7862450e03d0.jpg?1793100726"
+    },
+    {
+      "name": "Tasha Yar, Out of Time",
+      "universesBeyondImage": "https://cards.scryfall.io/normal/front/5/f/5f6cbe6c-5cd8-4eec-82b7-25d5bf5641c0.jpg?1793100738"
     },
     {
       "name": "Disruptor Pistol",
       "universesBeyondImage": "https://cards.scryfall.io/normal/front/2/b/2b3ba275-0671-4328-a337-9de498ec2d99.jpg?1785981166"
     },
     {
+      "name": "Test of Identity",
+      "universesBeyondImage": "https://cards.scryfall.io/normal/front/7/e/7e1c0423-bf58-47a1-a838-c15bbf40eaba.jpg?1793359534"
+    },
+    {
+      "name": "Transporter Malfunction",
+      "universesBeyondImage": "https://cards.scryfall.io/normal/front/8/5/85b108c3-00b5-4dfb-90de-57fa483c4926.jpg?1793274273"
+    },
+    {
+      "name": "Will Riker, First in the Field",
+      "universesBeyondImage": "https://cards.scryfall.io/normal/front/9/4/9422d025-9460-44b6-8071-d896f20b87ea.jpg?1793013606"
+    },
+    {
+      "name": "Federation Resupply",
+      "universesBeyondImage": "https://cards.scryfall.io/normal/front/5/6/5626c58f-9245-437a-9844-b023320cf709.jpg?1793273787"
+    },
+    {
+      "name": "Imperial Hullbreachers",
+      "universesBeyondImage": "https://cards.scryfall.io/normal/front/9/0/90b3d401-5585-4a55-9388-fe5153e290e1.jpg?1793196862"
+    },
+    {
+      "name": "Kirk, Man of Action",
+      "universesBeyondImage": "https://cards.scryfall.io/normal/front/f/0/f0944425-2caa-4fde-82be-2f1f5c7d8e13.jpg?1793187617"
+    },
+    {
+      "name": "Worf, Intelligence Contractor",
+      "universesBeyondImage": "https://cards.scryfall.io/normal/front/7/d/7df6c8c1-1f85-4c5d-a4f6-9ffcdad1b12e.jpg?1792508250"
+    },
+    {
+      "name": "Spock, Voice of Reason",
+      "universesBeyondImage": "https://cards.scryfall.io/normal/front/9/e/9e4610a4-42ea-4de8-b46a-555d28ee519d.jpg?1793187627"
+    },
+    {
+      "name": "The Wrath of Khan",
+      "universesBeyondImage": "https://cards.scryfall.io/normal/front/4/2/426d627e-bb88-4879-8d9f-db1babf22b15.jpg?1792510667"
+    },
+    {
+      "name": "Adversary by Algorithm",
+      "universesBeyondImage": "https://cards.scryfall.io/normal/front/4/1/41644f06-d08f-406c-a56a-47e1b5273982.jpg?1793013240"
+    },
+    {
+      "name": "Uhura, Xenolinguist",
+      "universesBeyondImage": "https://cards.scryfall.io/normal/front/5/e/5e89c267-84af-415c-b255-7ef16102ea35.jpg?1793187635"
+    },
+    {
       "name": "Amok Time",
       "universesBeyondImage": "https://cards.scryfall.io/normal/front/d/3/d31447b6-484f-4dda-b6af-ab068a84f896.jpg?1787205814"
+    },
+    {
+      "name": "Chekov and McCoy",
+      "universesBeyondImage": "https://cards.scryfall.io/normal/front/e/b/eb40c889-15e0-4a01-bec1-2148b17ad382.jpg?1793187639"
+    },
+    {
+      "name": "Astute Terraformer",
+      "universesBeyondImage": "https://cards.scryfall.io/normal/front/2/e/2ef7c30c-3ee6-413d-bd24-476322f36cb8.jpg?1793361354"
+    },
+    {
+      "name": "Scotty, Chief Engineer",
+      "universesBeyondImage": "https://cards.scryfall.io/normal/front/a/0/a09834eb-948d-41cf-b79d-f857df6fb853.jpg?1793187648"
+    },
+    {
+      "name": "Branching Timeline",
+      "universesBeyondImage": "https://cards.scryfall.io/normal/front/4/a/4a2231ff-677d-4041-9413-b8d683846920.jpg?1793013249"
+    },
+    {
+      "name": "Sulu, Heroic Helmsman",
+      "universesBeyondImage": "https://cards.scryfall.io/normal/front/2/5/250f9c29-560a-448f-92c9-4f2b6f1b2b50.jpg?1793187650"
+    },
+    {
+      "name": "Captain Jonathan Archer",
+      "universesBeyondImage": "https://cards.scryfall.io/normal/front/a/4/a4518ea3-5f56-4f1d-9024-2bf06ac98786.jpg?1792508262"
+    },
+    {
+      "name": "Worf, Still Not Merry",
+      "universesBeyondImage": "https://cards.scryfall.io/normal/front/b/4/b4902c9d-0608-4a77-bfee-48703bc25c70.jpg?1793187661"
     },
     {
       "name": "Captain Kathryn Janeway",
       "universesBeyondImage": "https://cards.scryfall.io/normal/front/d/1/d17ea45c-7f9c-411f-b7d3-ca7100ffe53b.jpg?1784036788"
     },
     {
+      "name": "Q, Your Illustrious Host",
+      "universesBeyondImage": "https://cards.scryfall.io/normal/front/4/c/4c879981-f3a9-4da4-bf49-fb6ccea739b8.jpg?1793187660"
+    },
+    {
+      "name": "Captain Pike, Fullness of Time",
+      "universesBeyondImage": "https://cards.scryfall.io/normal/front/7/4/743be4c4-5c91-42bb-9942-115e903041a9.jpg?1792508262"
+    },
+    {
+      "name": "La Forge, Thoughtful as Ever",
+      "universesBeyondImage": "https://cards.scryfall.io/normal/front/0/9/09ee57fa-c301-4278-9db6-8d6ebab7ce38.jpg?1793187674"
+    },
+    {
       "name": "Cold-Blooded Crew",
       "universesBeyondImage": "https://cards.scryfall.io/normal/front/4/f/4f2d1830-baea-4735-b029-cb8c0b538d83.jpg?1785981563"
+    },
+    {
+      "name": "Data, Professor of Humanities",
+      "universesBeyondImage": "https://cards.scryfall.io/normal/front/5/9/59eedf7b-0738-4a42-88d0-4ba7c7b73480.jpg?1793187676"
     },
     {
       "name": "Free Borg Revolutionaries",
       "universesBeyondImage": "https://cards.scryfall.io/normal/front/6/7/6711e910-e5a8-4602-9559-de5374bffff2.jpg?1785981345"
     },
     {
+      "name": "Indelicate Healer",
+      "universesBeyondImage": "https://cards.scryfall.io/normal/front/3/9/39da1e17-d5d1-4252-bdd7-42e6541e6ab6.jpg?1793196875"
+    },
+    {
       "name": "Common Goal",
       "universesBeyondImage": "https://cards.scryfall.io/normal/front/4/f/4fddc950-fbc5-4cf7-b694-dcd54ffccb31.jpg?1785981568"
+    },
+    {
+      "name": "Jean-Luc, Mon Capitaine",
+      "universesBeyondImage": "https://cards.scryfall.io/normal/front/f/8/f8ce0f9a-a6d9-497d-bdca-2cf57f08a84c.jpg?1793187685"
+    },
+    {
+      "name": "Culber and Stamets, Star-Crossed",
+      "universesBeyondImage": "https://cards.scryfall.io/normal/front/9/6/962752f7-5c94-41e4-ab7d-3e8741c7a502.jpg?1793290364"
+    },
+    {
+      "name": "Troi, Winging It",
+      "universesBeyondImage": "https://cards.scryfall.io/normal/front/b/c/bc44fff5-a58d-4da9-88cf-d23414885791.jpg?1793187688"
     },
     {
       "name": "Dathon and Picard at El-Adrel",
@@ -15486,8 +16034,16 @@ const data = {
       "universesBeyondImage": "https://cards.scryfall.io/normal/front/4/0/40a37274-af28-4019-86fc-197e764e9e3e.jpg?1784036684"
     },
     {
+      "name": "David and Carol Marcus, Creators",
+      "universesBeyondImage": "https://cards.scryfall.io/normal/front/5/5/55d21155-647e-4892-b349-86b8d4e6d9b9.jpg?1793188281"
+    },
+    {
       "name": "Picard, Steadfast Captain",
       "universesBeyondImage": "https://cards.scryfall.io/normal/front/d/d/ddfbfc4f-eeea-4b49-92c2-3060e2cef830.jpg?1784036694"
+    },
+    {
+      "name": "Dominion Assault Force",
+      "universesBeyondImage": "https://cards.scryfall.io/normal/front/2/8/28a55f63-1cbd-4362-a192-e42a06f44686.jpg?1793363014"
     },
     {
       "name": "Spock, Logical Choice",
@@ -15506,6 +16062,18 @@ const data = {
       "universesBeyondImage": "https://cards.scryfall.io/normal/front/f/b/fb9805a5-eea3-48a8-92b6-7387bb23bc88.jpg?1784036706"
     },
     {
+      "name": "Dr. Joseph M'Benga",
+      "universesBeyondImage": "https://cards.scryfall.io/normal/front/c/2/c27e6865-40ba-406c-9dce-d8a7a9b8035b.jpg?1792508272"
+    },
+    {
+      "name": "Dr. Leonard \"Bones\" McCoy",
+      "universesBeyondImage": "https://cards.scryfall.io/normal/front/d/8/d8593bf7-5248-4f4a-bf8b-9816d2f76c6b.jpg?1793187127"
+    },
+    {
+      "name": "Final Frontier",
+      "universesBeyondImage": "https://cards.scryfall.io/normal/front/3/4/34ea6df3-36e3-42c5-a4ed-a4cd18ec6dd0.jpg?1793013607"
+    },
+    {
       "name": "First Contact",
       "universesBeyondImage": "https://cards.scryfall.io/normal/front/5/4/5407e8f4-0c8e-4e66-9d2f-f22277aa38f4.jpg?1785981580"
     },
@@ -15514,16 +16082,56 @@ const data = {
       "universesBeyondImage": "https://cards.scryfall.io/normal/front/b/c/bc121e37-b01c-4cf3-bd41-19a1cb21caa5.jpg?1784036722"
     },
     {
+      "name": "Andromedan Automatons",
+      "universesBeyondImage": "https://cards.scryfall.io/normal/front/f/c/fc386662-0fe3-432f-85a8-9a06e1274245.jpg?1793361152"
+    },
+    {
+      "name": "Commander Spock",
+      "universesBeyondImage": "https://cards.scryfall.io/normal/front/c/f/cf114392-a38d-4117-aa41-911d6dc1051b.jpg?1792551005"
+    },
+    {
+      "name": "Ghost of Illyria",
+      "universesBeyondImage": "https://cards.scryfall.io/normal/front/9/9/99830058-c97a-4326-8c2f-8658cf8a1561.jpg?1793359367"
+    },
+    {
+      "name": "Join the Collective",
+      "universesBeyondImage": "https://cards.scryfall.io/normal/front/3/8/382e4d2f-7cc9-4229-9147-2d3e4af9063f.jpg?1792507962"
+    },
+    {
       "name": "Benjamin Sisko, Besieged",
       "universesBeyondImage": "https://cards.scryfall.io/normal/front/6/c/6cf853b8-4479-424d-998a-4fc53456c38b.jpg?1784036727"
+    },
+    {
+      "name": "Genesis Device",
+      "universesBeyondImage": "https://cards.scryfall.io/normal/front/6/a/6a5b94ba-ac1f-478e-981f-7dfc31ad02f9.jpg?1793188016"
+    },
+    {
+      "name": "Holo-Engineer",
+      "universesBeyondImage": "https://cards.scryfall.io/normal/front/a/c/acfaf5f3-a4f5-418a-a29a-211b33bf18ee.jpg?1793100831"
     },
     {
       "name": "Tenacious Tosk",
       "universesBeyondImage": "https://cards.scryfall.io/normal/front/4/a/4adec7ae-b6aa-4018-bbc8-7ad378cbb1f8.jpg?1784036732"
     },
     {
+      "name": "Hologram Stalker",
+      "universesBeyondImage": "https://cards.scryfall.io/normal/front/6/b/6bd8a87b-ca7a-4a15-b96f-1a673ee44f3e.jpg?1792668500"
+    },
+    {
       "name": "I'm a Doctor, Not a . . .",
       "universesBeyondImage": "https://cards.scryfall.io/normal/front/c/0/c07979d4-8a58-4cfb-bffa-74e8bd97c7ff.jpg?1785981585"
+    },
+    {
+      "name": "Jadzia Dax, Living Legacy",
+      "universesBeyondImage": "https://cards.scryfall.io/normal/front/b/d/bd342f8b-9072-487d-8a33-b1bb149f1502.jpg?1793013267"
+    },
+    {
+      "name": "Jake Sisko, War Correspondent",
+      "universesBeyondImage": "https://cards.scryfall.io/normal/front/9/e/9e47c6b6-f99b-46be-98a1-92c98416aefe.jpg?1793013276"
+    },
+    {
+      "name": "MACO Strike Team",
+      "universesBeyondImage": "https://cards.scryfall.io/normal/front/9/8/98a38e3f-e5ff-402f-9bcd-a03edc264688.jpg?1793188018"
     },
     {
       "name": "Moopsy",
@@ -15534,20 +16142,80 @@ const data = {
       "universesBeyondImage": "https://cards.scryfall.io/normal/front/f/3/f3c68b20-f202-4d55-bef1-398d96e55c57.jpg?1785981595"
     },
     {
+      "name": "Neelix, Moral Support",
+      "universesBeyondImage": "https://cards.scryfall.io/normal/front/0/9/09c0daa9-9eca-4817-a427-868d1efcfa20.jpg?1793359554"
+    },
+    {
+      "name": "Hologram Janeway",
+      "universesBeyondImage": "https://cards.scryfall.io/normal/front/0/2/02d29047-a7b8-43fb-8b90-b35ba34da5f9.jpg?1793100636"
+    },
+    {
+      "name": "Julian Bashir, Frontier Doctor",
+      "universesBeyondImage": "https://cards.scryfall.io/normal/front/0/3/0301c7fe-2acf-4f7b-9941-fd7e44a81e15.jpg?1793111702"
+    },
+    {
+      "name": "Photosynthetic Physician",
+      "universesBeyondImage": "https://cards.scryfall.io/normal/front/8/8/88b87ddb-fbf8-4e6e-9895-1b30ae5ad63a.jpg?1793361367"
+    },
+    {
+      "name": "Rok-Tahk, Budding Scientist",
+      "universesBeyondImage": "https://cards.scryfall.io/normal/front/7/8/787bd19b-586e-4451-850b-60e0857bada0.jpg?1793273846"
+    },
+    {
+      "name": "Saru, Unthreatened",
+      "universesBeyondImage": "https://cards.scryfall.io/normal/front/4/4/445de44d-8af9-4ea3-b165-9e8eb8939820.jpg?1793187139"
+    },
+    {
       "name": "Saurian Explorer",
       "universesBeyondImage": "https://cards.scryfall.io/normal/front/1/9/197abe5e-cde2-4b29-a10f-d6b789776bfa.jpg?1785981598"
+    },
+    {
+      "name": "Species 8472",
+      "universesBeyondImage": "https://cards.scryfall.io/normal/front/b/3/b3d74723-4c9e-4fe7-8276-05d5f1b7ba0c.jpg?1793273864"
+    },
+    {
+      "name": "Stable Wormhole",
+      "universesBeyondImage": "https://cards.scryfall.io/normal/front/c/6/c6fc3447-55de-4f5d-8d06-8d9e2ff4d5d0.jpg?1793274281"
     },
     {
       "name": "Support Mission",
       "universesBeyondImage": "https://cards.scryfall.io/normal/front/9/e/9e8b404c-6e2a-4966-ac4b-c9981c1c6fee.jpg?1785981605"
     },
     {
+      "name": "Sylvia Tilly, Joy of Discovery",
+      "universesBeyondImage": "https://cards.scryfall.io/normal/front/f/e/fe6e03b5-cd96-430b-9c74-96eca0212a81.jpg?1792989779"
+    },
+    {
       "name": "Syndicate Liquidators",
       "universesBeyondImage": "https://cards.scryfall.io/normal/front/1/8/18bb2edd-8dee-4714-a707-6542b6ebbd53.jpg?1786005573"
     },
     {
+      "name": "Temporal Conqueror",
+      "universesBeyondImage": "https://cards.scryfall.io/normal/front/b/0/b0bb51a7-1ae2-45d0-8be9-5454a3c8f751.jpg?1793361377"
+    },
+    {
+      "name": "Korok, Liberated Rage",
+      "universesBeyondImage": "https://cards.scryfall.io/normal/front/e/b/eb2c613d-2159-4c41-b6f7-0e102fc1a5c5.jpg?1793020858"
+    },
+    {
       "name": "Malfunctioning Holodeck",
       "universesBeyondImage": "https://cards.scryfall.io/normal/front/0/f/0faeffee-bb07-4b9d-8cdd-e9731bbd2396.jpg?1785981349"
+    },
+    {
+      "name": "Test of Courage",
+      "universesBeyondImage": "https://cards.scryfall.io/normal/front/2/9/291b9b6b-54bf-4e71-98f1-cb9301ea0727.jpg?1792668501"
+    },
+    {
+      "name": "U.S.S. Discovery, at Black Alert",
+      "universesBeyondImage": "https://cards.scryfall.io/normal/front/6/9/69b1f87f-ff02-4945-9f07-18dab5035e2d.jpg?1792508275"
+    },
+    {
+      "name": "U.S.S. Voyager, Lone Wanderer",
+      "universesBeyondImage": "https://cards.scryfall.io/normal/front/a/a/aaf8a0b2-c6cb-41cb-913d-7ae1d75e555d.jpg?1793274284"
+    },
+    {
+      "name": "Warp Speed",
+      "universesBeyondImage": "https://cards.scryfall.io/normal/front/f/d/fdb5b940-9f62-47ad-8e80-5996daad0c9b.jpg?1793188026"
     },
     {
       "name": "Xenobotanist",
@@ -15558,12 +16226,176 @@ const data = {
       "universesBeyondImage": "https://cards.scryfall.io/normal/front/8/0/803608aa-ae69-45d2-ae48-f1688d2a6a0d.jpg?1786005515"
     },
     {
+      "name": "All Good Things...",
+      "universesBeyondImage": "https://cards.scryfall.io/normal/front/f/e/fe5dda31-159c-49c7-962e-a04b771256ea.jpg?1792753779"
+    },
+    {
+      "name": "Borg Cube",
+      "universesBeyondImage": "https://cards.scryfall.io/normal/front/e/5/e58f7310-3fd5-48d5-b6b7-a5d3e1808bbc.jpg?1792508285"
+    },
+    {
       "name": "The City on the Edge of Forever",
       "universesBeyondImage": "https://cards.scryfall.io/normal/front/a/a/aac6f64d-d39a-4994-bc70-6b477b2640f8.jpg?1787205815"
     },
     {
+      "name": "Cleveland Booker, Empath",
+      "universesBeyondImage": "https://cards.scryfall.io/normal/front/6/b/6b2e52e2-5cb9-4360-92d6-5c0d9e435d09.jpg?1792508285"
+    },
+    {
+      "name": "Martok, Hero of the Empire",
+      "universesBeyondImage": "https://cards.scryfall.io/normal/front/a/8/a82df31f-aa4a-4356-ad20-d9642a76e7c0.jpg?1793196879"
+    },
+    {
+      "name": "The Measure of a Man",
+      "universesBeyondImage": "https://cards.scryfall.io/normal/front/e/9/e9e6b01d-7eb5-4632-9d51-0012b58006da.jpg?1793101356"
+    },
+    {
+      "name": "Constable Odo",
+      "universesBeyondImage": "https://cards.scryfall.io/normal/front/3/d/3df582e4-3bfb-4413-9b39-898f33a5c1fd.jpg?1792508297"
+    },
+    {
+      "name": "Dal R'El, Augment Orphan",
+      "universesBeyondImage": "https://cards.scryfall.io/normal/front/0/d/0da52d3a-dd83-4662-8e6d-3f4d4d389c3d.jpg?1792508298"
+    },
+    {
+      "name": "Daniels, Temporal Agent",
+      "universesBeyondImage": "https://cards.scryfall.io/normal/front/b/6/b64dd792-7dc7-4d22-9776-9b9e25e1173d.jpg?1792508309"
+    },
+    {
+      "name": "Dathon, His Heart Open",
+      "universesBeyondImage": "https://cards.scryfall.io/normal/front/f/2/f2fe4663-eaaf-42c3-90f9-07e68129352c.jpg?1793187171"
+    },
+    {
+      "name": "The Doctor, EMH",
+      "universesBeyondImage": "https://cards.scryfall.io/normal/front/8/f/8fbad0dd-5f74-40c0-9e3e-c06be8eabb14.jpg?1792508313"
+    },
+    {
+      "name": "The Duras Sisters",
+      "universesBeyondImage": "https://cards.scryfall.io/normal/front/7/e/7eb112eb-2abf-4ba3-b9bd-b45ffa80f7eb.jpg?1792508321"
+    },
+    {
+      "name": "D'Vana Tendi, Optimistic Ensign",
+      "universesBeyondImage": "https://cards.scryfall.io/normal/front/2/0/206239ca-341a-4f07-8149-a24ccf20ee45.jpg?1792508323"
+    },
+    {
+      "name": "Gowron, Eager for Battle",
+      "universesBeyondImage": "https://cards.scryfall.io/normal/front/d/6/d60613c2-5655-4051-babd-fc0f3a73fc77.jpg?1792508332"
+    },
+    {
+      "name": "Gray and Adira, Forever Joined",
+      "universesBeyondImage": "https://cards.scryfall.io/normal/front/e/e/eede6822-c8bc-4344-81a9-bc608245d5b6.jpg?1792508333"
+    },
+    {
+      "name": "Hemmer, Fixing What Is Broken",
+      "universesBeyondImage": "https://cards.scryfall.io/normal/front/f/3/f3e730d7-3fd1-4bd2-a35b-6fb85bfd3c65.jpg?1792550956"
+    },
+    {
+      "name": "Maturation Chamber",
+      "universesBeyondImage": "https://cards.scryfall.io/normal/front/5/4/541f6458-1d63-49c7-91a5-b4b3dcf80da3.jpg?1793020870"
+    },
+    {
+      "name": "Miles O'Brien, Transporter Ops",
+      "universesBeyondImage": "https://cards.scryfall.io/normal/front/e/4/e4f041b3-e785-45ba-9a7e-33878614d3b0.jpg?1793361164"
+    },
+    {
+      "name": "Hit It!",
+      "universesBeyondImage": "https://cards.scryfall.io/normal/front/6/2/6266506f-fabf-4b53-8f93-6e2115a3e5a4.jpg?1793146963"
+    },
+    {
+      "name": "The Inner Light",
+      "universesBeyondImage": "https://cards.scryfall.io/normal/front/a/f/af92a773-b237-4cd8-b50d-4f7c3b9290ed.jpg?1792753772"
+    },
+    {
+      "name": "Kira Nerys, Firebrand",
+      "universesBeyondImage": "https://cards.scryfall.io/normal/front/8/1/81ad6427-e730-47c9-8310-6d3ca4b10c82.jpg?1793013295"
+    },
+    {
+      "name": "Kirk, Commanding Officer",
+      "universesBeyondImage": "https://cards.scryfall.io/normal/front/2/4/245d0430-0967-44f1-8c59-985104a8db30.jpg?1792508356"
+    },
+    {
+      "name": "Live Long and Prosper",
+      "universesBeyondImage": "https://cards.scryfall.io/normal/front/0/f/0fc50ffc-3b4d-4fb3-898f-c308a63eb6e9.jpg?1792508356"
+    },
+    {
+      "name": "Locutus, the One Who Speaks",
+      "universesBeyondImage": "https://cards.scryfall.io/normal/front/2/9/296f1127-14a0-42c4-9e4a-c0d929720748.jpg?1792508366"
+    },
+    {
+      "name": "Lore, Positronic Provocateur",
+      "universesBeyondImage": "https://cards.scryfall.io/normal/front/6/2/62afa55d-d4ba-48d5-9991-0f8408f9c92c.jpg?1792508378"
+    },
+    {
+      "name": "L'Rell, Fierce Visionary",
+      "universesBeyondImage": "https://cards.scryfall.io/normal/front/7/b/7b06bbb9-7c6d-4889-b55a-1de77c27fd18.jpg?1792508377"
+    },
+    {
+      "name": "Mirror Universe Intrusion",
+      "universesBeyondImage": "https://cards.scryfall.io/normal/front/3/5/3507f99b-15fb-4f66-9484-8e8115e7f5de.jpg?1792668526"
+    },
+    {
+      "name": "Nog, Ambitious Cadet",
+      "universesBeyondImage": "https://cards.scryfall.io/normal/front/b/5/b513dd60-8573-467b-9c6a-855a0ba86fca.jpg?1793101384"
+    },
+    {
+      "name": "Merciful Mandate",
+      "universesBeyondImage": "https://cards.scryfall.io/normal/front/3/0/30bfd653-fd11-415e-906d-b005edd3b811.jpg?1793196885"
+    },
+    {
+      "name": "The Needs of the Many",
+      "universesBeyondImage": "https://cards.scryfall.io/normal/front/c/7/c779279f-681b-4107-b62c-5202c544d3e8.jpg?1793187981"
+    },
+    {
+      "name": "Phlox, Unorthodox Doctor",
+      "universesBeyondImage": "https://cards.scryfall.io/normal/front/2/6/2695e76e-c27d-49fc-9ef2-d9eaff449f3d.jpg?1792508387"
+    },
+    {
+      "name": "Sarek, Federation Ambassador",
+      "universesBeyondImage": "https://cards.scryfall.io/normal/front/9/4/94ad9063-9663-49d8-b7ba-05be865bd20a.jpg?1793273885"
+    },
+    {
       "name": "Seven of Nine",
-      "universesBeyondImage": "https://cards.scryfall.io/normal/front/6/2/6204cfdb-6fb4-4030-96b6-9306c8266bcf.jpg?1784036800"
+      "universesBeyondImage": "https://cards.scryfall.io/normal/front/6/2/6204cfdb-6fb4-4030-96b6-9306c8266bcf.jpg?1793538768"
+    },
+    {
+      "name": "Spock, Always Your Friend",
+      "universesBeyondImage": "https://cards.scryfall.io/normal/front/1/b/1be731d5-8b21-4883-91c0-dd9070b1eadd.jpg?1792508391"
+    },
+    {
+      "name": "The Traveler",
+      "universesBeyondImage": "https://cards.scryfall.io/normal/front/1/7/171932ba-26da-48e9-b8a2-c71aafe5c6a6.jpg?1792508396"
+    },
+    {
+      "name": "Vash, Freelance Archaeologist",
+      "universesBeyondImage": "https://cards.scryfall.io/normal/front/d/1/d1f51765-f336-4ca2-a0f5-e42dc352c0fa.jpg?1792508403"
+    },
+    {
+      "name": "Worf, Honor-Bound Warrior",
+      "universesBeyondImage": "https://cards.scryfall.io/normal/front/b/2/b2d1955f-e834-4157-a139-9b6ec94bcd2a.jpg?1792508408"
+    },
+    {
+      "name": "Year of Hell",
+      "universesBeyondImage": "https://cards.scryfall.io/normal/front/4/a/4ab931e9-fb07-4da2-a0d9-acfec2ac9e19.jpg?1792753960"
+    },
+    {
+      "name": "Zero, Incorporeal Sensate",
+      "universesBeyondImage": "https://cards.scryfall.io/normal/front/9/3/93f616fe-6906-4e5d-b9fe-b432cccdb0ec.jpg?1792508418"
+    },
+    {
+      "name": "Class-F Shuttlecraft",
+      "universesBeyondImage": "https://cards.scryfall.io/normal/front/5/5/55e0a183-4145-472f-8bed-a1f247febe06.jpg?1793361394"
+    },
+    {
+      "name": "M'Ress, Crew Coordinator",
+      "universesBeyondImage": "https://cards.scryfall.io/normal/front/8/7/870e5f5c-502e-42d8-92cb-827ea09a83f4.jpg?1793281169"
+    },
+    {
+      "name": "Oberth-Class Starship",
+      "universesBeyondImage": "https://cards.scryfall.io/normal/front/7/e/7efe3788-ecf7-4b56-8970-bc324092941c.jpg?1793361187"
+    },
+    {
+      "name": "Combadge",
+      "universesBeyondImage": "https://cards.scryfall.io/normal/front/8/b/8bcf6bb5-f689-4d61-8f69-3290eeab539d.jpg?1793359559"
     },
     {
       "name": "Crystalline Entity",
@@ -15574,32 +16406,336 @@ const data = {
       "universesBeyondImage": "https://cards.scryfall.io/normal/front/b/1/b147f16e-a2d6-4d43-9213-9a2723b0d3ef.jpg?1786005495"
     },
     {
+      "name": "Deep Space 9",
+      "universesBeyondImage": "https://cards.scryfall.io/normal/front/7/6/76b039c5-e0a1-410a-954b-52f304e31f7f.jpg?1792508419"
+    },
+    {
+      "name": "The Holodeck",
+      "universesBeyondImage": "https://cards.scryfall.io/normal/front/5/7/57e830f5-564d-4899-87c0-74192c561fc8.jpg?1792508432"
+    },
+    {
+      "name": "Isolinear Processor",
+      "universesBeyondImage": "https://cards.scryfall.io/normal/front/8/c/8c1a2c13-5e36-4707-9d90-18c2e58a2b26.jpg?1793273907"
+    },
+    {
+      "name": "Replicator",
+      "universesBeyondImage": "https://cards.scryfall.io/normal/front/a/e/ae846f45-d87b-47d4-87f6-2d9aa19c3c40.jpg?1792508444"
+    },
+    {
+      "name": "Sickbay",
+      "universesBeyondImage": "https://cards.scryfall.io/normal/front/0/5/05735357-3cca-42be-a3ae-5b4fc1fd5f47.jpg?1793359572"
+    },
+    {
+      "name": "Tea, Earl Grey, Hot",
+      "universesBeyondImage": "https://cards.scryfall.io/normal/front/2/8/289e8ebe-ab0f-466b-a4e6-d5cf8411e724.jpg?1793361401"
+    },
+    {
+      "name": "Peace in Our Time",
+      "universesBeyondImage": "https://cards.scryfall.io/normal/front/9/d/9dd522dd-a894-496e-9d31-68583dba7ecc.jpg?1792508151"
+    },
+    {
+      "name": "Right of Vengeance",
+      "universesBeyondImage": "https://cards.scryfall.io/normal/front/6/9/695c6c58-0301-4c79-a1a2-75b130ad7527.jpg?1793197505"
+    },
+    {
+      "name": "Tricorder",
+      "universesBeyondImage": "https://cards.scryfall.io/normal/front/3/c/3c872f02-80ac-49e3-a777-3526d35ad7cc.jpg?1792508457"
+    },
+    {
+      "name": "Type-2 Phaser",
+      "universesBeyondImage": "https://cards.scryfall.io/normal/front/c/7/c704af22-7c42-45c7-b3a4-b414c4dd8e05.jpg?1792757435"
+    },
+    {
+      "name": "U.S.S. Cerritos, Following Up",
+      "universesBeyondImage": "https://cards.scryfall.io/normal/front/7/6/76bf7521-5024-4fdc-9ea1-5e10f2647efb.jpg?1793361418"
+    },
+    {
       "name": "U.S.S. Enterprise-D, Galaxy-Class",
       "universesBeyondImage": "https://cards.scryfall.io/normal/front/0/5/057a4413-6a17-491e-bfd7-6cd427b1a442.jpg?1784078038"
+    },
+    {
+      "name": "Warp Core",
+      "universesBeyondImage": "https://cards.scryfall.io/normal/front/d/e/de8e2bde-b368-4d10-8409-86f5da6997f6.jpg?1793361423"
+    },
+    {
+      "name": "Andoria",
+      "universesBeyondImage": "https://cards.scryfall.io/normal/front/0/e/0e9e72ef-3e34-4d19-aec0-b5e1ba84d244.jpg?1792632926"
+    },
+    {
+      "name": "Artificial Anomaly",
+      "universesBeyondImage": "https://cards.scryfall.io/normal/front/7/d/7dfead74-0625-4f6a-b66b-6d5d363a387c.jpg?1793273918"
+    },
+    {
+      "name": "Bajor",
+      "universesBeyondImage": "https://cards.scryfall.io/normal/front/f/f/ff5254a6-4961-4604-b65b-2eb0ce9b1c82.jpg?1792632930"
+    },
+    {
+      "name": "Pet Sehlat",
+      "universesBeyondImage": "https://cards.scryfall.io/normal/front/4/7/477a6a46-7fda-4666-87d9-a35c953dd94d.jpg?1793361200"
+    },
+    {
+      "name": "Shuttlecraft Galileo",
+      "universesBeyondImage": "https://cards.scryfall.io/normal/front/a/4/a4242f45-75c1-4b23-9174-bd0fe70fa039.jpg?1793281180"
+    },
+    {
+      "name": "Cardassia Prime",
+      "universesBeyondImage": "https://cards.scryfall.io/normal/front/d/6/d634424f-9148-46a5-95e3-4965a9226bb4.jpg?1792632933"
+    },
+    {
+      "name": "Earth, Sector 001",
+      "universesBeyondImage": "https://cards.scryfall.io/normal/front/5/2/5278d354-97c4-4c21-a902-2f9252b151eb.jpg?1792632943"
+    },
+    {
+      "name": "Federation Outpost",
+      "universesBeyondImage": "https://cards.scryfall.io/normal/front/0/2/02e368bd-ece8-4201-8d1a-4c5287d5cfee.jpg?1792632946"
+    },
+    {
+      "name": "Ferenginar",
+      "universesBeyondImage": "https://cards.scryfall.io/normal/front/1/7/17fab75f-7ff9-4c50-a6f7-03a85cd275bf.jpg?1792632949"
+    },
+    {
+      "name": "Gaseous Anomaly",
+      "universesBeyondImage": "https://cards.scryfall.io/normal/front/e/6/e6974579-7e88-4d7f-9b05-93d08167cb17.jpg?1793361441"
+    },
+    {
+      "name": "Ni'Var Science Academy",
+      "universesBeyondImage": "https://cards.scryfall.io/normal/front/a/7/a785dcd0-2df5-4d31-a01a-61fa7a1f1806.jpg?1793273928"
+    },
+    {
+      "name": "Orion",
+      "universesBeyondImage": "https://cards.scryfall.io/normal/front/d/e/dec37ff4-d6e9-4b87-865b-125b17162465.jpg?1792632952"
     },
     {
       "name": "Picard, Leading by Example",
       "universesBeyondImage": "https://cards.scryfall.io/normal/front/f/9/f9fa20c5-f241-4da2-9c99-c9b650095d74.jpg?1785981358"
     },
     {
+      "name": "Spot, Felis catus",
+      "universesBeyondImage": "https://cards.scryfall.io/normal/front/c/c/ccdc8c1a-68ba-4498-a336-13676d8de107.jpg?1792508380"
+    },
+    {
+      "name": "Q Continuum",
+      "universesBeyondImage": "https://cards.scryfall.io/normal/front/c/d/cd424080-e8ad-4a56-a820-20d8534fba31.jpg?1793447127"
+    },
+    {
+      "name": "Qo'noS",
+      "universesBeyondImage": "https://cards.scryfall.io/normal/front/f/1/f1558d93-8a8a-45e0-bcdc-e6cd42f716dc.jpg?1792632963"
+    },
+    {
+      "name": "Quark's Bar",
+      "universesBeyondImage": "https://cards.scryfall.io/normal/front/8/4/8422ee4a-9845-429d-bda8-74852168dcba.jpg?1792632965"
+    },
+    {
+      "name": "Risa",
+      "universesBeyondImage": "https://cards.scryfall.io/normal/front/c/8/c89e7680-9868-4fea-9aaf-6af03bfa0692.jpg?1792632968"
+    },
+    {
+      "name": "Romulus",
+      "universesBeyondImage": "https://cards.scryfall.io/normal/front/1/b/1bce111b-b07c-4589-9b6d-f0b5f320808c.jpg?1792632971"
+    },
+    {
+      "name": "Spatial Anomaly",
+      "universesBeyondImage": "https://cards.scryfall.io/normal/front/2/f/2f683f37-4291-410d-b179-ed6139c06877.jpg?1793108360"
+    },
+    {
+      "name": "Starfleet Academy",
+      "universesBeyondImage": "https://cards.scryfall.io/normal/front/2/d/2da8d3bf-4397-4844-90d6-dd888becc804.jpg?1792508542"
+    },
+    {
+      "name": "Antagonist Incorporator",
+      "universesBeyondImage": "https://cards.scryfall.io/normal/front/6/3/63918e59-0c03-4d98-9216-e58ee157b7ea.jpg?1792668297"
+    },
+    {
+      "name": "Jean-Luc Picard, Luminary",
+      "universesBeyondImage": "https://cards.scryfall.io/normal/front/9/0/901eaed9-dbea-4a31-87b0-e17e9bcabfed.jpg?1792507924"
+    },
+    {
+      "name": "Primary Unimatrix Adjunct",
+      "universesBeyondImage": "https://cards.scryfall.io/normal/front/b/9/b94a582c-11bb-4463-a826-bd0c79366752.jpg?1792753859"
+    },
+    {
+      "name": "Stratagem Emulator",
+      "universesBeyondImage": "https://cards.scryfall.io/normal/front/9/8/981128b4-acc5-408c-b21b-7133b6c60cc6.jpg?1793020872"
+    },
+    {
+      "name": "Subspace Anomaly",
+      "universesBeyondImage": "https://cards.scryfall.io/normal/front/e/d/ed62600f-84ae-421e-970a-fd0682c8f280.jpg?1793108348"
+    },
+    {
+      "name": "Temporal Anomaly",
+      "universesBeyondImage": "https://cards.scryfall.io/normal/front/d/2/d2000219-0a57-48e6-ab0f-d5ad0fb7bcf6.jpg?1793361445"
+    },
+    {
+      "name": "Unexplored Territory",
+      "universesBeyondImage": "https://cards.scryfall.io/normal/front/c/a/ca1e60f1-11a9-4bb8-9f6e-5b652b49c517.jpg?1793361459"
+    },
+    {
+      "name": "The Unicomplex",
+      "universesBeyondImage": "https://cards.scryfall.io/normal/front/4/c/4c881efb-d55b-45fe-9e5a-8a61aec6fbbb.jpg?1792632978"
+    },
+    {
+      "name": "Vulcan",
+      "universesBeyondImage": "https://cards.scryfall.io/normal/front/f/c/fc3fe0da-8d93-4f1c-9aad-c2fdc9fe34fc.jpg?1792632981"
+    },
+    {
+      "name": "Pure Energy",
+      "universesBeyondImage": "https://cards.scryfall.io/normal/front/2/1/215709a8-044f-4fdb-b3ca-bd5a394b2a0f.jpg?1793361211"
+    },
+    {
+      "name": "Supplementation Node",
+      "universesBeyondImage": "https://cards.scryfall.io/normal/front/6/b/6bef9fb1-444a-42f4-940a-d49899c56c27.jpg?1793020896"
+    },
+    {
+      "name": "Rutherford, Upgraded Ensign",
+      "universesBeyondImage": "https://cards.scryfall.io/normal/front/1/6/16a4d8ed-a918-4dfe-9976-0b68adb26afa.jpg?1792753861"
+    },
+    {
+      "name": "Tribble Cluster",
+      "universesBeyondImage": "https://cards.scryfall.io/normal/front/f/0/f00ed9b5-a8dc-4774-af85-ea6be45ac9f3.jpg?1793281181"
+    },
+    {
       "name": "Saavik, Stoic Student",
       "universesBeyondImage": "https://cards.scryfall.io/normal/front/3/7/3783c530-a2da-4dc1-811a-0a9a412c8e78.jpg?1785981363"
+    },
+    {
+      "name": "Type-03 Borg Vessel",
+      "universesBeyondImage": "https://cards.scryfall.io/normal/front/c/9/c91ec9e3-abd5-4c23-b342-0c6a12cc970a.jpg?1793020884"
     },
     {
       "name": "Set Phasers to . . .",
       "universesBeyondImage": "https://cards.scryfall.io/normal/front/5/4/54dbf416-973d-46c8-b9be-e863283d328b.jpg?1784036750"
     },
     {
+      "name": "U.S.S. Enterprise-E, Sovereign",
+      "universesBeyondImage": "https://cards.scryfall.io/normal/front/1/5/15e74da6-477c-4ab3-8b91-40f4b2d22f94.jpg?1793111707"
+    },
+    {
+      "name": "Ambulatory Reactor",
+      "universesBeyondImage": "https://cards.scryfall.io/normal/front/9/a/9a81140d-9279-4ca5-be68-ec990cf541a6.jpg?1793020895"
+    },
+    {
       "name": "Shields Up!",
       "universesBeyondImage": "https://cards.scryfall.io/normal/front/0/b/0b60c9af-8ea9-491d-a4a4-226a2143e7f3.jpg?1785981369"
+    },
+    {
+      "name": "Borg Scout Sphere",
+      "universesBeyondImage": "https://cards.scryfall.io/normal/front/0/8/0813b13e-06a3-403b-ac00-6d6edd74935d.jpg?1793020906"
     },
     {
       "name": "Shuttle Ace",
       "universesBeyondImage": "https://cards.scryfall.io/normal/front/5/5/559f838a-24ac-4f18-8c40-23cfde6f65cc.jpg?1786005528"
     },
     {
+      "name": "Chief Miles O'Brien",
+      "universesBeyondImage": "https://cards.scryfall.io/normal/front/f/8/f8d20229-bae2-4130-8a93-302d2ad5eef0.jpg?1793111714"
+    },
+    {
+      "name": "Sulu, Space Swashbuckler",
+      "universesBeyondImage": "https://cards.scryfall.io/normal/front/9/b/9b16f967-4bc5-4508-8433-b46323ce2e71.jpg?1793101366"
+    },
+    {
+      "name": "Colossal Clone Master",
+      "universesBeyondImage": "https://cards.scryfall.io/normal/front/1/e/1eadfff4-1e89-4ff2-a91c-d45389b80d69.jpg?1793281192"
+    },
+    {
       "name": "Tactical Officer",
       "universesBeyondImage": "https://cards.scryfall.io/normal/front/3/1/317704a8-a3c2-400c-bbe0-2cbc6fe10710.jpg?1785981383"
+    },
+    {
+      "name": "Co-Option Adjutant",
+      "universesBeyondImage": "https://cards.scryfall.io/normal/front/c/d/cdb88301-f421-4411-be3a-bdfc83906c17.jpg?1793020914"
+    },
+    {
+      "name": "Test of Conviction",
+      "universesBeyondImage": "https://cards.scryfall.io/normal/front/8/3/837d7cec-f3f8-4555-86f2-c5ea1849d7d1.jpg?1792668317"
+    },
+    {
+      "name": "Assembly Specialist",
+      "universesBeyondImage": "https://cards.scryfall.io/normal/front/a/4/a4d339a5-198c-49bd-845e-2632476746e0.jpg?1793100612"
+    },
+    {
+      "name": "Worf, Defiant Commander",
+      "universesBeyondImage": "https://cards.scryfall.io/normal/front/d/a/da030114-a4ee-46d7-a6fd-6c0d8e779bcf.jpg?1792507927"
+    },
+    {
+      "name": "Data, Exploring Humanity",
+      "universesBeyondImage": "https://cards.scryfall.io/normal/front/2/c/2c769fc2-b234-4bb2-aac0-1373e6ad07d3.jpg?1793111717"
+    },
+    {
+      "name": "There's Coffee in that Nebula",
+      "universesBeyondImage": "https://cards.scryfall.io/normal/front/8/d/8dd7e0c6-84f6-4570-af93-4c64e78c2868.jpg?1792668331"
+    },
+    {
+      "name": "Fleet Captain Christopher Pike",
+      "universesBeyondImage": "https://cards.scryfall.io/normal/front/5/9/5991e424-e91f-4b6d-b6bb-17dbc1cec67e.jpg?1793281193"
+    },
+    {
+      "name": "Troubling Tribbles",
+      "universesBeyondImage": "https://cards.scryfall.io/normal/front/0/a/0af3e535-83e6-422b-85c5-39d830cb072c.jpg?1792508160"
+    },
+    {
+      "name": "Geordi La Forge, Innovator",
+      "universesBeyondImage": "https://cards.scryfall.io/normal/front/b/4/b45ddbca-b89d-4552-b870-839aa281e113.jpg?1792940969"
+    },
+    {
+      "name": "Una Chin-Riley, Number One",
+      "universesBeyondImage": "https://cards.scryfall.io/normal/front/5/5/5585c90d-3fe7-41f4-9728-36b9410ecc53.jpg?1792668590"
+    },
+    {
+      "name": "Giant Space Amoeba",
+      "universesBeyondImage": "https://cards.scryfall.io/normal/front/9/2/92791a77-c508-4411-8d5d-abc5c9f881a2.jpg?1793281203"
+    },
+    {
+      "name": "U.S.S. Enterprise-A, Free Spirit",
+      "universesBeyondImage": "https://cards.scryfall.io/normal/front/9/9/99429015-6e5d-4ecf-aaf7-eba181bcffc7.jpg?1792508162"
+    },
+    {
+      "name": "Gift of Perfection",
+      "universesBeyondImage": "https://cards.scryfall.io/normal/front/7/5/7589eda0-0a0b-4372-9cee-ea379d6a6f61.jpg?1793020918"
+    },
+    {
+      "name": "U.S.S. Excelsior, Cutting Edge",
+      "universesBeyondImage": "https://cards.scryfall.io/normal/front/d/e/de62b452-3780-4eeb-8163-f44176495615.jpg?1793100663"
+    },
+    {
+      "name": "Kes, Evolving Telepath",
+      "universesBeyondImage": "https://cards.scryfall.io/normal/front/2/8/282b02ed-9bfb-4490-947f-f0cc10d50b7f.jpg?1793111727"
+    },
+    {
+      "name": "Vexing Drone",
+      "universesBeyondImage": "https://cards.scryfall.io/normal/front/6/f/6f4b2476-8f93-4d4e-b664-233e82fcf212.jpg?1793361221"
+    },
+    {
+      "name": "Anthropological Mission",
+      "universesBeyondImage": "https://cards.scryfall.io/normal/front/9/3/93b458aa-a928-48ef-b685-1306cc65ad06.jpg?1793012962"
+    },
+    {
+      "name": "Lieutenant Nyota Uhura",
+      "universesBeyondImage": "https://cards.scryfall.io/normal/front/4/f/4f932b20-3f3e-4f59-ab82-46733e3f54b9.jpg?1793281206"
+    },
+    {
+      "name": "On the Shoulders of Giants",
+      "universesBeyondImage": "https://cards.scryfall.io/normal/front/7/1/71807912-94e7-4ebd-91ca-d0b00dceae9c.jpg?1793111729"
+    },
+    {
+      "name": "The Caretaker",
+      "universesBeyondImage": "https://cards.scryfall.io/normal/front/e/c/ec6a1967-78fc-4ef4-9816-6d9a9dde61fb.jpg?1793538731"
+    },
+    {
+      "name": "Cetacean Ops",
+      "universesBeyondImage": "https://cards.scryfall.io/normal/front/a/8/a8dc7ecd-e6f0-4050-9d5b-8436f60a1395.jpg?1793361231"
+    },
+    {
+      "name": "Optimization Annex",
+      "universesBeyondImage": "https://cards.scryfall.io/normal/front/6/8/68024cc0-7728-470f-86d3-3440724717f3.jpg?1793020929"
+    },
+    {
+      "name": "Cloak and Phaser",
+      "universesBeyondImage": "https://cards.scryfall.io/normal/front/2/d/2d9fb7e7-582d-41e7-be9e-98372505ea44.jpg?1793187986"
+    },
+    {
+      "name": "Sam Kirk, Xenoanthropologist",
+      "universesBeyondImage": "https://cards.scryfall.io/normal/front/b/2/b2ffe160-1860-41ba-86a5-487211889804.jpg?1793281216"
     },
     {
       "name": "Brad Boimler, Eager Ensign",
@@ -15610,96 +16746,469 @@ const data = {
       "universesBeyondImage": "https://cards.scryfall.io/normal/front/9/5/959318c1-3f7e-4418-91ce-be529af27972.jpg?1785981391"
     },
     {
+      "name": "Seven of Nine, Tertiary Adjunct",
+      "universesBeyondImage": "https://cards.scryfall.io/normal/front/a/a/aa3e71b7-c8f1-4fc2-ab75-36f120763f4a.jpg?1793020929"
+    },
+    {
       "name": "Consider the Prime Directive",
       "universesBeyondImage": "https://cards.scryfall.io/normal/front/4/e/4e8f75b8-cca7-4ed3-90db-bcac02e74611.jpg?1784036751"
+    },
+    {
+      "name": "Temporal Tribulation",
+      "universesBeyondImage": "https://cards.scryfall.io/normal/front/f/b/fb698205-d546-4c69-8594-d9a096b4f92b.jpg?1793156091"
+    },
+    {
+      "name": "Data, New Life",
+      "universesBeyondImage": "https://cards.scryfall.io/normal/front/9/6/96b7e757-c64d-48c8-bd9c-caad5f3c78fb.jpg?1792753877"
+    },
+    {
+      "name": "Transwarp Hub",
+      "universesBeyondImage": "https://cards.scryfall.io/normal/front/6/0/60bcc801-7c0a-449f-a06d-d8b96c1cb42f.jpg?1793020943"
+    },
+    {
+      "name": "Deep Space Scan",
+      "universesBeyondImage": "https://cards.scryfall.io/normal/front/1/5/15ffeda3-28ac-4adf-9844-d7b051aae227.jpg?1792508172"
+    },
+    {
+      "name": "Tuvok, Chief Tactical Officer",
+      "universesBeyondImage": "https://cards.scryfall.io/normal/front/9/a/9af25808-e7a9-42d6-be70-f985dfadc3c3.jpg?1793111741"
     },
     {
       "name": "Dominion Saboteur",
       "universesBeyondImage": "https://cards.scryfall.io/normal/front/2/0/207c4369-220a-4eff-81dc-65872d6fc264.jpg?1785981397"
     },
     {
+      "name": "Võx, Child of the Collective",
+      "universesBeyondImage": "https://cards.scryfall.io/normal/front/4/6/46f7a693-8b99-49e9-866e-01ddb5b54f3e.jpg?1793020941"
+    },
+    {
+      "name": "Assimilate the Wounded",
+      "universesBeyondImage": "https://cards.scryfall.io/normal/front/1/6/16cb0526-7623-4d02-97d4-b87021d5efc4.jpg?1793020952"
+    },
+    {
+      "name": "Emergency Holographic Crew",
+      "universesBeyondImage": "https://cards.scryfall.io/normal/front/5/3/53943948-8f24-495a-b6eb-e788fa169fcd.jpg?1793359393"
+    },
+    {
+      "name": "Assimilation Assessor",
+      "universesBeyondImage": "https://cards.scryfall.io/normal/front/0/d/0d1f1428-a912-4c42-a0bc-4e4cb5bdd1b1.jpg?1793020958"
+    },
+    {
+      "name": "Energize",
+      "universesBeyondImage": "https://cards.scryfall.io/normal/front/2/4/24e72db3-a8d9-4553-92fe-ba6e40c4f62e.jpg?1792668391"
+    },
+    {
+      "name": "Battle of Wolf 359",
+      "universesBeyondImage": "https://cards.scryfall.io/normal/front/f/f/ffbf8948-e427-466d-8216-18025fb2bb6a.jpg?1793020964"
+    },
+    {
+      "name": "Ensign Pavel Chekov",
+      "universesBeyondImage": "https://cards.scryfall.io/normal/front/a/4/a441c12e-1a2f-4b04-83dd-407bf6040efe.jpg?1792753698"
+    },
+    {
+      "name": "Blood-Sport Champion",
+      "universesBeyondImage": "https://cards.scryfall.io/normal/front/6/6/660cee6d-a942-4595-b6cc-7c2053108944.jpg?1793196895"
+    },
+    {
+      "name": "Enterprise NX-01",
+      "universesBeyondImage": "https://cards.scryfall.io/normal/front/3/8/385638fe-cafb-4541-ba37-19bc57520c48.jpg?1793100690"
+    },
+    {
+      "name": "Extraction Integrant",
+      "universesBeyondImage": "https://cards.scryfall.io/normal/front/c/c/cc2d2abf-6f6b-48ee-842c-dfeda8b44b6d.jpg?1793020972"
+    },
+    {
       "name": "Federation Probe",
       "universesBeyondImage": "https://cards.scryfall.io/normal/front/f/9/f988ba84-fc78-41a2-b2f2-eebf78cee591.jpg?1785981405"
+    },
+    {
+      "name": "Captain Benjamin Sisko",
+      "universesBeyondImage": "https://cards.scryfall.io/normal/front/5/1/51338fb2-13a3-41b8-981f-05fa35e87e2e.jpg?1793538714"
     },
     {
       "name": "Guidance Failure",
       "universesBeyondImage": "https://cards.scryfall.io/normal/front/8/6/86b790e6-3c99-4a95-8327-eb90ed9380f2.jpg?1785981409"
     },
     {
+      "name": "Kurn, Son of Mogh",
+      "universesBeyondImage": "https://cards.scryfall.io/normal/front/0/3/03fcc84d-45cc-4894-ab35-6d5a799b21ef.jpg?1793196909"
+    },
+    {
+      "name": "Gwyndala, the Progeny",
+      "universesBeyondImage": "https://cards.scryfall.io/normal/front/a/8/a82f5db5-787e-4e4a-ab3c-4a488c6f4990.jpg?1793187993"
+    },
+    {
+      "name": "The Promise of Kahless",
+      "universesBeyondImage": "https://cards.scryfall.io/normal/front/a/8/a88d16b6-c241-48a4-b35a-c219b4bfd750.jpg?1793196907"
+    },
+    {
       "name": "Highly Illogical",
       "universesBeyondImage": "https://cards.scryfall.io/normal/front/1/1/11c94c5f-abf4-429e-8703-c5db9abd79bf.jpg?1784065440"
+    },
+    {
+      "name": "Reclamation Specialist",
+      "universesBeyondImage": "https://cards.scryfall.io/normal/front/7/a/7a7a48bb-5a47-4210-bb98-ef9208942303.jpg?1793020975"
+    },
+    {
+      "name": "H.M.S. Bounty, Unlikely Timeship",
+      "universesBeyondImage": "https://cards.scryfall.io/normal/front/d/7/d75f0991-39a3-474e-8c01-9b3363c41a9f.jpg?1793013750"
+    },
+    {
+      "name": "Voq, Torchbearer",
+      "universesBeyondImage": "https://cards.scryfall.io/normal/front/0/b/0b4d2344-d615-4982-b656-44419565121a.jpg?1793196920"
     },
     {
       "name": "Hoshi Sato, Exolinguist",
       "universesBeyondImage": "https://cards.scryfall.io/normal/front/2/4/24589f4d-c530-4f6a-b2d0-450ef70fca71.jpg?1784065562"
     },
     {
+      "name": "The Beacon of Kahless",
+      "universesBeyondImage": "https://cards.scryfall.io/normal/front/9/d/9d356fdd-3bbc-418a-8b6d-5410bf7a1138.jpg?1793196998"
+    },
+    {
+      "name": "Ferocious Colonist",
+      "universesBeyondImage": "https://cards.scryfall.io/normal/front/3/c/3cb42c08-b167-40ac-a9be-00630ba31b83.jpg?1793196999"
+    },
+    {
       "name": "Humpback Whales",
       "universesBeyondImage": "https://cards.scryfall.io/normal/front/6/0/605263f0-08b6-4cc7-aba7-eb49850f8832.jpg?1785981416"
     },
     {
+      "name": "Gagh Slinger",
+      "universesBeyondImage": "https://cards.scryfall.io/normal/front/f/a/fadaa56c-5d59-4c4c-bece-9c407cedd05b.jpg?1793197011"
+    },
+    {
+      "name": "Interstellar Effigy",
+      "universesBeyondImage": "https://cards.scryfall.io/normal/front/4/b/4b7d505f-2a6b-4525-87c7-19e06d49c9df.jpg?1793361241"
+    },
+    {
+      "name": "Galvanizing Tenor",
+      "universesBeyondImage": "https://cards.scryfall.io/normal/front/6/7/6727d111-d99b-4027-ad5d-81568e366b6e.jpg?1793197009"
+    },
+    {
+      "name": "Jett Reno, Problem Solver",
+      "universesBeyondImage": "https://cards.scryfall.io/normal/front/6/d/6dc34d44-397a-4dda-a8e3-0c2ff7da110f.jpg?1793511776"
+    },
+    {
+      "name": "Glory to the Empire!",
+      "universesBeyondImage": "https://cards.scryfall.io/normal/front/3/c/3c8cdde8-c05c-41ce-b858-28ba5028738d.jpg?1793197020"
+    },
+    {
+      "name": "Kobayashi Maru Scenario",
+      "universesBeyondImage": "https://cards.scryfall.io/normal/front/c/7/c7fb72cc-1bc6-4774-9798-44824de46c72.jpg?1792508172"
+    },
+    {
+      "name": "Gnarling Targ",
+      "universesBeyondImage": "https://cards.scryfall.io/normal/front/8/8/88d3aa36-0eb2-4b53-8384-9d8f309c4911.jpg?1793197024"
+    },
+    {
+      "name": "Lieutenant Commander Data",
+      "universesBeyondImage": "https://cards.scryfall.io/normal/front/c/6/c6d5da51-6c74-4dd5-a532-cf4c2a7b601c.jpg?1792508182"
+    },
+    {
+      "name": "Captain Jean-Luc Picard",
+      "universesBeyondImage": "https://cards.scryfall.io/normal/front/b/7/b7114271-eb05-41e2-ad96-a34f53492312.jpg?1792508148"
+    },
+    {
+      "name": "Grilka, Widowed Warrior",
+      "universesBeyondImage": "https://cards.scryfall.io/normal/front/6/3/63d3add3-be3f-4ced-85c5-a7d4891b11f5.jpg?1793197377"
+    },
+    {
+      "name": "Lt. Cmdr. Geordi La Forge",
+      "universesBeyondImage": "https://cards.scryfall.io/normal/front/3/a/3a558d82-7efd-49b3-9f7b-ace639b44a35.jpg?1792508185"
+    },
+    {
+      "name": "Kang, Suspicious Captain",
+      "universesBeyondImage": "https://cards.scryfall.io/normal/front/b/1/b1a411f8-f6c2-4a46-861b-a616a9edfb92.jpg?1793197380"
+    },
+    {
+      "name": "Make It So",
+      "universesBeyondImage": "https://cards.scryfall.io/normal/front/7/1/7149df19-4833-47ca-8add-b897f55b930c.jpg?1793013541"
+    },
+    {
+      "name": "Koloth, Tribble Hunter",
+      "universesBeyondImage": "https://cards.scryfall.io/normal/front/3/3/33bfbd68-fc0f-41ce-b033-975fe9ba960a.jpg?1792507974"
+    },
+    {
       "name": "Marooned",
-      "universesBeyondImage": "https://cards.scryfall.io/normal/front/0/8/0820a78e-e392-423c-9d62-ddfda5cb3f03.jpg?1785981422"
+      "universesBeyondImage": "https://cards.scryfall.io/normal/front/0/8/0820a78e-e392-423c-9d62-ddfda5cb3f03.jpg?1793716333"
+    },
+    {
+      "name": "Melkotian Adjudicator",
+      "universesBeyondImage": "https://cards.scryfall.io/normal/front/8/7/873c9933-7939-4376-873c-6a5b3bbc98d4.jpg?1793359395"
+    },
+    {
+      "name": "Own the Day",
+      "universesBeyondImage": "https://cards.scryfall.io/normal/front/5/5/558edfb8-eaf1-4d8e-927c-85a43d2a01d7.jpg?1793197389"
+    },
+    {
+      "name": "Mr. Spock, Science Officer",
+      "universesBeyondImage": "https://cards.scryfall.io/normal/front/d/1/d19fc127-669e-4264-935a-e5991e6c0964.jpg?1792508192"
+    },
+    {
+      "name": "Qo'noS Quartermaster",
+      "universesBeyondImage": "https://cards.scryfall.io/normal/front/b/a/ba1b5338-f73c-4f59-88bc-4f1ea6331171.jpg?1793197391"
+    },
+    {
+      "name": "Nyota Uhura, Communications",
+      "universesBeyondImage": "https://cards.scryfall.io/normal/front/b/0/b04066ef-ad43-4b40-b4ae-5d94f154261f.jpg?1792508198"
+    },
+    {
+      "name": "Ro Laren, Double Agent",
+      "universesBeyondImage": "https://cards.scryfall.io/normal/front/e/3/e3f8d2fa-397f-4a3f-b273-dcc322015743.jpg?1793111753"
     },
     {
       "name": "Open Communications",
       "universesBeyondImage": "https://cards.scryfall.io/normal/front/8/e/8eeec269-13f0-4923-9f13-e995acd73e00.jpg?1786396013"
     },
     {
+      "name": "Rom and Leeta, Unlikely Pair",
+      "universesBeyondImage": "https://cards.scryfall.io/normal/front/2/b/2bba1d93-0904-464b-9797-a0f0f4b05df8.jpg?1793156069"
+    },
+    {
+      "name": "Amanda Grayson, Logic's Link",
+      "universesBeyondImage": "https://cards.scryfall.io/normal/front/a/0/a07593d8-957d-4a85-9672-f3fabf576fd5.jpg?1793281218"
+    },
+    {
+      "name": "Romulan Bird-of-Prey",
+      "universesBeyondImage": "https://cards.scryfall.io/normal/front/6/a/6a461d90-6b7b-4777-958a-8a5d8365ad8c.jpg?1792508202"
+    },
+    {
       "name": "Christine Chapel, Combat Medic",
       "universesBeyondImage": "https://cards.scryfall.io/normal/front/f/2/f2efcab5-3aad-4edd-87d1-289978e8855e.jpg?1786395991"
+    },
+    {
+      "name": "Rules of Acquisition",
+      "universesBeyondImage": "https://cards.scryfall.io/normal/front/3/0/307c36ec-6fa1-4d4b-afcd-c3c83b876ee8.jpg?1793013546"
+    },
+    {
+      "name": "Janice Rand, Essential Aide",
+      "universesBeyondImage": "https://cards.scryfall.io/normal/front/9/2/92925156-ffd3-4f8a-8592-ccbd935ab894.jpg?1793281231"
+    },
+    {
+      "name": "Scotty, Miracle Worker",
+      "universesBeyondImage": "https://cards.scryfall.io/normal/front/4/2/42f77f9e-5e56-45ac-aa93-36353c92bca9.jpg?1793013054"
     },
     {
       "name": "Command Decision",
       "universesBeyondImage": "https://cards.scryfall.io/normal/front/9/f/9f1f789b-5c08-4a4d-b3a3-4d51ad9f1a4d.jpg?1785981318"
     },
     {
+      "name": "Lieutenant Hikaru Sulu",
+      "universesBeyondImage": "https://cards.scryfall.io/normal/front/5/c/5c404561-b2e4-4f27-b1a9-486c05ed5870.jpg?1793282341"
+    },
+    {
+      "name": "Seven of Nine, Unassimilated",
+      "universesBeyondImage": "https://cards.scryfall.io/normal/front/d/d/ddc517bd-27e1-4688-8941-a41c312bd782.jpg?1792508210"
+    },
+    {
+      "name": "Alexander, Ship's Fool",
+      "universesBeyondImage": "https://cards.scryfall.io/normal/front/7/c/7c7d8bbd-7ee3-4e02-9978-403a84c29fe5.jpg?1793197401"
+    },
+    {
+      "name": "Starfleet Spanner Jockey",
+      "universesBeyondImage": "https://cards.scryfall.io/normal/front/1/6/16bc9660-2bef-4926-b0e6-f49b22817bea.jpg?1793361250"
+    },
+    {
+      "name": "B'Elanna Torres, Scrapper",
+      "universesBeyondImage": "https://cards.scryfall.io/normal/front/c/c/cc2287da-495a-4b48-9e4f-43792d3bccbb.jpg?1793111764"
+    },
+    {
+      "name": "Subcommander T'Pol",
+      "universesBeyondImage": "https://cards.scryfall.io/normal/front/7/d/7d90016d-c2cb-457b-9d97-c3b9411c46e3.jpg?1793013074"
+    },
+    {
+      "name": "Suurok-Class Science Vessel",
+      "universesBeyondImage": "https://cards.scryfall.io/normal/front/7/6/7608943e-329e-41f9-b098-a0a94b01e6a1.jpg?1793361260"
+    },
+    {
+      "name": "The Best of Both Worlds",
+      "universesBeyondImage": "https://cards.scryfall.io/normal/front/3/f/3fb0d788-8e6a-4109-bd0a-d245866a6dcb.jpg?1793020988"
+    },
+    {
+      "name": "Captain Janeway, Endgame",
+      "universesBeyondImage": "https://cards.scryfall.io/normal/front/1/f/1fc05320-c8f8-4acd-8bac-86c4156352d2.jpg?1793111765"
+    },
+    {
+      "name": "Suus Mahna Practitioner",
+      "universesBeyondImage": "https://cards.scryfall.io/normal/front/c/b/cb204e41-06a9-4ad2-81f2-a4d62f771cfa.jpg?1793361270"
+    },
+    {
       "name": "Captain Kirk, Boldly Going",
-      "universesBeyondImage": "https://cards.scryfall.io/normal/front/6/b/6b5d9bd2-cc78-4c30-b6ee-65b76c60a588.jpg?1783902729"
+      "universesBeyondImage": "https://cards.scryfall.io/normal/front/6/b/6b5d9bd2-cc78-4c30-b6ee-65b76c60a588.jpg?1793281029"
+    },
+    {
+      "name": "Test of Priorities",
+      "universesBeyondImage": "https://cards.scryfall.io/normal/front/8/9/89e3ec23-e4dc-4d58-aeda-9f73ed4504a5.jpg?1793013095"
+    },
+    {
+      "name": "Chancellor Gorkon",
+      "universesBeyondImage": "https://cards.scryfall.io/normal/front/7/a/7a021b9d-9500-48a0-8d38-92f175340eb6.jpg?1793197402"
+    },
+    {
+      "name": "Those Old Scientists",
+      "universesBeyondImage": "https://cards.scryfall.io/normal/front/4/4/44280b43-b07e-43a4-9ae3-2eac0baeb918.jpg?1792753712"
+    },
+    {
+      "name": "Chief Kyle, Transporter Tech",
+      "universesBeyondImage": "https://cards.scryfall.io/normal/front/7/a/7a310a62-836b-4ed9-99b1-a09c9079ab43.jpg?1793281245"
     },
     {
       "name": "V'Ger, the Intruder",
       "universesBeyondImage": "https://cards.scryfall.io/normal/front/b/0/b082d454-d331-4960-8120-754f107ffa42.jpg?1785981430"
     },
     {
+      "name": "Chief Montgomery Scott",
+      "universesBeyondImage": "https://cards.scryfall.io/normal/front/9/e/9e26096a-88a1-4086-9fa7-7be932b2885c.jpg?1793281250"
+    },
+    {
+      "name": "Vulcan Mind-Meld",
+      "universesBeyondImage": "https://cards.scryfall.io/normal/front/d/d/dd6c0c12-01b8-4f68-9401-7430a7f94bf7.jpg?1793274240"
+    },
+    {
+      "name": "Cmdr. Troi, Outgoing Empath",
+      "universesBeyondImage": "https://cards.scryfall.io/normal/front/7/c/7cc079c8-9c00-439f-9e5d-08e7c8e2c5ed.jpg?1793111777"
+    },
+    {
+      "name": "Wesley Crusher, Starfleet Cadet",
+      "universesBeyondImage": "https://cards.scryfall.io/normal/front/9/5/956eeb71-fd5f-4a26-aff6-77127c0ad4e7.jpg?1793274247"
+    },
+    {
+      "name": "Ambassador K'Ehleyr",
+      "universesBeyondImage": "https://cards.scryfall.io/normal/front/5/2/5241fa80-1af1-4f9b-b2a2-cd94262e6f3d.jpg?1793111668"
+    },
+    {
+      "name": "Command Subadjunct",
+      "universesBeyondImage": "https://cards.scryfall.io/normal/front/8/5/853bf74d-0b61-43df-9018-0b40b624a9d1.jpg?1792753641"
+    },
+    {
+      "name": "Collective Override",
+      "universesBeyondImage": "https://cards.scryfall.io/normal/front/a/1/a16b9be3-5c17-4f63-9355-8fec2ce803e1.jpg?1793020985"
+    },
+    {
+      "name": "Zefram Cochrane, Warp Pioneer",
+      "universesBeyondImage": "https://cards.scryfall.io/normal/front/4/3/43ce2e91-9dce-4e86-a4b8-8d21e4e368ea.jpg?1793013553"
+    },
+    {
+      "name": "Armus, Skin of Evil",
+      "universesBeyondImage": "https://cards.scryfall.io/normal/front/c/3/c3ba1e0d-5e3d-4fa7-9b58-5b90944b43c5.jpg?1793013559"
+    },
+    {
+      "name": "Commander William Riker",
+      "universesBeyondImage": "https://cards.scryfall.io/normal/front/2/b/2b78058a-8434-4b0a-9c69-56c9bcdda65a.jpg?1793111778"
+    },
+    {
       "name": "Assault Drone",
       "universesBeyondImage": "https://cards.scryfall.io/normal/front/5/c/5ca2da7a-afbf-4b32-8ff6-ae899b9f70ad.jpg?1785981435"
+    },
+    {
+      "name": "Curzon Dax, Bound by Blood",
+      "universesBeyondImage": "https://cards.scryfall.io/normal/front/c/b/cb369f4f-e20a-479d-8e35-8466b05375f7.jpg?1793197414"
     },
     {
       "name": "Automated Warfare System",
       "universesBeyondImage": "https://cards.scryfall.io/normal/front/3/d/3deae89b-b207-487b-9e82-1fa7fcd7854b.jpg?1785981442"
     },
     {
+      "name": "Deliver from Chaos",
+      "universesBeyondImage": "https://cards.scryfall.io/normal/front/b/e/be626968-2f2d-4126-b686-f1567f1ca0dc.jpg?1793020997"
+    },
+    {
       "name": "Bat'leth",
       "universesBeyondImage": "https://cards.scryfall.io/normal/front/8/8/888e6e0f-43c3-4516-88ff-8a8d814478d4.jpg?1785981448"
+    },
+    {
+      "name": "Hugh, First of Many",
+      "universesBeyondImage": "https://cards.scryfall.io/normal/front/7/4/7430065e-eebe-42fa-a2c9-639e4bc1b48d.jpg?1793021005"
     },
     {
       "name": "Battle-Scarred Survivalist",
       "universesBeyondImage": "https://cards.scryfall.io/normal/front/c/5/c567253e-a2ee-45de-b3c6-3aeafbf8237b.jpg?1785981454"
     },
     {
+      "name": "Jurati, Cordial Queen",
+      "universesBeyondImage": "https://cards.scryfall.io/normal/front/8/9/8983cc30-d377-4c02-bc53-74e84b41513c.jpg?1793021010"
+    },
+    {
+      "name": "Blastoneuron",
+      "universesBeyondImage": "https://cards.scryfall.io/normal/front/c/1/c1855a4c-c7d1-407c-b134-4c43968cbdd3.jpg?1792753729"
+    },
+    {
+      "name": "Kor, Cause of Vengeance",
+      "universesBeyondImage": "https://cards.scryfall.io/normal/front/9/e/9e4364a4-6dac-4eea-be75-9f8ce1b3e334.jpg?1793197412"
+    },
+    {
       "name": "Cha'DIch Investigator",
       "universesBeyondImage": "https://cards.scryfall.io/normal/front/1/6/16281200-4660-4871-afd2-d4720e6a3197.jpg?1785981461"
+    },
+    {
+      "name": "Locutus of Borg",
+      "universesBeyondImage": "https://cards.scryfall.io/normal/front/1/b/1b2e5971-d31c-4f6d-9bee-4b13a402e798.jpg?1792507972"
+    },
+    {
+      "name": "Collation Trimatrix",
+      "universesBeyondImage": "https://cards.scryfall.io/normal/front/9/2/92c19351-0592-4269-90f4-2475d5529400.jpg?1793359423"
+    },
+    {
+      "name": "Lt. Arex, Ever-Adapting",
+      "universesBeyondImage": "https://cards.scryfall.io/normal/front/1/6/16787d1c-3a1c-4c72-a986-9cea0371fd75.jpg?1793281261"
     },
     {
       "name": "Collective Drone",
       "universesBeyondImage": "https://cards.scryfall.io/normal/front/6/5/65b74daa-4606-4118-9752-b0dcd7a3f486.jpg?1785981469"
     },
     {
+      "name": "McCoy, Not a Bricklayer",
+      "universesBeyondImage": "https://cards.scryfall.io/normal/front/b/1/b19d93bc-dfa9-466c-9ebb-44e28ac3d8ff.jpg?1793281264"
+    },
+    {
+      "name": "Hela, Mistress of Darkness // Dark Tutor",
+      "universesBeyondImage": "https://cards.scryfall.io/normal/front/7/7/7750d4bb-0463-43fd-bdf3-a14271cace20.jpg?1791578367"
+    },
+    {
+      "name": "Hela's Arcanum",
+      "universesBeyondImage": "https://cards.scryfall.io/normal/front/7/3/738f0bc9-075c-45de-a1c3-7509b8bdb55b.jpg?1791578373"
+    },
+    {
       "name": "Giant",
       "universesBeyondImage": "https://cards.scryfall.io/normal/front/0/6/0689b1b8-84be-4cc8-be4b-4461fefa885b.jpg?1791637288"
+    },
+    {
+      "name": "Rise from the Nether",
+      "universesBeyondImage": "https://cards.scryfall.io/normal/front/b/c/bccc5d74-f9bf-4a75-9a45-e2a32f5651f1.jpg?1791578381"
+    },
+    {
+      "name": "Magik, Illyana Rasputin // Darkchild, Demon Uncaged",
+      "universesBeyondImage": "https://cards.scryfall.io/normal/front/6/0/60e252e3-88ea-49f2-a14f-ae9d0712bafe.jpg?1791578412",
+      "universesBeyondBackImage": "https://cards.scryfall.io/normal/back/6/0/60e252e3-88ea-49f2-a14f-ae9d0712bafe.jpg?1791578412"
+    },
+    {
+      "name": "Penance Stare",
+      "universesBeyondImage": "https://cards.scryfall.io/normal/front/7/0/7082199e-318e-4e4e-9102-61e79af8a10c.jpg?1791578351"
+    },
+    {
+      "name": "Temple of Khonshu",
+      "universesBeyondImage": "https://cards.scryfall.io/normal/front/2/3/2369ddb5-fa0b-46a0-a393-f213ec86818d.jpg?1791578411"
     },
     {
       "name": "Angel",
       "universesBeyondImage": "https://cards.scryfall.io/normal/front/4/8/481ff636-8343-4eb2-93cf-48b94c9ecfdb.jpg?1791637012"
     },
     {
+      "name": "Gargantos, the Endbringer",
+      "universesBeyondImage": "https://cards.scryfall.io/normal/front/6/0/60b48730-3590-4c8c-b0e8-6007bb36d6b6.jpg?1791578335"
+    },
+    {
       "name": "Spirit Sorcerer Token",
-      "universesBeyondImage": "https://cards.scryfall.io/normal/front/3/b/3b9c4950-9890-4977-87a0-6eba840e1f66.jpg?1791637068"
+      "universesBeyondImage": "https://cards.scryfall.io/normal/front/3/b/3b9c4950-9890-4977-87a0-6eba840e1f66.jpg?1793394615"
     },
     {
       "name": "Mindless-One",
-      "universesBeyondImage": "https://cards.scryfall.io/normal/front/2/1/21d44eef-8dbc-4f2f-9be3-d6c43d4b405c.jpg?1791637095"
+      "universesBeyondImage": "https://cards.scryfall.io/normal/front/2/1/21d44eef-8dbc-4f2f-9be3-d6c43d4b405c.jpg?1793064475"
+    },
+    {
+      "name": "The Darkhold",
+      "universesBeyondImage": "https://cards.scryfall.io/normal/front/f/c/fca11cb7-0896-4927-8f11-0e9dec2de416.jpg?1791578360"
     }
   ]
 }; export default data;

@@ -40,6 +40,12 @@
     "image": "https://madelson.github.io/universes-within-collection/cards/Astrid%20Peth.png"
   },
   {
+    "oracleId": "b5c8e24a-f4d7-42dc-8117-905ad0bad888",
+    "name": "Atlantis Attacks",
+    "nickname": "From the Deep",
+    "image": "https://madelson.github.io/universes-within-collection/cards/Atlantis%20Attacks.png"
+  },
+  {
     "oracleId": "4b457bc2-2d8c-42cb-9a63-bb4c459d14e3",
     "name": "Atomize",
     "image": "https://madelson.github.io/universes-within-collection/cards/Atomize.png"
@@ -123,6 +129,12 @@
     "oracleId": "ed06b85a-e85f-47c4-ba90-1664e69a338f",
     "name": "Brilliant Wings",
     "image": "https://madelson.github.io/universes-within-collection/cards/Brilliant%20Wings.png"
+  },
+  {
+    "oracleId": "4228dd75-1fdd-48dc-9259-b841b2e46c64",
+    "name": "Bugenhagen, Wise Elder",
+    "nickname": "Pestulum, Wandering Elder",
+    "image": "https://madelson.github.io/universes-within-collection/cards/Bugenhagen%2C%20Wise%20Elder.png"
   },
   {
     "oracleId": "a97d6c5c-1cff-442d-b535-fc8389160b0b",
@@ -306,6 +318,12 @@
     "name": "Fang, Roku's Companion",
     "nickname": "Lord of the Summits",
     "image": "https://madelson.github.io/universes-within-collection/cards/Fang%2C%20Roku%27s%20Companion.png"
+  },
+  {
+    "oracleId": "71d09e00-e526-4899-beb3-0ee6d9b87f44",
+    "name": "Fantastic Bounce",
+    "nickname": "Treacherous Geysers",
+    "image": "https://madelson.github.io/universes-within-collection/cards/Fantastic%20Bounce.png"
   },
   {
     "oracleId": "610d9f58-4182-49cb-855c-9b6030e7f714",
@@ -1057,6 +1075,12 @@
     "oracleId": "aeee8308-76aa-4ed5-b7b2-04fb9e29c676",
     "name": "Voracious Brood",
     "image": "https://madelson.github.io/universes-within-collection/cards/Voracious%20Brood.png"
+  },
+  {
+    "oracleId": "1db6a042-303e-4b76-bb6c-63df846fd6c9",
+    "name": "Vrestin, Menoptra Leader",
+    "nickname": "Redgin, Fearless Rider",
+    "image": "https://madelson.github.io/universes-within-collection/cards/Vrestin%2C%20Menoptra%20Leader.png"
   },
   {
     "oracleId": "3d28886c-46bf-4d2e-a257-cb9016cc3573",
