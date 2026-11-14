@@ -330,7 +330,7 @@ List<UniversesWithinCard> GetUniversesWithinCards()
 	
 	void CheckDuplicates(Func<UniversesWithinCard, object?> key, string name)
 	{
-		var duplicates = results.GroupBy(key).FirstOrDefault(g => g.Count() > 1);
+		var duplicates = results.GroupBy(key).FirstOrDefault(g => g.Key != null && g.Count() > 1);
 		if (duplicates != null)
 		{
 			throw new JsonException($"Duplicate {name} for {string.Join(", ", duplicates.Select(c => c.Id))}");
