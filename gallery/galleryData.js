@@ -1,6 +1,22 @@
 const data = {
   "cards": [
     {
+      "name": "U.S.S. Stargazer, Here and There",
+      "nickname": "Lastlight, Wandering Surveyor",
+      "contributionInfo": {
+        "contributor": "madelson",
+        "front": {
+          "artist": "Anthony Catillaz",
+          "artistUrl": "https://www.artstation.com/darkmoonarts",
+          "artName": "Interstellar",
+          "artUrl": "https://darkmoonarts.artstation.com/projects/EYvRv0",
+          "mtgCardBuilderId": "630027"
+        }
+      },
+      "universesBeyondImage": "https://cards.scryfall.io/normal/front/b/6/b63286ae-127b-4eb0-870f-f105decf575a.jpg?1793111838",
+      "universesWithinImage": "./cards/U.S.S.%20Stargazer%2C%20Here%20and%20There.png"
+    },
+    {
       "name": "U.S.S. Defiant, Tough Little Ship",
       "nickname": "Silent Meridian",
       "contributionInfo": {
@@ -8,7 +24,7 @@ const data = {
         "front": {
           "artist": "Anthony Catillaz",
           "artistUrl": "https://www.artstation.com/darkmoonarts",
-          "artName": "Steam Capsule Art SCifi Deep Night\r\n",
+          "artName": "Steam Capsule Art SCifi Deep Night",
           "artUrl": "https://darkmoonarts.artstation.com/projects/Nrqygb",
           "mtgCardBuilderId": "630012"
         }
@@ -15596,10 +15612,6 @@ const data = {
     {
       "name": "Storied Veteran",
       "universesBeyondImage": "https://cards.scryfall.io/normal/front/3/b/3b80995c-8e9a-4a9c-8854-59439a58166f.jpg?1792753937"
-    },
-    {
-      "name": "U.S.S. Stargazer, Here and There",
-      "universesBeyondImage": "https://cards.scryfall.io/normal/front/b/6/b63286ae-127b-4eb0-870f-f105decf575a.jpg?1793111838"
     },
     {
       "name": "Dr. Beverly Crusher",

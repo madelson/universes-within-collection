@@ -1648,10 +1648,18 @@
 		"nickname": "Silent Meridian",
 		"contributor": "madelson",
 		"artist": "Anthony Catillaz",
-		"artName": "Steam Capsule Art SCifi Deep Night
-",
+		"artName": "Steam Capsule Art SCifi Deep Night",
 		"artUrl": "https://darkmoonarts.artstation.com/projects/Nrqygb",
 		"mtgCardBuilderId": 630012
+	},
+	"0201": {
+		"name": "U.S.S. Stargazer, Here and There",
+		"nickname": "Lastlight, Wandering Surveyor",
+		"contributor": "madelson",
+		"artist": "Anthony Catillaz",
+		"artName": "Interstellar",
+		"artUrl": "https://darkmoonarts.artstation.com/projects/EYvRv0",
+		"mtgCardBuilderId": 630027
 	},
 	"T0001": {
 		"name": "Alien (TWHO 2)",
