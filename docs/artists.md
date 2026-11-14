@@ -9,6 +9,7 @@ These artists have granted permission for their works to be used to make cards f
 | [Charles R. Knight](https://en.wikipedia.org/wiki/Charles_R._Knight) | |
 | [Florian Herold](https://www.artstation.com/faherold) | |
 | [Francisco de Goya](https://en.wikipedia.org/wiki/Francisco_Goya) | |
+| [Gabriel Lory the Younger](https://en.wikipedia.org/wiki/Gabriel_Lory_the_Younger) | |
 | [Georges Clairin](https://en.wikipedia.org/wiki/Georges_Clairin) | |
 | [Heinrich Harder](https://en.wikipedia.org/wiki/Heinrich_Harder) | |
 | [Jemima Blackburn](https://en.wikipedia.org/wiki/Jemima_Blackburn) | |
