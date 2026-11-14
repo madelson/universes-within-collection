@@ -1299,7 +1299,7 @@
 	},
 	"0155": {
 		"name": "Neyam Shai Murad",
-		"nickname": "Revitalizing Assist",
+		"nickname": "Molina, Corpse Trader",
 		"contributor": "KolaghanStorm",
 		"artist": "Bachzim",
 		"artName": "Bandit Assassin",
@@ -1633,6 +1633,15 @@
 		"artName": "Dragonslayer Mosquito",
 		"artUrl": "https://artrhino.artstation.com/projects/WXqdoN",
 		"mtgCardBuilderId": 621568
+	},
+	"0199": {
+		"name": "U.S.S. Enterprise-E, Sovereign",
+		"nickname": "Zenith's Judgement",
+		"contributor": "madelson",
+		"artist": "Anthony Catillaz",
+		"artName": "New Expedition Scifi Concept art",
+		"artUrl": "https://darkmoonarts.artstation.com/projects/vzD6EY",
+		"mtgCardBuilderId": 629996
 	},
 	"T0001": {
 		"name": "Alien (TWHO 2)",

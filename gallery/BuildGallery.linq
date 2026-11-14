@@ -322,7 +322,20 @@ List<UniversesWithinCard> GetUniversesWithinCards()
 		string ReplaceInvalidChars(string name) => InvalidFilenameCharsRegex.Replace(name, "_");
 	}
 	
+	CheckDuplicates(c => c.Info.Name, "name");
+	CheckDuplicates(c => c.Info.Nickname, "nickname");
+	CheckDuplicates(c => c.Info.MtgCardBuilderId, "mtgCardBuilderId");
+	
 	return results;
+	
+	void CheckDuplicates(Func<UniversesWithinCard, object?> key, string name)
+	{
+		var duplicates = results.GroupBy(key).FirstOrDefault(g => g.Count() > 1);
+		if (duplicates != null)
+		{
+			throw new JsonException($"Duplicate {name} for {string.Join(", ", duplicates.Select(c => c.Id))}");
+		}
+	}
 }
 
 static readonly Regex InvalidFilenameCharsRegex = new($"[{string.Join(string.Empty, Path.GetInvalidFileNameChars().Select(ch => Regex.Escape(ch.ToString())))}]");

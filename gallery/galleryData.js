@@ -1,6 +1,22 @@
 const data = {
   "cards": [
     {
+      "name": "U.S.S. Enterprise-E, Sovereign",
+      "nickname": "Zenith's Judgement",
+      "contributionInfo": {
+        "contributor": "madelson",
+        "front": {
+          "artist": "Anthony Catillaz",
+          "artistUrl": "https://www.artstation.com/darkmoonarts",
+          "artName": "New Expedition Scifi Concept art",
+          "artUrl": "https://darkmoonarts.artstation.com/projects/vzD6EY",
+          "mtgCardBuilderId": "629996"
+        }
+      },
+      "universesBeyondImage": "https://cards.scryfall.io/normal/front/1/5/15e74da6-477c-4ab3-8b91-40f4b2d22f94.jpg?1793111707",
+      "universesWithinImage": "./cards/U.S.S.%20Enterprise-E%2C%20Sovereign.png"
+    },
+    {
       "name": "Vrestin, Menoptra Leader",
       "nickname": "Redgin, Fearless Rider",
       "contributionInfo": {
@@ -617,7 +633,7 @@ const data = {
     },
     {
       "name": "Neyam Shai Murad",
-      "nickname": "Revitalizing Assist",
+      "nickname": "Molina, Corpse Trader",
       "contributionInfo": {
         "contributor": "KolaghanStorm",
         "front": {
@@ -16604,10 +16620,6 @@ const data = {
     {
       "name": "Set Phasers to . . .",
       "universesBeyondImage": "https://cards.scryfall.io/normal/front/5/4/54dbf416-973d-46c8-b9be-e863283d328b.jpg?1784036750"
-    },
-    {
-      "name": "U.S.S. Enterprise-E, Sovereign",
-      "universesBeyondImage": "https://cards.scryfall.io/normal/front/1/5/15e74da6-477c-4ab3-8b91-40f4b2d22f94.jpg?1793111707"
     },
     {
       "name": "Ambulatory Reactor",
