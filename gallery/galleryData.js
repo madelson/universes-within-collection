@@ -1,6 +1,22 @@
 const data = {
   "cards": [
     {
+      "name": "U.S.S. Defiant, Tough Little Ship",
+      "nickname": "Silent Meridian",
+      "contributionInfo": {
+        "contributor": "madelson",
+        "front": {
+          "artist": "Anthony Catillaz",
+          "artistUrl": "https://www.artstation.com/darkmoonarts",
+          "artName": "Steam Capsule Art SCifi Deep Night\r\n",
+          "artUrl": "https://darkmoonarts.artstation.com/projects/Nrqygb",
+          "mtgCardBuilderId": "630012"
+        }
+      },
+      "universesBeyondImage": "https://cards.scryfall.io/normal/front/e/9/e92acccf-d5a6-4559-8acd-d24492b0649e.jpg?1793111816",
+      "universesWithinImage": "./cards/U.S.S.%20Defiant%2C%20Tough%20Little%20Ship.png"
+    },
+    {
       "name": "U.S.S. Enterprise-E, Sovereign",
       "nickname": "Zenith's Judgement",
       "contributionInfo": {
@@ -15552,10 +15568,6 @@ const data = {
     {
       "name": "Resistance Is Futile",
       "universesBeyondImage": "https://cards.scryfall.io/normal/front/8/1/81d88257-466d-4729-862f-591885b3d875.jpg?1785981518"
-    },
-    {
-      "name": "U.S.S. Defiant, Tough Little Ship",
-      "universesBeyondImage": "https://cards.scryfall.io/normal/front/e/9/e92acccf-d5a6-4559-8acd-d24492b0649e.jpg?1793111816"
     },
     {
       "name": "Rogue Artificial Intelligence",
